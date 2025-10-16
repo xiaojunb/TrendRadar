@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T21:07:41.315255+08:00",
-  "total_titles_processed": 2116,
+  "generated_at": "2025-10-16T21:48:41.783203+08:00",
+  "total_titles_processed": 2208,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 83,
+      "match_count": 84,
       "titles": [
         {
           "title": "特朗普宣布一个大消息，印度人都不敢相信",
@@ -64,8 +64,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时21分 ~ 21时07分]"
+          "appearance_count": 13,
+          "time_info": "[16时21分 ~ 21时48分]"
         },
         {
           "title": "特朗普：泽连斯基将在访美期间阐述对俄“进攻”理由",
@@ -224,19 +224,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时44分 ~ 21时07分]"
-        },
-        {
-          "title": "汽车巨头将部分生产线从加拿大迁至美国，加省长矛头对准特朗普",
-          "url": "https://news.ifeng.com/c/8nUfvzJIjxX",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 12时15分]"
+          "appearance_count": 8,
+          "time_info": "[18时44分 ~ 21时48分]"
         },
         {
           "title": "特朗普中东行有何成果",
@@ -249,8 +238,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时13分 ~ 21时07分]"
+          "appearance_count": 6,
+          "time_info": "[19时13分 ~ 21时48分]"
+        },
+        {
+          "title": "汽车巨头将部分生产线从加拿大迁至美国，加省长矛头对准特朗普",
+          "url": "https://news.ifeng.com/c/8nUfvzJIjxX",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 12时15分]"
         },
         {
           "title": "美国法官暂时阻止总统特朗普的联邦政府在关门期间裁员。",
@@ -407,6 +407,18 @@
           "time_info": "[14时34分 ~ 15时16分]"
         },
         {
+          "title": "中方回应特朗普让中国停买俄石油",
+          "url": "https://www.toutiao.com/trending/7561368482139373610/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时48分]"
+        },
+        {
           "title": "市场消息：美国法官阻止特朗普政府在政府停摆期间解雇30多个机构的员工。",
           "url": "https://flash.jin10.com/detail/20251016023631067800",
           "source": "金十数据",
@@ -492,6 +504,18 @@
           "time_info": "[18时45分 ~ 19时38分]"
         },
         {
+          "title": "油价应声走高，特朗普：莫迪保证印度停买俄油",
+          "url": "https://wallstreetcn.com/articles/3757265",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时27分 ~ 21时48分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-16）",
           "url": "https://flash.jin10.com/detail/20251016181128488800",
           "source": "金十数据",
@@ -574,18 +598,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时22分]"
-        },
-        {
-          "title": "油价应声走高，特朗普：莫迪保证印度停买俄油",
-          "url": "https://wallstreetcn.com/articles/3757265",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时27分 ~ 21时07分]"
         },
         {
           "title": "特朗普威胁“暴力”解除哈马斯武装",
@@ -684,6 +696,29 @@
           "time_info": "[09时04分 ~ 09时09分]"
         },
         {
+          "title": "特朗普威胁西班牙加关税 欧盟回应",
+          "url": "https://www.toutiao.com/trending/7560948983741431847/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时48分]"
+        },
+        {
+          "title": "报道：印度称不知悉特朗普与莫迪就俄罗斯石油问题进行过交谈",
+          "url": "https://wallstreetcn.com/livenews/2989053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
           "title": "据塔斯社：俄罗斯副总理诺瓦克就特朗普涉印度言论回应称，将继续与合作伙伴保持协作。",
           "url": "https://flash.jin10.com/detail/20251016154532607800",
           "source": "金十数据",
@@ -767,7 +802,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -937,17 +972,6 @@
           "time_info": "05时24分"
         },
         {
-          "title": "特朗普威胁西班牙加关税 欧盟回应",
-          "url": "https://www.toutiao.com/trending/7560948983741431847/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
-        },
-        {
           "title": "美国总统特朗普谈哈马斯解除武装：将不需要美国军事力量干预。",
           "url": "https://flash.jin10.com/detail/20251016042358046800",
           "source": "金十数据",
@@ -957,17 +981,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
-        },
-        {
-          "title": "中方回应特朗普让中国停买俄石油",
-          "url": "https://www.toutiao.com/trending/7561368482139373610/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
         },
         {
           "title": "特朗普：我们希望哈马斯解除武装。",
@@ -995,7 +1008,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "金价银价大涨原因",
@@ -1083,6 +1096,20 @@
           "time_info": "[01时23分 ~ 07时24分]"
         },
         {
+          "title": "金价年内涨幅超50% 专家提醒",
+          "url": "https://www.toutiao.com/trending/7560578938016432191/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            22,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时44分 ~ 21时48分]"
+        },
+        {
           "title": "金价暴涨 买黄金还是黄金股",
           "url": "https://www.toutiao.com/trending/7561421312267439654/",
           "source": "今日头条",
@@ -1095,19 +1122,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 04时29分]"
-        },
-        {
-          "title": "金价年内涨幅超50% 专家提醒",
-          "url": "https://www.toutiao.com/trending/7560578938016432191/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时44分 ~ 21时07分]"
         },
         {
           "title": "澳新银行将今年底黄金价格预测上调至每盎司4400美元，预计到2026年6月将达到近每盎司4600美元的峰值。",
@@ -1264,6 +1278,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "是什么一直支持黄金价格一路飙升",
+          "url": "https://www.toutiao.com/trending/7561799628442570266/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
           "title": "多家银行就金价紧急提醒",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%B0%B1%E9%87%91%E4%BB%B7%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D28%26lcate%3D5001%26cate%3D5001%26band_rank%3D28%26q%3D%2523%25E5%25A4%259A%25E5%25AE%25B6%25E9%2593%25B6%25E8%25A1%258C%25E5%25B0%25B1%25E9%2587%2591%25E4%25BB%25B7%25E7%25B4%25A7%25E6%2580%25A5%25E6%258F%2590%25E9%2586%2592%2523%26dgr%3D0%26pos%3D29%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26display_time%3D1760600335%26pre_seqid%3D17606003356400067178",
           "source": "微博",
@@ -1278,7 +1303,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 投资者关注贸易局势进展",
@@ -1351,6 +1376,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "美股三大股指开盘走高，道指涨0.19%，标普500指数涨0.32%，纳指涨0.41%。台积电涨超1%，Q3净利润创历史新高；美光科技、阿斯麦涨超3%，博通涨超2%，英伟达涨超1%；Salesforce开盘涨超8%，创4月9日以来最大涨幅，此前公司预测营收将超预期；美股稀土概念股Critical Metals涨超14%；蔚来跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/2989055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
           "title": "半导体ETF收跌约2.5%，领跌美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/2988438",
           "source": "华尔街见闻-快讯",
@@ -1360,17 +1396,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
-        },
-        {
-          "title": "周四美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2989026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
         },
         {
           "title": "黄金ETF收涨超1.7%，和新兴市场ETF领跑美股大类资产类ETF",
@@ -1395,6 +1420,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时24分]"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2989026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时48分]"
         },
         {
           "title": "美股收盘 热门中概股多数收涨",
@@ -1465,6 +1502,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "美股开盘，道指涨0.19%，标普500指数涨0.32%，纳指涨0.41%。台积电(TSM.N)涨1.37%，其季度利润再创新高。蔚来汽车(NIO.N)下跌7.7%，公司遭新加坡主权财富基金诉讼，相关指控三年前已澄清。纳斯达克中国金龙指数跌0.16%。",
+          "url": "https://flash.jin10.com/detail/20251016213033736800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "台积电第三季度净利润4,523亿元台币，同比增长39%，预估4,054.7亿元台币。 第三季度毛利率59.5％，上一季度为58.6%，预估57.1％。 第三季度营业利润5006.9亿新台币，同比增长39%，预估4586亿新台币。 第三季度营业利润率为50.6%，上一季度为49.6%，预估47.3%。 第三季度销售收入9899.2亿新台币，同比增长30%，预估9677亿新台币。 2025年前9个月资本支出总计293.9亿美元。 台积电美股夜盘直线拉升，现涨3.4%。",
@@ -1636,7 +1684,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI：所有用户现在可在SORA应用和网页端生成最长15秒的视频，专业用户最长可达25秒。",
@@ -1660,6 +1708,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "到2030年，OpenAI在甲骨文服务器上的支出可能会超过在微软服务器上的支出。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/2989034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         }
       ]
     },
@@ -1732,7 +1791,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         }
