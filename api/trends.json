@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T20:28:00.080459+08:00",
-  "total_titles_processed": 2031,
+  "generated_at": "2025-10-16T21:07:41.315255+08:00",
+  "total_titles_processed": 2116,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 83,
       "titles": [
         {
           "title": "特朗普宣布一个大消息，印度人都不敢相信",
@@ -18,17 +18,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时03分 ~ 14时34分]"
-        },
-        {
-          "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
-          "url": "https://news.ifeng.com/c/8nV1O2GQlWd",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时21分 ~ 20时27分]"
         },
         {
           "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
@@ -65,6 +54,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[05时24分 ~ 09时09分]"
+        },
+        {
+          "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
+          "url": "https://news.ifeng.com/c/8nV1O2GQlWd",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[16时21分 ~ 21时07分]"
         },
         {
           "title": "特朗普：泽连斯基将在访美期间阐述对俄“进攻”理由",
@@ -137,8 +138,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时49分 ~ 20时27分]"
+          "appearance_count": 11,
+          "time_info": "[16时49分 ~ 21时07分]"
         },
         {
           "title": "特朗普又操心：若阿根廷与中国军方合作，我会很不安",
@@ -214,6 +215,19 @@
           "time_info": "[09时03分 ~ 09时09分]"
         },
         {
+          "title": "万人裁员计划暂停！美国法院暂时禁止特朗普在政府关门期间大规模裁员",
+          "url": "https://wallstreetcn.com/articles/3757263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时44分 ~ 21时07分]"
+        },
+        {
           "title": "汽车巨头将部分生产线从加拿大迁至美国，加省长矛头对准特朗普",
           "url": "https://news.ifeng.com/c/8nUfvzJIjxX",
           "source": "凤凰网",
@@ -225,6 +239,20 @@
           "time_info": "[11时40分 ~ 12时15分]"
         },
         {
+          "title": "特朗普中东行有何成果",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E4%B8%9C%E8%A1%8C%E6%9C%89%E4%BD%95%E6%88%90%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            15,
+            25,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时13分 ~ 21时07分]"
+        },
+        {
           "title": "美国法官暂时阻止总统特朗普的联邦政府在关门期间裁员。",
           "url": "https://wallstreetcn.com/livenews/2988376",
           "source": "华尔街见闻-快讯",
@@ -234,18 +262,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
-        },
-        {
-          "title": "万人裁员计划暂停！美国法院暂时禁止特朗普在政府关门期间大规模裁员",
-          "url": "https://wallstreetcn.com/articles/3757263",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时44分 ~ 20时27分]"
         },
         {
           "title": "特朗普政府批准16亿美元贷款担保 支持电网升级",
@@ -269,19 +285,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
-        },
-        {
-          "title": "特朗普中东行有何成果",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E4%B8%9C%E8%A1%8C%E6%9C%89%E4%BD%95%E6%88%90%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时13分 ~ 20时27分]"
         },
         {
           "title": "美联储理事沃勒：我与贝森特的面试非常顺利，进行得很快。 尚未与特朗普总统通话，不清楚是否会通话。 再次降息是正确的做法，过去六周内情况没有太大变化。 民间部门数据持续反映劳动力市场疲软。 避免犯错的方法是谨慎行事。",
@@ -573,6 +576,18 @@
           "time_info": "[05时24分 ~ 06时22分]"
         },
         {
+          "title": "油价应声走高，特朗普：莫迪保证印度停买俄油",
+          "url": "https://wallstreetcn.com/articles/3757265",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 21时07分]"
+        },
+        {
           "title": "特朗普威胁“暴力”解除哈马斯武装",
           "url": "https://wallstreetcn.com/livenews/2988407",
           "source": "华尔街见闻-快讯",
@@ -702,17 +717,6 @@
           "time_info": "03时22分"
         },
         {
-          "title": "油价应声走高，特朗普：莫迪保证印度停买俄油",
-          "url": "https://wallstreetcn.com/articles/3757265",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
           "title": "市场消息：一名法官延长了暂时阻止特朗普政府在俄勒冈州波特兰市部署国民警卫队的命令。",
           "url": "https://flash.jin10.com/detail/20251016024147449800",
           "source": "金十数据",
@@ -755,6 +759,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "印度外交部：对莫迪与特朗普通话不知情",
+          "url": "https://flash.jin10.com/detail/20251016202237601800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "美国总统特朗普：现在将建议政府官员开始调查旧金山的犯罪问题。",
@@ -851,7 +866,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -895,7 +910,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -922,6 +937,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "特朗普威胁西班牙加关税 欧盟回应",
+          "url": "https://www.toutiao.com/trending/7560948983741431847/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "美国总统特朗普谈哈马斯解除武装：将不需要美国军事力量干预。",
           "url": "https://flash.jin10.com/detail/20251016042358046800",
           "source": "金十数据",
@@ -931,6 +957,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "中方回应特朗普让中国停买俄石油",
+          "url": "https://www.toutiao.com/trending/7561368482139373610/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "特朗普：我们希望哈马斯解除武装。",
@@ -1060,6 +1097,19 @@
           "time_info": "[00时32分 ~ 04时29分]"
         },
         {
+          "title": "金价年内涨幅超50% 专家提醒",
+          "url": "https://www.toutiao.com/trending/7560578938016432191/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时44分 ~ 21时07分]"
+        },
+        {
           "title": "澳新银行将今年底黄金价格预测上调至每盎司4400美元，预计到2026年6月将达到近每盎司4600美元的峰值。",
           "url": "https://flash.jin10.com/detail/20251016084128181800",
           "source": "金十数据",
@@ -1071,16 +1121,17 @@
           "time_info": "[09时04分 ~ 09时09分]"
         },
         {
-          "title": "金价年内涨幅超50% 专家提醒",
-          "url": "https://www.toutiao.com/trending/7560578938016432191/",
-          "source": "今日头条",
+          "title": "专家：金价到5000美元将比预期快",
+          "url": "https://www.douyin.com/hot/2272129",
+          "source": "抖音",
           "ranks": [
-            9,
-            22
+            16,
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时44分 ~ 20时27分]"
+          "appearance_count": 5,
+          "time_info": "[19时13分 ~ 21时07分]"
         },
         {
           "title": "世界黄金协会研究负责人：今年金价已创45次新高，但市场尚未饱和",
@@ -1105,19 +1156,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时04分 ~ 09时09分]"
-        },
-        {
-          "title": "专家：金价到5000美元将比预期快",
-          "url": "https://www.douyin.com/hot/2272129",
-          "source": "抖音",
-          "ranks": [
-            16,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时13分 ~ 20时27分]"
         },
         {
           "title": "金十图示：2025年10月16日（周四）上海金早盘价为967.36元/克，较国际金价(971.33元/克)，低3.97元/克",
@@ -1240,7 +1278,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 投资者关注贸易局势进展",
@@ -1322,6 +1360,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2989026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "黄金ETF收涨超1.7%，和新兴市场ETF领跑美股大类资产类ETF",
@@ -1457,7 +1506,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -1501,11 +1550,12 @@
           "url": "https://wallstreetcn.com/livenews/2988983",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 21时07分]"
         },
         {
           "title": "美国总统特朗普邀请白宫装修捐赠者参加奢华的白宫晚宴，嘉宾包括来自洛克希德马丁、微软、Meta公司、谷歌和亚马逊公司的代表。",
@@ -1668,6 +1718,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "现货黄金一度涨超1%，价格触及4250美元/盎司上方，现涨幅回落至0.65%。",
+          "url": "https://wallstreetcn.com/livenews/2989016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         }
       ]
     }
