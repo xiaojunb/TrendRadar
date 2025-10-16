@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T07:24:07.021568+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2025-10-16T09:04:11.870728+08:00",
+  "total_titles_processed": 848,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
@@ -30,6 +30,35 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 04时29分]"
+        },
+        {
+          "title": "特朗普证实已授权中情局在委内瑞拉开展行动",
+          "url": "https://news.ifeng.com/c/8nUEhR8pAgS",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时24分 ~ 09时04分]"
+        },
+        {
+          "title": "特朗普威胁更换2028年奥运举办地",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A22028%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%B8%BE%E5%8A%9E%E5%9C%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26pos%3D26%26realpos%3D25%26flag%3D0%26lcate%3D5001%26stream_entry_id%3D31%26band_rank%3D25%26dgr%3D0%26cate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25A8%2581%25E8%2583%2581%25E6%259B%25B4%25E6%258D%25A22028%25E5%25B9%25B4%25E5%25A5%25A5%25E8%25BF%2590%25E4%25B8%25BE%25E5%258A%259E%25E5%259C%25B0%2523%26display_time%3D1760553628%26pre_seqid%3D17605536285290173838109",
+          "source": "微博",
+          "ranks": [
+            25,
+            24,
+            18,
+            9,
+            7,
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时41分 ~ 09时04分]"
         },
         {
           "title": "中方回应特朗普指责停止进口美大豆",
@@ -71,17 +100,6 @@
           "time_info": "[00时32分 ~ 02时41分]"
         },
         {
-          "title": "特朗普证实已授权中情局在委内瑞拉开展行动",
-          "url": "https://news.ifeng.com/c/8nUEhR8pAgS",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时24分 ~ 07时24分]"
-        },
-        {
           "title": "特朗普威胁不买中国食用油报复中方“故意不买美国大豆”，外交部回应",
           "url": "https://www.cls.cn/detail/2170153",
           "source": "财联社热门",
@@ -94,31 +112,38 @@
           "time_info": "[00时32分 ~ 01时24分]"
         },
         {
-          "title": "特朗普威胁更换2028年奥运举办地",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A22028%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%B8%BE%E5%8A%9E%E5%9C%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26pos%3D26%26realpos%3D25%26flag%3D0%26lcate%3D5001%26stream_entry_id%3D31%26band_rank%3D25%26dgr%3D0%26cate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25A8%2581%25E8%2583%2581%25E6%259B%25B4%25E6%258D%25A22028%25E5%25B9%25B4%25E5%25A5%25A5%25E8%25BF%2590%25E4%25B8%25BE%25E5%258A%259E%25E5%259C%25B0%2523%26display_time%3D1760553628%26pre_seqid%3D17605536285290173838109",
-          "source": "微博",
-          "ranks": [
-            25,
-            24,
-            18,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时41分 ~ 07时24分]"
-        },
-        {
           "title": "特朗普：泽连斯基将在访美期间阐述对俄“进攻”理由",
           "url": "https://news.ifeng.com/c/8nUIAVA78Ut",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时23分 ~ 09时04分]"
+        },
+        {
+          "title": "特朗普宣布一个大消息，印度人都不敢相信",
+          "url": "https://news.ifeng.com/c/8nUPhsh5ie6",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时23分 ~ 07时24分]"
+          "time_info": "[09时03分 ~ 09时04分]"
+        },
+        {
+          "title": "“极不寻常”，特朗普打算旁听最高法院关税案辩论",
+          "url": "https://news.ifeng.com/c/8nUVjJ1QvG4",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 09时04分]"
         },
         {
           "title": "美国法官暂时阻止总统特朗普的联邦政府在关门期间裁员。",
@@ -171,7 +196,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -344,6 +369,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时24分]"
+        },
+        {
+          "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
+          "url": "https://www.cls.cn/detail/2170822",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 09时04分]"
         },
         {
           "title": "美国运输部：特朗普政府因卡车司机英语水平规定扣留加州的4000万美元资金。",
@@ -527,13 +563,24 @@
           "time_info": "05时24分"
         },
         {
+          "title": "报道：三星执行会长等韩企高管可能在海湖庄园与特朗普会面",
+          "url": "https://wallstreetcn.com/livenews/2988508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
           "title": "阿根廷总统米莱：在美国白宫与特朗普的磋商侧重于贸易问题。 总统特朗普关于在阿根廷中期选举中有条件地支持我的说法并不正确。",
           "url": "https://wallstreetcn.com/livenews/2988448",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -629,7 +676,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
@@ -645,22 +692,23 @@
           "time_info": "[00时32分 ~ 06时22分]"
         },
         {
+          "title": "美股收盘：三大股指涨跌不一 投资者关注贸易局势进展",
+          "url": "https://www.cls.cn/detail/2170808",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时23分 ~ 09时04分]"
+        },
+        {
           "title": "贸易消息引发市场剧烈波动，美股冲高回落后收涨，黄金再创新高",
           "url": "https://wallstreetcn.com/articles/3757230",
           "source": "华尔街见闻",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 07时24分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 投资者关注贸易局势进展",
-          "url": "https://www.cls.cn/detail/2170808",
-          "source": "财联社热门",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -724,6 +772,17 @@
           "time_info": "[04时29分 ~ 05时24分]"
         },
         {
+          "title": "美股收盘 热门中概股多数收涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98+%E7%83%AD%E9%97%A8%E4%B8%AD%E6%A6%82%E8%82%A1%E5%A4%9A%E6%95%B0%E6%94%B6%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 09时04分]"
+        },
+        {
           "title": "纳斯达克生物科技指数收涨1.6%，表现好于美股大盘指数。 成分股奥麦罗制药（OMER）收涨154.27%，该公司与诺和诺德围绕Zaltenibart达成许可协议；Sana Biotechnology涨33.03%，Absci涨28.21%，Recursion Pharmaceuticals涨15.62%，Xeris Pharmaceuticals涨14.04%。 Q32 Bio则收跌5.68%表现倒数第三，Esperion跌6.67%，EyePoint Pharmaceuticals跌10.79%。",
           "url": "https://wallstreetcn.com/livenews/2988410",
           "source": "华尔街见闻-快讯",
@@ -750,7 +809,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "金价银价大涨原因",
@@ -770,11 +829,12 @@
           "source": "微博",
           "ranks": [
             21,
-            22
+            22,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时24分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 09时04分]"
         },
         {
           "title": "金价飙涨三大原因",
@@ -805,6 +865,28 @@
           "time_info": "[00时32分 ~ 04时29分]"
         },
         {
+          "title": "澳新银行将今年底黄金价格预测上调至每盎司4400美元，预计到2026年6月将达到近每盎司4600美元的峰值。",
+          "url": "https://flash.jin10.com/detail/20251016084128181800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "澳新银行将其年底黄金价格预测上调至4400美元/盎司，预计到2026年6月金价将达到峰值，接近4600美元/盎司；预计白银价格在2026年6月达到57.5美元/盎司的峰值。",
+          "url": "https://wallstreetcn.com/livenews/2988528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
           "title": "金价涨穿4200美元，创历史新高，现货白银涨超3%",
           "url": "https://wallstreetcn.com/livenews/2988417",
           "source": "华尔街见闻-快讯",
@@ -823,7 +905,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         }
@@ -831,7 +913,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美元指数15日下跌",
@@ -867,6 +949,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 01时24分]"
+        },
+        {
+          "title": "澳元/美元短线走低，此前澳大利亚就业报告不及预期。 澳大利亚3年期国债收益率下行9个基点，澳大利亚ASX 200指数涨幅扩大至0.6%。",
+          "url": "https://wallstreetcn.com/livenews/2988522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         },
         {
           "title": "周三（10月15日）纽约尾盘，ICE美元指数跌0.29%，报98.762点，日内交投区间为99.078-98.655点，全天持续走低，北京时间23:00过后出现一波加速下挫的行情。 彭博美元指数跌0.28%，报1211.05点，日内交投区间为1214.69-1210.10点。",
@@ -932,7 +1025,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         }
