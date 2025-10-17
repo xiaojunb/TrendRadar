@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T13:41:59.372288+08:00",
-  "total_titles_processed": 748,
+  "generated_at": "2025-10-17T14:21:42.048876+08:00",
+  "total_titles_processed": 805,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普：可能会在未来两周内与普京会面",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时00分 ~ 13时41分]"
+          "appearance_count": 12,
+          "time_info": "[09时00分 ~ 14时21分]"
         },
         {
           "title": "普京三板斧，轻松搞定特朗普",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时00分 ~ 13时41分]"
+          "appearance_count": 12,
+          "time_info": "[09时00分 ~ 14时21分]"
         },
         {
           "title": "特朗普与普京约定在匈牙利会面",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时24分 ~ 13时41分]"
+          "appearance_count": 11,
+          "time_info": "[10时24分 ~ 14时21分]"
         },
         {
           "title": "特朗普称与普京通话取得进展，计划在布达佩斯进行会面",
@@ -53,8 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时00分 ~ 13时41分]"
+          "appearance_count": 12,
+          "time_info": "[09时00分 ~ 14时21分]"
         },
         {
           "title": "中方回应特朗普让中国停买俄石油",
@@ -80,11 +80,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时00分 ~ 13时41分]"
+          "appearance_count": 12,
+          "time_info": "[09时00分 ~ 14时21分]"
         },
         {
           "title": "博尔顿遭起诉，特朗普：他是个坏人",
@@ -95,8 +96,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时24分 ~ 13时41分]"
+          "appearance_count": 11,
+          "time_info": "[10时24分 ~ 14时21分]"
         },
         {
           "title": "俄方发起、长2.5小时，俄美总统时隔近两月再通话，特朗普将与普京在布达佩斯会面",
@@ -107,8 +108,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时24分 ~ 13时41分]"
+          "appearance_count": 11,
+          "time_info": "[10时24分 ~ 14时21分]"
         },
         {
           "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
@@ -120,8 +121,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时00分 ~ 13时41分]"
+          "appearance_count": 12,
+          "time_info": "[09时00分 ~ 14时21分]"
+        },
+        {
+          "title": "俄美峰会地点定了！俄方公布13点普京特朗普通话成果，释放何信号？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31796058",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时21分 ~ 14时21分]"
         },
         {
           "title": "牛弹琴：普京三板斧轻松搞定特朗普",
@@ -138,16 +151,16 @@
           "time_info": "[10时24分 ~ 12时43分]"
         },
         {
-          "title": "俄美峰会地点定了！俄方公布13点普京特朗普通话成果，释放何信号？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31796058",
-          "source": "澎湃新闻",
+          "title": "普京特朗普通话细节",
+          "url": "https://www.douyin.com/hot/2272619",
+          "source": "抖音",
           "ranks": [
-            15,
-            16
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时21分 ~ 13时41分]"
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 14时21分]"
         },
         {
           "title": "特朗普：可能在匈牙利与普京会面",
@@ -173,17 +186,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
-        },
-        {
-          "title": "普京特朗普通话细节",
-          "url": "https://www.douyin.com/hot/2272619",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时41分"
         },
         {
           "title": "特朗普中东行有何成果",
@@ -220,6 +222,20 @@
           "time_info": "[13时15分 ~ 13时41分]"
         },
         {
+          "title": "普京为何在此时致电特朗普",
+          "url": "https://www.toutiao.com/trending/7562016120996105771/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            29,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时43分 ~ 14时21分]"
+        },
+        {
           "title": "特朗普就诽谤案重新起诉《纽约时报》",
           "url": "https://flash.jin10.com/detail/20251017121423054800",
           "source": "金十数据",
@@ -243,19 +259,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时00分 ~ 10时25分]"
-        },
-        {
-          "title": "普京为何在此时致电特朗普",
-          "url": "https://www.toutiao.com/trending/7562016120996105771/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            29,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 13时41分]"
         },
         {
           "title": "特朗普：普京说不喜欢我卖给乌导弹",
@@ -314,6 +317,17 @@
           "time_info": "09时00分"
         },
         {
+          "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
+          "url": "https://www.zhihu.com/question/1962439324869047516",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
           "title": "美十余州检察长就太阳能项目资金被撤起诉特朗普政府",
           "url": "https://flash.jin10.com/detail/20251017080917665800",
           "source": "金十数据",
@@ -334,6 +348,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时00分"
+        },
+        {
+          "title": "匈牙利总理欧尔班：我相信如果他们想在欧洲举行特朗普与普京的会晤，那必须是布达佩斯。",
+          "url": "https://flash.jin10.com/detail/20251017133801883800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "中方回应特朗普让中国停买俄石油",
@@ -393,8 +418,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时00分 ~ 13时41分]"
+          "appearance_count": 12,
+          "time_info": "[09时00分 ~ 14时21分]"
+        },
+        {
+          "title": "金价一夜暴涨有投资者彻夜难眠",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E4%B8%80%E5%A4%9C%E6%9A%B4%E6%B6%A8%E6%9C%89%E6%8A%95%E8%B5%84%E8%80%85%E5%BD%BB%E5%A4%9C%E9%9A%BE%E7%9C%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D8%26stream_entry_id%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E4%25B8%2580%25E5%25A4%259C%25E6%259A%25B4%25E6%25B6%25A8%25E6%259C%2589%25E6%258A%2595%25E8%25B5%2584%25E8%2580%2585%25E5%25BD%25BB%25E5%25A4%259C%25E9%259A%25BE%25E7%259C%25A0%2523%26dgr%3D0%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D8%26c_type%3D31%26pos%3D9%26cate%3D5001%26lcate%3D5001%26display_time%3D1760676037%26pre_seqid%3D17606760371960055363",
+          "source": "微博",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时43分 ~ 14时21分]"
         },
         {
           "title": "今年金价已经创45次新高",
@@ -409,18 +446,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时00分 ~ 11时54分]"
-        },
-        {
-          "title": "金价一夜暴涨有投资者彻夜难眠",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E4%B8%80%E5%A4%9C%E6%9A%B4%E6%B6%A8%E6%9C%89%E6%8A%95%E8%B5%84%E8%80%85%E5%BD%BB%E5%A4%9C%E9%9A%BE%E7%9C%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D8%26stream_entry_id%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E4%25B8%2580%25E5%25A4%259C%25E6%259A%25B4%25E6%25B6%25A8%25E6%259C%2589%25E6%258A%2595%25E8%25B5%2584%25E8%2580%2585%25E5%25BD%25BB%25E5%25A4%259C%25E9%259A%25BE%25E7%259C%25A0%2523%26dgr%3D0%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D8%26c_type%3D31%26pos%3D9%26cate%3D5001%26lcate%3D5001%26display_time%3D1760676037%26pre_seqid%3D17606760371960055363",
-          "source": "微博",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 13时41分]"
         },
         {
           "title": "金价逼近4380美元 黄金成终极避风港",
@@ -449,6 +474,18 @@
           "time_info": "[12时43分 ~ 13时41分]"
         },
         {
+          "title": "金价突破历史高位至4380美元后回落",
+          "url": "https://www.toutiao.com/trending/7562020092754529818/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 14时21分]"
+        },
+        {
           "title": "经济数据延迟放大市场不确定性 金价暴涨",
           "url": "https://flash.jin10.com/detail/20251017080938157800",
           "source": "金十数据",
@@ -469,23 +506,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
-        },
-        {
-          "title": "金价突破历史高位至4380美元后回落",
-          "url": "https://www.toutiao.com/trending/7562020092754529818/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时41分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
@@ -495,8 +521,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时00分 ~ 13时41分]"
+          "appearance_count": 12,
+          "time_info": "[09时00分 ~ 14时21分]"
         },
         {
           "title": "美债、黄金大涨！美国信贷“蟑螂”成群出没 区域银行危机再现？",
@@ -508,8 +534,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时21分 ~ 13时41分]"
+          "appearance_count": 9,
+          "time_info": "[11时21分 ~ 14时21分]"
         },
         {
           "title": "美联储人员发现 开曼群岛对冲基金的美债持仓数据出入达1.4万亿美元",
@@ -520,11 +546,23 @@
             9,
             15,
             20,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时54分 ~ 13时41分]"
+          "appearance_count": 6,
+          "time_info": "[11时54分 ~ 14时21分]"
+        },
+        {
+          "title": "机构：美债收益率下行开始，或预示市场情绪将发生重大转变",
+          "url": "https://flash.jin10.com/detail/20251017140925500800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         }
       ]
     },
@@ -537,11 +575,12 @@
           "url": "https://www.cls.cn/detail/2172108",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时00分 ~ 13时41分]"
+          "appearance_count": 12,
+          "time_info": "[09时00分 ~ 14时21分]"
         },
         {
           "title": "美股三大期指集体走高 台积电业绩领芯片股普涨 | 今夜看点",
@@ -581,8 +620,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时00分 ~ 13时41分]"
+          "appearance_count": 12,
+          "time_info": "[09时00分 ~ 14时21分]"
         },
         {
           "title": "OpenAI模型Sora 2上线微软Azure AI Foundry（国际版）",
