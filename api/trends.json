@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-10-18T16:16:37.462229+08:00",
-  "total_titles_processed": 846,
+  "generated_at": "2025-10-18T16:44:01.261180+08:00",
+  "total_titles_processed": 876,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普罕见承认，高关税威胁中国的策略不可持续",
           "url": "https://news.ifeng.com/c/8nXp14yHS6o",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时57分 ~ 16时16分]"
+          "appearance_count": 20,
+          "time_info": "[08时57分 ~ 16时44分]"
         },
         {
           "title": "泽连斯基穿上正装 特朗普：我很喜欢",
@@ -47,8 +48,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时57分 ~ 16时16分]"
+          "appearance_count": 20,
+          "time_info": "[08时57分 ~ 16时44分]"
         },
         {
           "title": "特朗普称美军在加勒比海域袭击一艘“运毒潜艇”",
@@ -64,11 +65,12 @@
             14,
             17,
             20,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时44分 ~ 16时16分]"
+          "appearance_count": 11,
+          "time_info": "[11时44分 ~ 16时44分]"
         },
         {
           "title": "特朗普为何在对华关税问题上态度变软",
@@ -119,8 +121,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时16分 ~ 16时16分]"
+          "appearance_count": 18,
+          "time_info": "[10时16分 ~ 16时44分]"
         },
         {
           "title": "乌消息人士：泽连斯基向特朗普展示了俄境内潜在打击目标地图",
@@ -131,8 +133,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时44分 ~ 16时16分]"
+          "appearance_count": 15,
+          "time_info": "[11时44分 ~ 16时44分]"
         },
         {
           "title": "泽连斯基称愿意接受双边或三边会谈，特朗普称俄乌冲突应结束",
@@ -145,8 +147,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时16分 ~ 16时16分]"
+          "appearance_count": 18,
+          "time_info": "[10时16分 ~ 16时44分]"
         },
         {
           "title": "特朗普称美军在加勒比海域袭击一艘“运毒潜艇”",
@@ -205,11 +207,34 @@
           "ranks": [
             1,
             4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时13分 ~ 16时44分]"
+        },
+        {
+          "title": "特朗普又抛歪理：都怪尼克松引出中国这个强敌",
+          "url": "https://news.ifeng.com/c/8nYLhA743YV",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
+        },
+        {
+          "title": "普京和特朗普选在匈牙利见面，“欧盟很尴尬”",
+          "url": "https://news.ifeng.com/c/8nYEKd4N1Y8",
+          "source": "凤凰网",
+          "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时13分 ~ 16时16分]"
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
         },
         {
           "title": "特朗普呼吁俄乌“就地”停火、各自宣称胜利",
@@ -241,6 +266,42 @@
           "time_info": "[08时57分 ~ 11时44分]"
         },
         {
+          "title": "普京特使提议“建个隧道把俄美连起来”，特朗普回应了",
+          "url": "https://news.ifeng.com/c/8nY5myFfFkF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时13分 ~ 16时44分]"
+        },
+        {
+          "title": "特朗普与泽连斯基在白宫会晤，美媒：气氛紧张",
+          "url": "https://news.ifeng.com/c/8nXw1CnFw3c",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时13分 ~ 16时44分]"
+        },
+        {
+          "title": "俄总统代表提议建“普京-特朗普隧道”，乌总统称“不满意”",
+          "url": "https://wallstreetcn.com/livenews/2990025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时13分 ~ 16时44分]"
+        },
+        {
           "title": "外媒爆：乌消息人士称，泽连斯基向特朗普展示了俄罗斯境内潜在打击目标地图",
           "url": "https://wallstreetcn.com/livenews/2989972",
           "source": "华尔街见闻-快讯",
@@ -256,17 +317,17 @@
           "time_info": "[10时16分 ~ 12时42分]"
         },
         {
-          "title": "俄总统代表提议建“普京-特朗普隧道”，乌总统称“不满意”",
-          "url": "https://wallstreetcn.com/livenews/2990025",
-          "source": "华尔街见闻-快讯",
+          "title": "若特朗普关税被判“非法”意味什么",
+          "url": "https://www.toutiao.com/trending/7562451405152194084/",
+          "source": "今日头条",
           "ranks": [
-            5,
-            9,
-            14
+            27,
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时13分 ~ 16时16分]"
+          "appearance_count": 4,
+          "time_info": "[15时35分 ~ 16时44分]"
         },
         {
           "title": "特朗普呼吁俄乌停火：各自宣称胜利",
@@ -279,28 +340,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时09分 ~ 12时16分]"
-        },
-        {
-          "title": "普京特使提议“建个隧道把俄美连起来”，特朗普回应了",
-          "url": "https://news.ifeng.com/c/8nY5myFfFkF",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时13分 ~ 16时16分]"
-        },
-        {
-          "title": "特朗普与泽连斯基在白宫会晤，美媒：气氛紧张",
-          "url": "https://news.ifeng.com/c/8nXw1CnFw3c",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时13分 ~ 16时16分]"
         },
         {
           "title": "特朗普签署行政令 对进口中型和重型卡车征收25%关税",
@@ -362,16 +401,15 @@
           "time_info": "[08时57分 ~ 08时58分]"
         },
         {
-          "title": "若特朗普关税被判“非法”意味什么",
-          "url": "https://www.toutiao.com/trending/7562451405152194084/",
-          "source": "今日头条",
+          "title": "特朗普回应与中国贸易战",
+          "url": "https://www.douyin.com/hot/2274021",
+          "source": "抖音",
           "ranks": [
-            27,
-            16
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时35分 ~ 16时16分]"
+          "time_info": "[16时43分 ~ 16时44分]"
         },
         {
           "title": "特朗普不打算给乌战斧导弹意味什么",
@@ -477,8 +515,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时57分 ~ 16时16分]"
+          "appearance_count": 20,
+          "time_info": "[08时57分 ~ 16时44分]"
         },
         {
           "title": "美元大逻辑的关键验证：下一次美股大跌",
@@ -575,7 +613,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价银价大跳水",
@@ -590,8 +628,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时16分 ~ 16时16分]"
+          "appearance_count": 18,
+          "time_info": "[10时16分 ~ 16时44分]"
         },
         {
           "title": "产量释放与金价红利共振，紫金矿业Q3归母净利润飙升57.14%｜财报见闻",
@@ -603,6 +641,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时57分 ~ 10时16分]"
+        },
+        {
+          "title": "金价银价大跳水 国内金饰价格下调",
+          "url": "https://www.toutiao.com/trending/7562444745599880713/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
         },
         {
           "title": "金价暴涨时4万5黄金订单蒸发",
@@ -642,11 +691,12 @@
             11,
             16,
             20,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时13分 ~ 16时16分]"
+          "appearance_count": 8,
+          "time_info": "[13时13分 ~ 16时44分]"
         },
         {
           "title": "伊朗外长：安理会第2231号决议18日到期 既往对伊限制将终止",
@@ -720,8 +770,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时57分 ~ 16时16分]"
+          "appearance_count": 20,
+          "time_info": "[08时57分 ~ 16时44分]"
         }
       ]
     },
