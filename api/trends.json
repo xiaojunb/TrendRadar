@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-18T20:24:55.601166+08:00",
-  "total_titles_processed": 1112,
+  "generated_at": "2025-10-18T21:00:11.826532+08:00",
+  "total_titles_processed": 1143,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普又抛歪理：都怪尼克松引出中国这个强敌",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[16时43分 ~ 20时24分]"
+          "appearance_count": 15,
+          "time_info": "[16时43分 ~ 21时00分]"
         },
         {
           "title": "特朗普罕见承认，高关税威胁中国的策略不可持续",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[08时57分 ~ 20时24分]"
+          "appearance_count": 33,
+          "time_info": "[08时57分 ~ 21时00分]"
         },
         {
           "title": "特朗普对华服软,关税讹诈玩不转",
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时13分 ~ 20时24分]"
+          "appearance_count": 10,
+          "time_info": "[18时13分 ~ 21时00分]"
         },
         {
           "title": "普京和特朗普选在匈牙利见面，“欧盟很尴尬”",
@@ -53,8 +53,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[16时43分 ~ 20时24分]"
+          "appearance_count": 15,
+          "time_info": "[16时43分 ~ 21时00分]"
         },
         {
           "title": "特朗普又抛歪理：都怪尼克松引出中国",
@@ -67,27 +67,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[17时15分 ~ 19时38分]"
-        },
-        {
-          "title": "俄总统代表提议建“普京-特朗普隧道” 乌总统称“不满意”",
-          "url": "https://flash.jin10.com/detail/20251018144513725800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            4,
-            5,
-            7,
-            11,
-            12,
-            14,
-            16,
-            17,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时13分 ~ 20时24分]"
         },
         {
           "title": "泽连斯基穿上正装 特朗普：我很喜欢",
@@ -115,8 +94,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[10时16分 ~ 20时24分]"
+          "appearance_count": 31,
+          "time_info": "[10时16分 ~ 21时00分]"
+        },
+        {
+          "title": "俄总统代表提议建“普京-特朗普隧道” 乌总统称“不满意”",
+          "url": "https://flash.jin10.com/detail/20251018144513725800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            4,
+            5,
+            7,
+            11,
+            12,
+            14,
+            16,
+            17,
+            21,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[15时13分 ~ 21时00分]"
         },
         {
           "title": "泽连斯基可能得再次从头说服特朗普",
@@ -240,8 +241,25 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[10时16分 ~ 20时24分]"
+          "appearance_count": 31,
+          "time_info": "[10时16分 ~ 21时00分]"
+        },
+        {
+          "title": "特朗普为他减刑 共和党前“丑闻议员”桑托斯出狱",
+          "url": "https://wallstreetcn.com/livenews/2990050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            5,
+            8,
+            13,
+            16,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时15分 ~ 21时00分]"
         },
         {
           "title": "特朗普称美军在加勒比海域袭击一艘“运毒潜艇”",
@@ -278,22 +296,6 @@
           "time_info": "[15时13分 ~ 18时40分]"
         },
         {
-          "title": "特朗普为他减刑 共和党前“丑闻议员”桑托斯出狱",
-          "url": "https://wallstreetcn.com/livenews/2990050",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            8,
-            13,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时15分 ~ 20时24分]"
-        },
-        {
           "title": "特朗普对进口中型和重型卡车收25%税",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E8%BF%9B%E5%8F%A3%E4%B8%AD%E5%9E%8B%E5%92%8C%E9%87%8D%E5%9E%8B%E5%8D%A1%E8%BD%A6%E6%94%B625%25%E7%A8%8E",
           "source": "百度热搜",
@@ -327,6 +329,43 @@
           "time_info": "[10时16分 ~ 13时40分]"
         },
         {
+          "title": "美乌总统会晤，特朗普数次语气强硬",
+          "url": "https://news.ifeng.com/c/8nYPgJ16sO6",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时24分 ~ 21时00分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-18）",
+          "url": "https://flash.jin10.com/detail/20251018175601637800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            2,
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时40分 ~ 21时00分]"
+        },
+        {
+          "title": "特朗普为他减刑，共和党前“丑闻议员”桑托斯出狱",
+          "url": "https://news.ifeng.com/c/8nYKfvcps5g",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时24分 ~ 21时00分]"
+        },
+        {
           "title": "若特朗普关税被判“非法”意味什么",
           "url": "https://www.toutiao.com/trending/7562451405152194084/",
           "source": "今日头条",
@@ -339,20 +378,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时35分 ~ 17时36分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-18）",
-          "url": "https://flash.jin10.com/detail/20251018175601637800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            2,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时40分 ~ 20时24分]"
         },
         {
           "title": "特朗普呼吁俄乌“就地”停火、各自宣称胜利",
@@ -382,28 +407,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时57分 ~ 11时44分]"
-        },
-        {
-          "title": "美乌总统会晤，特朗普数次语气强硬",
-          "url": "https://news.ifeng.com/c/8nYPgJ16sO6",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "特朗普为他减刑，共和党前“丑闻议员”桑托斯出狱",
-          "url": "https://news.ifeng.com/c/8nYKfvcps5g",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
         },
         {
           "title": "特朗普回应与中国贸易战",
@@ -443,6 +446,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时09分 ~ 12时16分]"
+        },
+        {
+          "title": "普京特使提议“建个隧道把俄美连起来”，特朗普回应",
+          "url": "https://news.ifeng.com/c/8nY5myFfFkF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时24分 ~ 21时00分]"
         },
         {
           "title": "特朗普签署行政令 对进口中型和重型卡车征收25%关税",
@@ -504,6 +518,17 @@
           "time_info": "[08时57分 ~ 08时58分]"
         },
         {
+          "title": "韩4大集团CEO同赴特朗普“鸿门宴”",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A94%E5%A4%A7%E9%9B%86%E5%9B%A2CEO%E5%90%8C%E8%B5%B4%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E9%B8%BF%E9%97%A8%E5%AE%B4%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时00分]"
+        },
+        {
           "title": "特朗普不打算给乌战斧导弹意味什么",
           "url": "https://www.toutiao.com/trending/7562388320357977663/",
           "source": "今日头条",
@@ -538,17 +563,6 @@
           "time_info": "[08时57分 ~ 08时58分]"
         },
         {
-          "title": "普京特使提议“建个隧道把俄美连起来”，特朗普回应",
-          "url": "https://news.ifeng.com/c/8nY5myFfFkF",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
           "title": "特朗普呼吁俄乌双方立即停火",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E4%BF%84%E4%B9%8C%E5%8F%8C%E6%96%B9%E7%AB%8B%E5%8D%B3%E5%81%9C%E7%81%AB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D19%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%2591%25BC%25E5%2590%2581%25E4%25BF%2584%25E4%25B9%258C%25E5%258F%258C%25E6%2596%25B9%25E7%25AB%258B%25E5%258D%25B3%25E5%2581%259C%25E7%2581%25AB%2523%26c_type%3D31%26realpos%3D19%26pos%3D20%26filter_type%3Drealtimehot%26lcate%3D5001%26flag%3D1%26dgr%3D0%26display_time%3D1760761936%26pre_seqid%3D176076193612500540125",
           "source": "微博",
@@ -577,7 +591,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -621,7 +635,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -651,8 +665,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[08时57分 ~ 20时24分]"
+          "appearance_count": 33,
+          "time_info": "[08时57分 ~ 21时00分]"
         },
         {
           "title": "美元大逻辑的关键验证：下一次美股大跌",
@@ -676,8 +690,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时35分 ~ 20时24分]"
+          "appearance_count": 12,
+          "time_info": "[17时35分 ~ 21时00分]"
         },
         {
           "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
@@ -699,8 +713,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时13分 ~ 20时24分]"
+          "appearance_count": 10,
+          "time_info": "[18时13分 ~ 21时00分]"
         },
         {
           "title": "美股三大指数集体收涨",
@@ -782,11 +796,12 @@
             9,
             1,
             5,
-            8
+            8,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[16时43分 ~ 20时24分]"
+          "appearance_count": 15,
+          "time_info": "[16时43分 ~ 21时00分]"
         },
         {
           "title": "金价银价大跳水",
@@ -829,6 +844,18 @@
           "time_info": "[08时57分 ~ 10时16分]"
         },
         {
+          "title": "中美通话如何影响黄金价格",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E9%80%9A%E8%AF%9D%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时24分 ~ 21时00分]"
+        },
+        {
           "title": "金价暴涨下的水贝",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%8B%E7%9A%84%E6%B0%B4%E8%B4%9D&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26cate%3D5001%26q%3D%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E4%25B8%258B%25E7%259A%2584%25E6%25B0%25B4%25E8%25B4%259D%26dgr%3D0%26pos%3D22%26realpos%3D23%26lcate%3D5001%26filter_type%3Drealtimehot%26band_rank%3D23%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1760786903%26pre_seqid%3D17607869038650358624615",
           "source": "微博",
@@ -861,23 +888,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时39分 ~ 13时40分]"
-        },
-        {
-          "title": "中美通话如何影响黄金价格",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E9%80%9A%E8%AF%9D%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "伊朗说安理会2231号决议按期正式终止",
@@ -895,6 +911,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时13分 ~ 16时44分]"
+        },
+        {
+          "title": "伊朗副外长：协议规定的期限和施加的限制到期后，伊朗将摆脱安理会实施的制裁。",
+          "url": "https://flash.jin10.com/detail/20251018200946209800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时00分"
         },
         {
           "title": "伊朗外长：安理会第2231号决议18日到期 既往对伊限制将终止",
@@ -923,8 +950,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "gemini 毒奶",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3Dgemini+%E6%AF%92%E5%A5%B6&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26realpos%3D10%26pos%3D10%26stream_entry_id%3D31%26q%3Dgemini%2520%25E6%25AF%2592%25E5%25A5%25B6%26dgr%3D0%26lcate%3D5001%26band_rank%3D10%26filter_type%3Drealtimehot%26flag%3D1%26display_time%3D1760792206%26pre_seqid%3D17607922064690357858254",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时00分]"
+        },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超2.4%，本周和谷歌、特斯拉、台积电涨超5%",
           "url": "https://wallstreetcn.com/livenews/2989928",
@@ -968,8 +1006,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[08时57分 ~ 20时24分]"
+          "appearance_count": 33,
+          "time_info": "[08时57分 ~ 21时00分]"
         }
       ]
     },
