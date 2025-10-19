@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T16:17:11.337796+08:00",
-  "total_titles_processed": 750,
+  "generated_at": "2025-10-19T16:43:01.066617+08:00",
+  "total_titles_processed": 768,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时46分 ~ 16时17分]"
+          "appearance_count": 16,
+          "time_info": "[11时46分 ~ 16时43分]"
         },
         {
           "title": "特朗普三戏泽连斯基",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时42分 ~ 16时17分]"
+          "appearance_count": 14,
+          "time_info": "[12时42分 ~ 16时43分]"
         },
         {
           "title": "辣眼睛！特朗普发布AI视频：头戴皇冠，开战斗机向抗议者洒大便",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时42分 ~ 16时17分]"
+          "appearance_count": 14,
+          "time_info": "[12时42分 ~ 16时43分]"
         },
         {
           "title": "美媒：美方正商讨安排特朗普与金正恩会晤",
@@ -51,8 +51,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时07分 ~ 16时17分]"
+          "appearance_count": 18,
+          "time_info": "[09时07分 ~ 16时43分]"
         },
         {
           "title": "特朗普与泽连斯基再度会面：希望能在不动用“战斧”的情况下结束冲突",
@@ -63,8 +63,34 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时07分 ~ 16时17分]"
+          "appearance_count": 18,
+          "time_info": "[09时07分 ~ 16时43分]"
+        },
+        {
+          "title": "全美700万人上街抗议特朗普",
+          "url": "https://www.douyin.com/hot/2274982",
+          "source": "抖音",
+          "ranks": [
+            6,
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时40分 ~ 16时43分]"
+        },
+        {
+          "title": "美国多地爆发反特朗普集会",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%9C%B0%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E9%9B%86%E4%BC%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26band_rank%3D28%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26pos%3D29%26flag%3D1%26stream_entry_id%3D31%26realpos%3D28%26q%3D%2523%25E7%25BE%258E%25E5%259B%25BD%25E5%25A4%259A%25E5%259C%25B0%25E7%2588%2586%25E5%258F%2591%25E5%258F%258D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E9%259B%2586%25E4%25BC%259A%2523%26dgr%3D0%26display_time%3D1760851685%26pre_seqid%3D17608516850030273292772",
+          "source": "微博",
+          "ranks": [
+            28,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时40分 ~ 16时43分]"
         },
         {
           "title": "特朗普发AI视频挑衅抗议者",
@@ -78,24 +104,27 @@
             19,
             24,
             27,
-            28
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时46分 ~ 16时43分]"
+        },
+        {
+          "title": "特朗普团队曾商议亚洲行会晤金正恩",
+          "url": "https://www.toutiao.com/trending/7562161213384248874/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            20,
+            23,
+            8,
+            4
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[11时46分 ~ 16时17分]"
-        },
-        {
-          "title": "全美700万人上街抗议特朗普",
-          "url": "https://www.douyin.com/hot/2274982",
-          "source": "抖音",
-          "ranks": [
-            6,
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时40分 ~ 16时17分]"
+          "time_info": "[14时19分 ~ 16时43分]"
         },
         {
           "title": "匈牙利欧洲议会议员：欧洲政客感到被“特朗普爸爸”忽视了",
@@ -105,8 +134,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时13分 ~ 16时17分]"
+          "appearance_count": 12,
+          "time_info": "[13时13分 ~ 16时43分]"
         },
         {
           "title": "特朗普对华服软,关税讹诈玩不转",
@@ -119,21 +148,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时07分 ~ 16时17分]"
-        },
-        {
-          "title": "美国多地爆发反特朗普集会",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%9C%B0%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E9%9B%86%E4%BC%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26band_rank%3D28%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26pos%3D29%26flag%3D1%26stream_entry_id%3D31%26realpos%3D28%26q%3D%2523%25E7%25BE%258E%25E5%259B%25BD%25E5%25A4%259A%25E5%259C%25B0%25E7%2588%2586%25E5%258F%2591%25E5%258F%258D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E9%259B%2586%25E4%25BC%259A%2523%26dgr%3D0%26display_time%3D1760851685%26pre_seqid%3D17608516850030273292772",
-          "source": "微博",
-          "ranks": [
-            28,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时40分 ~ 16时17分]"
+          "appearance_count": 18,
+          "time_info": "[09时07分 ~ 16时43分]"
         },
         {
           "title": "特朗普称美军摧毁一艘“载有毒品”的大型潜艇",
@@ -151,8 +167,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时07分 ~ 16时17分]"
+          "appearance_count": 13,
+          "time_info": "[09时07分 ~ 16时43分]"
         },
         {
           "title": "泽连斯基承认：特朗普未明确拒绝向乌提供“战斧”导弹",
@@ -204,21 +220,6 @@
           "time_info": "[12时42分 ~ 15时14分]"
         },
         {
-          "title": "特朗普团队曾商议亚洲行会晤金正恩",
-          "url": "https://www.toutiao.com/trending/7562161213384248874/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            20,
-            23,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时19分 ~ 16时17分]"
-        },
-        {
           "title": "特朗普称美军摧毁一大型潜艇",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%86%9B%E6%91%A7%E6%AF%81%E4%B8%80%E5%A4%A7%E5%9E%8B%E6%BD%9C%E8%89%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26cate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E7%25BE%258E%25E5%2586%259B%25E6%2591%25A7%25E6%25AF%2581%25E4%25B8%2580%25E5%25A4%25A7%25E5%259E%258B%25E6%25BD%259C%25E8%2589%2587%2523%26dgr%3D0%26stream_entry_id%3D31%26band_rank%3D2%26lcate%3D5001%26filter_type%3Drealtimehot%26realpos%3D2%26c_type%3D31%26pos%3D1%26display_time%3D1760842732%26pre_seqid%3D176084273232703586258134",
           "source": "微博",
@@ -250,6 +251,23 @@
           "time_info": "[10时59分 ~ 14时47分]"
         },
         {
+          "title": "英媒：特朗普命令在委海岸集结军力，意在迫使马杜罗下台",
+          "url": "https://flash.jin10.com/detail/20251019122453389800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            7,
+            12,
+            17,
+            20,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时13分 ~ 16时43分]"
+        },
+        {
           "title": "美乌总统会晤，特朗普数次语气强硬",
           "url": "https://news.ifeng.com/c/8nYPgJ16sO6",
           "source": "凤凰网",
@@ -262,20 +280,17 @@
           "time_info": "[09时07分 ~ 12时18分]"
         },
         {
-          "title": "英媒：特朗普命令在委海岸集结军力，意在迫使马杜罗下台",
-          "url": "https://flash.jin10.com/detail/20251019122453389800",
-          "source": "金十数据",
+          "title": "特朗普为何对华释放缓和信号",
+          "url": "https://www.toutiao.com/trending/7562789134373228078/",
+          "source": "今日头条",
           "ranks": [
-            4,
-            7,
-            12,
-            17,
-            20,
-            21
+            8,
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时13分 ~ 16时17分]"
+          "appearance_count": 8,
+          "time_info": "[14时46分 ~ 16时43分]"
         },
         {
           "title": "韩企掌门与特朗普打高球 是否谈投资和关税引关注",
@@ -345,19 +360,6 @@
           "time_info": "[10时59分 ~ 12时43分]"
         },
         {
-          "title": "特朗普为何对华释放缓和信号",
-          "url": "https://www.toutiao.com/trending/7562789134373228078/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时46分 ~ 16时17分]"
-        },
-        {
           "title": "特朗普罕见承认，高关税威胁中国的策略不可持续",
           "url": "https://news.ifeng.com/c/8nXp14yHS6o",
           "source": "凤凰网",
@@ -404,6 +406,17 @@
           "time_info": "[13时13分 ~ 15时14分]"
         },
         {
+          "title": "特朗普口中的美军行动有多离谱",
+          "url": "https://www.toutiao.com/trending/7562814748509605430/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时16分 ~ 16时43分]"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：计划一到两周内做关于人工智能的演讲。特朗普仍然希望政府关门问题得到友好解决。政府关门将导致几乎除了国防之外的任何事情停摆。",
           "url": "https://flash.jin10.com/detail/20251018223232047800",
           "source": "金十数据",
@@ -416,22 +429,68 @@
           "time_info": "[09时07分 ~ 10时59分]"
         },
         {
-          "title": "特朗普口中的美军行动有多离谱",
-          "url": "https://www.toutiao.com/trending/7562814748509605430/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 16时17分]"
-        },
-        {
           "title": "特朗普称不打算供乌战斧导弹",
           "url": "https://www.douyin.com/hot/2274092",
           "source": "抖音",
           "ranks": [
             19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "黄金在全球“外汇黄金储备“比例已升至30%，若追平美元，金价需升至5790美元",
+          "url": "https://wallstreetcn.com/articles/3757430",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[09时07分 ~ 15时36分]"
+        },
+        {
+          "title": "金价为何下跌",
+          "url": "https://www.toutiao.com/trending/7562708312681090570/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            21,
+            22,
+            23,
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[09时07分 ~ 16时43分]"
+        },
+        {
+          "title": "金价狂飙 “租三金”结婚成新选择",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99+%E2%80%9C%E7%A7%9F%E4%B8%89%E9%87%91%E2%80%9D%E7%BB%93%E5%A9%9A%E6%88%90%E6%96%B0%E9%80%89%E6%8B%A9",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 16时43分]"
+        },
+        {
+          "title": "中美通话如何影响黄金价格",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E9%80%9A%E8%AF%9D%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -452,8 +511,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时07分 ~ 16时17分]"
+          "appearance_count": 18,
+          "time_info": "[09时07分 ~ 16时43分]"
         },
         {
           "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
@@ -496,52 +555,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "黄金在全球“外汇黄金储备“比例已升至30%，若追平美元，金价需升至5790美元",
-          "url": "https://wallstreetcn.com/articles/3757430",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时07分 ~ 15时36分]"
-        },
-        {
-          "title": "金价为何下跌",
-          "url": "https://www.toutiao.com/trending/7562708312681090570/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            21,
-            22,
-            23,
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时07分 ~ 16时17分]"
-        },
-        {
-          "title": "中美通话如何影响黄金价格",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E9%80%9A%E8%AF%9D%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
       "match_count": 3,
       "titles": [
@@ -561,8 +574,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时07分 ~ 16时17分]"
+          "appearance_count": 13,
+          "time_info": "[09时07分 ~ 16时43分]"
         },
         {
           "title": "伊朗谴责以色列违反加沙停火协议",
