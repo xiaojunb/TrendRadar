@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T14:51:43.321753+08:00",
-  "total_titles_processed": 825,
+  "generated_at": "2025-10-20T15:15:33.068042+08:00",
+  "total_titles_processed": 860,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普：对华征收100%关税对美经济“不能持久”",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时05分 ~ 14时51分]"
+          "appearance_count": 13,
+          "time_info": "[09时05分 ~ 15时15分]"
         },
         {
           "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
@@ -41,8 +41,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时05分 ~ 14时51分]"
+          "appearance_count": 13,
+          "time_info": "[09时05分 ~ 15时15分]"
         },
         {
           "title": "特朗普专机附近疑发现狙击狩猎台",
@@ -55,8 +55,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时57分 ~ 14时51分]"
+          "appearance_count": 12,
+          "time_info": "[10时57分 ~ 15时15分]"
         },
         {
           "title": "特朗普被曝与泽连斯基再度激烈争吵",
@@ -69,8 +69,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时57分 ~ 14时51分]"
+          "appearance_count": 12,
+          "time_info": "[10时57分 ~ 15时15分]"
         },
         {
           "title": "特朗普对华服软,关税讹诈玩不转",
@@ -83,8 +83,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时05分 ~ 14时51分]"
+          "appearance_count": 13,
+          "time_info": "[09时05分 ~ 15时15分]"
         },
         {
           "title": "特朗普专机附近疑发现狙击狩猎台",
@@ -184,6 +184,17 @@
           "time_info": "09时05分"
         },
         {
+          "title": "特朗普：愿降低关税水平，但中方也需做出让步",
+          "url": "https://news.ifeng.com/c/8nbdCEcZ0sY",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
           "title": "俄美共建白令海峡隧道？特朗普回应",
           "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BE%8E%E5%85%B1%E5%BB%BA%E7%99%BD%E4%BB%A4%E6%B5%B7%E5%B3%A1%E9%9A%A7%E9%81%93%EF%BC%9F%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -203,11 +214,12 @@
           "ranks": [
             2,
             11,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时42分 ~ 14时51分]"
+          "appearance_count": 4,
+          "time_info": "[13时42分 ~ 15时15分]"
         },
         {
           "title": "美媒爆特朗普疑似险遭暗杀",
@@ -215,11 +227,12 @@
           "source": "微博",
           "ranks": [
             4,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 14时51分]"
+          "appearance_count": 3,
+          "time_info": "[14时22分 ~ 15时15分]"
         },
         {
           "title": "特朗普政策会走向何方",
@@ -240,11 +253,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 14时51分]"
+          "appearance_count": 3,
+          "time_info": "[14时22分 ~ 15时15分]"
         },
         {
           "title": "特朗普称努力让美国变得伟大",
@@ -254,8 +268,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 14时51分]"
+          "appearance_count": 3,
+          "time_info": "[14时22分 ~ 15时15分]"
         },
         {
           "title": "特朗普泽连斯基再度激烈争吵：全程脏话、扔地图、训斥",
@@ -264,9 +278,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 15时15分]"
+        },
+        {
+          "title": "特朗普称希望与哈马斯保持和平状态",
+          "url": "https://flash.jin10.com/detail/20251020143029307800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 15时15分]"
+        },
+        {
+          "title": "“气氛紧张”，媒体爆美乌总统会晤细节，特朗普敦促泽连斯基接受俄罗斯条件",
+          "url": "https://wallstreetcn.com/articles/3757465",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 15时15分]"
         },
         {
           "title": "美国总统特朗普：我不是国王，我拼命工作，努力让我们的国家变得伟大。仅此而已。我根本就不是国王。（周末美国多地再次举行“不要国王”大规模抗议活动）",
@@ -278,28 +314,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
-        },
-        {
-          "title": "特朗普称希望与哈马斯保持和平状态",
-          "url": "https://flash.jin10.com/detail/20251020143029307800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
-          "title": "“气氛紧张”，媒体爆美乌总统会晤细节，特朗普敦促泽连斯基接受俄罗斯条件",
-          "url": "https://wallstreetcn.com/articles/3757465",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
         },
         {
           "title": "美国总统特朗普：印度总理莫迪曾告诉我，他不会参与俄罗斯的石油交易。",
@@ -322,6 +336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "特朗普被曝疑似险遭暗杀",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%9B%9D%E7%96%91%E4%BC%BC%E9%99%A9%E9%81%AD%E6%9A%97%E6%9D%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "美国总统特朗普：顿巴斯地区应保持现状，目前俄罗斯控制着其中约78%的土地。",
@@ -399,6 +424,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "特朗普为何给泽连斯基下达通牒",
+          "url": "https://www.toutiao.com/trending/7563183434068135466/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         }
       ]
     },
@@ -417,8 +453,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时45分 ~ 14时51分]"
+          "appearance_count": 11,
+          "time_info": "[11时45分 ~ 15时15分]"
         },
         {
           "title": "伊朗突发恐怖袭击 多名部族领袖遇害",
@@ -432,8 +468,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时45分 ~ 14时51分]"
+          "appearance_count": 11,
+          "time_info": "[11时45分 ~ 15时15分]"
         },
         {
           "title": "伊朗逊尼派部族领袖遇害，革命卫队：以色列指使的",
@@ -472,9 +508,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 15时15分]"
         },
         {
           "title": "美股美债与美元指数的“共振模式”",
@@ -483,7 +519,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         }
@@ -541,8 +577,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时45分 ~ 14时51分]"
+          "appearance_count": 11,
+          "time_info": "[11时45分 ~ 15时15分]"
         }
       ]
     }
