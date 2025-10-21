@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T22:16:33.672494+08:00",
-  "total_titles_processed": 1723,
+  "generated_at": "2025-10-21T22:42:48.258421+08:00",
+  "total_titles_processed": 1773,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[16时19分 ~ 22时16分]"
+          "appearance_count": 15,
+          "time_info": "[16时19分 ~ 22时42分]"
         },
         {
           "title": "外交部回应特朗普称将于明年访华",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[15时38分 ~ 22时16分]"
+          "appearance_count": 16,
+          "time_info": "[15时38分 ~ 22时42分]"
         },
         {
           "title": "特朗普又改口：从未说过乌克兰会赢",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[16时19分 ~ 22时16分]"
+          "appearance_count": 15,
+          "time_info": "[16时19分 ~ 22时42分]"
         },
         {
           "title": "特朗普：很快将访问日本",
@@ -52,8 +52,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[14时26分 ~ 22时16分]"
+          "appearance_count": 20,
+          "time_info": "[14时26分 ~ 22时42分]"
         },
         {
           "title": "中方回应特朗普称明年将访华",
@@ -79,8 +79,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[16时19分 ~ 22时16分]"
+          "appearance_count": 15,
+          "time_info": "[16时19分 ~ 22时42分]"
         },
         {
           "title": "特朗普被印度气坏了：莫迪向我保证过",
@@ -182,8 +182,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[09时03分 ~ 22时16分]"
+          "appearance_count": 30,
+          "time_info": "[09时03分 ~ 22时42分]"
         },
         {
           "title": "牛弹琴：特朗普被印度气坏了",
@@ -214,8 +214,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[11时37分 ~ 22时16分]"
+          "appearance_count": 28,
+          "time_info": "[11时37分 ~ 22时42分]"
         },
         {
           "title": "外交部回应特朗普称明年初访华",
@@ -367,6 +367,17 @@
           "time_info": "[13时14分 ~ 14时49分]"
         },
         {
+          "title": "评论员：泽连斯基再度被特朗普侮辱",
+          "url": "https://www.toutiao.com/trending/7563610173114158601/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时09分 ~ 22时42分]"
+        },
+        {
           "title": "特朗普称一年后美国稀土将多如牛毛",
           "url": "https://www.toutiao.com/trending/7563598235013647882/",
           "source": "今日头条",
@@ -376,17 +387,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
-        },
-        {
-          "title": "诺和诺德(NVO.N)基金会主席：与特朗普政府的谈判正在进行中，涉及他们对美国价格的要求。",
-          "url": "https://flash.jin10.com/detail/20251021220159619800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
         },
         {
           "title": "俄罗斯媒体：俄罗斯总统普京和美国总统特朗普、俄罗斯外长拉夫罗夫和美国国务卿鲁比奥的会谈中没有讨论新削减战略武器条约。",
@@ -426,17 +426,6 @@
           "time_info": "[16时19分 ~ 18时15分]"
         },
         {
-          "title": "评论员：泽连斯基再度被特朗普侮辱",
-          "url": "https://www.toutiao.com/trending/7563610173114158601/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时09分 ~ 22时16分]"
-        },
-        {
           "title": "克里姆林宫：我们对普京与特朗普峰会的日期没有任何共识。",
           "url": "https://wallstreetcn.com/livenews/2991164",
           "source": "华尔街见闻-快讯",
@@ -460,6 +449,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时39分 ~ 11时37分]"
+        },
+        {
+          "title": "诺和诺德(NVO.N)基金会主席：与特朗普政府的谈判正在进行中，涉及他们对美国价格的要求。",
+          "url": "https://flash.jin10.com/detail/20251021220159619800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时42分]"
         },
         {
           "title": "特朗普确认计划近期访问日本",
@@ -550,6 +551,18 @@
           "time_info": "[11时37分 ~ 12时18分]"
         },
         {
+          "title": "特朗普：从未说过乌克兰会赢",
+          "url": "https://www.toutiao.com/trending/7562774270133927999/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时09分 ~ 22时42分]"
+        },
+        {
           "title": "特朗普对泽连斯基的态度发生怎样转变",
           "url": "https://www.toutiao.com/trending/7563539201593970217/",
           "source": "今日头条",
@@ -621,6 +634,18 @@
           "time_info": "[18时45分 ~ 19时12分]"
         },
         {
+          "title": "特朗普：哈马斯若违反协议将面临“残酷”回应",
+          "url": "https://wallstreetcn.com/livenews/2991293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时42分]"
+        },
+        {
           "title": "特朗普中断会议斥责摄影师",
           "url": "https://www.toutiao.com/trending/7563605955687661631/",
           "source": "今日头条",
@@ -630,17 +655,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时45分 ~ 19时12分]"
-        },
-        {
-          "title": "特朗普：从未说过乌克兰会赢",
-          "url": "https://www.toutiao.com/trending/7562774270133927999/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时09分 ~ 21时10分]"
         },
         {
           "title": "特朗普对华服软,关税讹诈玩不转",
@@ -774,17 +788,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
-        },
-        {
-          "title": "特朗普：哈马斯若违反协议将面临“残酷”回应",
-          "url": "https://wallstreetcn.com/livenews/2991293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
         },
         {
           "title": "哥伦比亚外交部：美国代办明确表示，关税是特朗普总统的专属决定。",
@@ -924,19 +927,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时45分 ~ 22时16分]"
+          "appearance_count": 9,
+          "time_info": "[18时45分 ~ 22时42分]"
         },
         {
           "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元/盎司，白银跌破50美元关口，加密货币下挫",
           "url": "https://wallstreetcn.com/articles/3757563",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时51分 ~ 22时16分]"
+          "appearance_count": 4,
+          "time_info": "[21时51分 ~ 22时42分]"
         },
         {
           "title": "通用汽车三季度调整后每股收益2.80美元，上年同期2.96美元，预估2.27美元。 三季度净销售额和营收485.9亿美元，同比下降0.3%，预估451.8亿美元。 三季度调整后息税前利润33.8亿美元，同比下降18%，预估26.9亿美元。 通用汽车预计全财年调整后每股收益9.75美元至10.50美元，此前预计8.25美元至10美元，市场预估9.48美元。 通用汽车预计全财年调整后息税前利润120亿美元至130亿美元，此前预计100亿美元至125亿美元，市场预估114.5亿美元。 通用汽车预计全财年汽车部门调整后自由现金流100亿美元至110亿美元，此前预计75亿美元至100亿美元。 通用汽车美股盘前涨近6%。",
@@ -965,6 +969,19 @@
           "time_info": "[09时03分 ~ 11时37分]"
         },
         {
+          "title": "美股三大股指开盘涨跌不一，道指涨0.02%，标普500指数涨0.03%，纳指跌0.04%。通用汽车大涨10%，公司Q3业绩超预期，上调全年盈利指引。“人造肉第一股”BeyondMeat涨超50%，公司将在全美2000多家沃尔玛门店扩展分销。可口可乐上涨3.7%，创2月11日以来最大涨幅。黄金股普跌，金田、哈莫尼黄金跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/2991288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时52分 ~ 22时42分]"
+        },
+        {
           "title": "GE航空航天三季度营收113.1亿美元，预估104亿美元。 三季度经调整后每股收益1.66美元，预估1.47美元。 GE航空航天预计本财年调整后每股收益为6.00至6.20美元，此前预期为5.60至5.80美元。 GE航空航天美股盘前涨近4%。",
           "url": "https://wallstreetcn.com/livenews/2991195",
           "source": "华尔街见闻-快讯",
@@ -989,18 +1006,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[20时29分 ~ 21时52分]"
-        },
-        {
-          "title": "美股三大股指开盘涨跌不一，道指涨0.02%，标普500指数涨0.03%，纳指跌0.04%。通用汽车大涨10%，公司Q3业绩超预期，上调全年盈利指引。“人造肉第一股”BeyondMeat涨超50%，公司将在全美2000多家沃尔玛门店扩展分销。可口可乐上涨3.7%，创2月11日以来最大涨幅。黄金股普跌，金田、哈莫尼黄金跌超9%。",
-          "url": "https://wallstreetcn.com/livenews/2991288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时52分 ~ 22时16分]"
         },
         {
           "title": "3M三季度净销售额65亿美元，同比增长3.3%。 三季度持续经营业务调整后每股收益为2.19美元，市场预期为2.07美元。 3M美股盘前跌近1%。",
@@ -1029,6 +1034,19 @@
           "time_info": "[16时19分 ~ 17时41分]"
         },
         {
+          "title": "Beyond Meat美股盘前大涨逾60%，公司将在全美2000多家沃尔玛门店扩展分销。",
+          "url": "https://wallstreetcn.com/livenews/2991282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时52分 ~ 22时42分]"
+        },
+        {
           "title": "美股期指集体走软，现货黄金跌3%，白银跌破50美元关口，加密货币下挫",
           "url": "https://wallstreetcn.com/articles/3757563",
           "source": "华尔街见闻",
@@ -1049,18 +1067,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时45分 ~ 19时12分]"
-        },
-        {
-          "title": "Beyond Meat美股盘前大涨逾60%，公司将在全美2000多家沃尔玛门店扩展分销。",
-          "url": "https://wallstreetcn.com/livenews/2991282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时52分 ~ 22时16分]"
         },
         {
           "title": "洛克希德-马丁第三季度每股收益6.95美元，去年同期6.80美元。 第三季度净销售额186.1亿美元，同比增长8.8%，市场预期185亿美元。 第三季度营业利润22.8亿美元，同比增长6.5%，市场预期21.8亿美元 预计全财年每股收益（EPS）约为22.15至22.35美元，之前预期21.70至22美元。 预计全财年净销售额约742.5亿至747.5亿美元，之前预期737.5亿至747.5亿美元，市场预期743.1亿美元。 洛克希德-马丁美股盘前涨超2%。",
@@ -1085,6 +1091,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时37分 ~ 20时29分]"
+        },
+        {
+          "title": "美股盘初，主要行业ETF多数走低，黄金ETF跌近4%。",
+          "url": "https://wallstreetcn.com/livenews/2991295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时42分]"
         },
         {
           "title": "美股期指集体走软，现货黄金跌2%，白银跌破50美元关口，加密货币下挫",
@@ -1142,17 +1160,6 @@
           "time_info": "21时52分"
         },
         {
-          "title": "美股盘初，主要行业ETF多数走低，黄金ETF跌近4%。",
-          "url": "https://wallstreetcn.com/livenews/2991295",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
           "title": "美股黄金概念股盘前下跌，科尔黛伦矿业(CDE.N)、哈莫尼黄金(HMY.N)、泛美白银(PAAS.O)下跌4%，纽曼矿业跌2.9%。",
           "url": "https://flash.jin10.com/detail/20251021160618165800",
           "source": "金十数据",
@@ -1167,7 +1174,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "财晓得｜金价幕后推手：他们在买黄金时，买的到底是什么？",
@@ -1221,11 +1228,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时09分 ~ 22时16分]"
+          "appearance_count": 6,
+          "time_info": "[21时09分 ~ 22时42分]"
         },
         {
           "title": "金价大涨影响年轻人结婚",
@@ -1237,8 +1245,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时29分 ~ 22时16分]"
+          "appearance_count": 7,
+          "time_info": "[20时29分 ~ 22时42分]"
         },
         {
           "title": "金价延续跌势，现货黄金失守4230美元/盎司，日内跌幅2.91%；纽约期金失守4250美元/盎司，日内跌幅2.51%。",
@@ -1289,6 +1297,18 @@
           "time_info": "[12时18分 ~ 12时43分]"
         },
         {
+          "title": "黄金价格坐过山车 后续怎么走",
+          "url": "https://www.toutiao.com/trending/7563613729208667702/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时42分]"
+        },
+        {
           "title": "国际金价大跌原因",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26band_rank%3D30%26q%3D%2523%25E5%259B%25BD%25E9%2599%2585%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E5%258E%259F%25E5%259B%25A0%2523%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26realpos%3D30%26pos%3D31%26flag%3D0%26stream_entry_id%3D31%26display_time%3D1761054075%26pre_seqid%3D17610540757050230370982",
           "source": "微博",
@@ -1301,17 +1321,6 @@
           "time_info": "[21时51分 ~ 22时16分]"
         },
         {
-          "title": "黄金价格坐过山车 后续怎么走",
-          "url": "https://www.toutiao.com/trending/7563613729208667702/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
           "title": "金价飙升引发投资潮 韩国银行金条供不应求",
           "url": "https://flash.jin10.com/detail/20251021151749192800",
           "source": "金十数据",
@@ -1321,6 +1330,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D30%26stream_entry_id%3D31%26realpos%3D29%26flag%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26band_rank%3D29%26cate%3D5001%26dgr%3D0%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26display_time%3D1761057039%26pre_seqid%3D17610570391500146795897",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         }
       ]
     },
@@ -1338,8 +1358,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[16时19分 ~ 22时16分]"
+          "appearance_count": 15,
+          "time_info": "[16时19分 ~ 22时42分]"
         },
         {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
@@ -1353,8 +1373,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[11时37分 ~ 22时16分]"
+          "appearance_count": 28,
+          "time_info": "[11时37分 ~ 22时42分]"
         },
         {
           "title": "DeepSeek新模型深度解读",
@@ -1368,11 +1388,12 @@
             10,
             9,
             16,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[10时39分 ~ 22时16分]"
+          "appearance_count": 24,
+          "time_info": "[10时39分 ~ 22时42分]"
         },
         {
           "title": "DeepSeek暂列AI炒币大赛榜首",
@@ -1380,11 +1401,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            14
+            14,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时09分 ~ 22时16分]"
+          "appearance_count": 6,
+          "time_info": "[21时09分 ~ 22时42分]"
         },
         {
           "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
@@ -1654,8 +1676,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[09时03分 ~ 22时16分]"
+          "appearance_count": 30,
+          "time_info": "[09时03分 ~ 22时42分]"
         },
         {
           "title": "美贸协议乐观情绪推动亚股走高，日经225指数逼近5万关口，买入信号显现；现货黄金重回4300美元关口后，多头仍在观望，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -1699,7 +1721,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         }
