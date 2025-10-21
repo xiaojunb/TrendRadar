@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T14:49:39.085471+08:00",
-  "total_titles_processed": 855,
+  "generated_at": "2025-10-21T15:15:28.359995+08:00",
+  "total_titles_processed": 904,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普被印度气坏了：莫迪向我保证过",
@@ -43,8 +43,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时03分 ~ 14时49分]"
+          "appearance_count": 14,
+          "time_info": "[09时03分 ~ 15时15分]"
         },
         {
           "title": "印度否认通话后，特朗普还嘴硬：莫迪向我保证过",
@@ -65,11 +65,12 @@
             5,
             6,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时03分 ~ 14时49分]"
+          "appearance_count": 14,
+          "time_info": "[09时03分 ~ 15时15分]"
         },
         {
           "title": "牛弹琴：特朗普被印度气坏了",
@@ -115,8 +116,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时37分 ~ 14时49分]"
+          "appearance_count": 12,
+          "time_info": "[11时37分 ~ 15时15分]"
+        },
+        {
+          "title": "特朗普：很快将访问日本",
+          "url": "https://news.ifeng.com/c/8ndC4A073jf",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时26分 ~ 15时15分]"
         },
         {
           "title": "泽连斯基和特朗普对骂隐藏哪些信息",
@@ -144,15 +156,17 @@
           "time_info": "[14时26分 ~ 14时49分]"
         },
         {
-          "title": "特朗普：很快将访问日本",
-          "url": "https://news.ifeng.com/c/8ndC4A073jf",
+          "title": "反华分子急了：特朗普政府打压中国学生，忽视了惊人的新现实",
+          "url": "https://news.ifeng.com/c/8nd0y77vH3q",
           "source": "凤凰网",
           "ranks": [
-            4
+            9,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时26分 ~ 14时49分]"
+          "appearance_count": 7,
+          "time_info": "[13时14分 ~ 15时15分]"
         },
         {
           "title": "俄乌双方会不会按照特朗普的提议「冻结前线」？",
@@ -164,29 +178,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时17分 ~ 13时43分]"
-        },
-        {
-          "title": "俄罗斯媒体：俄罗斯总统普京和美国总统特朗普、俄罗斯外长拉夫罗夫和美国国务卿鲁比奥的会谈中没有讨论新削减战略武器条约。",
-          "url": "https://flash.jin10.com/detail/20251021141752818800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时49分]"
-        },
-        {
-          "title": "反华分子急了：特朗普政府打压中国学生，忽视了惊人的新现实",
-          "url": "https://news.ifeng.com/c/8nd0y77vH3q",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时14分 ~ 14时49分]"
         },
         {
           "title": "特朗普被印度气坏了",
@@ -211,6 +202,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时14分 ~ 14时49分]"
+        },
+        {
+          "title": "俄罗斯媒体：俄罗斯总统普京和美国总统特朗普、俄罗斯外长拉夫罗夫和美国国务卿鲁比奥的会谈中没有讨论新削减战略武器条约。",
+          "url": "https://flash.jin10.com/detail/20251021141752818800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 15时15分]"
         },
         {
           "title": "特朗普计划明年初访华",
@@ -352,6 +355,28 @@
           "time_info": "10时39分"
         },
         {
+          "title": "特朗普称一年后美国稀土将多如牛毛",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%80%E5%B9%B4%E5%90%8E%E7%BE%8E%E5%9B%BD%E7%A8%80%E5%9C%9F%E5%B0%86%E5%A4%9A%E5%A6%82%E7%89%9B%E6%AF%9B%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26pos%3D19%26flag%3D1%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E4%25B8%2580%25E5%25B9%25B4%25E5%2590%258E%25E7%25BE%258E%25E5%259B%25BD%25E7%25A8%2580%25E5%259C%259F%25E5%25B0%2586%25E5%25A4%259A%25E5%25A6%2582%25E7%2589%259B%25E6%25AF%259B%2523%26stream_entry_id%3D31%26cate%3D5001%26band_rank%3D18%26realpos%3D18%26dgr%3D0%26lcate%3D5001%26filter_type%3Drealtimehot%26display_time%3D1761030767%26pre_seqid%3D176103076712002297401119",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "特朗普对泽连斯基的态度发生怎样转变",
+          "url": "https://www.toutiao.com/trending/7563539201593970217/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
           "title": "泽连斯基与特朗普对骂",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%AA%82%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D25%26flag%3D0%26lcate%3D5001%26realpos%3D25%26q%3D%2523%25E6%25B3%25BD%25E8%25BF%259E%25E6%2596%25AF%25E5%259F%25BA%25E4%25B8%258E%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25AF%25B9%25E9%25AA%2582%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D25%26stream_entry_id%3D31%26display_time%3D1761008507%26pre_seqid%3D17610085072350229682937",
           "source": "微博",
@@ -401,8 +426,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时03分 ~ 14时49分]"
+          "appearance_count": 14,
+          "time_info": "[09时03分 ~ 15时15分]"
         },
         {
           "title": "金价再创历史新高！瑞银唱多：明年一季度前有望站上4700美元",
@@ -415,8 +440,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时39分 ~ 14时49分]"
+          "appearance_count": 13,
+          "time_info": "[10时39分 ~ 15时15分]"
         },
         {
           "title": "金价银价大反攻",
@@ -460,11 +485,12 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8%E5%BD%B1%E5%93%8D%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BB%93%E5%A9%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26stream_entry_id%3D31%26flag%3D1%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E6%25B6%25A8%25E5%25BD%25B1%25E5%2593%258D%25E5%25B9%25B4%25E8%25BD%25BB%25E4%25BA%25BA%25E7%25BB%2593%25E5%25A9%259A%2523%26dgr%3D0%26band_rank%3D21%26pos%3D22%26realpos%3D21%26c_type%3D31%26filter_type%3Drealtimehot%26lcate%3D5001%26display_time%3D1761029207%26pre_seqid%3D17610292072130312356899",
           "source": "微博",
           "ranks": [
-            21
+            21,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 15时15分]"
         }
       ]
     },
@@ -472,19 +498,6 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 4,
       "titles": [
-        {
-          "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
-          "url": "https://wallstreetcn.com/articles/3757530",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时37分 ~ 14时49分]"
-        },
         {
           "title": "DeepSeek新模型深度解读",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB",
@@ -495,8 +508,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时39分 ~ 14时49分]"
+          "appearance_count": 8,
+          "time_info": "[10时39分 ~ 15时15分]"
+        },
+        {
+          "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
+          "url": "https://wallstreetcn.com/articles/3757530",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[11时37分 ~ 15时15分]"
         },
         {
           "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
@@ -516,6 +542,57 @@
           "source": "财联社热门",
           "ranks": [
             13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "华尔街策略师：油价下跌可能推动10年期美债收益率触及3.75%",
+          "url": "https://flash.jin10.com/detail/20251021145618602800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "Pepperstone：若非出现宏观下行风险，美债进一步上涨的空间会减弱",
+          "url": "https://flash.jin10.com/detail/20251021141637179800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 15时15分]"
+        },
+        {
+          "title": "摩根士丹利：10年期美债收益率跌破4%后可能进一步下跌",
+          "url": "https://flash.jin10.com/detail/20251021134611538800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 14时49分]"
+        },
+        {
+          "title": "美银Hartnett：当美国负债38万亿美元时，该买入美债、利差处于 20 年低点企业债、40倍CAPE美股，还是暴涨的黄金？这很棘手",
+          "url": "https://wallstreetcn.com/articles/3757469",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -590,8 +667,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时39分 ~ 14时49分]"
+          "appearance_count": 13,
+          "time_info": "[10时39分 ~ 15时15分]"
         },
         {
           "title": "日立与OpenAI合作扩建全球人工智能数据中心。",
@@ -622,45 +699,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "Pepperstone：若非出现宏观下行风险，美债进一步上涨的空间会减弱",
-          "url": "https://flash.jin10.com/detail/20251021141637179800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时49分]"
-        },
-        {
-          "title": "摩根士丹利：10年期美债收益率跌破4%后可能进一步下跌",
-          "url": "https://flash.jin10.com/detail/20251021134611538800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时49分]"
-        },
-        {
-          "title": "美银Hartnett：当美国负债38万亿美元时，该买入美债、利差处于 20 年低点企业债、40倍CAPE美股，还是暴涨的黄金？这很棘手",
-          "url": "https://wallstreetcn.com/articles/3757469",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -674,8 +712,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时03分 ~ 14时49分]"
+          "appearance_count": 14,
+          "time_info": "[09时03分 ~ 15时15分]"
         },
         {
           "title": "现货黄金重返4300美元 美股稀土板块活跃走高 | 今夜看点",
@@ -704,8 +742,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时03分 ~ 14时49分]"
+          "appearance_count": 14,
+          "time_info": "[09时03分 ~ 15时15分]"
         },
         {
           "title": "美贸协议乐观情绪推动亚股走高，日经225指数逼近5万关口，买入信号显现；现货黄金重回4300美元关口后，多头仍在观望，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
