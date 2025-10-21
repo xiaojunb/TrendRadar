@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-21T20:29:27.135587+08:00",
-  "total_titles_processed": 1507,
+  "generated_at": "2025-10-21T21:10:11.133993+08:00",
+  "total_titles_processed": 1583,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 67,
       "titles": [
+        {
+          "title": "特朗普称将于明年初访华，外交部回应",
+          "url": "https://news.ifeng.com/c/8ndKqS7uUk7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时19分 ~ 21时10分]"
+        },
         {
           "title": "外交部回应特朗普称将于明年访华",
           "url": "https://www.toutiao.com/trending/7563338600507768851/",
@@ -16,8 +27,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时38分 ~ 20时29分]"
+          "appearance_count": 12,
+          "time_info": "[15时38分 ~ 21时10分]"
+        },
+        {
+          "title": "特朗普又改口：从未说过乌克兰会赢",
+          "url": "https://news.ifeng.com/c/8ndHuKciB2U",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时19分 ~ 21时10分]"
         },
         {
           "title": "特朗普：很快将访问日本",
@@ -28,19 +51,35 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时26分 ~ 20时29分]"
+          "appearance_count": 16,
+          "time_info": "[14时26分 ~ 21时10分]"
         },
         {
-          "title": "特朗普称将于明年初访华，外交部回应",
-          "url": "https://news.ifeng.com/c/8ndKqS7uUk7",
-          "source": "凤凰网",
+          "title": "中方回应特朗普称明年将访华",
+          "url": "https://www.douyin.com/hot/2277574",
+          "source": "抖音",
           "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时19分 ~ 21时10分]"
+        },
+        {
+          "title": "特朗普称将于明年初访问中国 外交部回应",
+          "url": "https://www.cls.cn/detail/2175678",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            4,
+            3,
+            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时19分 ~ 20时29分]"
+          "appearance_count": 11,
+          "time_info": "[16时19分 ~ 21时10分]"
         },
         {
           "title": "特朗普被印度气坏了：莫迪向我保证过",
@@ -55,42 +94,17 @@
           "time_info": "[10时39分 ~ 13时43分]"
         },
         {
-          "title": "特朗普又改口：从未说过乌克兰会赢",
-          "url": "https://news.ifeng.com/c/8ndHuKciB2U",
-          "source": "凤凰网",
+          "title": "外交部回应特朗普称将于明年初访华",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E%E6%98%8E%E5%B9%B4%E5%88%9D%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
           "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时19分 ~ 20时29分]"
-        },
-        {
-          "title": "中方回应特朗普称明年将访华",
-          "url": "https://www.douyin.com/hot/2277574",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时19分 ~ 20时29分]"
-        },
-        {
-          "title": "特朗普称将于明年初访问中国 外交部回应",
-          "url": "https://www.cls.cn/detail/2175678",
-          "source": "财联社热门",
-          "ranks": [
-            8,
             5,
             4,
-            3,
-            2
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时19分 ~ 20时29分]"
+          "appearance_count": 11,
+          "time_info": "[16时19分 ~ 21时10分]"
         },
         {
           "title": "特朗普大规模拆除白宫建筑",
@@ -105,19 +119,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[11时37分 ~ 14时49分]"
-        },
-        {
-          "title": "外交部回应特朗普称将于明年初访华",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E%E6%98%8E%E5%B9%B4%E5%88%9D%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时19分 ~ 20时29分]"
         },
         {
           "title": "特朗普预计中美将达成贸易协议，计划明年初访华",
@@ -178,8 +179,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[09时03分 ~ 20时29分]"
+          "appearance_count": 26,
+          "time_info": "[09时03分 ~ 21时10分]"
         },
         {
           "title": "牛弹琴：特朗普被印度气坏了",
@@ -209,8 +210,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[11时37分 ~ 20时29分]"
+          "appearance_count": 24,
+          "time_info": "[11时37分 ~ 21时10分]"
         },
         {
           "title": "外交部回应特朗普称明年初访华",
@@ -327,6 +328,17 @@
           "time_info": "09时03分"
         },
         {
+          "title": "日本首相高市早苗：将采取一切必要措施，应对美国总统特朗普关税的影响。",
+          "url": "https://flash.jin10.com/detail/20251021210654139800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "特朗普大规模拆除白宫建筑",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%86%E9%99%A4%E7%99%BD%E5%AE%AB%E5%BB%BA%E7%AD%91",
           "source": "百度热搜",
@@ -361,6 +373,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时27分 ~ 15时15分]"
+        },
+        {
+          "title": "美国总统特朗普：如果不这样做，终结哈马斯将是“快速、激烈和残酷的”。",
+          "url": "https://flash.jin10.com/detail/20251021210526940800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "特朗普计划访华有何目的",
@@ -549,6 +572,17 @@
           "time_info": "[18时45分 ~ 19时12分]"
         },
         {
+          "title": "评论员：泽连斯基再度被特朗普侮辱",
+          "url": "https://www.toutiao.com/trending/7563610173114158601/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
           "title": "特朗普中断会议斥责摄影师",
           "url": "https://www.toutiao.com/trending/7563605955687661631/",
           "source": "今日头条",
@@ -558,6 +592,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时45分 ~ 19时12分]"
+        },
+        {
+          "title": "特朗普：从未说过乌克兰会赢",
+          "url": "https://www.toutiao.com/trending/7562774270133927999/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
         },
         {
           "title": "特朗普对华服软,关税讹诈玩不转",
@@ -583,6 +628,17 @@
           "time_info": "18时15分"
         },
         {
+          "title": "美国总统特朗普：哈马斯仍有希望做出正确选择。",
+          "url": "https://flash.jin10.com/detail/20251021210503595800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "美国总统特朗普重返白宫以来，已有超过51.5万名非法外国人被驱逐出境，特朗普有望在执政第一年结束前驱逐60万名非法移民，打破历史记录。",
           "url": "https://flash.jin10.com/detail/20251021100804742800",
           "source": "金十数据",
@@ -592,6 +648,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
+        },
+        {
+          "title": "美国总统特朗普：盟友已表示，如有需要，他们将携带重兵前往加沙。",
+          "url": "https://flash.jin10.com/detail/20251021210441797800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "“气氛紧张”，媒体爆美乌总统会晤细节，特朗普敦促泽连斯基接受俄罗斯条件",
@@ -666,7 +733,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -762,7 +829,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：三大指数均涨超1% 苹果大涨近4%",
@@ -778,15 +845,15 @@
           "time_info": "[09时03分 ~ 15时15分]"
         },
         {
-          "title": "通用汽车美股盘前涨幅扩大至10%。",
-          "url": "https://wallstreetcn.com/livenews/2991252",
-          "source": "华尔街见闻-快讯",
+          "title": "杠杆警报！美股这个“狂热指标”已经超过了1999年和2007年",
+          "url": "https://wallstreetcn.com/articles/3757528",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时45分 ~ 21时10分]"
         },
         {
           "title": "通用汽车三季度调整后每股收益2.80美元，上年同期2.96美元，预估2.27美元。 三季度净销售额和营收485.9亿美元，同比下降0.3%，预估451.8亿美元。 三季度调整后息税前利润33.8亿美元，同比下降18%，预估26.9亿美元。 通用汽车预计全财年调整后每股收益9.75美元至10.50美元，此前预计8.25美元至10美元，市场预估9.48美元。 通用汽车预计全财年调整后息税前利润120亿美元至130亿美元，此前预计100亿美元至125亿美元，市场预估114.5亿美元。 通用汽车预计全财年汽车部门调整后自由现金流100亿美元至110亿美元，此前预计75亿美元至100亿美元。 通用汽车美股盘前涨近6%。",
@@ -840,6 +907,18 @@
           "time_info": "[19时12分 ~ 19时37分]"
         },
         {
+          "title": "通用汽车美股盘前涨幅扩大至10%。",
+          "url": "https://wallstreetcn.com/livenews/2991252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 21时10分]"
+        },
+        {
           "title": "现货黄金向下触及4280美元/盎司，日内跌约1.8%。 现货白银日内跌幅扩大至4%，现报50.20美元/盎司。 美股黄金概念股盘前下跌，哈莫尼黄金、泛美白银跌超4%。",
           "url": "https://wallstreetcn.com/livenews/2991121",
           "source": "华尔街见闻-快讯",
@@ -854,15 +933,15 @@
           "time_info": "[16时19分 ~ 17时41分]"
         },
         {
-          "title": "杠杆警报！美股这个“狂热指标”已经超过了1999年和2007年",
-          "url": "https://wallstreetcn.com/articles/3757528",
+          "title": "美股期指集体走软，现货黄金跌3%，白银跌破50美元关口，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3757563",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时45分 ~ 19时37分]"
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
         },
         {
           "title": "通用汽车(GM.N)美股盘前下跌2.3%。",
@@ -874,6 +953,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时45分 ~ 19时12分]"
+        },
+        {
+          "title": "洛克希德-马丁第三季度每股收益6.95美元，去年同期6.80美元。 第三季度净销售额186.1亿美元，同比增长8.8%，市场预期185亿美元。 第三季度营业利润22.8亿美元，同比增长6.5%，市场预期21.8亿美元 预计全财年每股收益（EPS）约为22.15至22.35美元，之前预期21.70至22美元。 预计全财年净销售额约742.5亿至747.5亿美元，之前预期737.5亿至747.5亿美元，市场预期743.1亿美元。 洛克希德-马丁美股盘前涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/2991244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 21时10分]"
         },
         {
           "title": "可口可乐第三季度净营收125亿美元，预估124.8亿美元。 可口可乐第三季度可比每股收益0.82美元，预估0.78美元。 可口可乐仍然预测全年可比每股收益大约增长3％。 可口可乐仍然预测全年资本支出大约22亿美元，市场预估21.7亿美元。 可口可乐美股盘前涨近1%。",
@@ -894,7 +985,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -905,20 +996,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
         {
-          "title": "洛克希德-马丁第三季度每股收益6.95美元，去年同期6.80美元。 第三季度净销售额186.1亿美元，同比增长8.8%，市场预期185亿美元。 第三季度营业利润22.8亿美元，同比增长6.5%，市场预期21.8亿美元 预计全财年每股收益（EPS）约为22.15至22.35美元，之前预期21.70至22美元。 预计全财年净销售额约742.5亿至747.5亿美元，之前预期737.5亿至747.5亿美元，市场预期743.1亿美元。 洛克希德-马丁美股盘前涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/2991244",
-          "source": "华尔街见闻-快讯",
+          "title": "金十数据整理：每日美股市场要闻速递（2025-10-21）",
+          "url": "https://flash.jin10.com/detail/20251021210420352800",
+          "source": "金十数据",
           "ranks": [
-            13
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时29分"
+          "time_info": "21时10分"
         },
         {
           "title": "美股黄金概念股盘前下跌，科尔黛伦矿业(CDE.N)、哈莫尼黄金(HMY.N)、泛美白银(PAAS.O)下跌4%，纽曼矿业跌2.9%。",
@@ -935,7 +1026,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "财晓得｜金价幕后推手：他们在买黄金时，买的到底是什么？",
@@ -990,7 +1081,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -1032,6 +1123,29 @@
           "time_info": "[12时18分 ~ 12时43分]"
         },
         {
+          "title": "金价大涨影响年轻人结婚",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8%E5%BD%B1%E5%93%8D%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BB%93%E5%A9%9A",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时29分 ~ 21时10分]"
+        },
+        {
+          "title": "国际金价突然大跌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31819189",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
           "title": "金价飙升引发投资潮 韩国银行金条供不应求",
           "url": "https://flash.jin10.com/detail/20251021151749192800",
           "source": "金十数据",
@@ -1041,23 +1155,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
-        },
-        {
-          "title": "金价大涨影响年轻人结婚",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8%E5%BD%B1%E5%93%8D%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BB%93%E5%A9%9A",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
@@ -1069,8 +1172,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时19分 ~ 20时29分]"
+          "appearance_count": 11,
+          "time_info": "[16时19分 ~ 21时10分]"
         },
         {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
@@ -1084,8 +1187,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[11时37分 ~ 20时29分]"
+          "appearance_count": 24,
+          "time_info": "[11时37分 ~ 21时10分]"
         },
         {
           "title": "DeepSeek新模型深度解读",
@@ -1097,22 +1200,23 @@
             8,
             6,
             10,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时39分 ~ 20时29分]"
+          "appearance_count": 20,
+          "time_info": "[10时39分 ~ 21时10分]"
         },
         {
-          "title": "全球六大顶级AI实盘厮杀 DeepSeek第一",
-          "url": "https://www.toutiao.com/trending/7563562894495845907/",
-          "source": "今日头条",
+          "title": "DeepSeek暂列AI炒币大赛榜首",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9A%82%E5%88%97AI%E7%82%92%E5%B8%81%E5%A4%A7%E8%B5%9B%E6%A6%9C%E9%A6%96",
+          "source": "bilibili 热搜",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时45分"
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
         },
         {
           "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
@@ -1125,6 +1229,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时03分 ~ 11时37分]"
+        },
+        {
+          "title": "全球六大顶级AI实盘厮杀 DeepSeek第一",
+          "url": "https://www.toutiao.com/trending/7563562894495845907/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 21时10分]"
         },
         {
           "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
@@ -1189,6 +1305,18 @@
           "time_info": "[14时27分 ~ 15时15分]"
         },
         {
+          "title": "摩根大通美债客户调查显示净多头占比创8月25日以来新低",
+          "url": "https://wallstreetcn.com/livenews/2991245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 21时10分]"
+        },
+        {
           "title": "摩根士丹利：10年期美债收益率跌破4%后可能进一步下跌",
           "url": "https://flash.jin10.com/detail/20251021134611538800",
           "source": "金十数据",
@@ -1209,17 +1337,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
-        },
-        {
-          "title": "摩根大通美债客户调查显示净多头占比创8月25日以来新低",
-          "url": "https://wallstreetcn.com/livenews/2991245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
         },
         {
           "title": "机构：外资美债需求下滑预示美元走弱",
@@ -1369,8 +1486,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[09时03分 ~ 20时29分]"
+          "appearance_count": 26,
+          "time_info": "[09时03分 ~ 21时10分]"
         },
         {
           "title": "美贸协议乐观情绪推动亚股走高，日经225指数逼近5万关口，买入信号显现；现货黄金重回4300美元关口后，多头仍在观望，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
