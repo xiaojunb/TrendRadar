@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T22:17:19.967199+08:00",
-  "total_titles_processed": 1810,
+  "generated_at": "2025-10-22T22:46:47.804487+08:00",
+  "total_titles_processed": 1874,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普称中美元首未必会见面，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[15时46分 ~ 22时17分]"
+          "appearance_count": 17,
+          "time_info": "[15时46分 ~ 22时46分]"
         },
         {
           "title": "【早报】深夜急跌！黄金一度创12年来最大单日跌幅；特朗普称将于明年初访问中国，外交部回应",
@@ -40,6 +40,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[12时18分 ~ 16时50分]"
+        },
+        {
+          "title": "特朗普向特朗普政府索赔",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E7%B4%A2%E8%B5%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时17分 ~ 22时46分]"
         },
         {
           "title": "释新闻｜美澳签关键矿物协议，特朗普“一年后”会得到很多稀土吗？",
@@ -66,20 +78,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[13时41分 ~ 22时17分]"
-        },
-        {
-          "title": "特朗普向特朗普政府索赔",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E7%B4%A2%E8%B5%94",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时17分 ~ 22时17分]"
+          "appearance_count": 22,
+          "time_info": "[13时41分 ~ 22时46分]"
         },
         {
           "title": "特朗普称预计将与中国达成贸易协议，外交部回应",
@@ -92,8 +92,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[16时21分 ~ 22时17分]"
+          "appearance_count": 16,
+          "time_info": "[16时21分 ~ 22时46分]"
         },
         {
           "title": "中方回应特朗普称中美将达成贸易协议",
@@ -105,8 +105,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[15时46分 ~ 22时17分]"
+          "appearance_count": 17,
+          "time_info": "[15时46分 ~ 22时46分]"
         },
         {
           "title": "俄乌进程一波三折：“特普会”筹备遇阻，欧洲首次明确响应特朗普，呼吁“立即停火”",
@@ -147,8 +147,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[10时54分 ~ 22时17分]"
+          "appearance_count": 28,
+          "time_info": "[10时54分 ~ 22时46分]"
         },
         {
           "title": "美媒：乌欧拟推12点和平方案，特朗普任和平委员会主席",
@@ -165,17 +165,29 @@
           "time_info": "[10时54分 ~ 18时46分]"
         },
         {
+          "title": "挖掘机忙个不停，特朗普对白宫做了哪些改造？",
+          "url": "https://news.ifeng.com/c/8nfCFTiNYVe",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时37分 ~ 22时46分]"
+        },
+        {
           "title": "中方回应特朗普称中美将达成协议",
           "url": "https://www.douyin.com/hot/2278821",
           "source": "抖音",
           "ranks": [
             5,
             16,
-            26
+            26,
+            24
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[16时21分 ~ 22时17分]"
+          "appearance_count": 16,
+          "time_info": "[16时21分 ~ 22时46分]"
         },
         {
           "title": "中方回应特朗普称中美将达成协议",
@@ -194,17 +206,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[16时21分 ~ 21时51分]"
-        },
-        {
-          "title": "挖掘机忙个不停，特朗普对白宫做了哪些改造？",
-          "url": "https://news.ifeng.com/c/8nfCFTiNYVe",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时37分 ~ 22时17分]"
         },
         {
           "title": "特朗普吹嘘从各国拿到巨额关税资金",
@@ -234,11 +235,23 @@
             13,
             12,
             10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 28,
+          "time_info": "[10时54分 ~ 22时46分]"
+        },
+        {
+          "title": "2.3亿美元，特朗普向特朗普政府索赔",
+          "url": "https://finance.ifeng.com/c/8nf3DmipKgS",
+          "source": "凤凰网",
+          "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[10时54分 ~ 22时17分]"
+          "appearance_count": 8,
+          "time_info": "[19时13分 ~ 22时46分]"
         },
         {
           "title": "特朗普对俄乌和谈态度再变",
@@ -264,17 +277,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时17分 ~ 19时13分]"
-        },
-        {
-          "title": "2.3亿美元，特朗普向特朗普政府索赔",
-          "url": "https://finance.ifeng.com/c/8nf3DmipKgS",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时13分 ~ 22时17分]"
         },
         {
           "title": "美学者：特朗普对华贸易政策反复变化让人厌倦",
@@ -365,6 +367,30 @@
           "time_info": "[12时19分 ~ 13时14分]"
         },
         {
+          "title": "特朗普为何急推俄乌停火",
+          "url": "https://www.toutiao.com/trending/7564016399010500138/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时50分 ~ 22时46分]"
+        },
+        {
+          "title": "特朗普“强拆”白宫东翼引争议，新建宴会厅面积和资金来源遭质疑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31822497",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时50分 ~ 22时46分]"
+        },
+        {
           "title": "大V：特朗普放大招收买美军或遭反噬",
           "url": "https://www.toutiao.com/trending/7563913682791435814/",
           "source": "今日头条",
@@ -376,6 +402,31 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时46分 ~ 16时50分]"
+        },
+        {
+          "title": "美企敦促最高法院裁决特朗普关税非法",
+          "url": "https://www.toutiao.com/trending/7564008619885202987/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时50分 ~ 22时46分]"
+        },
+        {
+          "title": "特朗普向特朗普政府索赔2.3亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E7%B4%A2%E8%B5%942.3%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时50分 ~ 22时46分]"
         },
         {
           "title": "匈牙利总理欧尔班：特朗普与普京会晤筹备工作仍在继续",
@@ -391,17 +442,6 @@
           "time_info": "[16时22分 ~ 17时18分]"
         },
         {
-          "title": "特朗普为何急推俄乌停火",
-          "url": "https://www.toutiao.com/trending/7564016399010500138/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时50分 ~ 22时17分]"
-        },
-        {
           "title": "国台办回应特朗普涉台湾言论",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E6%B9%BE%E8%A8%80%E8%AE%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D10%26lcate%3D5001%26pos%3D11%26realpos%3D10%26filter_type%3Drealtimehot%26q%3D%2523%25E5%259B%25BD%25E5%258F%25B0%25E5%258A%259E%25E5%259B%259E%25E5%25BA%2594%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E6%25B6%2589%25E5%258F%25B0%25E6%25B9%25BE%25E8%25A8%2580%25E8%25AE%25BA%2523%26c_type%3D31%26cate%3D5001%26dgr%3D0%26flag%3D1%26display_time%3D1761109989%26pre_seqid%3D176110998898403158832101",
           "source": "微博",
@@ -412,17 +452,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时14分 ~ 13时42分]"
-        },
-        {
-          "title": "特朗普“强拆”白宫东翼引争议，新建宴会厅面积和资金来源遭质疑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31822497",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时50分 ~ 22时17分]"
         },
         {
           "title": "希拉里痛批特朗普斥巨资改造白宫",
@@ -448,30 +477,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时21分 ~ 16时50分]"
-        },
-        {
-          "title": "美企敦促最高法院裁决特朗普关税非法",
-          "url": "https://www.toutiao.com/trending/7564008619885202987/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时50分 ~ 22时17分]"
-        },
-        {
-          "title": "特朗普向特朗普政府索赔2.3亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E7%B4%A2%E8%B5%942.3%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时50分 ~ 22时17分]"
         },
         {
           "title": "据英国金融时报：美国财政部的一项分析发现，特朗普政府的经济政策使美国走上了通过削减支出和提高关税收入来改善财政前景的道路，从而缩小其不断扩大的赤字。",
@@ -689,6 +694,17 @@
           "time_info": "10时54分"
         },
         {
+          "title": "特朗普开始创造性破坏白宫",
+          "url": "https://www.toutiao.com/trending/7563916723658244105/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "特朗普或向司法部索赔2.3亿美元 资金可能用于翻修白宫",
           "url": "https://flash.jin10.com/detail/20251022100040568800",
           "source": "金十数据",
@@ -764,6 +780,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
+        },
+        {
+          "title": "希拉里痛批特朗普2.5亿美元改造白宫",
+          "url": "https://www.baidu.com/s?wd=%E5%B8%8C%E6%8B%89%E9%87%8C%E7%97%9B%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE2.5%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B9%E9%80%A0%E7%99%BD%E5%AE%AB",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         }
       ]
     },
@@ -822,8 +849,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[16时50分 ~ 22时17分]"
+          "appearance_count": 14,
+          "time_info": "[16时50分 ~ 22时46分]"
         },
         {
           "title": "金价创12年最大单日跌幅 华尔街热议：中途休整还是牛市终结？",
@@ -842,6 +869,21 @@
           "time_info": "[13时14分 ~ 17时43分]"
         },
         {
+          "title": "黄金价格大跳水 金价到顶了吗",
+          "url": "https://www.toutiao.com/trending/7563965781701037609/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            4,
+            21,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时17分 ~ 22时46分]"
+        },
+        {
           "title": "今日各大金店金价",
           "url": "https://www.toutiao.com/trending/7563938982417927721/",
           "source": "今日头条",
@@ -853,22 +895,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[16时21分 ~ 22时17分]"
-        },
-        {
-          "title": "黄金价格大跳水 金价到顶了吗",
-          "url": "https://www.toutiao.com/trending/7563965781701037609/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            4,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时17分 ~ 22时17分]"
+          "appearance_count": 16,
+          "time_info": "[16时21分 ~ 22时46分]"
         },
         {
           "title": "金价大跌有人一夜亏5万",
@@ -950,6 +978,17 @@
           "time_info": "[09时01分 ~ 11时41分]"
         },
         {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26stream_entry_id%3D31%26lcate%3D5001%26realpos%3D22%26band_rank%3D22%26filter_type%3Drealtimehot%26pos%3D23%26c_type%3D31%26dgr%3D0%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26cate%3D5001%26display_time%3D1761139806%26pre_seqid%3D17611398064760326281151",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时50分 ~ 22时46分]"
+        },
+        {
           "title": "金价银价为什么同时下跌",
           "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%8C%E6%97%B6%E4%B8%8B%E8%B7%8C",
           "source": "bilibili 热搜",
@@ -960,17 +999,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时41分 ~ 12时19分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26stream_entry_id%3D31%26lcate%3D5001%26realpos%3D22%26band_rank%3D22%26filter_type%3Drealtimehot%26pos%3D23%26c_type%3D31%26dgr%3D0%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26cate%3D5001%26display_time%3D1761139806%26pre_seqid%3D17611398064760326281151",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时50分 ~ 22时17分]"
         },
         {
           "title": "澳新银行：推动金价上涨的长期因素依然存在",
@@ -1063,8 +1091,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[09时01分 ~ 22时17分]"
+          "appearance_count": 30,
+          "time_info": "[09时01分 ~ 22时46分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 道指创历史新高",
@@ -1087,17 +1115,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，网络股指数ETF跌超1%，黄金ETF持续走低。",
-          "url": "https://wallstreetcn.com/livenews/2991972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
         },
         {
           "title": "美股开盘，道指跌0.04%，标普500指数涨0.07%，纳指跌0.15%。Meta Platforms(META.O)平开，有报道称其将在AI部门裁减数百个职位，苹果开跌0.3%，公司据悉削减了iPhone Air的生产订单，且因应用商店条款问题遭到欧盟的反垄断投诉。“人造肉第一股”Beyond Meat(BYND.O)大涨71%。",
@@ -1136,6 +1153,18 @@
           "time_info": "[19时13分 ~ 19时37分]"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，网络股指数ETF跌超1%，黄金ETF持续走低。",
+          "url": "https://wallstreetcn.com/livenews/2991972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 22时46分]"
+        },
+        {
           "title": "奈飞美股盘前跌超6%，公司Q3盈利远逊预期，下调全年指引。",
           "url": "https://wallstreetcn.com/livenews/2991788",
           "source": "华尔街见闻-快讯",
@@ -1159,6 +1188,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时37分 ~ 20时29分]"
+        },
+        {
+          "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 22时46分]"
+        },
+        {
+          "title": "美股三大指数开盘涨跌不一，道指跌0.03%，纳指跌0.1%，标普500指数涨0.07%。苹果跌0.3%，公司削减了iPhone Air的生产订单；“人造肉第一股”Beyond Meat大涨71%；奈飞跌超7%，Q3盈利远逊预期，下调全年指引。德州仪器跌9.8%，至5月以来最低水平，Q4业绩展望不及预期，暗示芯片行业复苏缓慢。",
+          "url": "https://wallstreetcn.com/livenews/2991966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 22时46分]"
         },
         {
           "title": "美股期指盘前集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
@@ -1195,17 +1247,6 @@
           "time_info": "20时29分"
         },
         {
-          "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
-          "url": "https://wallstreetcn.com/articles/3757644",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
           "title": "美股盘前，贵金属概念股小幅回暖，泛美白银(PAAS.O)涨超1.6%，金罗斯黄金(KGC.N)、金田(GFI.N)涨0.6%。",
           "url": "https://flash.jin10.com/detail/20251022160653226800",
           "source": "金十数据",
@@ -1215,17 +1256,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
-        },
-        {
-          "title": "美股三大指数开盘涨跌不一，道指跌0.03%，纳指跌0.1%，标普500指数涨0.07%。苹果跌0.3%，公司削减了iPhone Air的生产订单；“人造肉第一股”Beyond Meat大涨71%；奈飞跌超7%，Q3盈利远逊预期，下调全年指引。德州仪器跌9.8%，至5月以来最低水平，Q4业绩展望不及预期，暗示芯片行业复苏缓慢。",
-          "url": "https://wallstreetcn.com/livenews/2991966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
         },
         {
           "title": "金十数据整理：每日美股市场要闻速递（2025-10-22）",
@@ -1265,8 +1295,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[10时54分 ~ 22时17分]"
+          "appearance_count": 28,
+          "time_info": "[10时54分 ~ 22时46分]"
         },
         {
           "title": "OpenAI推出AI浏览器Atlas 与谷歌Chrome正面竞争",
@@ -1334,7 +1364,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
