@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T18:46:47.614092+08:00",
-  "total_titles_processed": 1390,
+  "generated_at": "2025-10-22T19:13:23.019931+08:00",
+  "total_titles_processed": 1459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "【早报】深夜急跌！黄金一度创12年来最大单日跌幅；特朗普称将于明年初访问中国，外交部回应",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时01分 ~ 13时42分]"
+        },
+        {
+          "title": "特朗普称中美元首未必会见面，外交部回应",
+          "url": "https://news.ifeng.com/c/8nezfC6pmYF",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时46分 ~ 19时13分]"
         },
         {
           "title": "特朗普称大陆不想对台湾发动进攻，国台办回应",
@@ -39,19 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[10时54分 ~ 18时46分]"
-        },
-        {
-          "title": "特朗普称中美元首未必会见面，外交部回应",
-          "url": "https://news.ifeng.com/c/8nezfC6pmYF",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时46分 ~ 18时46分]"
+          "appearance_count": 21,
+          "time_info": "[10时54分 ~ 19时13分]"
         },
         {
           "title": "特朗普称大陆不想进攻台湾 国台办回应",
@@ -65,8 +65,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时41分 ~ 18时46分]"
+          "appearance_count": 15,
+          "time_info": "[13时41分 ~ 19时13分]"
+        },
+        {
+          "title": "中方回应特朗普称中美将达成协议",
+          "url": "https://www.douyin.com/hot/2278821",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时21分 ~ 19时13分]"
         },
         {
           "title": "俄乌进程一波三折：“特普会”筹备遇阻，欧洲首次明确响应特朗普，呼吁“立即停火”",
@@ -78,8 +89,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[09时01分 ~ 18时46分]"
+          "appearance_count": 23,
+          "time_info": "[09时01分 ~ 19时13分]"
         },
         {
           "title": "特朗普：特普会待定，不想白费功夫",
@@ -97,6 +108,32 @@
           "time_info": "[09时01分 ~ 18时46分]"
         },
         {
+          "title": "特朗普称预计将与中国达成贸易协议，外交部回应",
+          "url": "https://www.cls.cn/detail/2176974",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时21分 ~ 19时13分]"
+        },
+        {
+          "title": "中方回应特朗普称中美将达成贸易协议",
+          "url": "https://www.toutiao.com/trending/7563496326190022665/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时46分 ~ 19时13分]"
+        },
+        {
           "title": "分歧太大，匈牙利“特普会”取消了，特朗普称“不想浪费时间”",
           "url": "https://wallstreetcn.com/articles/3757603",
           "source": "华尔街见闻",
@@ -107,8 +144,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[10时54分 ~ 18时46分]"
+          "appearance_count": 21,
+          "time_info": "[10时54分 ~ 19时13分]"
         },
         {
           "title": "美媒：乌欧拟推12点和平方案，特朗普任和平委员会主席",
@@ -126,40 +163,17 @@
         },
         {
           "title": "中方回应特朗普称中美将达成协议",
-          "url": "https://www.douyin.com/hot/2278821",
-          "source": "抖音",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%AD%E7%BE%8E%E5%B0%86%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE",
+          "source": "百度热搜",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时21分 ~ 18时46分]"
-        },
-        {
-          "title": "特朗普称预计将与中国达成贸易协议，外交部回应",
-          "url": "https://www.cls.cn/detail/2176974",
-          "source": "财联社热门",
-          "ranks": [
+            5,
+            6,
             7,
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时21分 ~ 18时46分]"
-        },
-        {
-          "title": "中方回应特朗普称中美将达成贸易协议",
-          "url": "https://www.toutiao.com/trending/7563496326190022665/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            1
+            8
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[15时46分 ~ 18时46分]"
+          "time_info": "[16时21分 ~ 19时13分]"
         },
         {
           "title": "特朗普吹嘘从各国拿到巨额关税资金",
@@ -191,21 +205,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[10时54分 ~ 18时46分]"
-        },
-        {
-          "title": "中方回应特朗普称中美将达成协议",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%AD%E7%BE%8E%E5%B0%86%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时21分 ~ 18时46分]"
+          "appearance_count": 21,
+          "time_info": "[10时54分 ~ 19时13分]"
         },
         {
           "title": "特朗普对俄乌和谈态度再变",
@@ -225,11 +226,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E7%B4%A2%E8%B5%94",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时46分]"
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 19时13分]"
         },
         {
           "title": "特朗普向特朗普政府索赔2.3亿美元",
@@ -240,8 +242,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时46分]"
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 19时13分]"
         },
         {
           "title": "美学者：特朗普对华贸易政策反复变化让人厌倦",
@@ -294,6 +296,20 @@
           "time_info": "[17时18分 ~ 18时46分]"
         },
         {
+          "title": "特朗普：暂时不想见普京 浪费时间",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%9A%82%E6%97%B6%E4%B8%8D%E6%83%B3%E8%A7%81%E6%99%AE%E4%BA%AC+%E6%B5%AA%E8%B4%B9%E6%97%B6%E9%97%B4",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            27,
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时42分 ~ 19时13分]"
+        },
+        {
           "title": "特朗普政府正就药品定价问题加大对美国贸易伙伴的攻击力度，准备展开一项新的调查，为新一轮关税攻势奠定基础。",
           "url": "https://flash.jin10.com/detail/20251022120338163800",
           "source": "金十数据",
@@ -318,19 +334,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时46分 ~ 16时50分]"
-        },
-        {
-          "title": "特朗普：暂时不想见普京 浪费时间",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%9A%82%E6%97%B6%E4%B8%8D%E6%83%B3%E8%A7%81%E6%99%AE%E4%BA%AC+%E6%B5%AA%E8%B4%B9%E6%97%B6%E9%97%B4",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时42分 ~ 18时46分]"
         },
         {
           "title": "匈牙利总理欧尔班：特朗普与普京会晤筹备工作仍在继续",
@@ -505,6 +508,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "2.3亿美元，特朗普向特朗普政府索赔",
+          "url": "https://finance.ifeng.com/c/8nf3DmipKgS",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
+          "title": "路透社/益普索民调：51%的人认为如果加沙停火能够持续，特朗普值得赞扬，42%的人不同意这一观点。",
+          "url": "https://flash.jin10.com/detail/20251022185352847800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "消息人士称，日本首相高市早苗将在与美国总统特朗普的会谈中表示，日本将购买美国大豆、皮卡和液化天然气，但不会承诺新的国防支出目标。",
@@ -688,11 +713,12 @@
           "ranks": [
             8,
             6,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时21分 ~ 18时46分]"
+          "appearance_count": 9,
+          "time_info": "[16时21分 ~ 19时13分]"
         },
         {
           "title": "金价这轮会跌多久",
@@ -702,11 +728,12 @@
             14,
             12,
             11,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时21分 ~ 18时46分]"
+          "appearance_count": 9,
+          "time_info": "[16时21分 ~ 19时13分]"
         },
         {
           "title": "金价为何暴跌？高盛交易员：黄金走势图看起来就像一只妖股的崩盘",
@@ -716,11 +743,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时50分 ~ 18时46分]"
+          "appearance_count": 7,
+          "time_info": "[16时50分 ~ 19时13分]"
         },
         {
           "title": "现货金价剧烈回调一度跌超5% 避险情绪降温投机多头遭反噬",
@@ -752,11 +780,12 @@
           "source": "今日头条",
           "ranks": [
             10,
-            4
+            4,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时46分]"
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 19时13分]"
         },
         {
           "title": "金价银价急跌",
@@ -863,7 +892,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
@@ -873,8 +902,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[09时01分 ~ 18时46分]"
+          "appearance_count": 23,
+          "time_info": "[09时01分 ~ 19时13分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 道指创历史新高",
@@ -886,6 +915,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时01分 ~ 13时14分]"
+        },
+        {
+          "title": "Beyond Meat(BYND.O)延续涨势，美股盘前一度大涨100%，过去三个交易日已累涨约600%。",
+          "url": "https://flash.jin10.com/detail/20251022190108707800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "奈飞美股盘前跌超6%，公司Q3盈利远逊预期，下调全年指引。",
@@ -922,12 +962,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "AT&T(T.N)股价美股盘前上涨2.8%。",
+          "url": "https://flash.jin10.com/detail/20251022184052154800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "泽连斯基称已准备好结束俄乌冲突 OpenAI推出AI浏览器 | 环球市场",
@@ -978,6 +1029,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
+        },
+        {
+          "title": "欧盟委员会发言人：欧盟委员会正在评估ChatGPT在欧洲的用户数量。",
+          "url": "https://flash.jin10.com/detail/20251022183455687800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         }
       ]
     },
@@ -1092,8 +1154,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[10时54分 ~ 18时46分]"
+          "appearance_count": 21,
+          "time_info": "[10时54分 ~ 19时13分]"
         },
         {
           "title": "OpenAI推出AI浏览器Atlas 与谷歌Chrome正面竞争",
