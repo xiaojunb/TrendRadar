@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T22:16:32.303282+08:00",
-  "total_titles_processed": 1876,
+  "generated_at": "2025-10-23T22:45:41.830995+08:00",
+  "total_titles_processed": 1928,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 67,
       "titles": [
         {
           "title": "【早报】特朗普：取消与普京会面；公募基金业绩比较基准规则征求意见稿即将发布",
@@ -78,8 +78,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[12时44分 ~ 22时16分]"
+          "appearance_count": 20,
+          "time_info": "[12时44分 ~ 22时45分]"
         },
         {
           "title": "从宣布到取消 特朗普与普京会晤为何被“急踩刹车”？",
@@ -96,6 +96,17 @@
           "time_info": "[10时27分 ~ 16时20分]"
         },
         {
+          "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
+          "url": "https://news.ifeng.com/c/8ngrvoE5VJT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时37分 ~ 22时45分]"
+        },
+        {
           "title": "特朗普访日行程公布",
           "url": "https://news.ifeng.com/c/8ngeBFUGsML",
           "source": "凤凰网",
@@ -103,8 +114,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时20分 ~ 22时16分]"
+          "appearance_count": 13,
+          "time_info": "[16时20分 ~ 22时45分]"
         },
         {
           "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
@@ -116,8 +127,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[13时14分 ~ 22时16分]"
+          "appearance_count": 19,
+          "time_info": "[13时14分 ~ 22时45分]"
         },
         {
           "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
@@ -132,8 +143,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[10时27分 ~ 22时16分]"
+          "appearance_count": 24,
+          "time_info": "[10时27分 ~ 22时45分]"
         },
         {
           "title": "特朗普称取消与普京会晤 美国国债总额首次超过38万亿美元 | 环球市场",
@@ -169,17 +180,6 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[09时01分 ~ 21时08分]"
-        },
-        {
-          "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
-          "url": "https://news.ifeng.com/c/8ngrvoE5VJT",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时37分 ~ 22时16分]"
         },
         {
           "title": "特朗普：取消与普京的会面",
@@ -700,6 +700,17 @@
           "time_info": "13时42分"
         },
         {
+          "title": "美国众议院少数党领袖杰弗瑞斯：美国总统特朗普应在亚洲之行前与民主党人坐下来谈谈。",
+          "url": "https://flash.jin10.com/detail/20251023221255199800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "特朗普取消见普京后美欧先后制裁俄方",
           "url": "https://www.toutiao.com/trending/7564260305593732627/",
           "source": "今日头条",
@@ -709,6 +720,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "释新闻｜特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31827023",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "美国众议院少数党领袖杰弗瑞斯：美国总统特朗普未授权共和党领导人进行谈判。",
+          "url": "https://flash.jin10.com/detail/20251023221050798800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "IONQ、RIGETTI和DWAVE的股价在法兰克福上涨了15%至22%，此前《华尔街日报》报道称，特朗普政府可能入股量子计算公司。",
@@ -775,6 +808,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
+        },
+        {
+          "title": "特朗普为何要斥巨资改造白宫",
+          "url": "https://www.toutiao.com/trending/7564377047804415526/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         }
       ]
     },
@@ -790,8 +834,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[09时01分 ~ 22时16分]"
+          "appearance_count": 25,
+          "time_info": "[09时01分 ~ 22时45分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
@@ -836,11 +880,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 22时16分]"
+          "appearance_count": 3,
+          "time_info": "[21时50分 ~ 22时45分]"
         },
         {
           "title": "金十数据整理：每日美股市场要闻速递（2025-10-23）",
@@ -860,11 +905,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 22时16分]"
+          "appearance_count": 3,
+          "time_info": "[21时50分 ~ 22时45分]"
         },
         {
           "title": "诺基亚美股盘前上涨9.7%。诺基亚第三季度调整后营业利润4.35亿欧元，预估3.242亿欧元。",
@@ -919,7 +965,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -1034,8 +1080,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时29分 ~ 22时16分]"
+          "appearance_count": 5,
+          "time_info": "[20时29分 ~ 22时45分]"
         },
         {
           "title": "金价回调可以“上车”了吗",
@@ -1086,6 +1132,85 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "比超级计算机快1.3万倍！谷歌量子计算再现突破 诺奖得主送上关键助攻",
+          "url": "https://www.cls.cn/detail/2177879",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时50分 ~ 17时42分]"
+        },
+        {
+          "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
+          "url": "https://wallstreetcn.com/articles/3757674",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 25,
+          "time_info": "[09时01分 ~ 22时45分]"
+        },
+        {
+          "title": "据天空新闻：谷歌(GOOG.O)已同意投资一项金融工具，该工具可转换为对THG Ingenuity的股权，估值达7.5亿英镑或更高。",
+          "url": "https://flash.jin10.com/detail/20251023170528085800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：在伊利诺伊州的工厂将捕获并储存约90%的二氧化碳排放。",
+          "url": "https://flash.jin10.com/detail/20251023220842849800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "市场消息：谷歌(GOOG.O)签署企业协议，以支持一家采用碳捕捉与封存技术的天然气发电厂。",
+          "url": "https://flash.jin10.com/detail/20251023220802219800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：谷歌威胁情报小组正在追踪一群来自越南、出于经济利益实施攻击的威胁行为者。",
+          "url": "https://flash.jin10.com/detail/20251023220726565800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
@@ -1095,11 +1220,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 22时16分]"
+          "appearance_count": 3,
+          "time_info": "[21时50分 ~ 22时45分]"
         },
         {
           "title": "英国政府与OpenAI达成协议，以扩大数据托管范围。（彭博）",
@@ -1134,52 +1260,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "比超级计算机快1.3万倍！谷歌量子计算再现突破 诺奖得主送上关键助攻",
-          "url": "https://www.cls.cn/detail/2177879",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时50分 ~ 17时42分]"
-        },
-        {
-          "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
-          "url": "https://wallstreetcn.com/articles/3757674",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[09时01分 ~ 22时16分]"
-        },
-        {
-          "title": "据天空新闻：谷歌(GOOG.O)已同意投资一项金融工具，该工具可转换为对THG Ingenuity的股权，估值达7.5亿英镑或更高。",
-          "url": "https://flash.jin10.com/detail/20251023170528085800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时42分"
         }
       ]
     },
