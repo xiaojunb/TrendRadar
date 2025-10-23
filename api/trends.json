@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T16:48:17.073106+08:00",
-  "total_titles_processed": 1233,
+  "generated_at": "2025-10-23T17:17:22.589582+08:00",
+  "total_titles_processed": 1296,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "【早报】特朗普：取消与普京会面；公募基金业绩比较基准规则征求意见稿即将发布",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时18分 ~ 16时48分]"
+          "appearance_count": 11,
+          "time_info": "[12时18分 ~ 17时17分]"
         },
         {
           "title": "他被特朗普当众羞辱，全场都在哄笑",
@@ -64,8 +64,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时01分 ~ 16时48分]"
+          "appearance_count": 15,
+          "time_info": "[09时01分 ~ 17时17分]"
+        },
+        {
+          "title": "特朗普上任后首次，美国对俄两大石油公司实施制裁，油价应声大涨4%",
+          "url": "https://wallstreetcn.com/articles/3757694",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时44分 ~ 17时17分]"
         },
         {
           "title": "从宣布到取消 特朗普与普京会晤为何被“急踩刹车”？",
@@ -80,19 +93,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[10时27分 ~ 16时20分]"
-        },
-        {
-          "title": "特朗普上任后首次，美国对俄两大石油公司实施制裁，油价应声大涨4%",
-          "url": "https://wallstreetcn.com/articles/3757694",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时44分 ~ 16时48分]"
         },
         {
           "title": "特朗普称取消与普京会晤 美国国债总额首次超过38万亿美元 | 环球市场",
@@ -123,8 +123,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时01分 ~ 16时48分]"
+          "appearance_count": 14,
+          "time_info": "[09时01分 ~ 17时17分]"
         },
         {
           "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
@@ -136,8 +136,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时27分 ~ 16时48分]"
+          "appearance_count": 14,
+          "time_info": "[10时27分 ~ 17时17分]"
         },
         {
           "title": "特朗普：取消与普京的会面",
@@ -157,11 +157,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时14分 ~ 16时48分]"
+          "appearance_count": 9,
+          "time_info": "[13时14分 ~ 17时17分]"
         },
         {
           "title": "俄方回应特朗普取消与普京会面",
@@ -378,6 +379,29 @@
           "time_info": "[15时39分 ~ 16时20分]"
         },
         {
+          "title": "特朗普访日行程公布",
+          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 17时17分]"
+        },
+        {
+          "title": "唐驳虎：特朗普第一次对普京动真格",
+          "url": "https://www.toutiao.com/trending/7564280002351468071/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 17时17分]"
+        },
+        {
           "title": "特朗普为啥又不想见普京了",
           "url": "https://www.toutiao.com/trending/7564254660786130471/",
           "source": "今日头条",
@@ -389,17 +413,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时51分 ~ 15时39分]"
-        },
-        {
-          "title": "特朗普访日行程公布",
-          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 16时48分]"
         },
         {
           "title": "据悉特朗普计划在大西洋和太平洋沿岸进行新的石油钻探",
@@ -438,6 +451,18 @@
           "time_info": "[11时50分 ~ 12时18分]"
         },
         {
+          "title": "俄乌和平进程受阻？特朗普最新表态：取消与普京布达佩斯会晤",
+          "url": "https://www.cls.cn/detail/2177790",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 17时17分]"
+        },
+        {
           "title": "特朗普称大陆不想进攻台湾 国台办回应",
           "url": "https://www.toutiao.com/trending/7563604843634544147/",
           "source": "今日头条",
@@ -462,18 +487,6 @@
           "time_info": "[12时18分 ~ 12时44分]"
         },
         {
-          "title": "唐驳虎：特朗普第一次对普京动真格",
-          "url": "https://www.toutiao.com/trending/7564280002351468071/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 16时48分]"
-        },
-        {
           "title": "特朗普考虑对外国药品定价启动调查",
           "url": "https://www.toutiao.com/trending/7563908959195660315/",
           "source": "今日头条",
@@ -494,17 +507,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
-        },
-        {
-          "title": "俄乌和平进程受阻？特朗普最新表态：取消与普京布达佩斯会晤",
-          "url": "https://www.cls.cn/detail/2177790",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时48分"
         },
         {
           "title": "俄罗斯外交部（谈及普京-特朗普峰会取消）：俄外交部已准备好继续与美国国务院保持接触。",
@@ -604,6 +606,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
+        },
+        {
+          "title": "为何没人知晓特朗普家族如今赚多少钱",
+          "url": "https://www.toutiao.com/trending/7564312142908755510/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         }
       ]
     },
@@ -658,8 +671,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时14分 ~ 16时48分]"
+          "appearance_count": 9,
+          "time_info": "[13时14分 ~ 17时17分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）上海金午盘价为941.53元/克，较国际金价(943.31元/克)，低1.78元/克",
@@ -736,7 +749,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -746,8 +759,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时01分 ~ 16时48分]"
+          "appearance_count": 15,
+          "time_info": "[09时01分 ~ 17时17分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
@@ -771,8 +784,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时01分 ~ 16时48分]"
+          "appearance_count": 15,
+          "time_info": "[09时01分 ~ 17时17分]"
+        },
+        {
+          "title": "蔚来汽车(NIO.N)美股盘前涨超1.5%，此前有报道称，蔚来上周交付破万。",
+          "url": "https://flash.jin10.com/detail/20251023164713851800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "诺基亚美股盘前上涨9.7%。诺基亚第三季度调整后营业利润4.35亿欧元，预估3.242亿欧元。",
@@ -827,8 +851,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时50分 ~ 16时48分]"
+          "appearance_count": 12,
+          "time_info": "[11时50分 ~ 17时17分]"
         },
         {
           "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
@@ -841,8 +865,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时01分 ~ 16时48分]"
+          "appearance_count": 15,
+          "time_info": "[09时01分 ~ 17时17分]"
         }
       ]
     },
