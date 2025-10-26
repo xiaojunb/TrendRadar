@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-26T12:17:39.897399+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2025-10-26T12:41:26.502839+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普：对加拿大再征收10%额外关税",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 12时17分]"
+          "appearance_count": 5,
+          "time_info": "[09时04分 ~ 12时41分]"
         },
         {
           "title": "美国总统特朗普启程访问亚洲三国",
@@ -28,30 +28,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 12时17分]"
+          "appearance_count": 5,
+          "time_info": "[09时04分 ~ 12时41分]"
         },
         {
           "title": "特朗普宣布对加拿大征收10%额外关税",
           "url": "https://www.toutiao.com/trending/7564897310455529499/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 12时17分]"
-        },
-        {
-          "title": "特朗普拆建白宫为何招非议",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%86%E5%BB%BA%E7%99%BD%E5%AE%AB%E4%B8%BA%E4%BD%95%E6%8B%9B%E9%9D%9E%E8%AE%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 12时17分]"
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 12时41分]"
         },
         {
           "title": "不满加拿大反关税广告 特朗普宣布对加方征收10%额外关税",
@@ -59,11 +49,46 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 12时17分]"
+          "appearance_count": 5,
+          "time_info": "[09时04分 ~ 12时41分]"
+        },
+        {
+          "title": "白宫：美国总统特朗普将于周日会见巴西领导人。",
+          "url": "https://flash.jin10.com/detail/20251026120039149800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "特朗普拆建白宫为何招非议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%86%E5%BB%BA%E7%99%BD%E5%AE%AB%E4%B8%BA%E4%BD%95%E6%8B%9B%E9%9D%9E%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时38分 ~ 12时41分]"
+        },
+        {
+          "title": "特朗普抵达马来西亚 跳经典舞蹈互动",
+          "url": "https://www.toutiao.com/trending/7564726834030592063/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "市场消息：美国总统特朗普抵达吉隆坡。",
@@ -72,23 +97,12 @@
           "ranks": [
             3,
             14,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 12时17分]"
-        },
-        {
-          "title": "高市早苗与特朗普进行首次电话会谈",
-          "url": "https://flash.jin10.com/detail/20251026110048820800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 12时17分]"
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 12时41分]"
         },
         {
           "title": "特朗普：“国际部队”不久将进驻加沙",
@@ -101,8 +115,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 12时17分]"
+          "appearance_count": 5,
+          "time_info": "[09时04分 ~ 12时41分]"
         },
         {
           "title": "特朗普与日本首相高市早苗通电话。（共同社）",
@@ -110,11 +124,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 12时17分]"
+          "appearance_count": 5,
+          "time_info": "[09时04分 ~ 12时41分]"
         },
         {
           "title": "特朗普玩“军阀剧本”这波绝了!",
@@ -127,8 +142,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 12时17分]"
+          "appearance_count": 5,
+          "time_info": "[09时04分 ~ 12时41分]"
         },
         {
           "title": "泰国总理将于周日在马来西亚与特朗普举行会谈。（彭博）",
@@ -136,11 +151,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             21,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 12时17分]"
+          "appearance_count": 5,
+          "time_info": "[09时04分 ~ 12时41分]"
+        },
+        {
+          "title": "高市早苗与特朗普进行首次电话会谈",
+          "url": "https://flash.jin10.com/detail/20251026110048820800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时38分 ~ 12时41分]"
         },
         {
           "title": "特朗普即将访日 美驻日使馆附近发生持刀袭警事件",
@@ -149,11 +178,12 @@
           "ranks": [
             9,
             20,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 12时17分]"
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 12时41分]"
         },
         {
           "title": "特朗普：对加拿大加征10%关税",
@@ -163,8 +193,41 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 12时41分]"
+        },
+        {
+          "title": "不满加拿大反关税广告，特朗普宣布对加方征收10%额外关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31837755",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时54分 ~ 12时17分]"
+          "time_info": "[11时38分 ~ 12时41分]"
+        },
+        {
+          "title": "贝森特“坦白局”：力推MAGA，但保护市场，特朗普“总是宣布高关税创造杠杆，随后降低”",
+          "url": "https://wallstreetcn.com/articles/3757912",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 12时41分]"
+        },
+        {
+          "title": "美国宣布对俄罗斯实施制裁，特朗普已取消与普京的会面，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1964649033109865460",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 12时41分]"
         },
         {
           "title": "特朗普叫停美加贸易磋商 加拿大总理：愿在美国“准备好时”重启谈判",
@@ -201,17 +264,6 @@
           "time_info": "[09时04分 ~ 10时54分]"
         },
         {
-          "title": "不满加拿大反关税广告，特朗普宣布对加方征收10%额外关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31837755",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 12时17分]"
-        },
-        {
           "title": "不满加拿大反关税广告 特朗普宣布对加方征收10%额外关税",
           "url": "https://flash.jin10.com/detail/20251026075858607800",
           "source": "金十数据",
@@ -234,28 +286,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时04分 ~ 10时54分]"
-        },
-        {
-          "title": "贝森特“坦白局”：力推MAGA，但保护市场，特朗普“总是宣布高关税创造杠杆，随后降低”",
-          "url": "https://wallstreetcn.com/articles/3757912",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "美国宣布对俄罗斯实施制裁，特朗普已取消与普京的会面，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1964649033109865460",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
         },
         {
           "title": "特朗普称即将对委内瑞拉展开地面军事行动，请问其动武的军费从何而来，一旦开战会对全球金融市场会有何影响？",
@@ -302,6 +332,17 @@
           "time_info": "10时54分"
         },
         {
+          "title": "特朗普抵达马来西亚",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "特朗普访问马日韩",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E9%A9%AC%E6%97%A5%E9%9F%A9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26band_rank%3D27%26lcate%3D5001%26flag%3D1%26pos%3D26%26cate%3D5001%26realpos%3D27%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E8%25AE%25BF%25E9%2597%25AE%25E9%25A9%25AC%25E6%2597%25A5%25E9%259F%25A9%2523%26dgr%3D0%26stream_entry_id%3D31%26c_type%3D31%26display_time%3D1761439209%26pre_seqid%3D1761439209535031782663",
           "source": "微博",
@@ -319,6 +360,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2180462",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时04分 ~ 12时41分]"
+        },
+        {
           "title": "美国 9 月 CPI 全线低于预期，美股三大指数盘中均创历史新高，黄金白银下跌，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1965195615022587967",
           "source": "知乎",
@@ -330,20 +385,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时04分 ~ 11时38分]"
-        },
-        {
-          "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2180462",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 12时17分]"
         }
       ]
     },
@@ -358,7 +399,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         }
