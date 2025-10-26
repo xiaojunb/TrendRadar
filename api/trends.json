@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-26T16:16:45.139701+08:00",
-  "total_titles_processed": 776,
+  "generated_at": "2025-10-26T16:42:50.301390+08:00",
+  "total_titles_processed": 808,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普：对加拿大再征收10%额外关税",
@@ -45,8 +45,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时17分 ~ 16时16分]"
+          "appearance_count": 11,
+          "time_info": "[12时17分 ~ 16时42分]"
         },
         {
           "title": "特朗普宣布对加拿大征收10%额外关税",
@@ -75,11 +75,12 @@
             16,
             15,
             9,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时38分 ~ 16时16分]"
+          "appearance_count": 12,
+          "time_info": "[11时38分 ~ 16时42分]"
         },
         {
           "title": "不满加拿大反关税广告 特朗普宣布对加方征收10%额外关税",
@@ -95,8 +96,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时04分 ~ 16时16分]"
+          "appearance_count": 13,
+          "time_info": "[09时04分 ~ 16时42分]"
         },
         {
           "title": "特朗普与日本首相高市早苗通电话。（共同社）",
@@ -112,8 +113,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时04分 ~ 16时16分]"
+          "appearance_count": 13,
+          "time_info": "[09时04分 ~ 16时42分]"
         },
         {
           "title": "特朗普：对加拿大加征10%关税",
@@ -121,11 +122,12 @@
           "source": "抖音",
           "ranks": [
             11,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时54分 ~ 16时16分]"
+          "appearance_count": 12,
+          "time_info": "[10时54分 ~ 16时42分]"
         },
         {
           "title": "美国宣布对俄罗斯实施制裁，特朗普已取消与普京的会面，哪些信息值得关注？",
@@ -136,8 +138,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时17分 ~ 16时16分]"
+          "appearance_count": 11,
+          "time_info": "[12时17分 ~ 16时42分]"
         },
         {
           "title": "特朗普玩“军阀剧本”这波绝了!",
@@ -151,8 +153,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时04分 ~ 16时16分]"
+          "appearance_count": 14,
+          "time_info": "[09时04分 ~ 16时42分]"
         },
         {
           "title": "不满加拿大反关税广告，特朗普宣布对加方征收10%额外关税",
@@ -164,8 +166,24 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时38分 ~ 16时16分]"
+          "appearance_count": 12,
+          "time_info": "[11时38分 ~ 16时42分]"
+        },
+        {
+          "title": "韩国民众举行反特朗普示威",
+          "url": "https://www.toutiao.com/trending/7564520884938227753/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            9,
+            15,
+            19,
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时41分 ~ 16时42分]"
         },
         {
           "title": "东盟国家为何陆续向特朗普关税妥协",
@@ -179,21 +197,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时47分 ~ 15时36分]"
-        },
-        {
-          "title": "韩国民众举行反特朗普示威",
-          "url": "https://www.toutiao.com/trending/7564520884938227753/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            9,
-            15,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时41分 ~ 16时16分]"
         },
         {
           "title": "特朗普：“国际部队”不久将进驻加沙",
@@ -238,15 +241,15 @@
           "time_info": "[12时41分 ~ 13时13分]"
         },
         {
-          "title": "美国总统特朗普：对巴西前总统博索纳罗所经历的事情深感遗憾。",
-          "url": "https://flash.jin10.com/detail/20251026155239351800",
-          "source": "金十数据",
+          "title": "外交首秀也是“首考”！高市早苗28日见特朗普，她将如何接招？",
+          "url": "https://news.ifeng.com/c/8nlb4BL6H2E",
+          "source": "凤凰网",
           "ranks": [
-            1
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 16时42分]"
         },
         {
           "title": "高市早苗与特朗普进行首次电话会谈",
@@ -279,28 +282,6 @@
           "time_info": "[10时54分 ~ 13时13分]"
         },
         {
-          "title": "美国总统特朗普：认为与巴西的谈判将很快达成结论。",
-          "url": "https://flash.jin10.com/detail/20251026155148219800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
-          "title": "巴西总统：已拟好与特朗普讨论的书面议程。",
-          "url": "https://flash.jin10.com/detail/20251026155121756800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
           "title": "特朗普抵吉隆坡 在机场即兴起舞",
           "url": "https://www.douyin.com/hot/2283429",
           "source": "抖音",
@@ -327,26 +308,15 @@
           "time_info": "[13时13分 ~ 14时47分]"
         },
         {
-          "title": "外交首秀也是“首考”！高市早苗28日见特朗普，她将如何接招？",
-          "url": "https://news.ifeng.com/c/8nlb4BL6H2E",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
-          "title": "美国总统特朗普：将让贸易团队进行谈判。",
-          "url": "https://flash.jin10.com/detail/20251026154945077800",
+          "title": "美俄代表持续接触 特朗普：暂不打算见普京",
+          "url": "https://flash.jin10.com/detail/20251026162830297800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时16分"
+          "time_info": "16时42分"
         },
         {
           "title": "白宫：美国总统特朗普将于周日会见巴西领导人。",
@@ -402,6 +372,18 @@
           "time_info": "[13时13分 ~ 14时20分]"
         },
         {
+          "title": "美国总统特朗普：对巴西前总统博索纳罗所经历的事情深感遗憾。",
+          "url": "https://flash.jin10.com/detail/20251026155239351800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 16时42分]"
+        },
+        {
           "title": "美国总统特朗普：关于泰国与柬埔寨的冲突，我们已经阻止了。",
           "url": "https://flash.jin10.com/detail/20251026124313688800",
           "source": "金十数据",
@@ -415,6 +397,18 @@
           "time_info": "[13时13分 ~ 14时20分]"
         },
         {
+          "title": "美国总统特朗普：认为与巴西的谈判将很快达成结论。",
+          "url": "https://flash.jin10.com/detail/20251026155148219800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 16时42分]"
+        },
+        {
           "title": "美国总统特朗普：将签署历史性协议以结束军事冲突。",
           "url": "https://flash.jin10.com/detail/20251026124151834800",
           "source": "金十数据",
@@ -426,6 +420,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时13分 ~ 14时20分]"
+        },
+        {
+          "title": "巴西总统：已拟好与特朗普讨论的书面议程。",
+          "url": "https://flash.jin10.com/detail/20251026155121756800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 16时42分]"
         },
         {
           "title": "美国总统特朗普签署美国与柬埔寨的贸易协议，以及美国与泰国的关键矿物协议。",
@@ -450,6 +456,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时41分 ~ 14时20分]"
+        },
+        {
+          "title": "美国总统特朗普：将让贸易团队进行谈判。",
+          "url": "https://flash.jin10.com/detail/20251026154945077800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 16时42分]"
         },
         {
           "title": "特朗普即将访日 美驻日使馆附近发生持刀袭警事件",
@@ -504,6 +522,18 @@
           "time_info": "[14时47分 ~ 15时36分]"
         },
         {
+          "title": "美国总统特朗普：我认为我们最终会与巴西建立良好的关系。",
+          "url": "https://flash.jin10.com/detail/20251026154932734800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 16时42分]"
+        },
+        {
           "title": "柬埔寨首相：对美国总统特朗普的果断领导和支持持久和平表示深切感谢。",
           "url": "https://flash.jin10.com/detail/20251026125507119800",
           "source": "金十数据",
@@ -514,6 +544,54 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时41分 ~ 14时20分]"
+        },
+        {
+          "title": "美国总统特朗普：我认为我们应该为（美巴）两国达成相当不错的协议。",
+          "url": "https://flash.jin10.com/detail/20251026154926825800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 16时42分]"
+        },
+        {
+          "title": "美国总统特朗普：关税方面，一切都是公平的。",
+          "url": "https://flash.jin10.com/detail/20251026154851130800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 16时42分]"
+        },
+        {
+          "title": "美国总统特朗普：我们与巴西相处得很好。",
+          "url": "https://flash.jin10.com/detail/20251026154733631800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 16时42分]"
+        },
+        {
+          "title": "美国总统特朗普：（与巴西总统会晤时表示）我们将与巴西达成一项协议。",
+          "url": "https://flash.jin10.com/detail/20251026154724948800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 16时42分]"
         },
         {
           "title": "特朗普叫停美加贸易磋商 加拿大总理：愿在美国“准备好时”重启谈判",
@@ -548,6 +626,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时04分 ~ 10时54分]"
+        },
+        {
+          "title": "不满加拿大反关税广告 特朗普宣布对加方额外征收10%关税",
+          "url": "https://www.cls.cn/detail/2180721",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 16时42分]"
         },
         {
           "title": "高市早苗将如何接招特朗普",
@@ -586,48 +675,16 @@
           "time_info": "[09时04分 ~ 10时54分]"
         },
         {
-          "title": "美国总统特朗普：我认为我们最终会与巴西建立良好的关系。",
-          "url": "https://flash.jin10.com/detail/20251026154932734800",
-          "source": "金十数据",
+          "title": "特朗普宣布再对加拿大征收10%关税",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E5%86%8D%E5%AF%B9%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%BE%81%E6%94%B610%25%E5%85%B3%E7%A8%8E",
+          "source": "百度热搜",
           "ranks": [
-            6
+            28,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
-          "title": "美国总统特朗普：我认为我们应该为（美巴）两国达成相当不错的协议。",
-          "url": "https://flash.jin10.com/detail/20251026154926825800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
-          "title": "美国总统特朗普：关税方面，一切都是公平的。",
-          "url": "https://flash.jin10.com/detail/20251026154851130800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
-          "title": "美国总统特朗普：我们与巴西相处得很好。",
-          "url": "https://flash.jin10.com/detail/20251026154733631800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 16时42分]"
         },
         {
           "title": "特朗普为何对高市早苗发出示好信号",
@@ -636,29 +693,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
-          "title": "美国总统特朗普：（与巴西总统会晤时表示）我们将与巴西达成一项协议。",
-          "url": "https://flash.jin10.com/detail/20251026154724948800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
-          "title": "不满加拿大反关税广告 特朗普宣布对加方额外征收10%关税",
-          "url": "https://www.cls.cn/detail/2180721",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -729,15 +764,15 @@
           "time_info": "09时04分"
         },
         {
-          "title": "特朗普宣布再对加拿大征收10%关税",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E5%86%8D%E5%AF%B9%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%BE%81%E6%94%B610%25%E5%85%B3%E7%A8%8E",
-          "source": "百度热搜",
+          "title": "特朗普将至 韩国或含泪与美达成协议",
+          "url": "https://www.toutiao.com/trending/7565412581439966763/",
+          "source": "今日头条",
           "ranks": [
             28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时16分"
+          "time_info": "16时42分"
         }
       ]
     },
@@ -752,11 +787,12 @@
           "ranks": [
             24,
             13,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时20分 ~ 16时16分]"
+          "appearance_count": 7,
+          "time_info": "[14时20分 ~ 16时42分]"
         },
         {
           "title": "金价暴跌 大学生把生活费亏没了",
@@ -767,8 +803,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时20分 ~ 16时16分]"
+          "appearance_count": 7,
+          "time_info": "[14时20分 ~ 16时42分]"
         },
         {
           "title": "矿企认为金价仍有3到5年高价窗口期",
@@ -829,8 +865,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时17分 ~ 16时16分]"
+          "appearance_count": 7,
+          "time_info": "[12时17分 ~ 16时42分]"
         }
       ]
     },
