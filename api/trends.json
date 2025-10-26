@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-26T17:36:52.318490+08:00",
-  "total_titles_processed": 863,
+  "generated_at": "2025-10-26T18:15:16.027377+08:00",
+  "total_titles_processed": 921,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普：对加拿大再征收10%额外关税",
@@ -45,8 +45,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时17分 ~ 17时36分]"
+          "appearance_count": 14,
+          "time_info": "[12时17分 ~ 18时15分]"
         },
         {
           "title": "特朗普宣布对加拿大征收10%额外关税",
@@ -78,11 +78,12 @@
             12,
             13,
             22,
-            21
+            21,
+            14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时38分 ~ 17时36分]"
+          "appearance_count": 15,
+          "time_info": "[11时38分 ~ 18时15分]"
         },
         {
           "title": "不满加拿大反关税广告 特朗普宣布对加方征收10%额外关税",
@@ -96,11 +97,12 @@
             13,
             16,
             21,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时04分 ~ 17时36分]"
+          "appearance_count": 16,
+          "time_info": "[09时04分 ~ 18时15分]"
         },
         {
           "title": "特朗普与日本首相高市早苗通电话。（共同社）",
@@ -142,8 +144,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时17分 ~ 17时36分]"
+          "appearance_count": 14,
+          "time_info": "[12时17分 ~ 18时15分]"
         },
         {
           "title": "特朗普玩“军阀剧本”这波绝了!",
@@ -158,8 +160,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时04分 ~ 17时36分]"
+          "appearance_count": 17,
+          "time_info": "[09时04分 ~ 18时15分]"
         },
         {
           "title": "不满加拿大反关税广告，特朗普宣布对加方征收10%额外关税",
@@ -171,8 +173,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时38分 ~ 17时36分]"
+          "appearance_count": 15,
+          "time_info": "[11时38分 ~ 18时15分]"
         },
         {
           "title": "外交首秀也是“首考”！高市早苗28日见特朗普，她将如何接招？",
@@ -182,8 +184,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时16分 ~ 17时36分]"
+          "appearance_count": 5,
+          "time_info": "[16时16分 ~ 18时15分]"
         },
         {
           "title": "韩国民众举行反特朗普示威",
@@ -391,6 +393,19 @@
           "time_info": "[16时42分 ~ 17时36分]"
         },
         {
+          "title": "不满加拿大反关税广告 特朗普宣布对加方额外征收10%关税",
+          "url": "https://www.cls.cn/detail/2180721",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时16分 ~ 18时15分]"
+        },
+        {
           "title": "美国总统特朗普：将与泰国签署关键矿物协议。",
           "url": "https://flash.jin10.com/detail/20251026124731184800",
           "source": "金十数据",
@@ -533,16 +548,17 @@
           "time_info": "[10时54分 ~ 12时41分]"
         },
         {
-          "title": "不满加拿大反关税广告 特朗普宣布对加方额外征收10%关税",
-          "url": "https://www.cls.cn/detail/2180721",
-          "source": "财联社热门",
+          "title": "特朗普将至 韩国或含泪与美达成协议",
+          "url": "https://www.toutiao.com/trending/7565412581439966763/",
+          "source": "今日头条",
           "ranks": [
-            13,
-            11
+            28,
+            24,
+            26
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时16分 ~ 17时36分]"
+          "time_info": "[16时42分 ~ 18时15分]"
         },
         {
           "title": "特朗普宣布再对加拿大征收10%关税",
@@ -595,18 +611,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时47分 ~ 15时36分]"
-        },
-        {
-          "title": "特朗普将至 韩国或含泪与美达成协议",
-          "url": "https://www.toutiao.com/trending/7565412581439966763/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时42分 ~ 17时36分]"
         },
         {
           "title": "柬埔寨首相：对美国总统特朗普的果断领导和支持持久和平表示深切感谢。",
@@ -715,6 +719,17 @@
           "time_info": "[09时04分 ~ 10时54分]"
         },
         {
+          "title": "美国财长贝森特：自美国总统特朗普上任以来，总体通胀率已下降。",
+          "url": "https://flash.jin10.com/detail/20251026173928957800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "特朗普为何对高市早苗发出示好信号",
           "url": "https://www.toutiao.com/trending/7564610674442145334/",
           "source": "今日头条",
@@ -724,6 +739,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "巴西外交部长：巴西总统卢拉告诉美国总统特朗普，拉丁美洲是一个和平的地区，并提出愿意与委内瑞拉进行斡旋，以寻找解决方案。",
+          "url": "https://flash.jin10.com/detail/20251026173029020800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "巴西外交部执行秘书：巴西总统卢拉告诉美国总统特朗普，实施马格尼茨基制裁是不公平的。",
+          "url": "https://flash.jin10.com/detail/20251026172854750800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "特朗普称即将对委内瑞拉展开地面军事行动，请问其动武的军费从何而来，一旦开战会对全球金融市场会有何影响？",
@@ -748,6 +785,17 @@
           "time_info": "09时04分"
         },
         {
+          "title": "巴西外交部长：美巴两位总统进行了愉快的交谈，美国总统特朗普表示他钦佩巴西总统卢拉的政治生涯。",
+          "url": "https://flash.jin10.com/detail/20251026172301532800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "东盟峰会看点：东帝汶入盟、缅甸局势、反诈与“特朗普因素”",
           "url": "https://m.thepaper.cn/newsDetail_forward_31834951",
           "source": "澎湃新闻",
@@ -757,6 +805,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "巴西外交部长：美国总统特朗普指示启动一项双边谈判进程，该进程应于今日展开。",
+          "url": "https://flash.jin10.com/detail/20251026172244859800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "特朗普为什么拿捏不了乌克兰",
@@ -807,11 +866,12 @@
             12,
             14,
             15,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时20分 ~ 17时36分]"
+          "appearance_count": 10,
+          "time_info": "[14时20分 ~ 18时15分]"
         },
         {
           "title": "金价暴跌 大学生把生活费亏没了",
@@ -822,8 +882,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时20分 ~ 17时36分]"
+          "appearance_count": 10,
+          "time_info": "[14时20分 ~ 18时15分]"
         },
         {
           "title": "矿企认为金价仍有3到5年高价窗口期",
@@ -880,11 +940,12 @@
           "url": "https://www.zhihu.com/question/1965049071443075345",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 18时15分]"
         }
       ]
     },
@@ -901,8 +962,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时17分 ~ 17时36分]"
+          "appearance_count": 10,
+          "time_info": "[12时17分 ~ 18时15分]"
         }
       ]
     },
