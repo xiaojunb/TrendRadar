@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T16:20:14.413079+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2025-10-27T16:49:13.354742+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时44分 ~ 16时20分]"
+          "appearance_count": 11,
+          "time_info": "[13时44分 ~ 16时49分]"
         },
         {
           "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
@@ -31,8 +31,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时48分 ~ 16时20分]"
+          "appearance_count": 11,
+          "time_info": "[12时48分 ~ 16时49分]"
         },
         {
           "title": "引用前总统讲话“打脸”现总统，特朗普再次怒举关税大棒",
@@ -489,6 +489,17 @@
           "time_info": "[14时23分 ~ 14时53分]"
         },
         {
+          "title": "特朗普到访 高市早苗迎外交“大考”",
+          "url": "https://www.toutiao.com/trending/7565785838462701075/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 16时49分]"
+        },
+        {
           "title": "加拿大搬出里根“打脸”特朗普后，不出意外的遭到关税威胁",
           "url": "https://news.ifeng.com/c/8nmaj9cyXDX",
           "source": "凤凰网",
@@ -550,7 +561,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -561,7 +572,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -747,8 +758,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时02分 ~ 16时20分]"
+          "appearance_count": 17,
+          "time_info": "[11时02分 ~ 16时49分]"
         },
         {
           "title": "部分中概股在美股夜盘走高，阿里巴巴(BABA.N)和百度(BIDU.O)均涨3%，理想汽车(LI.O)、小鹏汽车(XPEV.N)和哔哩哔哩(BILI.O)涨超2%，",
@@ -766,11 +777,12 @@
           "url": "https://wallstreetcn.com/livenews/2994104",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时49分]"
         }
       ]
     },
@@ -797,9 +809,26 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金和白银价格回落，贵金属矿商美股盘前股价下跌，纽蒙特矿业(NEM.N)下跌3.4%，巴里克矿业(B.N)下跌1.7%。",
+          "url": "https://flash.jin10.com/detail/20251027163510344800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         }
       ]
     }
