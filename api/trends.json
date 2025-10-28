@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T17:41:34.821359+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2025-10-28T18:17:42.269056+08:00",
+  "total_titles_processed": 1326,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 56,
       "titles": [
         {
           "title": "高市早苗会见特朗普 多次伸手笑容满面",
@@ -33,11 +33,12 @@
             6,
             5,
             22,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时44分 ~ 16时50分]"
+          "appearance_count": 13,
+          "time_info": "[12时44分 ~ 18时17分]"
         },
         {
           "title": "美军机南海坠毁 特朗普：可能油不好",
@@ -89,8 +90,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时39分 ~ 17时41分]"
+          "appearance_count": 7,
+          "time_info": "[15时39分 ~ 18时17分]"
         },
         {
           "title": "特朗普再提2028参选可能，点名两个潜在继任者",
@@ -184,6 +185,39 @@
           "time_info": "09时06分"
         },
         {
+          "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
+          "url": "https://v.ifeng.com/c/8noT1p8iWLt",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时49分 ~ 18时17分]"
+        },
+        {
+          "title": "特朗普自顾自检阅 高市早苗原地愣住",
+          "url": "https://www.toutiao.com/trending/7565434042020007460/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "美军航母摔飞机事大了！特朗普亲自解释靠谱吗？",
+          "url": "https://news.ifeng.com/c/8np6B3JJJNc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "日本财务大臣片山皋月：在与日本首相高市早苗会晤时，美国总统特朗普表示“很高兴再次见到你，我们建立了非常良好的关系”。",
           "url": "https://flash.jin10.com/detail/20251028145714701800",
           "source": "金十数据",
@@ -204,6 +238,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        },
+        {
+          "title": "特朗普略过日本国旗",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E7%95%A5%E8%BF%87%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D24%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D24%26flag%3D1%26stream_entry_id%3D31%26cate%3D5001%26pos%3D25%26lcate%3D5001%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%2595%25A5%25E8%25BF%2587%25E6%2597%25A5%25E6%259C%25AC%25E5%259B%25BD%25E6%2597%2597%26display_time%3D1761640603%26pre_seqid%3D17616406034440281044059",
+          "source": "微博",
+          "ranks": [
+            24,
+            17,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时49分 ~ 18时17分]"
         },
         {
           "title": "特朗普今日到访，日本新首相高市早苗迎来外交“大考”",
@@ -242,17 +290,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时39分 ~ 16时50分]"
-        },
-        {
-          "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
-          "url": "https://v.ifeng.com/c/8noT1p8iWLt",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时49分 ~ 17时41分]"
         },
         {
           "title": "特朗普：我们将重新开始造船，很快就会这么做。 我们将与日本合作造船。 日本是美国的大投资者。 丰田将在美国建厂，价值将高达100亿美元。",
@@ -302,19 +339,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时23分 ~ 15时14分]"
-        },
-        {
-          "title": "特朗普略过日本国旗",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E7%95%A5%E8%BF%87%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D24%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D24%26flag%3D1%26stream_entry_id%3D31%26cate%3D5001%26pos%3D25%26lcate%3D5001%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%2595%25A5%25E8%25BF%2587%25E6%2597%25A5%25E6%259C%25AC%25E5%259B%25BD%25E6%2597%2597%26display_time%3D1761640603%26pre_seqid%3D17616406034440281044059",
-          "source": "微博",
-          "ranks": [
-            24,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时49分 ~ 17时41分]"
         },
         {
           "title": "特朗普与高市早苗会晤",
@@ -581,6 +605,17 @@
           "time_info": "16时19分"
         },
         {
+          "title": "特朗普与高市早苗一同乘机登上美航母",
+          "url": "https://www.toutiao.com/trending/7565775120976429082/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "日本首相高市早苗：与美国总统特朗普确认将推动与包括韩国、印度、菲律宾和澳大利亚等国家的多边联盟。",
           "url": "https://flash.jin10.com/detail/20251028165956081800",
           "source": "金十数据",
@@ -639,7 +674,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
@@ -663,8 +698,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时29分 ~ 17时41分]"
+          "appearance_count": 18,
+          "time_info": "[11时29分 ~ 18时17分]"
         },
         {
           "title": "金价突然杀跌原因何在",
@@ -678,8 +713,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时14分 ~ 17时41分]"
+          "appearance_count": 8,
+          "time_info": "[15时14分 ~ 18时17分]"
         },
         {
           "title": "金价",
@@ -711,9 +746,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
+        },
+        {
+          "title": "LBMA预测金价一年内逼近5000美元，白银等金属同涨",
+          "url": "https://flash.jin10.com/detail/20251028175512834800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "分析师：贸易乐观情绪拖累金价 避险买盘有所减少",
@@ -752,7 +798,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
@@ -763,8 +809,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时06分 ~ 17时41分]"
+          "appearance_count": 20,
+          "time_info": "[09时06分 ~ 18时17分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -778,6 +824,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[09时06分 ~ 15时14分]"
+        },
+        {
+          "title": "UPS三季度营收214亿美元，预估208.7亿美元。 三季度经调整后每股收益1.74美元，预估1.32美元。 UPS预计第四季度营收约为240亿美元，市场预估238.7亿美元。 UPS美股盘前涨近8%。",
+          "url": "https://wallstreetcn.com/livenews/2995038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高",
@@ -802,12 +859,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
+        },
+        {
+          "title": "新东方第一财季调整后每ADS收益1.61美元，预估1.65美元。 第一财季经营利润3.108亿美元，预估3.008亿美元。 第一财季净营收15.2亿美元，预估15.1亿美元。 第一财季资本支出5,540万美元。 新东方美股盘前涨0.68%。",
+          "url": "https://wallstreetcn.com/livenews/2995018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI公司正为印度用户提供为期一年的免费ChatGPT Go服务",
@@ -829,7 +897,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -844,6 +912,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时15分 ~ 13时42分]"
+        },
+        {
+          "title": "特朗普将在东京举行CEO晚餐会 OpenAI、Salesforce等公司的高管将出席",
+          "url": "https://wallstreetcn.com/livenews/2995041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         }
       ]
     },
