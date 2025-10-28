@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T13:42:21.616723+08:00",
-  "total_titles_processed": 771,
+  "generated_at": "2025-10-28T14:23:50.380051+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "高市早苗会见特朗普 多次伸手笑容满面",
@@ -17,8 +17,23 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时29分 ~ 13时42分]"
+          "appearance_count": 9,
+          "time_info": "[10时29分 ~ 14时23分]"
+        },
+        {
+          "title": "美军机南海坠毁 特朗普：可能油不好",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E5%9D%A0%E6%AF%81+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8F%AF%E8%83%BD%E6%B2%B9%E4%B8%8D%E5%A5%BD",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            7,
+            8,
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时29分 ~ 14时23分]"
         },
         {
           "title": "特朗普：愿意延长亚洲行与金正恩会面",
@@ -33,20 +48,6 @@
           "time_info": "[09时06分 ~ 13时15分]"
         },
         {
-          "title": "美军机南海坠毁 特朗普：可能油不好",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E5%9D%A0%E6%AF%81+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8F%AF%E8%83%BD%E6%B2%B9%E4%B8%8D%E5%A5%BD",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时29分 ~ 13时42分]"
-        },
-        {
           "title": "特朗普再提2028参选可能，点名两个潜在继任者",
           "url": "https://news.ifeng.com/c/8noQCRgOldf",
           "source": "凤凰网",
@@ -58,6 +59,32 @@
           "time_info": "[11时29分 ~ 13时42分]"
         },
         {
+          "title": "特朗普东京下榻酒店军犬检查车辆",
+          "url": "https://www.toutiao.com/trending/7565376015993356324/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时55分 ~ 14时23分]"
+        },
+        {
+          "title": "特朗普见高市早苗三句话不离安倍",
+          "url": "https://www.toutiao.com/trending/7565133400080928262/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 14时23分]"
+        },
+        {
           "title": "美国总统特朗普：正在与日本签署一项新协议，这是一项公平的协议。",
           "url": "https://flash.jin10.com/detail/20251028090239806800",
           "source": "金十数据",
@@ -67,18 +94,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
-        },
-        {
-          "title": "特朗普东京下榻酒店军犬检查车辆",
-          "url": "https://www.toutiao.com/trending/7565376015993356324/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时55分 ~ 13时42分]"
         },
         {
           "title": "美国总统特朗普：对日本订购军事装备表示赞赏。",
@@ -114,6 +129,19 @@
           "time_info": "09时06分"
         },
         {
+          "title": "特朗普访日遇运酒车翻倒专车改道",
+          "url": "https://www.toutiao.com/trending/7565133400080895494/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            27,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 14时23分]"
+        },
+        {
           "title": "特朗普今日到访，日本新首相高市早苗迎来外交“大考”",
           "url": "https://m.thepaper.cn/newsDetail_forward_31842038",
           "source": "澎湃新闻",
@@ -126,19 +154,6 @@
           "time_info": "[09时06分 ~ 12时16分]"
         },
         {
-          "title": "特朗普见高市早苗三句话不离安倍",
-          "url": "https://www.toutiao.com/trending/7565133400080928262/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 13时42分]"
-        },
-        {
           "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
           "url": "https://wallstreetcn.com/articles/3757964",
           "source": "华尔街见闻",
@@ -149,19 +164,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时29分 ~ 12时16分]"
-        },
-        {
-          "title": "特朗普访日遇运酒车翻倒专车改道",
-          "url": "https://www.toutiao.com/trending/7565133400080895494/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            27,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 13时42分]"
         },
         {
           "title": "特朗普与高市早苗会晤",
@@ -304,6 +306,17 @@
           "time_info": "10时29分"
         },
         {
+          "title": "高市早苗想推荐特朗普角逐和平奖",
+          "url": "https://www.toutiao.com/trending/7566126453180452390/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
           "title": "美国总统特朗普和日本首相高市早苗在东京会谈后参加签字仪式。",
           "url": "https://flash.jin10.com/detail/20251028094433053800",
           "source": "金十数据",
@@ -359,6 +372,17 @@
           "time_info": "09时06分"
         },
         {
+          "title": "特朗普称米莱赢了让美国赚了很多钱",
+          "url": "https://www.toutiao.com/trending/7565088402136547337/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
           "title": "日本天皇用英语说很高兴见到特朗普",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D25%26cate%3D5001%26stream_entry_id%3D31%26pos%3D26%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC%25E5%25A4%25A9%25E7%259A%2587%25E7%2594%25A8%25E8%258B%25B1%25E8%25AF%25AD%25E8%25AF%25B4%25E5%25BE%2588%25E9%25AB%2598%25E5%2585%25B4%25E8%25A7%2581%25E5%2588%25B0%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%2523%26lcate%3D5001%26realpos%3D25%26flag%3D1%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26display_time%3D1761618382%26pre_seqid%3D176161838291302068345113",
           "source": "微博",
@@ -405,8 +429,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 13时42分]"
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 14时23分]"
         },
         {
           "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
@@ -417,8 +441,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时29分 ~ 13时42分]"
+          "appearance_count": 8,
+          "time_info": "[11时29分 ~ 14时23分]"
         },
         {
           "title": "金价",
@@ -457,8 +481,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 13时42分]"
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 14时23分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -470,8 +494,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 13时42分]"
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 14时23分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高",
@@ -489,6 +513,35 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI公司正为印度用户提供为期一年的免费ChatGPT Go服务",
+          "url": "https://flash.jin10.com/detail/20251028141734494800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "OpenAI：每周有超过100万的ChatGPT用户讨论自杀问题。公司正在努力改善AI对心理健康危机的反应，但面临着诉讼和安全审查。",
+          "url": "https://flash.jin10.com/detail/20251028123906600800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时42分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -499,24 +552,6 @@
           "ranks": [
             4,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI：每周有超过100万的ChatGPT用户讨论自杀问题。公司正在努力改善AI对心理健康危机的反应，但面临着诉讼和安全审查。",
-          "url": "https://flash.jin10.com/detail/20251028123906600800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
