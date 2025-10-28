@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T12:16:54.734419+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2025-10-28T12:45:09.364845+08:00",
+  "total_titles_processed": 674,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "高市早苗会见特朗普 多次伸手笑容满面",
@@ -16,8 +16,33 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 12时16分]"
+          "appearance_count": 6,
+          "time_info": "[10时29分 ~ 12时45分]"
+        },
+        {
+          "title": "特朗普：愿意延长亚洲行与金正恩会面",
+          "url": "https://news.ifeng.com/c/8noSUYL9rE6",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时06分 ~ 12时45分]"
+        },
+        {
+          "title": "美军机南海坠毁 特朗普：可能油不好",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E5%9D%A0%E6%AF%81+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8F%AF%E8%83%BD%E6%B2%B9%E4%B8%8D%E5%A5%BD",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时29分 ~ 12时45分]"
         },
         {
           "title": "美国总统特朗普：正在与日本签署一项新协议，这是一项公平的协议。",
@@ -64,16 +89,15 @@
           "time_info": "09时06分"
         },
         {
-          "title": "特朗普：愿意延长亚洲行与金正恩会面",
-          "url": "https://news.ifeng.com/c/8noSUYL9rE6",
+          "title": "特朗普再提2028参选可能，点名两个潜在继任者",
+          "url": "https://news.ifeng.com/c/8noQCRgOldf",
           "source": "凤凰网",
           "ranks": [
-            6,
-            7
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时06分 ~ 12时16分]"
+          "time_info": "[11时29分 ~ 12时45分]"
         },
         {
           "title": "特朗普今日到访，日本新首相高市早苗迎来外交“大考”",
@@ -88,19 +112,6 @@
           "time_info": "[09时06分 ~ 12时16分]"
         },
         {
-          "title": "美军机南海坠毁 特朗普：可能油不好",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E5%9D%A0%E6%AF%81+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8F%AF%E8%83%BD%E6%B2%B9%E4%B8%8D%E5%A5%BD",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 12时16分]"
-        },
-        {
           "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
           "url": "https://wallstreetcn.com/articles/3757964",
           "source": "华尔街见闻",
@@ -113,15 +124,15 @@
           "time_info": "[10时29分 ~ 12时16分]"
         },
         {
-          "title": "特朗普再提2028参选可能，点名两个潜在继任者",
-          "url": "https://news.ifeng.com/c/8noQCRgOldf",
-          "source": "凤凰网",
+          "title": "特朗普东京下榻酒店军犬检查车辆",
+          "url": "https://www.toutiao.com/trending/7565376015993356324/",
+          "source": "今日头条",
           "ranks": [
-            9
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时29分 ~ 12时16分]"
+          "appearance_count": 4,
+          "time_info": "[11时55分 ~ 12时45分]"
         },
         {
           "title": "高市早苗欲送特朗普安倍球杆",
@@ -137,6 +148,18 @@
           "time_info": "[09时06分 ~ 11时29分]"
         },
         {
+          "title": "特朗普与高市早苗会晤",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BC%9A%E6%99%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 12时45分]"
+        },
+        {
           "title": "特朗普再提2028参选可能，点名两个潜在接班人",
           "url": "https://news.ifeng.com/c/8noQCRgOldf",
           "source": "凤凰网",
@@ -148,15 +171,16 @@
           "time_info": "[09时06分 ~ 10时29分]"
         },
         {
-          "title": "特朗普东京下榻酒店军犬检查车辆",
-          "url": "https://www.toutiao.com/trending/7565376015993356324/",
-          "source": "今日头条",
+          "title": "特朗普“拉拢”日本 共同推动关键矿产供应保障",
+          "url": "https://flash.jin10.com/detail/20251028114540746800",
+          "source": "金十数据",
           "ranks": [
-            14
+            6,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时55分 ~ 12时16分]"
+          "time_info": "[12时16分 ~ 12时45分]"
         },
         {
           "title": "特朗普与高市早苗的“同盟秀”",
@@ -171,6 +195,17 @@
           "time_info": "[09时06分 ~ 10时29分]"
         },
         {
+          "title": "特朗普说很喜欢金正恩",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E5%BE%88%E5%96%9C%E6%AC%A2%E9%87%91%E6%AD%A3%E6%81%A9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D19%26filter_type%3Drealtimehot%26flag%3D1%26realpos%3D19%26cate%3D5001%26lcate%3D5001%26pos%3D19%26c_type%3D31%26dgr%3D0%26stream_entry_id%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E8%25AF%25B4%25E5%25BE%2588%25E5%2596%259C%25E6%25AC%25A2%25E9%2587%2591%25E6%25AD%25A3%25E6%2581%25A9%2523%26display_time%3D1761626411%26pre_seqid%3D17616264118770195144471",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 12时45分]"
+        },
+        {
           "title": "美国总统特朗普：日本正在增加国防开支。",
           "url": "https://flash.jin10.com/detail/20251028105119280800",
           "source": "金十数据",
@@ -183,6 +218,28 @@
           "time_info": "[11时29分 ~ 11时55分]"
         },
         {
+          "title": "特朗普访日遇运酒车翻倒专车改道",
+          "url": "https://www.toutiao.com/trending/7565133400080895494/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 12时45分]"
+        },
+        {
+          "title": "特朗普见高市早苗三句话不离安倍",
+          "url": "https://www.toutiao.com/trending/7565133400080928262/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 12时45分]"
+        },
+        {
           "title": "市场消息：美国总统特朗普将日本前首相安倍称为“我的一位挚友”。",
           "url": "https://flash.jin10.com/detail/20251028090036168800",
           "source": "金十数据",
@@ -192,17 +249,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
-        },
-        {
-          "title": "特朗普“拉拢”日本 共同推动关键矿产供应保障",
-          "url": "https://flash.jin10.com/detail/20251028114540746800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
         },
         {
           "title": "日本首相高市早苗：希望与美国总统特朗普共同实现日美同盟的新黄金时代。",
@@ -293,17 +339,6 @@
           "time_info": "09时06分"
         },
         {
-          "title": "特朗普与高市早苗会晤",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BC%9A%E6%99%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
           "title": "日本天皇用英语说很高兴见到特朗普",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D25%26cate%3D5001%26stream_entry_id%3D31%26pos%3D26%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC%25E5%25A4%25A9%25E7%259A%2587%25E7%2594%25A8%25E8%258B%25B1%25E8%25AF%25AD%25E8%25AF%25B4%25E5%25BE%2588%25E9%25AB%2598%25E5%2585%25B4%25E8%25A7%2581%25E5%2588%25B0%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%2523%26lcate%3D5001%26realpos%3D25%26flag%3D1%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26display_time%3D1761618382%26pre_seqid%3D176161838291302068345113",
           "source": "微博",
@@ -350,19 +385,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时06分 ~ 12时16分]"
+          "appearance_count": 7,
+          "time_info": "[09时06分 ~ 12时45分]"
         },
         {
           "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
           "url": "https://wallstreetcn.com/articles/3758018",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时29分 ~ 12时16分]"
+          "appearance_count": 5,
+          "time_info": "[11时29分 ~ 12时45分]"
         },
         {
           "title": "金价",
@@ -401,8 +437,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时06分 ~ 12时16分]"
+          "appearance_count": 7,
+          "time_info": "[09时06分 ~ 12时45分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -413,8 +449,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时06分 ~ 12时16分]"
+          "appearance_count": 7,
+          "time_info": "[09时06分 ~ 12时45分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高",
