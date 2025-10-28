@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T20:27:02.821705+08:00",
-  "total_titles_processed": 1586,
+  "generated_at": "2025-10-28T21:07:58.114842+08:00",
+  "total_titles_processed": 1663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 82,
+      "match_count": 86,
       "titles": [
         {
           "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时49分 ~ 20时27分]"
+          "appearance_count": 11,
+          "time_info": "[16时49分 ~ 21时07分]"
         },
         {
           "title": "高市早苗给特朗普送礼 日网民炸锅",
@@ -247,6 +247,17 @@
           "time_info": "16时19分"
         },
         {
+          "title": "知情人士：莫迪缺席马来西亚峰会，原因是担心特朗普谈及巴基斯坦",
+          "url": "https://flash.jin10.com/detail/20251028210218375800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "美国总统特朗普：对日本订购军事装备表示赞赏。",
           "url": "https://flash.jin10.com/detail/20251028090204345800",
           "source": "金十数据",
@@ -301,6 +312,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "美国官员：特朗普下周可能会见乌兹别克斯坦总统。",
+          "url": "https://wallstreetcn.com/livenews/2995155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
+          "title": "特朗普1分钟内两次无视高市早苗",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE1%E5%88%86%E9%92%9F%E5%86%85%E4%B8%A4%E6%AC%A1%E6%97%A0%E8%A7%86%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26dgr%3D0%26realpos%3D8%26flag%3D0%26stream_entry_id%3D31%26band_rank%3D8%26filter_type%3Drealtimehot%26pos%3D8%26c_type%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE1%25E5%2588%2586%25E9%2592%259F%25E5%2586%2585%25E4%25B8%25A4%25E6%25AC%25A1%25E6%2597%25A0%25E8%25A7%2586%25E9%25AB%2598%25E5%25B8%2582%25E6%2597%25A9%25E8%258B%2597%2523%26lcate%3D5001%26display_time%3D1761654005%26pre_seqid%3D176165400527203462649112",
+          "source": "微博",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时26分 ~ 21时07分]"
         },
         {
           "title": "日本财务大臣片山皋月：在与日本首相高市早苗会晤时，美国总统特朗普表示“很高兴再次见到你，我们建立了非常良好的关系”。",
@@ -484,6 +518,28 @@
           "time_info": "[12时16分 ~ 13时15分]"
         },
         {
+          "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
+          "url": "https://news.ifeng.com/c/8np9fQhEQk8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时26分 ~ 21时07分]"
+        },
+        {
+          "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
+          "url": "https://news.ifeng.com/c/8np198dmCFI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时26分 ~ 21时07分]"
+        },
+        {
           "title": "特朗普“拉拢”日本 共同推动关键矿产供应保障",
           "url": "https://flash.jin10.com/detail/20251028114540746800",
           "source": "金十数据",
@@ -523,17 +579,6 @@
           "time_info": "[09时06分 ~ 11时29分]"
         },
         {
-          "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
-          "url": "https://news.ifeng.com/c/8np9fQhEQk8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
-        },
-        {
           "title": "特朗普再提2028参选可能，点名两个潜在接班人",
           "url": "https://news.ifeng.com/c/8noQCRgOldf",
           "source": "凤凰网",
@@ -543,17 +588,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时06分 ~ 10时29分]"
-        },
-        {
-          "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
-          "url": "https://news.ifeng.com/c/8np198dmCFI",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
         },
         {
           "title": "据日本共同社：日本首相高市早苗周二在与美国总统特朗普的首次会晤中表示，为纪念美国建国250周年，日本将于明年向华盛顿捐赠250棵樱花树。",
@@ -580,17 +614,6 @@
           "time_info": "[15时39分 ~ 16时19分]"
         },
         {
-          "title": "特朗普1分钟内两次无视高市早苗",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE1%E5%88%86%E9%92%9F%E5%86%85%E4%B8%A4%E6%AC%A1%E6%97%A0%E8%A7%86%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26dgr%3D0%26realpos%3D8%26flag%3D0%26stream_entry_id%3D31%26band_rank%3D8%26filter_type%3Drealtimehot%26pos%3D8%26c_type%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE1%25E5%2588%2586%25E9%2592%259F%25E5%2586%2585%25E4%25B8%25A4%25E6%25AC%25A1%25E6%2597%25A0%25E8%25A7%2586%25E9%25AB%2598%25E5%25B8%2582%25E6%2597%25A9%25E8%258B%2597%2523%26lcate%3D5001%26display_time%3D1761654005%26pre_seqid%3D176165400527203462649112",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
-        },
-        {
           "title": "特朗普想要夺取的格陵兰岛发现新金矿",
           "url": "https://flash.jin10.com/detail/20251028183501527800",
           "source": "金十数据",
@@ -600,6 +623,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时46分 ~ 19时12分]"
+        },
+        {
+          "title": "特朗普：将降低牛肉价格 或许牧场主的境况太好了",
+          "url": "https://wallstreetcn.com/livenews/2995130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 21时07分]"
         },
         {
           "title": "特朗普与高市早苗的“同盟秀”",
@@ -704,17 +739,6 @@
           "time_info": "10时29分"
         },
         {
-          "title": "特朗普：将降低牛肉价格 或许牧场主的境况太好了",
-          "url": "https://wallstreetcn.com/livenews/2995130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
           "title": "美国总统特朗普和日本首相高市早苗在东京会谈后参加签字仪式。",
           "url": "https://flash.jin10.com/detail/20251028094433053800",
           "source": "金十数据",
@@ -792,6 +816,17 @@
           "time_info": "19时36分"
         },
         {
+          "title": "特朗普：美国核潜艇就在俄海岸附近",
+          "url": "https://www.toutiao.com/trending/7565925591850663979/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "特朗普出席日本欢迎仪式，与日本新任首相高市早苗会面。",
           "url": "https://flash.jin10.com/detail/20251028083708226800",
           "source": "金十数据",
@@ -814,6 +849,17 @@
           "time_info": "14时23分"
         },
         {
+          "title": "特朗普谈2028大选点名万斯鲁比奥",
+          "url": "https://www.toutiao.com/trending/7566235206777048618/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "美国总统特朗普：想要感谢软银。",
           "url": "https://flash.jin10.com/detail/20251028185808672800",
           "source": "金十数据",
@@ -831,7 +877,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -875,7 +921,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -995,8 +1041,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[11时29分 ~ 20时27分]"
+          "appearance_count": 24,
+          "time_info": "[11时29分 ~ 21时07分]"
         },
         {
           "title": "金价突然杀跌原因何在",
@@ -1009,11 +1055,12 @@
             22,
             23,
             25,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时14分 ~ 20时27分]"
+          "appearance_count": 12,
+          "time_info": "[15时14分 ~ 21时07分]"
         },
         {
           "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
@@ -1021,11 +1068,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时46分 ~ 20时27分]"
+          "appearance_count": 6,
+          "time_info": "[18时46分 ~ 21时07分]"
         },
         {
           "title": "金价",
@@ -1109,7 +1157,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
@@ -1121,8 +1169,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[09时06分 ~ 20时27分]"
+          "appearance_count": 26,
+          "time_info": "[09时06分 ~ 21时07分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -1163,6 +1211,18 @@
           "time_info": "[09时06分 ~ 11时29分]"
         },
         {
+          "title": "美股核电股盘前上涨，Cameco涨近16%",
+          "url": "https://wallstreetcn.com/livenews/2995128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 21时07分]"
+        },
+        {
           "title": "联邦快递美股盘前扩大涨势，现上涨5.1%。",
           "url": "https://wallstreetcn.com/livenews/2995047",
           "source": "华尔街见闻-快讯",
@@ -1196,15 +1256,15 @@
           "time_info": "16时50分"
         },
         {
-          "title": "美股核电股盘前上涨，Cameco涨近16%",
-          "url": "https://wallstreetcn.com/livenews/2995128",
+          "title": "特朗普媒体科技集团美股盘前涨逾11%，公司宣布进军预测市场业务。",
+          "url": "https://wallstreetcn.com/livenews/2995148",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时27分"
+          "time_info": "21时07分"
         },
         {
           "title": "新东方第一财季调整后每ADS收益1.61美元，预估1.65美元。 第一财季经营利润3.108亿美元，预估3.008亿美元。 第一财季净营收15.2亿美元，预估15.1亿美元。 第一财季资本支出5,540万美元。 新东方美股盘前涨0.68%。",
@@ -1216,12 +1276,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-10-28）",
+          "url": "https://flash.jin10.com/detail/20251028205332062800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "OpenAI公司正为印度用户提供为期一年的免费ChatGPT Go服务",
@@ -1237,6 +1308,17 @@
           "time_info": "[14时23分 ~ 15时14分]"
         },
         {
+          "title": "市场消息：微软(MSFT.O)支持OpenAI推进公共利益公司（PBC）形式的成立。微软在OpenAI公共利益公司中的投资估值约为1350亿美元。",
+          "url": "https://flash.jin10.com/detail/20251028210205594800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "据AXIOS网站：OpenAI的新浏览器Atlas引发隐私和安全担忧。隐私保护人士表示，该浏览器收集的数据量远远超过市场上任何其他浏览器。",
           "url": "https://flash.jin10.com/detail/20251028172154979800",
           "source": "金十数据",
@@ -1246,6 +1328,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
+        },
+        {
+          "title": "市场消息：微软(MSFT.O)与OpenAI签署了新协议。",
+          "url": "https://flash.jin10.com/detail/20251028210128191800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "PAYPAL美股盘前涨超15%，公司与OpenAI达成支付合作。",
@@ -1327,7 +1420,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -1391,6 +1484,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "摩根大通美债客户多头占比降至去年12月以来新低",
+          "url": "https://wallstreetcn.com/livenews/2995121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 21时07分]"
+        },
+        {
           "title": "卖美债买黄金“中长期并非明智之举”！大摩利率团队：美债终会“闪耀”的",
           "url": "https://wallstreetcn.com/articles/3757941",
           "source": "华尔街见闻",
@@ -1400,17 +1505,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
-        },
-        {
-          "title": "摩根大通美债客户多头占比降至去年12月以来新低",
-          "url": "https://wallstreetcn.com/livenews/2995121",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
         }
       ]
     }
