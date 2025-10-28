@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T16:50:06.680705+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2025-10-28T17:15:38.431552+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "高市早苗会见特朗普 多次伸手笑容满面",
@@ -16,11 +16,12 @@
             6,
             22,
             25,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时29分 ~ 15时39分]"
+          "appearance_count": 14,
+          "time_info": "[10时29分 ~ 17时15分]"
         },
         {
           "title": "特朗普见高市早苗三句话不离安倍",
@@ -79,6 +80,18 @@
           "time_info": "[09时06分 ~ 13时15分]"
         },
         {
+          "title": "高市早苗给特朗普送礼 日网民炸锅",
+          "url": "https://www.toutiao.com/trending/7566135501460098598/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时39分 ~ 17时15分]"
+        },
+        {
           "title": "特朗普再提2028参选可能，点名两个潜在继任者",
           "url": "https://news.ifeng.com/c/8noQCRgOldf",
           "source": "凤凰网",
@@ -102,18 +115,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时44分 ~ 14时53分]"
-        },
-        {
-          "title": "高市早苗给特朗普送礼 日网民炸锅",
-          "url": "https://www.toutiao.com/trending/7566135501460098598/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时39分 ~ 16时50分]"
         },
         {
           "title": "美国总统特朗普：正在与日本签署一项新协议，这是一项公平的协议。",
@@ -303,6 +304,17 @@
           "time_info": "[12时16分 ~ 13时15分]"
         },
         {
+          "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
+          "url": "https://v.ifeng.com/c/8noT1p8iWLt",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 17时15分]"
+        },
+        {
           "title": "特朗普“拉拢”日本 共同推动关键矿产供应保障",
           "url": "https://flash.jin10.com/detail/20251028114540746800",
           "source": "金十数据",
@@ -342,6 +354,18 @@
           "time_info": "[09时06分 ~ 11时29分]"
         },
         {
+          "title": "特朗普略过日本国旗",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E7%95%A5%E8%BF%87%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D24%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D24%26flag%3D1%26stream_entry_id%3D31%26cate%3D5001%26pos%3D25%26lcate%3D5001%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%2595%25A5%25E8%25BF%2587%25E6%2597%25A5%25E6%259C%25AC%25E5%259B%25BD%25E6%2597%2597%26display_time%3D1761640603%26pre_seqid%3D17616406034440281044059",
+          "source": "微博",
+          "ranks": [
+            24,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 17时15分]"
+        },
+        {
           "title": "特朗普再提2028参选可能，点名两个潜在接班人",
           "url": "https://news.ifeng.com/c/8noQCRgOldf",
           "source": "凤凰网",
@@ -351,17 +375,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时06分 ~ 10时29分]"
-        },
-        {
-          "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
-          "url": "https://v.ifeng.com/c/8noT1p8iWLt",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 16时50分]"
         },
         {
           "title": "据日本共同社：日本首相高市早苗周二在与美国总统特朗普的首次会晤中表示，为纪念美国建国250周年，日本将于明年向华盛顿捐赠250棵樱花树。",
@@ -421,17 +434,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时29分 ~ 11时55分]"
-        },
-        {
-          "title": "特朗普略过日本国旗",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E7%95%A5%E8%BF%87%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D24%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D24%26flag%3D1%26stream_entry_id%3D31%26cate%3D5001%26pos%3D25%26lcate%3D5001%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%2595%25A5%25E8%25BF%2587%25E6%2597%25A5%25E6%259C%25AC%25E5%259B%25BD%25E6%2597%2597%26display_time%3D1761640603%26pre_seqid%3D17616406034440281044059",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 16时50分]"
         },
         {
           "title": "市场消息：美国总统特朗普将日本前首相安倍称为“我的一位挚友”。",
@@ -577,6 +579,28 @@
           "time_info": "16时19分"
         },
         {
+          "title": "日本首相高市早苗：与美国总统特朗普确认将推动与包括韩国、印度、菲律宾和澳大利亚等国家的多边联盟。",
+          "url": "https://flash.jin10.com/detail/20251028165956081800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
+          "title": "日本首相高市早苗：与美国总统特朗普讨论了中东和乌克兰问题。",
+          "url": "https://flash.jin10.com/detail/20251028165941309800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
           "title": "日本天皇用英语说很高兴见到特朗普",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D25%26cate%3D5001%26stream_entry_id%3D31%26pos%3D26%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC%25E5%25A4%25A9%25E7%259A%2587%25E7%2594%25A8%25E8%258B%25B1%25E8%25AF%25AD%25E8%25AF%25B4%25E5%25BE%2588%25E9%25AB%2598%25E5%2585%25B4%25E8%25A7%2581%25E5%2588%25B0%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%2523%26lcate%3D5001%26realpos%3D25%26flag%3D1%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26display_time%3D1761618382%26pre_seqid%3D176161838291302068345113",
           "source": "微博",
@@ -633,11 +657,12 @@
           "ranks": [
             9,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时29分 ~ 16时50分]"
+          "appearance_count": 16,
+          "time_info": "[11时29分 ~ 17时15分]"
         },
         {
           "title": "金价突然杀跌原因何在",
@@ -646,11 +671,12 @@
           "ranks": [
             24,
             2,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时14分 ~ 16时50分]"
+          "appearance_count": 6,
+          "time_info": "[15时14分 ~ 17时15分]"
         },
         {
           "title": "金价",
@@ -671,7 +697,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -723,8 +749,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时06分 ~ 16时50分]"
+          "appearance_count": 18,
+          "time_info": "[09时06分 ~ 17时15分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -759,7 +785,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         }
@@ -807,7 +833,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
