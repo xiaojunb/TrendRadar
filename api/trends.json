@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T13:44:17.062169+08:00",
-  "total_titles_processed": 760,
+  "generated_at": "2025-10-29T14:23:18.421024+08:00",
+  "total_titles_processed": 831,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 69,
       "titles": [
         {
           "title": "“美方没回应”，特朗普高市谈完未举行记者会",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时04分 ~ 13时44分]"
+          "appearance_count": 12,
+          "time_info": "[09时04分 ~ 14时23分]"
         },
         {
           "title": "胡锡进：特朗普访日本，美日同盟更公开“主仆化”",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时04分 ~ 13时44分]"
+          "appearance_count": 12,
+          "time_info": "[09时04分 ~ 14时23分]"
         },
         {
           "title": "特朗普：“愚蠢、荒唐”，将下令美国航母改回去",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时45分 ~ 13时44分]"
+          "appearance_count": 9,
+          "time_info": "[11时45分 ~ 14时23分]"
         },
         {
           "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
@@ -50,8 +50,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时58分 ~ 13时44分]"
+          "appearance_count": 11,
+          "time_info": "[10时58分 ~ 14时23分]"
         },
         {
           "title": "特朗普搂着高市早苗大谈美日同盟关系：我们是“不打不相识”",
@@ -64,8 +64,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时04分 ~ 13时44分]"
+          "appearance_count": 10,
+          "time_info": "[09时04分 ~ 14时23分]"
         },
         {
           "title": "特朗普吐槽美航母电磁弹射又贵又难用",
@@ -89,19 +89,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时22分 ~ 13时44分]"
-        },
-        {
-          "title": "特朗普称轰炸广岛长崎只是小冲突",
-          "url": "https://www.toutiao.com/trending/7565938735481716799/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 12时23分]"
+          "appearance_count": 8,
+          "time_info": "[12时22分 ~ 14时23分]"
         },
         {
           "title": "特朗普称美航母电磁弹射又贵又难用，要求改回蒸汽弹射，蒸汽弹射与电磁弹射分别有哪些特点？究竟哪个更好？",
@@ -113,8 +102,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时50分 ~ 13时44分]"
+          "appearance_count": 6,
+          "time_info": "[12时50分 ~ 14时23分]"
+        },
+        {
+          "title": "特朗普称轰炸广岛长崎只是小冲突",
+          "url": "https://www.toutiao.com/trending/7565938735481716799/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 12时23分]"
         },
         {
           "title": "高市早苗被特朗普搂肩称赞 高兴蹦跳",
@@ -301,6 +301,18 @@
           "time_info": "[13时15分 ~ 13时44分]"
         },
         {
+          "title": "特朗普",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D25%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26realpos%3D25%26flag%3D1%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%26dgr%3D0%26pos%3D25%26cate%3D5001%26display_time%3D1761714604%26pre_seqid%3D17617146043990261051462",
+          "source": "微博",
+          "ranks": [
+            25,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时14分 ~ 14时23分]"
+        },
+        {
           "title": "美日首脑会晤：为“美国核电超级大单”买单，高市成功取悦特朗普",
           "url": "https://wallstreetcn.com/articles/3758090",
           "source": "华尔街见闻",
@@ -322,18 +334,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时58分 ~ 11时45分]"
-        },
-        {
-          "title": "特朗普",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D25%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26realpos%3D25%26flag%3D1%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%26dgr%3D0%26pos%3D25%26cate%3D5001%26display_time%3D1761714604%26pre_seqid%3D17617146043990261051462",
-          "source": "微博",
-          "ranks": [
-            25,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 13时44分]"
         },
         {
           "title": "美国总统特朗普：如果我还是总统，俄乌冲突根本不会发生。我们在八个月内完成了八个这样的任务，我相信其他的也会解决。我曾认为那是最简单的事情之一。",
@@ -576,9 +576,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
+        },
+        {
+          "title": "特朗普：韩国谈判非常厉害。 韩国已成为造船业的佼佼者。",
+          "url": "https://wallstreetcn.com/livenews/2995637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "特朗普径自走过日本国旗未鞠躬",
@@ -620,9 +631,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
+        },
+        {
+          "title": "韩国总统：特朗普做得很好，带来了和平。 将在造船业上合作。",
+          "url": "https://wallstreetcn.com/livenews/2995634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "美国总统特朗普：我们擅长制造其他东西，但造船业没有做好。造船是非常必要的。",
+          "url": "https://flash.jin10.com/detail/20251029135233900800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "韩国总统办公室：希望美国总统特朗普的访问将带来切实的合作成果。",
@@ -636,13 +669,24 @@
           "time_info": "10时59分"
         },
         {
+          "title": "特朗普矛头再指鲍威尔 要求美联储降息",
+          "url": "https://flash.jin10.com/detail/20251029135119256800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
           "title": "特朗普：我不会让美联储提高利率",
           "url": "https://flash.jin10.com/detail/20251029131423716800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -664,9 +708,42 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
+        },
+        {
+          "title": "特朗普为何抨击美航母电磁弹射技术",
+          "url": "https://www.toutiao.com/trending/7566463348447907366/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "特朗普：与韩国的关系只会愈发牢固。",
+          "url": "https://wallstreetcn.com/livenews/2995628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "韩国股市维持涨势，此前特朗普称美国与韩国有着“特殊纽带”关系，对双边贸易协议持乐观态度",
+          "url": "https://wallstreetcn.com/livenews/2995627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "高市早苗在安倍影子下拉拢特朗普",
@@ -686,7 +763,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -722,6 +799,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        },
+        {
+          "title": "韩国拟赠特朗普金色王冠模型",
+          "url": "https://www.toutiao.com/trending/7565866566953271346/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         }
       ]
     },
@@ -740,8 +828,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时45分 ~ 13时44分]"
+          "appearance_count": 9,
+          "time_info": "[11时45分 ~ 14时23分]"
         },
         {
           "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
@@ -801,8 +889,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时04分 ~ 13时44分]"
+          "appearance_count": 12,
+          "time_info": "[09时04分 ~ 14时23分]"
         },
         {
           "title": "美股三大股指续创新高 英伟达涨近5%",
@@ -854,8 +942,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时58分 ~ 13时44分]"
+          "appearance_count": 11,
+          "time_info": "[10时58分 ~ 14时23分]"
         },
         {
           "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
@@ -876,7 +964,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         }
