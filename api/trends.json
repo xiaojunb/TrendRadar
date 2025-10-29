@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T13:15:02.633197+08:00",
-  "total_titles_processed": 706,
+  "generated_at": "2025-10-29T13:44:17.062169+08:00",
+  "total_titles_processed": 760,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 61,
       "titles": [
         {
           "title": "“美方没回应”，特朗普高市谈完未举行记者会",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时04分 ~ 13时15分]"
+          "appearance_count": 11,
+          "time_info": "[09时04分 ~ 13时44分]"
         },
         {
           "title": "胡锡进：特朗普访日本，美日同盟更公开“主仆化”",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时04分 ~ 13时15分]"
+          "appearance_count": 11,
+          "time_info": "[09时04分 ~ 13时44分]"
         },
         {
           "title": "特朗普：“愚蠢、荒唐”，将下令美国航母改回去",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时45分 ~ 13时15分]"
+          "appearance_count": 8,
+          "time_info": "[11时45分 ~ 13时44分]"
         },
         {
           "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
@@ -50,8 +50,22 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时58分 ~ 13时44分]"
+        },
+        {
+          "title": "特朗普搂着高市早苗大谈美日同盟关系：我们是“不打不相识”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31848121",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[10时58分 ~ 13时15分]"
+          "time_info": "[09时04分 ~ 13时44分]"
         },
         {
           "title": "特朗普吐槽美航母电磁弹射又贵又难用",
@@ -66,17 +80,17 @@
           "time_info": "[10时58分 ~ 11时45分]"
         },
         {
-          "title": "特朗普搂着高市早苗大谈美日同盟关系：我们是“不打不相识”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31848121",
-          "source": "澎湃新闻",
+          "title": "特朗普抵韩 落地后专属BGM响起",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E9%9F%A9+%E8%90%BD%E5%9C%B0%E5%90%8E%E4%B8%93%E5%B1%9EBGM%E5%93%8D%E8%B5%B7",
+          "source": "百度热搜",
           "ranks": [
-            20,
-            19,
-            17
+            24,
+            27,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时04分 ~ 13时15分]"
+          "appearance_count": 7,
+          "time_info": "[12时22分 ~ 13时44分]"
         },
         {
           "title": "特朗普称轰炸广岛长崎只是小冲突",
@@ -95,11 +109,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时50分 ~ 13时15分]"
+          "appearance_count": 5,
+          "time_info": "[12时50分 ~ 13时44分]"
         },
         {
           "title": "高市早苗被特朗普搂肩称赞 高兴蹦跳",
@@ -126,49 +141,18 @@
           "time_info": "[09时04分 ~ 12时23分]"
         },
         {
-          "title": "特朗普抵韩 落地后专属BGM响起",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E9%9F%A9+%E8%90%BD%E5%9C%B0%E5%90%8E%E4%B8%93%E5%B1%9EBGM%E5%93%8D%E8%B5%B7",
-          "source": "百度热搜",
+          "title": "韩国总统府表示，韩国周三将以一顶金冠复制品迎接美国总统特朗普，并颁授他韩国最高勳章“无穷花大勳章”。",
+          "url": "https://wallstreetcn.com/livenews/2995590",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24,
-            27
+            1,
+            9,
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时22分 ~ 13时15分]"
-        },
-        {
-          "title": "美国总统特朗普：将所有制药企业带回美国。",
-          "url": "https://flash.jin10.com/detail/20251029125230949800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
-        },
-        {
-          "title": "美国总统特朗普：我们将与印度达成一项伟大的贸易协议。",
-          "url": "https://flash.jin10.com/detail/20251029125151888800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
-        },
-        {
-          "title": "美国总统特朗普：我们正携手解决前所未有的挑战，塑造一个自由开放的印太地区，为所有人打造一个有尊严、有安全、有繁荣、有自豪的未来。",
-          "url": "https://flash.jin10.com/detail/20251029125009672800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
+          "appearance_count": 4,
+          "time_info": "[12时23分 ~ 13时44分]"
         },
         {
           "title": "特朗普：我们来韩国不是为了见加拿大。",
@@ -183,19 +167,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时45分 ~ 13时15分]"
-        },
-        {
-          "title": "韩国总统府表示，韩国周三将以一顶金冠复制品迎接美国总统特朗普，并颁授他韩国最高勳章“无穷花大勳章”。",
-          "url": "https://wallstreetcn.com/livenews/2995590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时23分 ~ 13时15分]"
         },
         {
           "title": "美国总统特朗普：经济安全就是国家安全。",
@@ -258,6 +229,18 @@
           "time_info": "[12时51分 ~ 13时15分]"
         },
         {
+          "title": "美国总统特朗普：将所有制药企业带回美国。",
+          "url": "https://flash.jin10.com/detail/20251029125230949800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时44分]"
+        },
+        {
           "title": "美国总统特朗普在Truth Social上表示，我们来韩国可不是为了看加拿大的。",
           "url": "https://flash.jin10.com/detail/20251029113228570800",
           "source": "金十数据",
@@ -282,6 +265,18 @@
           "time_info": "[12时51分 ~ 13时15分]"
         },
         {
+          "title": "美国总统特朗普：我们将与印度达成一项伟大的贸易协议。",
+          "url": "https://flash.jin10.com/detail/20251029125151888800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时44分]"
+        },
+        {
           "title": "美国总统特朗普：我们正在为投资者快速发放许可。",
           "url": "https://flash.jin10.com/detail/20251029122632354800",
           "source": "金十数据",
@@ -292,6 +287,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时51分 ~ 13时15分]"
+        },
+        {
+          "title": "美国总统特朗普：我们正携手解决前所未有的挑战，塑造一个自由开放的印太地区，为所有人打造一个有尊严、有安全、有繁荣、有自豪的未来。",
+          "url": "https://flash.jin10.com/detail/20251029125009672800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时44分]"
         },
         {
           "title": "美日首脑会晤：为“美国核电超级大单”买单，高市成功取悦特朗普",
@@ -315,6 +322,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时58分 ~ 11时45分]"
+        },
+        {
+          "title": "特朗普",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D25%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26realpos%3D25%26flag%3D1%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%26dgr%3D0%26pos%3D25%26cate%3D5001%26display_time%3D1761714604%26pre_seqid%3D17617146043990261051462",
+          "source": "微博",
+          "ranks": [
+            25,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 13时44分]"
+        },
+        {
+          "title": "美国总统特朗普：如果我还是总统，俄乌冲突根本不会发生。我们在八个月内完成了八个这样的任务，我相信其他的也会解决。我曾认为那是最简单的事情之一。",
+          "url": "https://flash.jin10.com/detail/20251029124807266800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时44分]"
         },
         {
           "title": "韩国称，特朗普将与李在明举行午宴峰会，特朗普和李在明将在峰会上讨论贸易和联盟现代化问题。",
@@ -473,17 +504,6 @@
           "time_info": "[12时51分 ~ 13时15分]"
         },
         {
-          "title": "特朗普",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D25%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26realpos%3D25%26flag%3D1%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%26dgr%3D0%26pos%3D25%26cate%3D5001%26display_time%3D1761714604%26pre_seqid%3D17617146043990261051462",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时15分]"
-        },
-        {
           "title": "特朗普承认：“显然我不被允许竞选第三任期”",
           "url": "https://flash.jin10.com/detail/20251029103552940800",
           "source": "金十数据",
@@ -493,17 +513,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
-        },
-        {
-          "title": "美国总统特朗普：如果我还是总统，俄乌冲突根本不会发生。我们在八个月内完成了八个这样的任务，我相信其他的也会解决。我曾认为那是最简单的事情之一。",
-          "url": "https://flash.jin10.com/detail/20251029124807266800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
         },
         {
           "title": "电视直播画面显示，美国总统特朗普抵达韩国。",
@@ -523,7 +532,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -534,7 +543,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -556,9 +565,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
+        },
+        {
+          "title": "德勤周三发布的一份报告显示，特朗普关税将使得企业2026年的运营成本增加，扰乱供应链，削弱石油和天然气行业的投资势头。",
+          "url": "https://flash.jin10.com/detail/20251029132517829800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         },
         {
           "title": "特朗普径自走过日本国旗未鞠躬",
@@ -578,7 +598,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -589,9 +609,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
+        },
+        {
+          "title": "特朗普：美韩关系“密不可分”，对贸易持乐观态度",
+          "url": "https://flash.jin10.com/detail/20251029132132224800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         },
         {
           "title": "韩国总统办公室：希望美国总统特朗普的访问将带来切实的合作成果。",
@@ -605,6 +636,17 @@
           "time_info": "10时59分"
         },
         {
+          "title": "特朗普：我不会让美联储提高利率",
+          "url": "https://flash.jin10.com/detail/20251029131423716800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
           "title": "韩国总统办公室：李在明总统将向美国总统特朗普赠送一顶金色王冠的复制品。",
           "url": "https://flash.jin10.com/detail/20251029102115748800",
           "source": "金十数据",
@@ -616,6 +658,17 @@
           "time_info": "10时59分"
         },
         {
+          "title": "美国总统特朗普：台积电自大选以来已承诺向美国投资1000亿美元。",
+          "url": "https://flash.jin10.com/detail/20251029131236170800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
           "title": "高市早苗在安倍影子下拉拢特朗普",
           "url": "https://www.toutiao.com/trending/7566425231099694598/",
           "source": "今日头条",
@@ -625,6 +678,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "特朗普或和李在明主谈关税问题",
+          "url": "https://www.toutiao.com/trending/7565869575464550406/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         },
         {
           "title": "韩国总统办公室：美国总统特朗普将讨论贸易、投资等问题。",
@@ -676,8 +740,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时45分 ~ 13时15分]"
+          "appearance_count": 8,
+          "time_info": "[11时45分 ~ 13时44分]"
         },
         {
           "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
@@ -737,8 +801,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时04分 ~ 13时15分]"
+          "appearance_count": 11,
+          "time_info": "[09时04分 ~ 13时44分]"
         },
         {
           "title": "美股三大股指续创新高 英伟达涨近5%",
@@ -779,7 +843,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
@@ -790,8 +854,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时58分 ~ 13时15分]"
+          "appearance_count": 10,
+          "time_info": "[10时58分 ~ 13时44分]"
         },
         {
           "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
@@ -804,6 +868,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时04分 ~ 11时45分]"
+        },
+        {
+          "title": "美国总统特朗普：现代承诺投资260亿美元，美光承诺投资2000亿美元，软银、OpenAI、甲骨文承诺投资超过5000亿美元。",
+          "url": "https://flash.jin10.com/detail/20251029131152821800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         }
       ]
     }
