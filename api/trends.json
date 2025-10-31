@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-10-31T10:45:16.613185+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2025-10-31T11:41:38.717376+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
-        {
-          "title": "美参议院通过终止特朗普关税决议",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%8F%82%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E7%BB%88%E6%AD%A2%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E5%86%B3%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 10时45分]"
-        },
         {
           "title": "【早报】美方称中方同意暂停实施稀土出口管制措施，外交部回应；美参议院通过终止特朗普全面关税政策决议",
           "url": "https://www.cls.cn/detail/2187068",
@@ -26,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 10时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 11时41分]"
         },
         {
           "title": "视频丨习近平同美国总统特朗普在釜山举行会晤",
@@ -38,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 10时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 11时41分]"
         },
         {
           "title": "特朗普全面关税被参议院批准终止",
@@ -50,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 10时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 11时41分]"
         },
         {
           "title": "美参议院通过终止特朗普关税决议",
@@ -62,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 10时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 11时41分]"
         },
         {
           "title": "金正恩为何不见特朗普？",
@@ -74,8 +63,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 10时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 11时41分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -85,8 +74,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 10时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 11时41分]"
         },
         {
           "title": "习近平同美国总统特朗普在釜山举行会晤",
@@ -97,8 +86,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 10时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 11时41分]"
         },
         {
           "title": "特朗普全面关税被参议院批准终止",
@@ -109,8 +98,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 10时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 11时41分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
@@ -120,8 +109,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时44分 ~ 10时45分]"
+          "appearance_count": 3,
+          "time_info": "[10时44分 ~ 11时41分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普关税决议",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%8F%82%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E7%BB%88%E6%AD%A2%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E5%86%B3%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 11时41分]"
+        },
+        {
+          "title": "特朗普下令重启核试验，美国官员麻了：不切实际",
+          "url": "https://news.ifeng.com/c/8ntVHnP7AGG",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "特朗普称将下令美航母改回蒸汽弹射",
@@ -140,11 +152,12 @@
           "source": "抖音",
           "ranks": [
             1,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 10时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 11时41分]"
         },
         {
           "title": "胡锡进：特朗普是不是把试验运载技术与搞核试爆搞混了？",
@@ -166,8 +179,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 10时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 11时41分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -178,8 +191,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 10时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 11时41分]"
         },
         {
           "title": "安德鲁被剥夺王子头衔 美参议院通过终止特朗普全面关税政策决议 | 环球市场",
@@ -189,8 +202,43 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 11时41分]"
+        },
+        {
+          "title": "特朗普批准韩华费城造船厂建造核潜艇，外交部：望韩美切实履行核不扩散义务",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31855444",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 11时41分]"
+        },
+        {
+          "title": "特朗普全面关税被参议院批准终止",
+          "url": "https://www.douyin.com/hot/2289166",
+          "source": "抖音",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 11时41分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议",
+          "url": "https://wallstreetcn.com/articles/3758372",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时01分 ~ 10时45分]"
+          "time_info": "[10时44分 ~ 11时41分]"
         },
         {
           "title": "特朗普：相信我们将建立长期良好的关系",
@@ -204,38 +252,15 @@
           "time_info": "[09时01分 ~ 10时45分]"
         },
         {
-          "title": "特朗普批准韩华费城造船厂建造核潜艇，外交部：望韩美切实履行核不扩散义务",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31855444",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 10时45分]"
-        },
-        {
-          "title": "特朗普全面关税被参议院批准终止",
-          "url": "https://www.douyin.com/hot/2289166",
+          "title": "外交部回应特朗普重启核试验",
+          "url": "https://www.douyin.com/hot/2288630",
           "source": "抖音",
           "ranks": [
-            15
+            9
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 10时45分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议",
-          "url": "https://wallstreetcn.com/articles/3758372",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时44分 ~ 10时45分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "特朗普的亚洲行，从东盟和韩日等经济体获得了多少现实利益，美国又为此付出了什么，对其经济有何影响？",
@@ -249,6 +274,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "普京为何选择对特朗普“冷处理”",
+          "url": "https://www.toutiao.com/trending/7567155566624116266/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
           "title": "特朗普：相信我们将建立长期良好关系",
           "url": "https://www.toutiao.com/trending/7566661509154131492/",
           "source": "今日头条",
@@ -260,11 +296,61 @@
           "time_info": "09时01分"
         },
         {
+          "title": "据《国会山报》：当地时间周四晚些时候，特朗普再次抨击平价医疗法案(ACA)，要求民主党人在联邦资金陷入僵局的情况下，采取行动应对即将出现的费率大幅上涨问题。",
+          "url": "https://flash.jin10.com/detail/20251031105843628800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
           "title": "特朗普：给中美元首会晤打12分",
           "url": "https://www.toutiao.com/trending/7566587793552719878/",
           "source": "今日头条",
           "ranks": [
             29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十图示：2025年10月31日（周五）上海金早盘价为918.81元/克，较国际金价(917.28元/克)，高1.53元/克",
+          "url": "https://flash.jin10.com/detail/20251031101827586800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "金价再度回落 但仍有望录得连续第三个月上涨",
+          "url": "https://flash.jin10.com/detail/20251031112238872800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "金价狂飙婚事耽搁2年女子发声",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E5%A9%9A%E4%BA%8B%E8%80%BD%E6%90%812%E5%B9%B4%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E7%258B%2582%25E9%25A3%2599%25E5%25A9%259A%25E4%25BA%258B%25E8%2580%25BD%25E6%2590%25812%25E5%25B9%25B4%25E5%25A5%25B3%25E5%25AD%2590%25E5%258F%2591%25E5%25A3%25B0%2523%26dgr%3D0%26filter_type%3Drealtimehot%26realpos%3D16%26cate%3D5001%26c_type%3D31%26stream_entry_id%3D31%26lcate%3D5001%26pos%3D17%26band_rank%3D16%26display_time%3D1761871803%26pre_seqid%3D1761871803514027496109",
+          "source": "微博",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -284,8 +370,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 10时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 11时41分]"
         },
         {
           "title": "美股收盘：三大指数集体下跌 科技巨头股价大起大落",
@@ -295,8 +381,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 10时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 11时41分]"
         },
         {
           "title": "美股收盘：三大指数集体下跌",
@@ -313,30 +399,19 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
       "titles": [
         {
-          "title": "金十图示：2025年10月31日（周五）上海金早盘价为918.81元/克，较国际金价(917.28元/克)，高1.53元/克",
-          "url": "https://flash.jin10.com/detail/20251031101827586800",
-          "source": "金十数据",
+          "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "金价狂飙婚事耽搁2年女子发声",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E5%A9%9A%E4%BA%8B%E8%80%BD%E6%90%812%E5%B9%B4%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E7%258B%2582%25E9%25A3%2599%25E5%25A9%259A%25E4%25BA%258B%25E8%2580%25BD%25E6%2590%25812%25E5%25B9%25B4%25E5%25A5%25B3%25E5%25AD%2590%25E5%258F%2591%25E5%25A3%25B0%2523%26dgr%3D0%26filter_type%3Drealtimehot%26realpos%3D16%26cate%3D5001%26c_type%3D31%26stream_entry_id%3D31%26lcate%3D5001%26pos%3D17%26band_rank%3D16%26display_time%3D1761871803%26pre_seqid%3D1761871803514027496109",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "time_info": "11时41分"
         }
       ]
     },
