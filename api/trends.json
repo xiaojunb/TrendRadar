@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T21:06:22.586045+08:00",
-  "total_titles_processed": 1638,
+  "generated_at": "2025-10-31T21:45:54.207358+08:00",
+  "total_titles_processed": 1703,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[10时44分 ~ 21时06分]"
+          "appearance_count": 28,
+          "time_info": "[10时44分 ~ 21时45分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -55,6 +55,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[09时01分 ~ 15时13分]"
+        },
+        {
+          "title": "特朗普称将重启核武试验，俄表示会效仿",
+          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时40分 ~ 21时45分]"
         },
         {
           "title": "习近平同美国总统特朗普在釜山举行会晤",
@@ -105,20 +117,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[10时44分 ~ 21时06分]"
-        },
-        {
-          "title": "特朗普称将重启核武试验，俄表示会效仿",
-          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时40分 ~ 21时06分]"
+          "appearance_count": 28,
+          "time_info": "[10时44分 ~ 21时45分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -132,8 +132,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[09时01分 ~ 21时06分]"
+          "appearance_count": 29,
+          "time_info": "[09时01分 ~ 21时45分]"
         },
         {
           "title": "特朗普全面关税被参议院批准终止",
@@ -286,6 +286,22 @@
           "time_info": "[09时01分 ~ 11时41分]"
         },
         {
+          "title": "外交部回应特朗普“G2”集团言论",
+          "url": "https://www.toutiao.com/trending/7566848950186197011/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            17,
+            8,
+            23,
+            27,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时40分 ~ 21时45分]"
+        },
+        {
           "title": "特朗普关税被指“违法”对华意味什么",
           "url": "https://www.toutiao.com/trending/7567284269270175295/",
           "source": "今日头条",
@@ -298,21 +314,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[17时40分 ~ 20时27分]"
-        },
-        {
-          "title": "外交部回应特朗普“G2”集团言论",
-          "url": "https://www.toutiao.com/trending/7566848950186197011/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            17,
-            8,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时40分 ~ 21时06分]"
         },
         {
           "title": "美参议院通过终止特朗普关税决议",
@@ -599,7 +600,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -610,8 +611,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[09时01分 ~ 21时06分]"
+          "appearance_count": 29,
+          "time_info": "[09时01分 ~ 21时45分]"
         },
         {
           "title": "美股收盘：三大指数集体下跌 科技巨头股价大起大落",
@@ -623,6 +624,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时01分 ~ 13时42分]"
+        },
+        {
+          "title": "美股盘初：纳指涨1.5%，亚马逊涨约12%，苹果涨约2%",
+          "url": "https://wallstreetcn.com/livenews/2997765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "埃克森美孚第三季度收入及其他收益852.9亿美元。 第三季度调整后每股收益1.88美元，预估1.81美元。 第三季度每股收益1.76美元。 埃克森美孚美股盘前跌近1%。",
@@ -688,6 +700,30 @@
           "time_info": "[09时01分 ~ 10时45分]"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2997747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时06分 ~ 21时45分]"
+        },
+        {
+          "title": "Strategy美股盘前涨近6%，公司三季度营收高于预期。",
+          "url": "https://wallstreetcn.com/livenews/2997746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时06分 ~ 21时45分]"
+        },
+        {
           "title": "小马智行美股盘前涨超5%。",
           "url": "https://wallstreetcn.com/livenews/2997604",
           "source": "华尔街见闻-快讯",
@@ -700,26 +736,26 @@
           "time_info": "[18时15分 ~ 18时43分]"
         },
         {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2997747",
-          "source": "华尔街见闻-快讯",
+          "title": "美股高开 苹果涨2%股价创新高",
+          "url": "https://flash.jin10.com/detail/20251031213040797800",
+          "source": "金十数据",
           "ranks": [
-            6
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时06分"
+          "time_info": "21时45分"
         },
         {
-          "title": "Strategy美股盘前涨近6%，公司三季度营收高于预期。",
-          "url": "https://wallstreetcn.com/livenews/2997746",
-          "source": "华尔街见闻-快讯",
+          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2188280",
+          "source": "财联社热门",
           "ranks": [
-            7
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时06分"
+          "time_info": "21时45分"
         },
         {
           "title": "美银策略师：黄金与中国股市是对冲美股AI泡沫的最佳工具",
@@ -728,7 +764,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         }
@@ -750,8 +786,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时15分 ~ 21时06分]"
+          "appearance_count": 11,
+          "time_info": "[17时15分 ~ 21时45分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）上海金早盘价为918.81元/克，较国际金价(917.28元/克)，高1.53元/克",
@@ -823,8 +859,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时47分 ~ 21时06分]"
+          "appearance_count": 12,
+          "time_info": "[16时47分 ~ 21时45分]"
         },
         {
           "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
@@ -867,8 +903,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[11时41分 ~ 21时06分]"
+          "appearance_count": 26,
+          "time_info": "[11时41分 ~ 21时45分]"
         }
       ]
     },
@@ -883,7 +919,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         }
