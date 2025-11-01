@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-01T09:04:36.393119+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-01T10:56:29.935346+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
+          "url": "https://www.cls.cn/detail/2188509",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 10时56分]"
+        },
         {
           "title": "特朗普称将重启核武试验，俄表示会效仿",
           "url": "https://news.ifeng.com/c/8ntsDucQYrq",
@@ -19,15 +31,28 @@
           "time_info": "09时04分"
         },
         {
-          "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
-          "url": "https://www.cls.cn/detail/2188509",
-          "source": "财联社热门",
+          "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
+          "url": "https://wallstreetcn.com/articles/3758448",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 10时56分]"
+        },
+        {
+          "title": "特朗普匆忙回程或预示美政府结束停摆",
+          "url": "https://www.toutiao.com/trending/7566776242700566564/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 10时56分]"
         },
         {
           "title": "特朗普呼吁废除参议院“拖延战术”议事规则，遭共和党内部反对",
@@ -35,17 +60,6 @@
           "source": "凤凰网",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
-          "url": "https://wallstreetcn.com/articles/3758448",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -96,15 +110,15 @@
           "time_info": "09时04分"
         },
         {
-          "title": "特朗普匆忙回程或预示美政府结束停摆",
-          "url": "https://www.toutiao.com/trending/7566776242700566564/",
-          "source": "今日头条",
+          "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31864882",
+          "source": "澎湃新闻",
           "ranks": [
-            17
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "10时56分"
         },
         {
           "title": "美国参议院否决特朗普关税说明什么",
@@ -132,7 +146,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
@@ -142,30 +156,43 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 10时56分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
           "url": "https://www.cls.cn/detail/2188490",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 10时56分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
           "url": "https://www.cls.cn/detail/2188280",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 10时56分]"
+        },
+        {
+          "title": "美股上市公司CEO的一句玩笑话 扒开美国金融监管的大漏洞",
+          "url": "https://www.cls.cn/detail/2188453",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "10时56分"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -244,11 +271,12 @@
           "url": "https://www.cls.cn/detail/2188436",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 10时56分]"
         },
         {
           "title": "金价10月份涨3.7%，现货白银涨约4.3%",
