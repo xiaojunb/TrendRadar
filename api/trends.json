@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T17:13:59.951725+08:00",
-  "total_titles_processed": 870,
+  "generated_at": "2025-11-01T17:38:02.407223+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时04分 ~ 17时13分]"
+          "appearance_count": 18,
+          "time_info": "[09时04分 ~ 17时38分]"
         },
         {
           "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时04分 ~ 17时13分]"
+          "appearance_count": 18,
+          "time_info": "[09时04分 ~ 17时38分]"
         },
         {
           "title": "特朗普：加总理道歉了，没用",
@@ -51,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时15分 ~ 17时13分]"
+          "appearance_count": 15,
+          "time_info": "[12时15分 ~ 17时38分]"
         },
         {
           "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
@@ -64,11 +64,12 @@
             14,
             12,
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时56分 ~ 17时13分]"
+          "appearance_count": 17,
+          "time_info": "[10时56分 ~ 17时38分]"
         },
         {
           "title": "从东南亚到东北亚，特朗普的核心目标是啥",
@@ -79,8 +80,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时40分 ~ 17时13分]"
+          "appearance_count": 14,
+          "time_info": "[12时40分 ~ 17时38分]"
         },
         {
           "title": "加拿大总理卡尼：就（关税相关）广告向美国总统特朗普道歉。",
@@ -95,8 +96,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时19分 ~ 17时13分]"
+          "appearance_count": 8,
+          "time_info": "[14时19分 ~ 17时38分]"
         },
         {
           "title": "加拿大总理卡尼：加拿大准备与美国谈判更好的贸易协议。 就（关税相关）广告向美国总统特朗普道歉。",
@@ -110,8 +111,41 @@
             24
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时19分 ~ 17时38分]"
+        },
+        {
+          "title": "纯碰瓷！特朗普重启核试验，也是“给中国送大礼”",
+          "url": "https://news.ifeng.com/c/8nvVRAkK6ND",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[14时19分 ~ 17时13分]"
+          "time_info": "[15时36分 ~ 17时38分]"
+        },
+        {
+          "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
+          "url": "https://news.ifeng.com/c/8nvYkTEOR3A",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时17分 ~ 17时38分]"
+        },
+        {
+          "title": "日本首相高市早苗：通过特朗普的访日行程，我们重申了强大的美日同盟。",
+          "url": "https://flash.jin10.com/detail/20251101164227451800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 17时38分]"
         },
         {
           "title": "特朗普称将重启核武试验，俄表示会效仿",
@@ -125,37 +159,15 @@
           "time_info": "09时04分"
         },
         {
-          "title": "日本首相高市早苗：通过特朗普的访日行程，我们重申了强大的美日同盟。",
-          "url": "https://flash.jin10.com/detail/20251101164227451800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
-        },
-        {
-          "title": "纯碰瓷！特朗普重启核试验，也是“给中国送大礼”",
-          "url": "https://news.ifeng.com/c/8nvVRAkK6ND",
+          "title": "特朗普一番话，让台网友惊呼：台湾没筹码啰",
+          "url": "https://news.ifeng.com/c/8nvbiDiFTxi",
           "source": "凤凰网",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时36分 ~ 17时13分]"
-        },
-        {
-          "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
-          "url": "https://news.ifeng.com/c/8nvYkTEOR3A",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时17分 ~ 17时13分]"
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 17时38分]"
         },
         {
           "title": "特朗普匆忙回程或预示美政府结束停摆",
@@ -260,8 +272,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时04分 ~ 17时13分]"
+          "appearance_count": 18,
+          "time_info": "[09时04分 ~ 17时38分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -274,8 +286,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时04分 ~ 17时13分]"
+          "appearance_count": 18,
+          "time_info": "[09时04分 ~ 17时38分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -414,9 +426,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 17时38分]"
         },
         {
           "title": "伊朗革命卫队海军在波斯湾查获24万升走私燃料",
@@ -428,8 +440,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时18分 ~ 17时13分]"
+          "appearance_count": 4,
+          "time_info": "[16时18分 ~ 17时38分]"
         }
       ]
     },
@@ -482,8 +494,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时46分 ~ 17时13分]"
+          "appearance_count": 10,
+          "time_info": "[14时46分 ~ 17时38分]"
         }
       ]
     },
@@ -498,9 +510,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时13分 ~ 17时38分]"
         }
       ]
     }
