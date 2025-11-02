@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-02T12:43:10.859879+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2025-11-02T13:14:12.712107+08:00",
+  "total_titles_processed": 557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "逼近历史最长纪录！美政府“停摆”超31天，特朗普急了",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时04分 ~ 12时43分]"
+          "appearance_count": 9,
+          "time_info": "[09时04分 ~ 13时14分]"
         },
         {
           "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时04分 ~ 12时43分]"
+          "appearance_count": 9,
+          "time_info": "[09时04分 ~ 13时14分]"
         },
         {
           "title": "美防长：特朗普和我都认为美中关系从未如此之好",
@@ -41,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 12时43分]"
+          "appearance_count": 5,
+          "time_info": "[12时17分 ~ 13时14分]"
         },
         {
           "title": "特朗普允许韩国在费城制造核动力潜艇，会对韩国海军实力有怎样的提升？",
@@ -53,8 +53,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时04分 ~ 12时43分]"
+          "appearance_count": 9,
+          "time_info": "[09时04分 ~ 13时14分]"
         },
         {
           "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
@@ -65,8 +65,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时04分 ~ 12时43分]"
+          "appearance_count": 9,
+          "time_info": "[09时04分 ~ 13时14分]"
         },
         {
           "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
@@ -77,8 +77,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时45分 ~ 12时43分]"
+          "appearance_count": 6,
+          "time_info": "[11时45分 ~ 13时14分]"
+        },
+        {
+          "title": "克里姆林宫：解决乌克兰局势需要细致入微的工作，而不是安排普京与特朗普的会晤。",
+          "url": "https://flash.jin10.com/detail/20251102122507484800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         }
       ]
     },
@@ -96,8 +107,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时04分 ~ 12时43分]"
+          "appearance_count": 9,
+          "time_info": "[09时04分 ~ 13时14分]"
         },
         {
           "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
@@ -130,8 +141,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 12时43分]"
+          "appearance_count": 5,
+          "time_info": "[12时17分 ~ 13时14分]"
         }
       ]
     },
@@ -150,8 +161,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时57分 ~ 12时43分]"
+          "appearance_count": 5,
+          "time_info": "[10时57分 ~ 13时14分]"
         },
         {
           "title": "金价起落之间：有人梭哈有人“卧倒”",
@@ -159,11 +170,12 @@
           "source": "今日头条",
           "ranks": [
             25,
-            27
+            27,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 12时43分]"
+          "appearance_count": 5,
+          "time_info": "[12时17分 ~ 13时14分]"
         }
       ]
     },
