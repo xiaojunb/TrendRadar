@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T17:43:48.196691+08:00",
-  "total_titles_processed": 1137,
+  "generated_at": "2025-11-03T18:18:39.345212+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时53分 ~ 17时43分]"
+          "appearance_count": 10,
+          "time_info": "[14时53分 ~ 18时18分]"
         },
         {
           "title": "特朗普：或向尼日利亚部署美军，以阻止基督徒被屠杀",
@@ -44,6 +44,29 @@
           "time_info": "[11时50分 ~ 14时23分]"
         },
         {
+          "title": "特朗普对委内瑞拉“动手”有三个目标，但都和毒品无关",
+          "url": "https://news.ifeng.com/c/8nyd0LY05uS",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时53分 ~ 18时18分]"
+        },
+        {
+          "title": "特朗普称中方秘密测试核武器，外交部回应",
+          "url": "https://news.ifeng.com/c/8nyu6nRPtUJ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时40分 ~ 18时18分]"
+        },
+        {
           "title": "全世界静待美国最高法怎么判，特朗普又改口说“不去了”",
           "url": "https://news.ifeng.com/c/8nyjSz2usjQ",
           "source": "凤凰网",
@@ -55,29 +78,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时53分 ~ 16时49分]"
-        },
-        {
-          "title": "特朗普对委内瑞拉“动手”有三个目标，但都和毒品无关",
-          "url": "https://news.ifeng.com/c/8nyd0LY05uS",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时53分 ~ 17时43分]"
-        },
-        {
-          "title": "特朗普称中方秘密测试核武器，外交部回应",
-          "url": "https://news.ifeng.com/c/8nyu6nRPtUJ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时40分 ~ 17时43分]"
         },
         {
           "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
@@ -115,8 +115,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时43分]"
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 18时18分]"
         },
         {
           "title": "特朗普称美将干预内塔尼亚胡受审",
@@ -179,6 +179,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时06分 ~ 12时23分]"
+        },
+        {
+          "title": "特朗普：和中国合作能让我们更强大",
+          "url": "https://www.toutiao.com/trending/7567809473297809450/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 18时18分]"
         },
         {
           "title": "特朗普拒绝重启与加拿大的贸易谈判",
@@ -247,11 +259,12 @@
           "url": "https://www.cls.cn/detail/2189459",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时43分]"
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 18时18分]"
         },
         {
           "title": "学者：特朗普抛G2概念是霸权算计",
@@ -309,17 +322,6 @@
           "time_info": "09时06分"
         },
         {
-          "title": "特朗普：和中国合作能让我们更强大",
-          "url": "https://www.toutiao.com/trending/7567809473297809450/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
           "title": "特朗普称尚未认真考虑向乌克兰提供“战斧”导弹",
           "url": "https://wallstreetcn.com/livenews/2998220",
           "source": "华尔街见闻-快讯",
@@ -359,7 +361,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         },
@@ -373,6 +375,151 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
+          "url": "https://www.cls.cn/detail/2189006",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[10时58分 ~ 16时21分]"
+        },
+        {
+          "title": "美光科技美股盘前涨超4%。报道称DDR5现货价格飙升25%，三星暂停DDR5合约价报价。",
+          "url": "https://wallstreetcn.com/livenews/2998506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 18时18分]"
+        },
+        {
+          "title": "北美地区冬令时 美股延至22:30开盘",
+          "url": "https://flash.jin10.com/detail/20251103160624228800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
+          "title": "美股明星科技股盘前走高，美光科技(MU.O)盘前涨超4%，奈飞(NFLX.O)、Meta Platforms(META.O)、AMD(AMD.O)涨超1.2%，英伟达(NVDA.O)、高通(QCOM.O)涨约1%。",
+          "url": "https://flash.jin10.com/detail/20251103173003970800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "伊朗明年将启用首座核能海水淡化厂",
+          "url": "https://flash.jin10.com/detail/20251103174049166800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "伊朗总统：将重建核设施，不生产核武器",
+          "url": "https://news.ifeng.com/c/8nxTWkvLi0L",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时06分 ~ 10时59分]"
+        },
+        {
+          "title": "美国内政部长：伊朗不能拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20251103140652707800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 15时15分]"
+        },
+        {
+          "title": "伊朗明年将启用首座核能海水淡化厂",
+          "url": "https://wallstreetcn.com/livenews/2998515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌母公司Alphabet将发行至少30亿欧元债券以支持AI扩张",
+          "url": "https://wallstreetcn.com/livenews/2998517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "摩根大通：将谷歌母公司Alphabet添加到了“美国分析师关注名单”中。",
+          "url": "https://flash.jin10.com/detail/20251103151938770800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "谷歌母公司Alphabet拟发行至少30亿欧元债券 为AI扩张计划融资",
+          "url": "https://flash.jin10.com/detail/20251103173115660800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         }
       ]
     },
@@ -413,49 +560,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
-          "url": "https://www.cls.cn/detail/2189006",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时58分 ~ 16时21分]"
-        },
-        {
-          "title": "美光科技美股盘前涨超4%。报道称DDR5现货价格飙升25%，三星暂停DDR5合约价报价。",
-          "url": "https://wallstreetcn.com/livenews/2998506",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
-          "title": "北美地区冬令时 美股延至22:30开盘",
-          "url": "https://flash.jin10.com/detail/20251103160624228800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时49分"
         }
       ]
     },
@@ -514,57 +618,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗总统：将重建核设施，不生产核武器",
-          "url": "https://news.ifeng.com/c/8nxTWkvLi0L",
-          "source": "凤凰网",
-          "ranks": [
-            8
+            16,
+            26
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时06分 ~ 10时59分]"
-        },
-        {
-          "title": "美国内政部长：伊朗不能拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20251103140652707800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 15时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "摩根大通：将谷歌母公司Alphabet添加到了“美国分析师关注名单”中。",
-          "url": "https://flash.jin10.com/detail/20251103151938770800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时40分"
+          "time_info": "[17时19分 ~ 18时18分]"
         }
       ]
     },
