@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T16:21:51.786419+08:00",
-  "total_titles_processed": 980,
+  "generated_at": "2025-11-03T16:49:01.775233+08:00",
+  "total_titles_processed": 1030,
   "failed_sources": [],
   "trends": [
     {
@@ -28,6 +28,32 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时50分 ~ 14时23分]"
+        },
+        {
+          "title": "特朗普：中美可以通过合作变得更加强大",
+          "url": "https://news.ifeng.com/c/8nyo3aIzAVP",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时53分 ~ 16时49分]"
+        },
+        {
+          "title": "全世界静待美国最高法怎么判，特朗普又改口说“不去了”",
+          "url": "https://news.ifeng.com/c/8nyjSz2usjQ",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时53分 ~ 16时49分]"
         },
         {
           "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
@@ -58,32 +84,6 @@
           "time_info": "[10时58分 ~ 14时53分]"
         },
         {
-          "title": "特朗普：中美可以通过合作变得更加强大",
-          "url": "https://news.ifeng.com/c/8nyo3aIzAVP",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时53分 ~ 16时21分]"
-        },
-        {
-          "title": "全世界静待美国最高法怎么判，特朗普又改口说“不去了”",
-          "url": "https://news.ifeng.com/c/8nyjSz2usjQ",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时53分 ~ 16时21分]"
-        },
-        {
           "title": "特朗普对委内瑞拉“动手”有三个目标，但都和毒品无关",
           "url": "https://news.ifeng.com/c/8nyd0LY05uS",
           "source": "凤凰网",
@@ -92,8 +92,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时53分 ~ 16时21分]"
+          "appearance_count": 7,
+          "time_info": "[14时53分 ~ 16时49分]"
         },
         {
           "title": "特朗普称中方秘密测试核武器，外交部回应",
@@ -103,8 +103,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 16时21分]"
+          "appearance_count": 4,
+          "time_info": "[15时40分 ~ 16时49分]"
         },
         {
           "title": "特朗普称美将干预内塔尼亚胡受审",
@@ -129,6 +129,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "特朗普称美将干预内塔尼亚胡受审",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%B0%86%E5%B9%B2%E9%A2%84%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%8F%97%E5%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            30,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时23分 ~ 16时49分]"
         },
         {
           "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
@@ -192,19 +206,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时23分 ~ 13时43分]"
-        },
-        {
-          "title": "特朗普称美将干预内塔尼亚胡受审",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%B0%86%E5%B9%B2%E9%A2%84%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%8F%97%E5%AE%A1",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时23分 ~ 16时21分]"
         },
         {
           "title": "尼日利亚回应：这是特朗普的惯用伎俩",
@@ -393,6 +394,38 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
+          "url": "https://www.cls.cn/detail/2189006",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[10时58分 ~ 16时21分]"
+        },
+        {
+          "title": "北美地区冬令时 美股延至22:30开盘",
+          "url": "https://flash.jin10.com/detail/20251103160624228800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 2,
       "titles": [
@@ -439,23 +472,19 @@
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
         {
-          "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
-          "url": "https://www.cls.cn/detail/2189006",
-          "source": "财联社热门",
+          "title": "土耳其中央银行以传统方式（多重价格招标）启动3吨黄金的1周期“黄金换里拉”卖方掉期拍卖。",
+          "url": "https://flash.jin10.com/detail/20251103162225875800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            11,
-            10,
-            8,
-            7
+            2
           ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时58分 ~ 16时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         }
       ]
     },
