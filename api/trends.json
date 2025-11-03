@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T16:49:01.775233+08:00",
-  "total_titles_processed": 1030,
+  "generated_at": "2025-11-03T17:19:42.899128+08:00",
+  "total_titles_processed": 1093,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普：道歉没用，不谈！",
@@ -36,11 +36,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时53分 ~ 16时49分]"
+          "appearance_count": 8,
+          "time_info": "[14时53分 ~ 17时19分]"
         },
         {
           "title": "全世界静待美国最高法怎么判，特朗普又改口说“不去了”",
@@ -54,6 +55,29 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时53分 ~ 16时49分]"
+        },
+        {
+          "title": "特朗普对委内瑞拉“动手”有三个目标，但都和毒品无关",
+          "url": "https://news.ifeng.com/c/8nyd0LY05uS",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时53分 ~ 17时19分]"
+        },
+        {
+          "title": "特朗普称中方秘密测试核武器，外交部回应",
+          "url": "https://news.ifeng.com/c/8nyu6nRPtUJ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时40分 ~ 17时19分]"
         },
         {
           "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
@@ -82,29 +106,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[10时58分 ~ 14时53分]"
-        },
-        {
-          "title": "特朗普对委内瑞拉“动手”有三个目标，但都和毒品无关",
-          "url": "https://news.ifeng.com/c/8nyd0LY05uS",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时53分 ~ 16时49分]"
-        },
-        {
-          "title": "特朗普称中方秘密测试核武器，外交部回应",
-          "url": "https://news.ifeng.com/c/8nyu6nRPtUJ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时40分 ~ 16时49分]"
         },
         {
           "title": "特朗普称美将干预内塔尼亚胡受审",
@@ -154,6 +155,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "距离史上最长“停摆”纪录只差1天，特朗普回应",
+          "url": "https://news.ifeng.com/c/8nyxD7T9Bvw",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "奥巴马怼特朗普政府“无法无天”",
@@ -275,6 +287,17 @@
           "time_info": "09时06分"
         },
         {
+          "title": "特朗普称中方“正在秘密测试核武器”，外交部回应",
+          "url": "https://www.cls.cn/detail/2189459",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "特朗普称他不会出席最高法院就关税措施合法性举行的听证会",
           "url": "https://wallstreetcn.com/livenews/2998222",
           "source": "华尔街见闻-快讯",
@@ -317,6 +340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "特朗普取消旁听美最高法院关税案辩论",
+          "url": "https://www.toutiao.com/trending/7567579672977031204/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         }
       ]
     },
@@ -394,6 +428,35 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "土耳其中央银行以传统方式（多重价格招标）启动3吨黄金的1周期“黄金换里拉”卖方掉期拍卖。",
+          "url": "https://flash.jin10.com/detail/20251103162225875800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 17时19分]"
+        },
+        {
+          "title": "黄金税收新规出台后，招行实体金条价格已含税",
+          "url": "https://wallstreetcn.com/livenews/2998489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -419,7 +482,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         }
@@ -468,23 +531,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "土耳其中央银行以传统方式（多重价格招标）启动3吨黄金的1周期“黄金换里拉”卖方掉期拍卖。",
-          "url": "https://flash.jin10.com/detail/20251103162225875800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时49分"
         }
       ]
     },
