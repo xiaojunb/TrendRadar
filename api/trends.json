@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T17:43:10.969661+08:00",
-  "total_titles_processed": 1274,
+  "generated_at": "2025-11-05T18:16:34.346181+08:00",
+  "total_titles_processed": 1334,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时03分 ~ 17时43分]"
+          "appearance_count": 19,
+          "time_info": "[09时03分 ~ 18时16分]"
         },
         {
           "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
@@ -118,6 +118,19 @@
           "time_info": "[10时54分 ~ 11时42分]"
         },
         {
+          "title": "美股盘前，超微电脑跌约9%，公司第一财季净销售额不及预期。 诺和诺德涨约2%，公司此前公布了三季度财报。",
+          "url": "https://wallstreetcn.com/livenews/2999794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 18时16分]"
+        },
+        {
           "title": "金十整理：美股“一夜变天”，华尔街对美股未来走势争论不休",
           "url": "https://flash.jin10.com/detail/20251105113353093800",
           "source": "金十数据",
@@ -142,18 +155,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时21分 ~ 17时16分]"
-        },
-        {
-          "title": "美股盘前，超微电脑跌约9%，公司第一财季净销售额不及预期。 诺和诺德涨约2%，公司此前公布了三季度财报。",
-          "url": "https://wallstreetcn.com/livenews/2999794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 17时43分]"
         },
         {
           "title": "凯投宏观：亚洲股市回调是对美股下跌的直接反映 对后续抛售加剧存疑",
@@ -208,7 +209,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         },
@@ -219,7 +220,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         },
@@ -249,8 +250,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时54分 ~ 17时43分]"
+          "appearance_count": 18,
+          "time_info": "[10时54分 ~ 18时16分]"
         },
         {
           "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
@@ -262,8 +263,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时03分 ~ 17时43分]"
+          "appearance_count": 19,
+          "time_info": "[09时03分 ~ 18时16分]"
         },
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -275,8 +276,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时38分 ~ 17时43分]"
+          "appearance_count": 7,
+          "time_info": "[15时38分 ~ 18时16分]"
         },
         {
           "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
@@ -296,11 +297,12 @@
           "ranks": [
             10,
             4,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时49分 ~ 17时43分]"
+          "appearance_count": 5,
+          "time_info": "[16时49分 ~ 18时16分]"
         },
         {
           "title": "纽约市当选市长Mamdani：将终结“腐败文化”，正是这种文化允许像特朗普这样的亿万富翁逃避税收并利用税收优惠。",
@@ -536,17 +538,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "金十图示：2025年11月05日（周三）上海金早盘价为904.68元/克，较国际金价(903.54元/克)，高1.14元/克",
-          "url": "https://flash.jin10.com/detail/20251105101740650800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
           "title": "美元走强金价又跌了",
           "url": "https://www.douyin.com/hot/2295060",
           "source": "抖音",
@@ -556,8 +547,19 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时38分 ~ 17时16分]"
+          "appearance_count": 5,
+          "time_info": "[15时38分 ~ 18时16分]"
+        },
+        {
+          "title": "金十图示：2025年11月05日（周三）上海金早盘价为904.68元/克，较国际金价(903.54元/克)，高1.14元/克",
+          "url": "https://flash.jin10.com/detail/20251105101740650800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         },
         {
           "title": "金价",
@@ -688,8 +690,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时38分 ~ 17时43分]"
+          "appearance_count": 6,
+          "time_info": "[15时38分 ~ 18时16分]"
         },
         {
           "title": "美元指数突破100大关，为8月1日来首次",
