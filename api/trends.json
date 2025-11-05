@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T13:15:36.433123+08:00",
-  "total_titles_processed": 705,
+  "generated_at": "2025-11-05T13:43:50.813776+08:00",
+  "total_titles_processed": 755,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时03分 ~ 13时15分]"
+          "appearance_count": 9,
+          "time_info": "[09时03分 ~ 13时43分]"
         },
         {
           "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时03分 ~ 13时15分]"
+          "appearance_count": 9,
+          "time_info": "[09时03分 ~ 13时43分]"
         },
         {
           "title": "全球风险资产遭遇黑色星期二，美股全线大跌，黄金下破 3930 美元，比特币跌破 10.3 万美元，发生了什么？",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时54分 ~ 13时15分]"
+          "appearance_count": 8,
+          "time_info": "[10时54分 ~ 13时43分]"
         },
         {
           "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
@@ -48,11 +48,12 @@
           "ranks": [
             13,
             10,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时54分 ~ 13时15分]"
+          "appearance_count": 8,
+          "time_info": "[10时54分 ~ 13时43分]"
         },
         {
           "title": "美股期货跌幅扩大，标普500指数期货现跌0.5%，纳斯达克100指数期货跌0.7%。",
@@ -185,8 +186,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时54分 ~ 13时15分]"
+          "appearance_count": 8,
+          "time_info": "[10时54分 ~ 13时43分]"
         },
         {
           "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
@@ -197,8 +198,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时03分 ~ 13时15分]"
+          "appearance_count": 9,
+          "time_info": "[09时03分 ~ 13时43分]"
         },
         {
           "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
@@ -216,11 +217,12 @@
           "url": "https://flash.jin10.com/detail/20251105123816370800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时43分]"
         },
         {
           "title": "美国前财长称特朗普动用紧急权力课关税的做法“有毛病”",
@@ -297,7 +299,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         }
@@ -384,6 +386,34 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待伊朗提出美伊合作三个条件",
+          "url": "https://www.toutiao.com/trending/7569022185453407750/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
+        },
+        {
+          "title": "国际原子能机构总干事格罗西：伊朗必须“认真改善”与联合国检查员的合作，以避免与西方的紧张关系加剧。",
+          "url": "https://flash.jin10.com/detail/20251105130320093800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -398,8 +428,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时03分 ~ 13时15分]"
+          "appearance_count": 9,
+          "time_info": "[09时03分 ~ 13时43分]"
         }
       ]
     },
@@ -417,23 +447,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待伊朗提出美伊合作三个条件",
-          "url": "https://www.toutiao.com/trending/7569022185453407750/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
         }
       ]
     }
