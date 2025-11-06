@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T21:07:58.520706+08:00",
-  "total_titles_processed": 1536,
+  "generated_at": "2025-11-06T21:50:14.443697+08:00",
+  "total_titles_processed": 1629,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[09时03分 ~ 21时07分]"
+          "appearance_count": 26,
+          "time_info": "[09时03分 ~ 21时50分]"
         },
         {
           "title": "特朗普：美国第一，俄罗斯第二，中国第三",
@@ -125,11 +125,24 @@
           "url": "https://news.ifeng.com/c/8o3ygttojoa",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时27分 ~ 21时07分]"
+          "appearance_count": 4,
+          "time_info": "[20时27分 ~ 21时50分]"
+        },
+        {
+          "title": "市场预计最高法院维持特朗普关税的概率仅剩30% 为什么说这不是什么好事",
+          "url": "https://wallstreetcn.com/premium/articles/3758757?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时16分 ~ 21时50分]"
         },
         {
           "title": "特朗普提议结束“冗长辩论”尽快推动政府重启，共和党人不干了！",
@@ -187,16 +200,17 @@
           "time_info": "19时15分"
         },
         {
-          "title": "市场预计最高法院维持特朗普关税的概率仅剩30% 为什么说这不是什么好事",
-          "url": "https://wallstreetcn.com/premium/articles/3758757?layout=wscn-layout",
-          "source": "华尔街见闻",
+          "title": "特朗普重申不会出席G20峰会",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E7%94%B3%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%ADG20%E5%B3%B0%E4%BC%9A",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            10
+            30,
+            27,
+            28
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[18时16分 ~ 21时07分]"
+          "time_info": "[19时37分 ~ 21时50分]"
         },
         {
           "title": "特朗普高级顾问：特朗普明年将聚焦生活成本议题",
@@ -237,6 +251,18 @@
           "time_info": "[14时21分 ~ 15时14分]"
         },
         {
+          "title": "民主党接连胜选之后 特朗普要求立即通过支出法案以结束停摆",
+          "url": "https://www.cls.cn/detail/2192934",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时07分 ~ 21时50分]"
+        },
+        {
           "title": "特朗普政府决定提供三分之二食品援助福利 修正此前“计算错误”",
           "url": "https://flash.jin10.com/detail/20251106140101223800",
           "source": "金十数据",
@@ -247,19 +273,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时21分 ~ 15时14分]"
-        },
-        {
-          "title": "特朗普重申不会出席G20峰会",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E7%94%B3%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%ADG20%E5%B3%B0%E4%BC%9A",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时37分 ~ 21时07分]"
         },
         {
           "title": "法国外贸银行：特朗普关税案若败诉，美贸易政策将陷入更深不确定性之中",
@@ -319,17 +332,6 @@
           "time_info": "17时17分"
         },
         {
-          "title": "民主党接连胜选之后 特朗普要求立即通过支出法案以结束停摆",
-          "url": "https://www.cls.cn/detail/2192934",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
-        },
-        {
           "title": "美国白宫：特朗普将于周四上午11点（北京时间周周五零点）发表声明。",
           "url": "https://flash.jin10.com/detail/20251106080755974800",
           "source": "金十数据",
@@ -374,6 +376,17 @@
           "time_info": "18时45分"
         },
         {
+          "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普将宣布部分减肥药降价协议。",
+          "url": "https://flash.jin10.com/detail/20251106212216122800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "特朗普召集共和党开总结大会总结了啥",
           "url": "https://www.toutiao.com/trending/7569437613585600006/",
           "source": "今日头条",
@@ -387,8 +400,147 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
+          "url": "https://www.cls.cn/detail/2192424",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时03分 ~ 14时52分]"
+        },
+        {
+          "title": "HBM4涨价带动美股存储板块爆发 美光科技股价再创历史新高",
+          "url": "https://www.cls.cn/detail/2192518",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[10时55分 ~ 16时19分]"
+        },
+        {
+          "title": "美股泡沫有多大？瑞银给出七个观测指标",
+          "url": "https://wallstreetcn.com/articles/3758712",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[09时03分 ~ 17时43分]"
+        },
+        {
+          "title": "多邻国美股盘前跌超21%，第四季度预订量指引不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3000481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            5,
+            11,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时43分 ~ 19时37分]"
+        },
+        {
+          "title": "EchoStar(SATS.O)美股盘前拉升，现涨4.7%。",
+          "url": "https://flash.jin10.com/detail/20251106192855202800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
+          "title": "摩根大通称散户有望支撑美股直至年关 高盛认为回调不会持久",
+          "url": "https://wallstreetcn.com/livenews/3000599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "Coherent美股盘前涨超15%，公司第一财季业绩好于预期",
+          "url": "https://wallstreetcn.com/livenews/3000501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 19时37分]"
+        },
+        {
+          "title": "特朗普称美股将再创新高",
+          "url": "https://www.toutiao.com/trending/7569403413117537838/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 11时44分]"
+        },
+        {
+          "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2193483",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 21时50分]"
+        },
+        {
+          "title": "高通(QCOM.O)美股股价盘前下跌2.7%，此前该公司表示预计明年可能因三星而损失部分业务。",
+          "url": "https://flash.jin10.com/detail/20251106172212943800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "纳斯达克美股盘前下跌1.8%，此前欧盟委员会就德意志交易所与纳斯达克之间可能存在的合谋行为展开反垄断调查。",
+          "url": "https://flash.jin10.com/detail/20251106191520119800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "报道：谷歌下周将宣布其在德国有史以来最大投资计划",
@@ -500,123 +652,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时45分 ~ 19时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
-          "url": "https://www.cls.cn/detail/2192424",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时03分 ~ 14时52分]"
         },
         {
-          "title": "HBM4涨价带动美股存储板块爆发 美光科技股价再创历史新高",
-          "url": "https://www.cls.cn/detail/2192518",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时55分 ~ 16时19分]"
-        },
-        {
-          "title": "美股泡沫有多大？瑞银给出七个观测指标",
-          "url": "https://wallstreetcn.com/articles/3758712",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时03分 ~ 17时43分]"
-        },
-        {
-          "title": "多邻国美股盘前跌超21%，第四季度预订量指引不及预期。",
-          "url": "https://wallstreetcn.com/livenews/3000481",
+          "title": "谷歌正在推出其最强大的AI芯片Ironwood，未来几周将全面上市。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3000596",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            5,
-            11,
-            21,
-            28
+            7
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时43分 ~ 19时37分]"
-        },
-        {
-          "title": "EchoStar(SATS.O)美股盘前拉升，现涨4.7%。",
-          "url": "https://flash.jin10.com/detail/20251106192855202800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时37分"
-        },
-        {
-          "title": "Coherent美股盘前涨超15%，公司第一财季业绩好于预期",
-          "url": "https://wallstreetcn.com/livenews/3000501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时45分 ~ 19时37分]"
-        },
-        {
-          "title": "特朗普称美股将再创新高",
-          "url": "https://www.toutiao.com/trending/7569403413117537838/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 11时44分]"
-        },
-        {
-          "title": "高通(QCOM.O)美股股价盘前下跌2.7%，此前该公司表示预计明年可能因三星而损失部分业务。",
-          "url": "https://flash.jin10.com/detail/20251106172212943800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "纳斯达克美股盘前下跌1.8%，此前欧盟委员会就德意志交易所与纳斯达克之间可能存在的合谋行为展开反垄断调查。",
-          "url": "https://flash.jin10.com/detail/20251106191520119800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时37分"
+          "time_info": "21时50分"
         }
       ]
     },
@@ -624,6 +670,19 @@
       "keyword_group": "金价",
       "match_count": 8,
       "titles": [
+        {
+          "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时37分 ~ 21时50分]"
+        },
         {
           "title": "澳大利亚贸易顺差受金价飙升推动",
           "url": "https://flash.jin10.com/detail/20251106125006375800",
@@ -648,18 +707,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时52分 ~ 15时38分]"
-        },
-        {
-          "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时37分 ~ 21时07分]"
         },
         {
           "title": "金十图示：2025年11月06日（周四）上海金午盘价为916.45元/克，较国际金价(918.3元/克)，低1.85元/克",
@@ -731,8 +778,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[09时03分 ~ 21时07分]"
+          "appearance_count": 26,
+          "time_info": "[09时03分 ~ 21时50分]"
         },
         {
           "title": "杰富瑞：维持低配美债立场 关注关税裁决对市场波动的影响",
