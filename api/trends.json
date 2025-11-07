@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T14:21:22.420775+08:00",
-  "total_titles_processed": 785,
+  "generated_at": "2025-11-07T14:50:39.524900+08:00",
+  "total_titles_processed": 858,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "五角大楼和国会参议院分歧加大，罕见体现对特朗普政府的不满",
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时02分 ~ 14时21分]"
+          "appearance_count": 11,
+          "time_info": "[09时02分 ~ 14时50分]"
         },
         {
           "title": "特朗普：美国人正为关税付出代价",
@@ -26,22 +26,24 @@
           "ranks": [
             16,
             15,
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时53分 ~ 14时21分]"
+          "appearance_count": 9,
+          "time_info": "[10时53分 ~ 14时50分]"
         },
         {
           "title": "特朗普：佩洛西退休对美国是大好事，她是个邪恶的女人",
           "url": "https://news.ifeng.com/c/8o4vHMfvYBT",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时53分 ~ 14时21分]"
+          "appearance_count": 9,
+          "time_info": "[10时53分 ~ 14时50分]"
         },
         {
           "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
@@ -53,8 +55,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时53分 ~ 14时21分]"
+          "appearance_count": 9,
+          "time_info": "[10时53分 ~ 14时50分]"
         },
         {
           "title": "特朗普：佩洛西退休对美国是大好事",
@@ -138,7 +140,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -152,6 +154,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
+        },
+        {
+          "title": "特朗普官宣降价后药企高管当场晕倒",
+          "url": "https://www.toutiao.com/trending/7569788096678608905/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时50分]"
         },
         {
           "title": "特朗普痛骂佩洛西",
@@ -192,6 +206,18 @@
           "time_info": "[10时53分 ~ 11时40分]"
         },
         {
+          "title": "特朗普痛骂佩洛西是“邪恶女人”",
+          "url": "https://www.toutiao.com/trending/7569040586016620587/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时50分]"
+        },
+        {
           "title": "特朗普重申不会出席G20峰会",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E7%94%B3%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%ADG20%E5%B3%B0%E4%BC%9A",
           "source": "百度热搜",
@@ -203,15 +229,15 @@
           "time_info": "[09时02分 ~ 09时03分]"
         },
         {
-          "title": "特朗普官宣降价后药企高管当场晕倒",
-          "url": "https://www.toutiao.com/trending/7569788096678608905/",
-          "source": "今日头条",
+          "title": "韩国官员：我们目前的设想是从美国获得核动力潜艇的燃料供应。韩国总统李在明告诉美国总统特朗普，韩国将在国内建造核潜艇。",
+          "url": "https://flash.jin10.com/detail/20251107144300306800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时21分"
+          "time_info": "14时50分"
         },
         {
           "title": "特朗普在与中亚领导人共进晚餐时发表讲话称，加强与中亚的经济伙伴关系，关键矿产是议程上的关键事项；更多的国家将加入亚伯拉罕协议。",
@@ -291,15 +317,15 @@
           "time_info": "10时53分"
         },
         {
-          "title": "特朗普痛骂佩洛西是“邪恶女人”",
-          "url": "https://www.toutiao.com/trending/7569040586016620587/",
+          "title": "经贸大战背后 特朗普正在包围欧洲吗",
+          "url": "https://www.toutiao.com/trending/7569784878405783081/",
           "source": "今日头条",
           "ranks": [
-            15
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时21分"
+          "time_info": "14时50分"
         },
         {
           "title": "C罗说想见特朗普",
@@ -326,8 +352,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时02分 ~ 14时21分]"
+          "appearance_count": 11,
+          "time_info": "[09时02分 ~ 14时50分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -350,8 +376,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时53分 ~ 14时21分]"
+          "appearance_count": 9,
+          "time_info": "[10时53分 ~ 14时50分]"
         },
         {
           "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
@@ -364,8 +390,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时53分 ~ 14时21分]"
+          "appearance_count": 9,
+          "time_info": "[10时53分 ~ 14时50分]"
         },
         {
           "title": "OpenAI高管言论引风暴 纳指跌近2%",
@@ -394,8 +420,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时02分 ~ 14时21分]"
+          "appearance_count": 11,
+          "time_info": "[09时02分 ~ 14时50分]"
         },
         {
           "title": "不止AI有“闭环”，美股也“闭环”了：企业裁员推高股价，股市走高刺激消费，消费强劲支撑业绩",
@@ -406,8 +432,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时02分 ~ 14时21分]"
+          "appearance_count": 11,
+          "time_info": "[09时02分 ~ 14时50分]"
         },
         {
           "title": "美国10月裁员人数同比大增175%，芝加哥联储数据显示10月失业率创四年新高，就业市场已现危机信号；美联储官员继续保持谨慎，古尔斯比、哈马克接连反对降息……当前黄金多头持续占优，美股纳指呈强烈卖出信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -448,7 +474,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "直指英伟达！报道称谷歌将推出最强AI芯片TPU Ironwood，性能提升四倍，获Anthropic大单",
@@ -458,8 +484,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时02分 ~ 14时21分]"
+          "appearance_count": 11,
+          "time_info": "[09时02分 ~ 14时50分]"
         },
         {
           "title": "如何评价 gemini-3-pro-preview-11-2025？",
@@ -486,6 +512,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时41分 ~ 14时21分]"
+        },
+        {
+          "title": "谷歌拟在澳洲圣诞岛建大型人工智能数据中心",
+          "url": "https://flash.jin10.com/detail/20251107142225057800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         }
       ]
     },
@@ -500,11 +537,12 @@
           "ranks": [
             5,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时02分 ~ 14时21分]"
+          "appearance_count": 11,
+          "time_info": "[09时02分 ~ 14时50分]"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
@@ -532,7 +570,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
@@ -542,8 +580,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时02分 ~ 14时21分]"
+          "appearance_count": 11,
+          "time_info": "[09时02分 ~ 14时50分]"
+        },
+        {
+          "title": "机构：预计10年期美债收益率将降至4%下方",
+          "url": "https://flash.jin10.com/detail/20251107144912951800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         }
       ]
     }
