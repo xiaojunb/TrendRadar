@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T18:16:16.031825+08:00",
-  "total_titles_processed": 1287,
+  "generated_at": "2025-11-07T18:46:58.479852+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时16分 ~ 18时16分]"
+          "appearance_count": 10,
+          "time_info": "[15时16分 ~ 18时46分]"
         },
         {
           "title": "五角大楼和国会参议院分歧加大，罕见体现对特朗普政府的不满",
@@ -44,6 +44,19 @@
           "time_info": "[10时53分 ~ 17时15分]"
         },
         {
+          "title": "关税案开审，特朗普：美国人确实付出代价",
+          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时16分 ~ 18时46分]"
+        },
+        {
           "title": "特朗普：美国人正为关税付出代价",
           "url": "https://www.toutiao.com/trending/7569021464603901971/",
           "source": "今日头条",
@@ -56,11 +69,12 @@
             18,
             24,
             29,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时53分 ~ 18时16分]"
+          "appearance_count": 19,
+          "time_info": "[10时53分 ~ 18时46分]"
         },
         {
           "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
@@ -76,18 +90,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[10时53分 ~ 16时49分]"
-        },
-        {
-          "title": "关税案开审，特朗普：美国人确实付出代价",
-          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时16分 ~ 18时16分]"
         },
         {
           "title": "特朗普：佩洛西退休对美国是大好事",
@@ -304,6 +306,18 @@
           "time_info": "[14时50分 ~ 16时49分]"
         },
         {
+          "title": "特朗普官宣降价 药企高管当场晕倒",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%98%E5%AE%A3%E9%99%8D%E4%BB%B7+%E8%8D%AF%E4%BC%81%E9%AB%98%E7%AE%A1%E5%BD%93%E5%9C%BA%E6%99%95%E5%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 18时46分]"
+        },
+        {
           "title": "韩国官员：我们目前的设想是从美国获得核动力潜艇的燃料供应。韩国总统李在明告诉美国总统特朗普，韩国将在国内建造核潜艇。",
           "url": "https://flash.jin10.com/detail/20251107144300306800",
           "source": "金十数据",
@@ -340,17 +354,6 @@
           "time_info": "[10时53分 ~ 11时40分]"
         },
         {
-          "title": "特朗普官宣降价 药企高管当场晕倒",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%98%E5%AE%A3%E9%99%8D%E4%BB%B7+%E8%8D%AF%E4%BC%81%E9%AB%98%E7%AE%A1%E5%BD%93%E5%9C%BA%E6%99%95%E5%80%92",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
-        },
-        {
           "title": "特朗普重申不会出席G20峰会",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E7%94%B3%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%ADG20%E5%B3%B0%E4%BC%9A",
           "source": "百度热搜",
@@ -360,6 +363,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时02分 ~ 09时03分]"
+        },
+        {
+          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
+          "url": "https://news.ifeng.com/c/8o5WciamJwF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "特朗普在与中亚领导人共进晚餐时发表讲话称，加强与中亚的经济伙伴关系，关键矿产是议程上的关键事项；更多的国家将加入亚伯拉罕协议。",
@@ -439,6 +453,17 @@
           "time_info": "10时53分"
         },
         {
+          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
           "title": "C罗说想见特朗普",
           "url": "https://www.toutiao.com/trending/7568794005279621161/",
           "source": "今日头条",
@@ -514,17 +539,6 @@
           "time_info": "17时15分"
         },
         {
-          "title": "花旗集团：将小马智行(PONY.O)美股目标价从29.0美元下调至24.5美元。",
-          "url": "https://flash.jin10.com/detail/20251107180537622800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
           "title": "美国10月裁员人数同比大增175%，芝加哥联储数据显示10月失业率创四年新高，就业市场已现危机信号；美联储官员继续保持谨慎，古尔斯比、哈马克接连反对降息……当前黄金多头持续占优，美股纳指呈强烈卖出信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251107103507218800",
           "source": "金十数据",
@@ -534,6 +548,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
+        },
+        {
+          "title": "花旗集团：将小马智行(PONY.O)美股目标价从29.0美元下调至24.5美元。",
+          "url": "https://flash.jin10.com/detail/20251107180537622800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 18时46分]"
         },
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
@@ -628,8 +654,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时53分 ~ 18时16分]"
+          "appearance_count": 19,
+          "time_info": "[10时53分 ~ 18时46分]"
         },
         {
           "title": "OpenAI高管言论引风暴 纳指跌近2%",
@@ -658,8 +684,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时02分 ~ 18时16分]"
+          "appearance_count": 21,
+          "time_info": "[09时02分 ~ 18时46分]"
         },
         {
           "title": "如何评价 gemini-3-pro-preview-11-2025？",
@@ -766,8 +792,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时02分 ~ 18时16分]"
+          "appearance_count": 21,
+          "time_info": "[09时02分 ~ 18时46分]"
         },
         {
           "title": "机构：预计10年期美债收益率将降至4%下方",
