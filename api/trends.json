@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T16:42:49.299355+08:00",
-  "total_titles_processed": 850,
+  "generated_at": "2025-11-08T17:14:36.212530+08:00",
+  "total_titles_processed": 884,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时58分 ~ 16时42分]"
+          "appearance_count": 15,
+          "time_info": "[08时58分 ~ 17时14分]"
         },
         {
           "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
@@ -55,8 +55,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时58分 ~ 16时42分]"
+          "appearance_count": 14,
+          "time_info": "[08时58分 ~ 17时14分]"
         },
         {
           "title": "美国最高法院目前允许特朗普政府扣留数十亿美元的食品援助资金。",
@@ -125,15 +125,15 @@
           "time_info": "[10时23分 ~ 13时13分]"
         },
         {
-          "title": "南非政府发表声明驳斥特朗普言论",
-          "url": "https://flash.jin10.com/detail/20251108154641553800",
-          "source": "金十数据",
+          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
+          "url": "https://wallstreetcn.com/articles/3758942",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 16时42分]"
+          "appearance_count": 6,
+          "time_info": "[14时46分 ~ 17时14分]"
         },
         {
           "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
@@ -147,15 +147,16 @@
           "time_info": "08时58分"
         },
         {
-          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
-          "url": "https://wallstreetcn.com/articles/3758942",
-          "source": "华尔街见闻",
+          "title": "南非政府发表声明驳斥特朗普言论",
+          "url": "https://flash.jin10.com/detail/20251108154641553800",
+          "source": "金十数据",
           "ranks": [
-            10
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时46分 ~ 16时42分]"
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 17时14分]"
         },
         {
           "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
@@ -311,8 +312,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时58分 ~ 16时42分]"
+          "appearance_count": 15,
+          "time_info": "[08时58分 ~ 17时14分]"
         },
         {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
@@ -326,8 +327,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时58分 ~ 16时42分]"
+          "appearance_count": 15,
+          "time_info": "[08时58分 ~ 17时14分]"
         },
         {
           "title": "中信证券：基本面支撑美股韧性 短期扰动难逆上行趋势",
@@ -444,8 +445,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时41分 ~ 16时42分]"
+          "appearance_count": 8,
+          "time_info": "[13时41分 ~ 17时14分]"
         },
         {
           "title": "美以称“伊朗曾试图密谋暗杀以色列驻墨西哥大使”，伊方驳斥：弥天大谎",
@@ -507,6 +508,23 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
+          "url": "https://wallstreetcn.com/articles/3758970",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -534,11 +552,12 @@
           "url": "https://wallstreetcn.com/articles/3758965",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 16时42分]"
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 17时14分]"
         }
       ]
     }
