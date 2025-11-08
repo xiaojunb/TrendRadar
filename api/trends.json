@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T14:46:39.258586+08:00",
-  "total_titles_processed": 711,
+  "generated_at": "2025-11-08T15:12:39.819710+08:00",
+  "total_titles_processed": 738,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "死对头要走了，特朗普开心坏了",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时58分 ~ 14时46分]"
+          "appearance_count": 11,
+          "time_info": "[08时58分 ~ 15时12分]"
         },
         {
           "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
@@ -32,11 +32,12 @@
             12,
             15,
             17,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时24分 ~ 14时46分]"
+          "appearance_count": 9,
+          "time_info": "[11时24分 ~ 15时12分]"
         },
         {
           "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
@@ -51,8 +52,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时58分 ~ 14时46分]"
+          "appearance_count": 10,
+          "time_info": "[08时58分 ~ 15时12分]"
         },
         {
           "title": "美国最高法院目前允许特朗普政府扣留数十亿美元的食品援助资金。",
@@ -66,11 +67,12 @@
             19,
             22,
             24,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时24分 ~ 14时46分]"
+          "appearance_count": 9,
+          "time_info": "[11时24分 ~ 15时12分]"
         },
         {
           "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
@@ -158,6 +160,17 @@
           "time_info": "[10时23分 ~ 12时17分]"
         },
         {
+          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
+          "url": "https://wallstreetcn.com/articles/3758942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时46分 ~ 15时12分]"
+        },
+        {
           "title": "特朗普下令调查几家最大肉类加工商",
           "url": "https://www.toutiao.com/trending/7570176156171767346/",
           "source": "今日头条",
@@ -170,15 +183,15 @@
           "time_info": "[13时13分 ~ 13时41分]"
         },
         {
-          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
-          "url": "https://wallstreetcn.com/articles/3758942",
-          "source": "华尔街见闻",
+          "title": "俄乌战争转机再现？特朗普：“普特会”正讨论中，地点还是布达佩斯！",
+          "url": "https://www.cls.cn/detail/2194868",
+          "source": "财联社热门",
           "ranks": [
-            10
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时46分"
+          "time_info": "15时12分"
         },
         {
           "title": "美国上诉法院批准法官“强迫特朗普政府在关门期间全额发放‘补充营养援助计划’（SNAP）资金”的命令。",
@@ -209,7 +222,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         },
@@ -280,11 +293,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时58分 ~ 14时46分]"
+          "appearance_count": 11,
+          "time_info": "[08时58分 ~ 15时12分]"
         },
         {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
@@ -298,8 +312,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时58分 ~ 14时46分]"
+          "appearance_count": 11,
+          "time_info": "[08时58分 ~ 15时12分]"
         },
         {
           "title": "中信证券：基本面支撑美股韧性 短期扰动难逆上行趋势",
@@ -431,8 +445,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时41分 ~ 14时46分]"
+          "appearance_count": 4,
+          "time_info": "[13时41分 ~ 15时12分]"
         }
       ]
     },
@@ -451,11 +465,12 @@
             9,
             12,
             14,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时48分 ~ 14时46分]"
+          "appearance_count": 8,
+          "time_info": "[11时48分 ~ 15时12分]"
         }
       ]
     },
