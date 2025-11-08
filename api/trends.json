@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T15:35:17.099115+08:00",
-  "total_titles_processed": 773,
+  "generated_at": "2025-11-08T16:16:48.840653+08:00",
+  "total_titles_processed": 822,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "死对头要走了，特朗普开心坏了",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时58分 ~ 15时35分]"
+          "appearance_count": 13,
+          "time_info": "[08时58分 ~ 16时16分]"
         },
         {
           "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
@@ -50,11 +50,12 @@
             16,
             17,
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时58分 ~ 15时35分]"
+          "appearance_count": 12,
+          "time_info": "[08时58分 ~ 16时16分]"
         },
         {
           "title": "美国最高法院目前允许特朗普政府扣留数十亿美元的食品援助资金。",
@@ -134,6 +135,17 @@
           "time_info": "08时58分"
         },
         {
+          "title": "南非政府发表声明驳斥特朗普言论",
+          "url": "https://flash.jin10.com/detail/20251108154641553800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
           "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
           "source": "澎湃新闻",
@@ -168,8 +180,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时46分 ~ 15时35分]"
+          "appearance_count": 4,
+          "time_info": "[14时46分 ~ 16时16分]"
         },
         {
           "title": "特朗普下令调查几家最大肉类加工商",
@@ -298,8 +310,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时58分 ~ 15时35分]"
+          "appearance_count": 13,
+          "time_info": "[08时58分 ~ 16时16分]"
         },
         {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
@@ -313,8 +325,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时58分 ~ 15时35分]"
+          "appearance_count": 13,
+          "time_info": "[08时58分 ~ 16时16分]"
         },
         {
           "title": "中信证券：基本面支撑美股韧性 短期扰动难逆上行趋势",
@@ -446,8 +458,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时41分 ~ 15时35分]"
+          "appearance_count": 6,
+          "time_info": "[13时41分 ~ 16时16分]"
         }
       ]
     },
@@ -509,6 +521,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时23分 ~ 11时48分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "下周美国市场也不好过？美债发行潮来袭，流动性“雪上加霜”",
+          "url": "https://wallstreetcn.com/articles/3758965",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         }
       ]
     }
