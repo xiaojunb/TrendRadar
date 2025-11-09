@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T11:41:19.746660+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2025-11-09T12:16:37.080170+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时05分 ~ 11时41分]"
+          "appearance_count": 5,
+          "time_info": "[09时05分 ~ 12时16分]"
         },
         {
           "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时05分 ~ 11时41分]"
+          "appearance_count": 5,
+          "time_info": "[09时05分 ~ 12时16分]"
         },
         {
           "title": "南非政府发表声明驳斥特朗普言论",
@@ -39,8 +39,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时05分 ~ 11时41分]"
+          "appearance_count": 5,
+          "time_info": "[09时05分 ~ 12时16分]"
         },
         {
           "title": "欧尔班当场挖特朗普“墙脚”",
@@ -72,9 +72,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 12时16分]"
         },
         {
           "title": "美国总统特朗普：参议院应将医疗保险资金直接发放给民众。",
@@ -94,7 +94,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -124,7 +124,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "形势“极其危急”！伊朗总统：若持续不降雨，将被迫从德黑兰撤离",
@@ -135,8 +135,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 11时41分]"
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 12时16分]"
         },
         {
           "title": "伊媒：伊朗宪法监护委员会批准从国家货币里亚尔中“去掉4个零”的计划",
@@ -147,19 +147,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 11时41分]"
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 12时16分]"
         },
         {
           "title": "伊朗宪法监护委员会批准从国家货币里亚尔中“去掉4个零”的计划",
           "url": "https://flash.jin10.com/detail/20251109101328383800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 12时16分]"
         },
         {
           "title": "伊朗总统：“美国想让伊朗一直跪着”",
@@ -171,6 +172,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "伊朗总统：美国想让伊朗一直跪着",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E7%BE%8E%E5%9B%BD%E6%83%B3%E8%AE%A9%E4%BC%8A%E6%9C%97%E4%B8%80%E7%9B%B4%E8%B7%AA%E7%9D%80",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         }
       ]
     },
@@ -186,8 +198,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时05分 ~ 11时41分]"
+          "appearance_count": 5,
+          "time_info": "[09时05分 ~ 12时16分]"
         },
         {
           "title": "左手黄金右手美股就能对冲风险吗？原中金首席风险官李祥林教你用衍生品辨别应对“黑天鹅”",
