@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T18:40:49.526521+08:00",
-  "total_titles_processed": 901,
+  "generated_at": "2025-11-09T19:11:15.902626+08:00",
+  "total_titles_processed": 925,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时13分 ~ 18时40分]"
+          "appearance_count": 12,
+          "time_info": "[15时13分 ~ 19时11分]"
         },
         {
           "title": "拜登狠批特朗普",
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时35分 ~ 18时40分]"
+          "appearance_count": 11,
+          "time_info": "[15时35分 ~ 19时11分]"
         },
         {
           "title": "SNAP福利60年来首次中断！美最高法院批准特朗普暂扣40亿美元食品援助",
@@ -58,8 +58,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时41分 ~ 18时40分]"
+          "appearance_count": 19,
+          "time_info": "[11时41分 ~ 19时11分]"
         },
         {
           "title": "拜登狠批特朗普：让国家蒙羞",
@@ -75,8 +75,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时13分 ~ 18时40分]"
+          "appearance_count": 12,
+          "time_info": "[15时13分 ~ 19时11分]"
         },
         {
           "title": "塞尔维亚拆北约轰炸遗址建特朗普酒店",
@@ -124,11 +124,12 @@
           "ranks": [
             1,
             2,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时13分 ~ 18时40分]"
+          "appearance_count": 5,
+          "time_info": "[17时13分 ~ 19时11分]"
         },
         {
           "title": "拜登狠批特朗普",
@@ -145,6 +146,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时19分 ~ 17时13分]"
+        },
+        {
+          "title": "“特朗普外交政策，万变不离中国”",
+          "url": "https://news.ifeng.com/c/8o8e3UWF1zn",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时35分 ~ 19时11分]"
         },
         {
           "title": "媒体：未经立法，特朗普团队秘密向超级富有企业提供大规模税收减免",
@@ -175,27 +188,15 @@
           "time_info": "[14时48分 ~ 15时35分]"
         },
         {
-          "title": "“特朗普外交政策，万变不离中国”",
-          "url": "https://news.ifeng.com/c/8o8e3UWF1zn",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时35分 ~ 18时40分]"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-09）",
           "url": "https://flash.jin10.com/detail/20251109183325380800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时11分]"
         },
         {
           "title": "特朗普疑似在新闻发布会上“打盹”的画面引发热议",
@@ -204,9 +205,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时11分]"
         },
         {
           "title": "若特朗普关税政策被推翻市场如何反应",
@@ -220,6 +221,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时40分 ~ 15时13分]"
+        },
+        {
+          "title": "美国民航业陷入灾难 特朗普如何收场",
+          "url": "https://www.toutiao.com/trending/7570649488029650478/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时40分 ~ 19时11分]"
         },
         {
           "title": "欧尔班当场挖特朗普“墙脚”",
@@ -278,17 +291,6 @@
           "time_info": "09时06分"
         },
         {
-          "title": "美国民航业陷入灾难 特朗普如何收场",
-          "url": "https://www.toutiao.com/trending/7570649488029650478/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
           "url": "https://flash.jin10.com/detail/20251108183318165800",
           "source": "金十数据",
@@ -320,11 +322,12 @@
             15,
             18,
             19,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时55分 ~ 18时40分]"
+          "appearance_count": 17,
+          "time_info": "[10时55分 ~ 19时11分]"
         },
         {
           "title": "伊媒：伊朗宪法监护委员会批准从国家货币里亚尔中“去掉4个零”的计划",
@@ -341,11 +344,12 @@
             16,
             19,
             20,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时55分 ~ 18时40分]"
+          "appearance_count": 17,
+          "time_info": "[10时55分 ~ 19时11分]"
         },
         {
           "title": "伊朗宪法监护委员会批准从国家货币里亚尔中“去掉4个零”的计划",
@@ -415,11 +419,12 @@
           "url": "https://wallstreetcn.com/articles/3758989",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时13分 ~ 18时40分]"
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 19时11分]"
         },
         {
           "title": "左手黄金右手美股就能对冲风险吗？原中金首席风险官李祥林教你用衍生品辨别应对“黑天鹅”",
@@ -443,11 +448,12 @@
           "url": "https://wallstreetcn.com/articles/3758988",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时13分 ~ 18时40分]"
+          "appearance_count": 7,
+          "time_info": "[17时13分 ~ 19时11分]"
         }
       ]
     },
