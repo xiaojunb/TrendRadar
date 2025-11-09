@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-09T17:13:34.289146+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2025-11-09T17:35:56.622982+08:00",
+  "total_titles_processed": 837,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "SNAP福利60年来首次中断！美最高法院批准特朗普暂扣40亿美元食品援助",
@@ -32,8 +32,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时41分 ~ 17时13分]"
+          "appearance_count": 14,
+          "time_info": "[11时41分 ~ 17时35分]"
+        },
+        {
+          "title": "拜登狠批特朗普：让国家蒙羞",
+          "url": "https://www.toutiao.com/trending/7569666407429324863/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时13分 ~ 17时35分]"
         },
         {
           "title": "塞尔维亚拆北约轰炸遗址建特朗普酒店",
@@ -49,19 +62,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[13时13分 ~ 16时41分]"
-        },
-        {
-          "title": "拜登狠批特朗普：让国家蒙羞",
-          "url": "https://www.toutiao.com/trending/7569666407429324863/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时13分 ~ 17时13分]"
         },
         {
           "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
@@ -86,6 +86,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时05分 ~ 14时48分]"
+        },
+        {
+          "title": "拜登狠批特朗普",
+          "url": "https://www.douyin.com/hot/2300132",
+          "source": "抖音",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时35分 ~ 17时35分]"
         },
         {
           "title": "拜登狠批特朗普",
@@ -121,16 +133,19 @@
           "time_info": "[13时40分 ~ 17时13分]"
         },
         {
-          "title": "拜登狠批特朗普",
-          "url": "https://www.douyin.com/hot/2300132",
-          "source": "抖音",
+          "title": "拜登狠批特朗普：让国家蒙羞",
+          "url": "https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E7%8B%A0%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%AE%A9%E5%9B%BD%E5%AE%B6%E8%92%99%E7%BE%9E",
+          "source": "百度热搜",
           "ranks": [
-            6,
-            1
+            24,
+            23,
+            22,
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时35分 ~ 17时13分]"
+          "appearance_count": 7,
+          "time_info": "[15时13分 ~ 17时35分]"
         },
         {
           "title": "俄外长：不清楚特朗普的“恢复核试验”是啥意思",
@@ -148,25 +163,12 @@
           "url": "https://wallstreetcn.com/livenews/3001663",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
-        },
-        {
-          "title": "拜登狠批特朗普：让国家蒙羞",
-          "url": "https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E7%8B%A0%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%AE%A9%E5%9B%BD%E5%AE%B6%E8%92%99%E7%BE%9E",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            23,
-            22,
-            9
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时13分 ~ 17时13分]"
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 17时35分]"
         },
         {
           "title": "若特朗普关税政策被推翻市场如何反应",
@@ -180,6 +182,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时40分 ~ 15时13分]"
+        },
+        {
+          "title": "“特朗普外交政策，万变不离中国”",
+          "url": "https://news.ifeng.com/c/8o8e3UWF1zn",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "欧尔班当场挖特朗普“墙脚”",
@@ -267,11 +280,12 @@
             12,
             14,
             15,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时55分 ~ 17时13分]"
+          "appearance_count": 14,
+          "time_info": "[10时55分 ~ 17时35分]"
         },
         {
           "title": "伊媒：伊朗宪法监护委员会批准从国家货币里亚尔中“去掉4个零”的计划",
@@ -286,11 +300,12 @@
             13,
             15,
             16,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时55分 ~ 17时13分]"
+          "appearance_count": 14,
+          "time_info": "[10时55分 ~ 17时35分]"
         },
         {
           "title": "伊朗宪法监护委员会批准从国家货币里亚尔中“去掉4个零”的计划",
@@ -379,9 +394,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 17时35分]"
         }
       ]
     },
