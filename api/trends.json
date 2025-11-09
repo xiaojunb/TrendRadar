@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-11-09T19:37:14.272698+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2025-11-09T20:24:50.179938+08:00",
+  "total_titles_processed": 1021,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 23,
       "titles": [
+        {
+          "title": "拜登狠批特朗普",
+          "url": "https://www.douyin.com/hot/2300132",
+          "source": "抖音",
+          "ranks": [
+            6,
+            1,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[15时35分 ~ 20时24分]"
+        },
         {
           "title": "拜登狠批特朗普：让国家蒙羞",
           "url": "https://www.toutiao.com/trending/7569666407429324863/",
@@ -15,24 +29,12 @@
             5,
             2,
             1,
-            7
+            7,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[15时13分 ~ 19时37分]"
-        },
-        {
-          "title": "拜登狠批特朗普",
-          "url": "https://www.douyin.com/hot/2300132",
-          "source": "抖音",
-          "ranks": [
-            6,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时35分 ~ 19时37分]"
+          "appearance_count": 15,
+          "time_info": "[15时13分 ~ 20时24分]"
         },
         {
           "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
@@ -47,8 +49,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[11时41分 ~ 19时37分]"
+          "appearance_count": 22,
+          "time_info": "[11时41分 ~ 20时24分]"
         },
         {
           "title": "SNAP福利60年来首次中断！美最高法院批准特朗普暂扣40亿美元食品援助",
@@ -62,6 +64,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时05分 ~ 14时19分]"
+        },
+        {
+          "title": "“特朗普外交政策，万变不离中国”",
+          "url": "https://news.ifeng.com/c/8o8e3UWF1zn",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时35分 ~ 20时24分]"
         },
         {
           "title": "塞尔维亚拆北约轰炸遗址建特朗普酒店",
@@ -110,18 +124,6 @@
           "time_info": "[09时05分 ~ 15时13分]"
         },
         {
-          "title": "“特朗普外交政策，万变不离中国”",
-          "url": "https://news.ifeng.com/c/8o8e3UWF1zn",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时35分 ~ 19时37分]"
-        },
-        {
           "title": "南非政府发表声明驳斥特朗普言论",
           "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
           "source": "凤凰网",
@@ -141,11 +143,36 @@
             2,
             5,
             7,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时13分 ~ 19时37分]"
+          "appearance_count": 7,
+          "time_info": "[17时13分 ~ 20时24分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-09）",
+          "url": "https://flash.jin10.com/detail/20251109183325380800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时40分 ~ 20时24分]"
+        },
+        {
+          "title": "特朗普疑似在新闻发布会上“打盹”的画面引发热议",
+          "url": "https://flash.jin10.com/detail/20251109181932753800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时40分 ~ 20时24分]"
         },
         {
           "title": "拜登狠批特朗普",
@@ -164,17 +191,6 @@
           "time_info": "[14时19分 ~ 17时13分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-09）",
-          "url": "https://flash.jin10.com/detail/20251109183325380800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时40分 ~ 19时37分]"
-        },
-        {
           "title": "媒体：未经立法，特朗普团队秘密向超级富有企业提供大规模税收减免",
           "url": "https://flash.jin10.com/detail/20251109125212911800",
           "source": "金十数据",
@@ -190,17 +206,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时40分 ~ 17时13分]"
-        },
-        {
-          "title": "特朗普疑似在新闻发布会上“打盹”的画面引发热议",
-          "url": "https://flash.jin10.com/detail/20251109181932753800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时40分 ~ 19时37分]"
         },
         {
           "title": "俄外长：不清楚特朗普的“恢复核试验”是啥意思",
@@ -428,8 +433,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时13分 ~ 19时37分]"
+          "appearance_count": 8,
+          "time_info": "[18时13分 ~ 20时24分]"
         },
         {
           "title": "左手黄金右手美股就能对冲风险吗？原中金首席风险官李祥林教你用衍生品辨别应对“黑天鹅”",
@@ -455,11 +460,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时13分 ~ 19时37分]"
+          "appearance_count": 10,
+          "time_info": "[17时13分 ~ 20时24分]"
         }
       ]
     },
