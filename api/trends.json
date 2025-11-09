@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T21:25:39.843830+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2025-11-09T21:39:55.048534+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[11时41分 ~ 21时25分]"
+          "appearance_count": 26,
+          "time_info": "[11时41分 ~ 21时39分]"
         },
         {
           "title": "SNAP福利60年来首次中断！美最高法院批准特朗普暂扣40亿美元食品援助",
@@ -76,8 +76,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[17时35分 ~ 21时25分]"
+          "appearance_count": 13,
+          "time_info": "[17时35分 ~ 21时39分]"
         },
         {
           "title": "叙利亚领导人沙拉抵美开启访问，将前往白宫会见特朗普",
@@ -90,11 +90,12 @@
             7,
             13,
             18,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时13分 ~ 21时25分]"
+          "appearance_count": 10,
+          "time_info": "[17时13分 ~ 21时39分]"
         },
         {
           "title": "塞尔维亚拆北约轰炸遗址建特朗普酒店",
@@ -143,6 +144,21 @@
           "time_info": "[09时05分 ~ 15时13分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-09）",
+          "url": "https://flash.jin10.com/detail/20251109183325380800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            2,
+            4,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时40分 ~ 21时39分]"
+        },
+        {
           "title": "南非政府发表声明驳斥特朗普言论",
           "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
           "source": "凤凰网",
@@ -154,18 +170,19 @@
           "time_info": "[09时05分 ~ 14时48分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-09）",
-          "url": "https://flash.jin10.com/detail/20251109183325380800",
+          "title": "特朗普疑似在新闻发布会上“打盹”的画面引发热议",
+          "url": "https://flash.jin10.com/detail/20251109181932753800",
           "source": "金十数据",
           "ranks": [
-            1,
-            2,
+            3,
             4,
-            8
+            6,
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时40分 ~ 21时25分]"
+          "appearance_count": 7,
+          "time_info": "[18时40分 ~ 21时39分]"
         },
         {
           "title": "拜登狠批特朗普",
@@ -182,20 +199,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时19分 ~ 17时13分]"
-        },
-        {
-          "title": "特朗普疑似在新闻发布会上“打盹”的画面引发热议",
-          "url": "https://flash.jin10.com/detail/20251109181932753800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            4,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时40分 ~ 21时25分]"
         },
         {
           "title": "媒体：未经立法，特朗普团队秘密向超级富有企业提供大规模税收减免",
@@ -231,11 +234,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时00分 ~ 21时25分]"
+          "appearance_count": 3,
+          "time_info": "[21时00分 ~ 21时39分]"
         },
         {
           "title": "若特朗普关税政策被推翻市场如何反应",
@@ -249,17 +253,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时40分 ~ 15时13分]"
-        },
-        {
-          "title": "特朗普：反对关税的人是“蠢材”！美国现在是世界上最富有的国家",
-          "url": "https://flash.jin10.com/detail/20251109203040228800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
         },
         {
           "title": "美国民航业陷入灾难 特朗普如何收场",
@@ -280,11 +273,24 @@
           "source": "金十数据",
           "ranks": [
             2,
-            6
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时00分 ~ 21时39分]"
+        },
+        {
+          "title": "特朗普：反对关税的人是“蠢材”！美国现在是世界上最富有的国家",
+          "url": "https://flash.jin10.com/detail/20251109203040228800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时00分 ~ 21时25分]"
+          "time_info": "[21时25分 ~ 21时39分]"
         },
         {
           "title": "欧尔班当场挖特朗普“墙脚”",
@@ -475,8 +481,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[18时13分 ~ 21时25分]"
+          "appearance_count": 12,
+          "time_info": "[18时13分 ~ 21时39分]"
         },
         {
           "title": "左手黄金右手美股就能对冲风险吗？原中金首席风险官李祥林教你用衍生品辨别应对“黑天鹅”",
@@ -506,8 +512,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[17时13分 ~ 21时25分]"
+          "appearance_count": 14,
+          "time_info": "[17时13分 ~ 21时39分]"
         }
       ]
     },
