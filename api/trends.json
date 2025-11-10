@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T18:45:31.453721+08:00",
-  "total_titles_processed": 1212,
+  "generated_at": "2025-11-10T19:13:20.273198+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普宣布一个大消息",
@@ -47,8 +47,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时43分 ~ 18时45分]"
+          "appearance_count": 13,
+          "time_info": "[13时43分 ~ 19时13分]"
         },
         {
           "title": "特朗普称政府停摆接近结束",
@@ -153,6 +153,18 @@
           "time_info": "09时05分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-10）",
+          "url": "https://flash.jin10.com/detail/20251110180323905800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 19时13分]"
+        },
+        {
           "title": "专家：特朗普发钱一箭三雕",
           "url": "https://www.toutiao.com/trending/7570931158150565427/",
           "source": "今日头条",
@@ -168,18 +180,6 @@
           "time_info": "[12时46分 ~ 14时52分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-10）",
-          "url": "https://flash.jin10.com/detail/20251110180323905800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时45分]"
-        },
-        {
           "title": "特朗普称政府停摆接近结束",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8E%A5%E8%BF%91%E7%BB%93%E6%9D%9F%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D6%26dgr%3D0%26stream_entry_id%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E6%2594%25BF%25E5%25BA%259C%25E5%2581%259C%25E6%2591%2586%25E6%258E%25A5%25E8%25BF%2591%25E7%25BB%2593%25E6%259D%259F%2523%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26band_rank%3D6%26pos%3D6%26c_type%3D31%26cate%3D5001%26display_time%3D1762743550%26pre_seqid%3D17627435499960243618697&launchid=10000360-page_H5",
           "source": "微博",
@@ -189,6 +189,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时00分 ~ 11时52分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡正在其位于耶路撒冷的办公室会见特朗普女婿贾里德·库什纳。",
+          "url": "https://flash.jin10.com/detail/20251110175508186800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 19时13分]"
         },
         {
           "title": "评论员：美财政已崩特朗普还在画饼",
@@ -228,16 +240,15 @@
           "time_info": "[11时00分 ~ 11时52分]"
         },
         {
-          "title": "以色列总理内塔尼亚胡正在其位于耶路撒冷的办公室会见特朗普女婿贾里德·库什纳。",
-          "url": "https://flash.jin10.com/detail/20251110175508186800",
+          "title": "据纽约时报：叙利亚领导人艾哈迈德·沙拉将于周一在华盛顿会见特朗普。叙利亚领导人预计将签署一项协议，与其他88个国家一起加入全球联盟，打击在叙利亚仍然活跃的极端组织“伊斯兰国”。",
+          "url": "https://flash.jin10.com/detail/20251110182328854800",
           "source": "金十数据",
           "ranks": [
-            9,
-            24
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时45分]"
+          "time_info": "[18时45分 ~ 19时13分]"
         },
         {
           "title": "拜登为什么罕见出面痛批特朗普",
@@ -286,15 +297,15 @@
           "time_info": "17时45分"
         },
         {
-          "title": "据纽约时报：叙利亚领导人艾哈迈德·沙拉将于周一在华盛顿会见特朗普。叙利亚领导人预计将签署一项协议，与其他88个国家一起加入全球联盟，打击在叙利亚仍然活跃的极端组织“伊斯兰国”。",
-          "url": "https://flash.jin10.com/detail/20251110182328854800",
-          "source": "金十数据",
+          "title": "获400亿美元援助后米莱大跳特朗普舞",
+          "url": "https://www.toutiao.com/trending/7570573863009124361/",
+          "source": "今日头条",
           "ranks": [
-            12
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时45分"
+          "time_info": "19时13分"
         },
         {
           "title": "拜登狠批特朗普",
@@ -381,8 +392,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时00分 ~ 18时45分]"
+          "appearance_count": 19,
+          "time_info": "[11时00分 ~ 19时13分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
@@ -421,8 +432,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时45分]"
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 19时13分]"
         },
         {
           "title": "美股无惧停摆与美联储指引 华尔街高呼“暂时性逆风”不改大局",
@@ -433,8 +444,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时45分]"
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 19时13分]"
         }
       ]
     },
@@ -476,8 +487,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时45分 ~ 18时45分]"
+          "appearance_count": 5,
+          "time_info": "[17时45分 ~ 19时13分]"
         },
         {
           "title": "金十图示：2025年11月10日（周一）上海金早盘价为926.44元/克，较国际金价(926.8元/克)，低0.36元/克",
@@ -527,9 +538,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时13分]"
         },
         {
           "title": "因美国政府停摆有望结束 英国国债收益率随美债走高",
@@ -555,9 +566,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时13分]"
         },
         {
           "title": "据Business Insider：OpenAI正在考虑进军消费者健康应用领域。",
@@ -566,9 +577,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时13分]"
         }
       ]
     },
