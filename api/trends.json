@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T21:08:29.392391+08:00",
-  "total_titles_processed": 1424,
+  "generated_at": "2025-11-10T21:49:42.865436+08:00",
+  "total_titles_processed": 1523,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普宣布一个大消息",
@@ -47,8 +47,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[13时43分 ~ 21时08分]"
+          "appearance_count": 18,
+          "time_info": "[13时43分 ~ 21时49分]"
         },
         {
           "title": "特朗普称政府停摆接近结束",
@@ -148,7 +148,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -333,6 +333,17 @@
           "time_info": "17时45分"
         },
         {
+          "title": "英国广播公司（BBC）：BBC收到了特朗普威胁采取法律行动的信。",
+          "url": "https://flash.jin10.com/detail/20251110213615372800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "拜登狠批特朗普",
           "url": "https://www.douyin.com/hot/2300132",
           "source": "抖音",
@@ -391,7 +402,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
@@ -415,11 +426,12 @@
             9,
             5,
             11,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[11时00分 ~ 21时08分]"
+          "appearance_count": 24,
+          "time_info": "[11时00分 ~ 21时49分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
@@ -434,6 +446,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时22分 ~ 16时21分]"
+        },
+        {
+          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
+          "url": "https://wallstreetcn.com/articles/3759034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时27分 ~ 21时49分]"
         },
         {
           "title": "美股盘前，明星科技股普涨，英伟达涨超3%，英特尔涨超1.8%，甲骨文涨超2%，台积电涨近3%。",
@@ -474,16 +499,15 @@
           "time_info": "[18时17分 ~ 19时13分]"
         },
         {
-          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
-          "url": "https://wallstreetcn.com/articles/3759034",
-          "source": "华尔街见闻",
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-10）",
+          "url": "https://flash.jin10.com/detail/20251110211923335800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9
+            30
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时27分 ~ 21时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         }
       ]
     },
@@ -491,6 +515,17 @@
       "keyword_group": "金价",
       "match_count": 5,
       "titles": [
+        {
+          "title": "金价再次直线上涨",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E6%AC%A1%E7%9B%B4%E7%BA%BF%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时45分 ~ 21时49分]"
+        },
         {
           "title": "金价",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26band_rank%3D22%26filter_type%3Drealtimehot%26pos%3D23%26c_type%3D31%26realpos%3D22%26cate%3D5001%26flag%3D1%26lcate%3D5001%26display_time%3D1762746670%26pre_seqid%3D17627466699730265682316&launchid=10000360-page_H5",
@@ -505,17 +540,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[11时51分 ~ 15时38分]"
-        },
-        {
-          "title": "金价再次直线上涨",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E6%AC%A1%E7%9B%B4%E7%BA%BF%E4%B8%8A%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时45分 ~ 21时08分]"
         },
         {
           "title": "金十图示：2025年11月10日（周一）上海金午盘价为933.87元/克，较国际金价(933.03元/克)，高0.84元/克",
@@ -550,6 +574,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "伊朗货币改革将启动：删除4个0",
+          "url": "https://news.ifeng.com/c/8oAZlJ3VC59",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时38分 ~ 21时49分]"
+        },
+        {
+          "title": "伊朗外交部发言人：国际原子能机构的检查人员上周到访了伊朗的核设施。",
+          "url": "https://flash.jin10.com/detail/20251110161518791800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时48分]"
+        },
+        {
+          "title": "伊朗安全部官员否认德黑兰曾要求美国解除制裁",
+          "url": "https://flash.jin10.com/detail/20251110213825238800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "伊朗表示，其部分核设施正接受国际原子能机构的检查。",
+          "url": "https://flash.jin10.com/detail/20251110185017704800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         }
       ]
     },
@@ -630,46 +705,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "伊朗外交部发言人：国际原子能机构的检查人员上周到访了伊朗的核设施。",
-          "url": "https://flash.jin10.com/detail/20251110161518791800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 16时48分]"
-        },
-        {
-          "title": "伊朗货币改革将启动：删除4个0",
-          "url": "https://news.ifeng.com/c/8oAZlJ3VC59",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时38分 ~ 21时08分]"
-        },
-        {
-          "title": "伊朗表示，其部分核设施正接受国际原子能机构的检查。",
-          "url": "https://flash.jin10.com/detail/20251110185017704800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时38分"
         }
       ]
     }
