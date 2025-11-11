@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-11T21:08:10.459007+08:00",
-  "total_titles_processed": 1521,
+  "generated_at": "2025-11-11T21:47:07.540895+08:00",
+  "total_titles_processed": 1607,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "特朗普：美国不再资助乌克兰，将通过北约向乌方收钱",
+          "url": "https://news.ifeng.com/c/8oC9ysNtJAU",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[17时41分 ~ 21时47分]"
+        },
         {
           "title": "与叙利亚政权领导人在白宫会晤，特朗普晒合影表态(图)",
           "url": "https://news.ifeng.com/c/8oBhZI0ZGcZ",
@@ -19,17 +30,6 @@
           "time_info": "[10时55分 ~ 13时43分]"
         },
         {
-          "title": "特朗普：美国不再资助乌克兰，将通过北约向乌方收钱",
-          "url": "https://news.ifeng.com/c/8oC9ysNtJAU",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时41分 ~ 21时08分]"
-        },
-        {
           "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
           "url": "https://wallstreetcn.com/articles/3759093",
           "source": "华尔街见闻",
@@ -40,8 +40,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[10时55分 ~ 21时08分]"
+          "appearance_count": 28,
+          "time_info": "[10时55分 ~ 21时47分]"
+        },
+        {
+          "title": "换了件“马甲”，他见上特朗普了(图)",
+          "url": "https://news.ifeng.com/c/8oCDS4GYWAj",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[17时41分 ~ 21时47分]"
         },
         {
           "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
@@ -52,19 +63,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时15分 ~ 21时08分]"
-        },
-        {
-          "title": "换了件“马甲”，他见上特朗普了(图)",
-          "url": "https://news.ifeng.com/c/8oCDS4GYWAj",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时41分 ~ 21时08分]"
+          "appearance_count": 13,
+          "time_info": "[17时15分 ~ 21时47分]"
         },
         {
           "title": "叙利亚政权领导人历史性访美，特朗普：他是非常强势的领导人",
@@ -77,6 +77,31 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时21分 ~ 17时16分]"
+        },
+        {
+          "title": "牛弹琴：特朗普又给美国最高法院施压",
+          "url": "https://www.toutiao.com/trending/7570354589443538971/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            8,
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时37分 ~ 21时47分]"
+        },
+        {
+          "title": "特朗普亲吻去世盟友柯克的遗孀",
+          "url": "https://www.toutiao.com/trending/7570621093657673754/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 21时47分]"
         },
         {
           "title": "消息人士：瑞士方面降低关税的协议要等到特朗普批准后才能确定。",
@@ -137,19 +162,6 @@
           "time_info": "09时03分"
         },
         {
-          "title": "牛弹琴：特朗普又给美国最高法院施压",
-          "url": "https://www.toutiao.com/trending/7570354589443538971/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时37分 ~ 21时08分]"
-        },
-        {
           "title": "美国总统特朗普：期待再次与叙利亚总统会面并交谈。一个稳定繁荣的叙利亚对该地区所有国家都至关重要。",
           "url": "https://flash.jin10.com/detail/20251111083643534800",
           "source": "金十数据",
@@ -159,6 +171,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        },
+        {
+          "title": "特朗普威胁起诉BBC 索赔10亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E8%B5%B7%E8%AF%89BBC+%E7%B4%A2%E8%B5%9410%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时27分 ~ 21时47分]"
         },
         {
           "title": "特朗普：不利裁决或将导致关税返还超3万亿美元 可能对美国的未来造成毁灭性影响",
@@ -186,6 +209,18 @@
           "time_info": "[20时27分 ~ 21时08分]"
         },
         {
+          "title": "释新闻｜高管连续辞职、被特朗普索赔：BBC为何陷入数十年来最大危机",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31940821",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时07分 ~ 21时47分]"
+        },
+        {
           "title": "特朗普拟推50年房贷！业内“差评如潮”：房贷终身制、到死还不完？",
           "url": "https://www.cls.cn/detail/2196763",
           "source": "财联社热门",
@@ -195,17 +230,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时41分 ~ 18时16分]"
-        },
-        {
-          "title": "特朗普威胁起诉BBC 索赔10亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E8%B5%B7%E8%AF%89BBC+%E7%B4%A2%E8%B5%9410%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时27分 ~ 21时08分]"
         },
         {
           "title": "特朗普回应高市早苗涉台错误言论",
@@ -254,15 +278,15 @@
           "time_info": "[10时55分 ~ 11时43分]"
         },
         {
-          "title": "释新闻｜高管连续辞职、被特朗普索赔：BBC为何陷入数十年来最大危机",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31940821",
-          "source": "澎湃新闻",
+          "title": "主持人带偏见贴标签 特朗普当场回怼",
+          "url": "https://www.toutiao.com/trending/7571403488106905638/",
+          "source": "今日头条",
           "ranks": [
-            17
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时07分 ~ 21时08分]"
+          "time_info": "[21时46分 ~ 21时47分]"
         },
         {
           "title": "特朗普：不利裁决或将导致关税返还超3万亿美元 可能对美国的未来造成毁灭性影响",
@@ -345,7 +369,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "【早报】闪存龙头大涨12%，美股科技巨头集体反攻；促进民间投资，国办重磅发文",
@@ -472,6 +496,17 @@
           "time_info": "[18时16分 ~ 18时45分]"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-11）",
+          "url": "https://flash.jin10.com/detail/20251111211958168800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
           "title": "瑞银将美股标普500指数明年底目标设定为7500点，因AI驱动上涨行情。",
           "url": "https://wallstreetcn.com/livenews/3002375",
           "source": "华尔街见闻-快讯",
@@ -489,17 +524,6 @@
       "match_count": 8,
       "titles": [
         {
-          "title": "软银集团CFO：我们对OpenAI的投资非常巨大，因此我们必须利用现有资产为投资提供资金。",
-          "url": "https://flash.jin10.com/detail/20251111164357600800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 17时16分]"
-        },
-        {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
           "url": "https://wallstreetcn.com/articles/3759120",
           "source": "华尔街见闻",
@@ -509,8 +533,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时13分 ~ 21时08分]"
+          "appearance_count": 7,
+          "time_info": "[19时13分 ~ 21时47分]"
+        },
+        {
+          "title": "软银集团CFO：我们对OpenAI的投资非常巨大，因此我们必须利用现有资产为投资提供资金。",
+          "url": "https://flash.jin10.com/detail/20251111164357600800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时47分 ~ 17时16分]"
         },
         {
           "title": "软银集团：OpenAI的共同投资者承诺参与全部100亿美元的银团融资。",
@@ -594,11 +629,12 @@
             8,
             5,
             4,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时47分 ~ 21时08分]"
+          "appearance_count": 14,
+          "time_info": "[16时47分 ~ 21时47分]"
         },
         {
           "title": "金十图示：2025年11月11日（周二）上海金早盘价为948.23元/克，较国际金价(947.89元/克)，高0.34元/克",
@@ -812,6 +848,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时47分 ~ 17时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY短线走低15点，最新报99.37。",
+          "url": "https://flash.jin10.com/detail/20251111212602492800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         }
       ]
     }
