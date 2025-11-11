@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T12:20:11.015976+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2025-11-11T12:45:04.315351+08:00",
+  "total_titles_processed": 630,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时55分 ~ 12时20分]"
+          "appearance_count": 6,
+          "time_info": "[10时55分 ~ 12时45分]"
+        },
+        {
+          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
+          "url": "https://wallstreetcn.com/articles/3759093",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时55分 ~ 12时45分]"
         },
         {
           "title": "特朗普：所有空中交通管制员立即复工",
@@ -50,19 +63,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
-        },
-        {
-          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
-          "url": "https://wallstreetcn.com/articles/3759093",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时55分 ~ 12时20分]"
         },
         {
           "title": "特朗普明年会重启对华贸易战吗",
@@ -145,8 +145,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时03分 ~ 12时20分]"
+          "appearance_count": 7,
+          "time_info": "[09时03分 ~ 12时45分]"
         },
         {
           "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
@@ -157,8 +157,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时03分 ~ 12时20分]"
+          "appearance_count": 7,
+          "time_info": "[09时03分 ~ 12时45分]"
         },
         {
           "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
@@ -169,8 +169,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时03分 ~ 12时20分]"
+          "appearance_count": 7,
+          "time_info": "[09时03分 ~ 12时45分]"
         },
         {
           "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
@@ -181,19 +181,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时55分 ~ 12时20分]"
+          "appearance_count": 6,
+          "time_info": "[10时55分 ~ 12时45分]"
         },
         {
           "title": "美股 AI 科技股遭惨烈一周，英伟达等八巨头市值缩水 8000 亿美元，会否重蹈互联网泡沫的走势？",
           "url": "https://www.zhihu.com/question/1971153219230066622",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 12时45分]"
         },
         {
           "title": "小鹏汽车港股涨超15%，追随隔夜小鹏汽车美股走势（隔夜涨幅16.15%），市场对其机器人感到乐观。",
@@ -217,6 +218,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "韩国相关部门表示，韩国方面暂未就谷歌(GOOG.O)提出的地图数据传输请求作出决定。",
+          "url": "https://flash.jin10.com/detail/20251111115436400800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        },
+        {
+          "title": "韩国相关部门表示，韩国将待谷歌(GOOG.O)提交补充文件后作出最终决定。",
+          "url": "https://flash.jin10.com/detail/20251111115423827800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
         }
       ]
     },
