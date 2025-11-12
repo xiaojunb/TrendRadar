@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T21:50:26.303527+08:00",
-  "total_titles_processed": 1584,
+  "generated_at": "2025-11-12T22:15:47.729580+08:00",
+  "total_titles_processed": 1645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 38,
       "titles": [
         {
           "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
@@ -22,6 +22,23 @@
           "time_info": "[10时54分 ~ 16时20分]"
         },
         {
+          "title": "特朗普为何拒为高市涉台谬论撑腰",
+          "url": "https://www.toutiao.com/trending/7571742416873459251/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            8,
+            7,
+            14,
+            10,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时16分 ~ 22时15分]"
+        },
+        {
           "title": "释新闻｜高管连续辞职、被特朗普索赔：BBC为何陷入数十年来最大危机",
           "url": "https://m.thepaper.cn/newsDetail_forward_31940821",
           "source": "澎湃新闻",
@@ -35,22 +52,6 @@
           "is_new": false,
           "appearance_count": 22,
           "time_info": "[09时02分 ~ 18时17分]"
-        },
-        {
-          "title": "特朗普为何拒为高市涉台谬论撑腰",
-          "url": "https://www.toutiao.com/trending/7571742416873459251/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            8,
-            7,
-            14,
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时16分 ~ 21时09分]"
         },
         {
           "title": "邵永灵：特朗普“打脸”高市早苗",
@@ -229,6 +230,17 @@
           "time_info": "09时02分"
         },
         {
+          "title": "特朗普致信以色列总统 呼吁赦免内塔尼亚胡",
+          "url": "https://wallstreetcn.com/livenews/3003469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "特朗普：美国需要一些有才华的外国工人。",
           "url": "https://wallstreetcn.com/livenews/3003050",
           "source": "华尔街见闻-快讯",
@@ -251,6 +263,28 @@
           "time_info": "20时29分"
         },
         {
+          "title": "据纽约时报：爱泼斯坦曾在电子邮件中称，美国总统特朗普知晓他的行为。",
+          "url": "https://flash.jin10.com/detail/20251112213935558800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "美国财长贝森特：关税分红有很多选择。 关税分红正在讨论中，尚未做出决定。 特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税。 希望引进熟练技术工进行3-7年的培训。 海外工作者可以培训美国人，然后回国。",
+          "url": "https://wallstreetcn.com/livenews/3003465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "特朗普：将降低部分咖啡关税。",
           "url": "https://wallstreetcn.com/livenews/3003047",
           "source": "华尔街见闻-快讯",
@@ -260,6 +294,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "美国财长：特朗普很快会采取降低咖啡和香蕉价格的重大措施",
+          "url": "https://wallstreetcn.com/livenews/3003461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "据CBS记者：摩根大通CEO戴蒙也受邀参加明晚的特朗普晚宴。",
@@ -348,6 +393,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "美国财长贝森特：美国总统特朗普谈的是为收入低于10万美元的家庭提供2000美元的退税。",
+          "url": "https://flash.jin10.com/detail/20251112213012842800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "美主播阴阳怪气中国人遭特朗普反驳",
@@ -497,6 +553,101 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "国际原子能机构：伊朗对核设施受损情况的沉默引发对铀库存的担忧",
+          "url": "https://flash.jin10.com/detail/20251112214800764800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "欧佩克月报：二手资料显示，伊朗10月原油产量减少6.6万桶/日，至320.9万桶/日。",
+          "url": "https://flash.jin10.com/detail/20251112210345876800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时50分]"
+        },
+        {
+          "title": "国际原子能机构：根据《不扩散核武器条约》，伊朗必须立即报告受袭击影响的核材料和设施的状况，但迄今尚未履行这一义务。",
+          "url": "https://flash.jin10.com/detail/20251112213631160800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "国际原子能机构：截至6月13日，伊朗以六氟化铀形式储存的丰度高达60%的浓缩铀储量仍估计为440.9公斤。",
+          "url": "https://flash.jin10.com/detail/20251112213616952800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "国际原子能机构：重申上季度报告的发现，即截至6月13日，伊朗的浓缩铀储量估计为9874.9公斤。",
+          "url": "https://flash.jin10.com/detail/20251112213523156800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "国际原子能机构：机构长达五个月无法接触伊朗的这些核材料，意味着核查工作早已严重滞后。",
+          "url": "https://flash.jin10.com/detail/20251112213422275800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "国际原子能机构第二份报告：国际原子能机构已无法持续掌握伊朗相关设施中核材料库存的知识，包括高浓铀。",
+          "url": "https://flash.jin10.com/detail/20251112213120035800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "国际原子能机构第二份报告：伊朗生产和积累的高浓铀数量令人严重关切。伊朗已开始允许该机构进入未受军事袭击影响的设施。",
+          "url": "https://flash.jin10.com/detail/20251112213100841800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 7,
       "titles": [
@@ -602,8 +753,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[09时02分 ~ 21时50分]"
+          "appearance_count": 29,
+          "time_info": "[09时02分 ~ 22时15分]"
         },
         {
           "title": "机构：10年期美债收益率近期或升至4.50%",
@@ -635,11 +786,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时09分 ~ 21时50分]"
+          "appearance_count": 3,
+          "time_info": "[21时09分 ~ 22时15分]"
         },
         {
           "title": "摩根大通美债客户净多头占比升至4月7日以来最高水平",
@@ -667,7 +819,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
@@ -689,9 +841,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3003475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "AMD美股盘前涨近6%，CEO苏姿丰预计到2030年AI数据中心市场规模料突破1万亿美元，AMD营收年增或超35%。",
@@ -834,24 +997,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时22分 ~ 14时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "欧佩克月报：二手资料显示，伊朗10月原油产量减少6.6万桶/日，至320.9万桶/日。",
-          "url": "https://flash.jin10.com/detail/20251112210345876800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时09分 ~ 21时50分]"
         }
       ]
     }
