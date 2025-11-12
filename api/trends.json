@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T22:15:47.729580+08:00",
-  "total_titles_processed": 1645,
+  "generated_at": "2025-11-12T22:45:14.199067+08:00",
+  "total_titles_processed": 1723,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
@@ -184,6 +184,18 @@
           "time_info": "[13时41分 ~ 14时51分]"
         },
         {
+          "title": "特朗普致信以色列总统 呼吁赦免内塔尼亚胡",
+          "url": "https://wallstreetcn.com/livenews/3003469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 22时45分]"
+        },
+        {
           "title": "特朗普将于美国东部时间周三晚上7:30举行私人晚宴。",
           "url": "https://wallstreetcn.com/livenews/3003110",
           "source": "华尔街见闻-快讯",
@@ -194,6 +206,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时54分 ~ 11时42分]"
+        },
+        {
+          "title": "美国财长贝森特：关税分红有很多选择。 关税分红正在讨论中，尚未做出决定。 特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税。 希望引进熟练技术工进行3-7年的培训。 海外工作者可以培训美国人，然后回国。",
+          "url": "https://wallstreetcn.com/livenews/3003465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 22时45分]"
         },
         {
           "title": "特朗普称没有稀土磁铁就什么都没有",
@@ -230,17 +254,6 @@
           "time_info": "09时02分"
         },
         {
-          "title": "特朗普致信以色列总统 呼吁赦免内塔尼亚胡",
-          "url": "https://wallstreetcn.com/livenews/3003469",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
           "title": "特朗普：美国需要一些有才华的外国工人。",
           "url": "https://wallstreetcn.com/livenews/3003050",
           "source": "华尔街见闻-快讯",
@@ -269,20 +282,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
         {
-          "title": "美国财长贝森特：关税分红有很多选择。 关税分红正在讨论中，尚未做出决定。 特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税。 希望引进熟练技术工进行3-7年的培训。 海外工作者可以培训美国人，然后回国。",
-          "url": "https://wallstreetcn.com/livenews/3003465",
+          "title": "Ken Griffin（城堡创始人）、孙正义（日本软银集团CEO）被邀请与美国总统特朗普共同进餐。 财长贝森特和商务部长卢特尼克也收到与高管们共餐的邀请。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3003486",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时15分"
+          "time_info": "22时45分"
         },
         {
           "title": "特朗普：将降低部分咖啡关税。",
@@ -302,7 +315,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -373,6 +386,17 @@
           "time_info": "20时29分"
         },
         {
+          "title": "据CBS：Citadel首席执行官肯·格里芬和软银集团创办人孙正义受邀参加特朗普与高管的晚宴。财长贝森特和商务部长卢特尼克也将出席。",
+          "url": "https://flash.jin10.com/detail/20251112221633642800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "美国总统特朗普明天将与金融业高管们举行晚宴，纳斯达克CEO、摩根大通CEO等将出席。（CBS）",
           "url": "https://wallstreetcn.com/livenews/3003033",
           "source": "华尔街见闻-快讯",
@@ -401,7 +425,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -453,7 +477,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
@@ -549,6 +573,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
+        },
+        {
+          "title": "OpenAI：继续提出上诉请求。",
+          "url": "https://flash.jin10.com/detail/20251112221354413800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "OpenAI：需求并未影响ChatGPT企业客户。",
+          "url": "https://flash.jin10.com/detail/20251112221303685800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "OpenAI：纽约时报要求移交对话内容侵犯了隐私。",
+          "url": "https://flash.jin10.com/detail/20251112221138478800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         }
       ]
     },
@@ -563,7 +620,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -586,7 +643,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -597,7 +654,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -608,7 +665,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -619,7 +676,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -630,7 +687,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -641,7 +698,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         }
@@ -741,6 +798,96 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
+          "url": "https://www.cls.cn/detail/2197739",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[09时02分 ~ 15时14分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-12）",
+          "url": "https://flash.jin10.com/detail/20251112211910657800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "AMD美股盘前涨近6%，CEO苏姿丰预计到2030年AI数据中心市场规模料突破1万亿美元，AMD营收年增或超35%。",
+          "url": "https://wallstreetcn.com/livenews/3003320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6,
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 18时45分]"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3003475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 22时45分]"
+        },
+        {
+          "title": "高盛预计未来十年美股表现落后其他市场 新兴市场将带来最丰厚回报",
+          "url": "https://wallstreetcn.com/livenews/3003429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时50分]"
+        },
+        {
+          "title": "美股开盘，道指涨0.18%，标普500指数涨0.31%，纳指涨0.41%。英伟达(NVDA.O)涨1.2%，前一交易日收跌约3%。AMD(AMD.O)涨7.58%，公司预计未来三到五年年均营收CAGR将超过35%。Circle(CRCL.N)跌4%。",
+          "url": "https://flash.jin10.com/detail/20251112223021773800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "美银：机构投资者在美股回调时买入",
+          "url": "https://flash.jin10.com/detail/20251112203854090800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 6,
       "titles": [
@@ -753,8 +900,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[09时02分 ~ 22时15分]"
+          "appearance_count": 31,
+          "time_info": "[09时02分 ~ 22时45分]"
         },
         {
           "title": "机构：10年期美债收益率近期或升至4.50%",
@@ -810,84 +957,6 @@
           "source": "金十数据",
           "ranks": [
             24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
-          "url": "https://www.cls.cn/detail/2197739",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时02分 ~ 15时14分]"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-11-12）",
-          "url": "https://flash.jin10.com/detail/20251112211910657800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3003475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
-          "title": "AMD美股盘前涨近6%，CEO苏姿丰预计到2030年AI数据中心市场规模料突破1万亿美元，AMD营收年增或超35%。",
-          "url": "https://wallstreetcn.com/livenews/3003320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6,
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时16分 ~ 18时45分]"
-        },
-        {
-          "title": "高盛预计未来十年美股表现落后其他市场 新兴市场将带来最丰厚回报",
-          "url": "https://wallstreetcn.com/livenews/3003429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时09分 ~ 21时50分]"
-        },
-        {
-          "title": "美银：机构投资者在美股回调时买入",
-          "url": "https://flash.jin10.com/detail/20251112203854090800",
-          "source": "金十数据",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 1,
