@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T21:10:01.773678+08:00",
-  "total_titles_processed": 1496,
+  "generated_at": "2025-11-13T21:50:36.737272+08:00",
+  "total_titles_processed": 1596,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[09时02分 ~ 21时10分]"
+          "appearance_count": 30,
+          "time_info": "[09时02分 ~ 21时50分]"
         },
         {
           "title": "特朗普：政府停摆危机已造成1.5万亿美元损失",
@@ -500,8 +500,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时13分 ~ 21时10分]"
+          "appearance_count": 7,
+          "time_info": "[19时13分 ~ 21时50分]"
         },
         {
           "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
@@ -513,8 +513,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时42分 ~ 21时10分]"
+          "appearance_count": 12,
+          "time_info": "[17时42分 ~ 21时50分]"
         },
         {
           "title": "OpenAI发布GPT-5.1",
@@ -588,8 +588,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时28分 ~ 21时10分]"
+          "appearance_count": 4,
+          "time_info": "[20时28分 ~ 21时50分]"
         },
         {
           "title": "阿里股价直线拉升！报道：公司计划全面改版“通义”AI应用，新一代Qwen直接对标ChatGPT",
@@ -639,7 +639,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -709,7 +709,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -723,6 +723,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-13）",
+          "url": "https://flash.jin10.com/detail/20251113210734667800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         }
       ]
     },
