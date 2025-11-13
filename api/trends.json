@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T16:48:31.445842+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2025-11-13T17:17:00.706679+08:00",
+  "total_titles_processed": 1098,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时44分 ~ 16时48分]"
+          "appearance_count": 16,
+          "time_info": "[11时44分 ~ 17时17分]"
         },
         {
           "title": "特朗普：政府停摆危机已造成1.5万亿美元损失",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时45分 ~ 16时48分]"
+          "appearance_count": 14,
+          "time_info": "[12时45分 ~ 17时17分]"
         },
         {
           "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
@@ -40,8 +40,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时02分 ~ 16时48分]"
+          "appearance_count": 18,
+          "time_info": "[09时02分 ~ 17时17分]"
+        },
+        {
+          "title": "2万页爱泼斯坦邮件曝光，称特朗普私下里比公开形象更糟糕",
+          "url": "https://news.ifeng.com/c/8oFRSvaH1ne",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时14分 ~ 17时17分]"
         },
         {
           "title": "特朗普致信以总统求赦免内塔尼亚胡",
@@ -58,18 +70,6 @@
           "time_info": "[11时44分 ~ 15时39分]"
         },
         {
-          "title": "2万页爱泼斯坦邮件曝光，称特朗普私下里比公开形象更糟糕",
-          "url": "https://news.ifeng.com/c/8oFRSvaH1ne",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时14分 ~ 16时48分]"
-        },
-        {
           "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
           "url": "https://www.cls.cn/detail/2199299",
           "source": "财联社热门",
@@ -79,8 +79,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时42分 ~ 16时48分]"
+          "appearance_count": 12,
+          "time_info": "[13时42分 ~ 17时17分]"
+        },
+        {
+          "title": "特朗普致信以总统呼吁赦免以总理，以媒：以总统有权赦免",
+          "url": "https://news.ifeng.com/c/8oFEfoIotGG",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时14分 ~ 17时17分]"
         },
         {
           "title": "特朗普送叙政权领导人自产香水",
@@ -118,17 +129,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时50分 ~ 15时15分]"
-        },
-        {
-          "title": "特朗普致信以总统呼吁赦免以总理，以媒：以总统有权赦免",
-          "url": "https://news.ifeng.com/c/8oFEfoIotGG",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时14分 ~ 16时48分]"
         },
         {
           "title": "特朗普签署法案 美国政府停摆宣告结束",
@@ -260,6 +260,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时44分 ~ 12时45分]"
+        },
+        {
+          "title": "特朗普：美政府停摆损失1.5万亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8D%9F%E5%A4%B11.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时48分 ~ 17时17分]"
         },
         {
           "title": "特朗普：政府绝不能再次关闭。",
@@ -400,17 +411,6 @@
           "time_info": "09时02分"
         },
         {
-          "title": "特朗普：美政府停摆损失1.5万亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8D%9F%E5%A4%B11.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时48分"
-        },
-        {
           "title": "以方证实特朗普要求赦免内塔尼亚胡",
           "url": "https://www.toutiao.com/trending/7571754555408203782/",
           "source": "今日头条",
@@ -436,8 +436,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时38分 ~ 16时48分]"
+          "appearance_count": 6,
+          "time_info": "[15时38分 ~ 17时17分]"
         },
         {
           "title": "OpenAI发布GPT-5.1",
