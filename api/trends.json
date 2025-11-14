@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-11-14T12:18:46.257436+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2025-11-14T12:44:29.262800+08:00",
+  "total_titles_processed": 630,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 10,
       "titles": [
-        {
-          "title": "人事主管表示，特朗普政府已雇佣了5万名新员工，其中大部分从事国家安全相关工作。",
-          "url": "https://flash.jin10.com/detail/20251114112519082800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时18分]"
-        },
         {
           "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
           "url": "https://www.cls.cn/detail/2200266",
@@ -29,8 +17,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时02分 ~ 12时18分]"
+          "appearance_count": 5,
+          "time_info": "[09时02分 ~ 12时44分]"
+        },
+        {
+          "title": "人事主管表示，特朗普政府已雇佣了5万名新员工，其中大部分从事国家安全相关工作。",
+          "url": "https://flash.jin10.com/detail/20251114112519082800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 12时44分]"
         },
         {
           "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
@@ -40,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时18分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 12时44分]"
         },
         {
           "title": "2万页爱泼斯坦邮件曝光，称特朗普私下里比公开形象更糟糕",
@@ -135,8 +136,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时02分 ~ 12时18分]"
+          "appearance_count": 5,
+          "time_info": "[09时02分 ~ 12时44分]"
         },
         {
           "title": "美股大跌 特斯拉跌超6%",
@@ -145,11 +146,12 @@
           "ranks": [
             10,
             18,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时02分 ~ 12时18分]"
+          "appearance_count": 5,
+          "time_info": "[09时02分 ~ 12时44分]"
         },
         {
           "title": "美股为何大跌",
@@ -188,8 +190,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时02分 ~ 12时18分]"
+          "appearance_count": 5,
+          "time_info": "[09时02分 ~ 12时44分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -200,8 +202,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时02分 ~ 12时18分]"
+          "appearance_count": 5,
+          "time_info": "[09时02分 ~ 12时44分]"
         },
         {
           "title": "微软CEO：祝OpenAI甲骨文好运",
