@@ -1,23 +1,35 @@
 {
-  "generated_at": "2025-11-14T10:55:27.136926+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2025-11-14T11:42:38.892446+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "人事主管表示，特朗普政府已雇佣了5万名新员工，其中大部分从事国家安全相关工作。",
+          "url": "https://flash.jin10.com/detail/20251114112519082800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
         {
           "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
           "url": "https://www.cls.cn/detail/2200266",
           "source": "财联社热门",
           "ranks": [
             11,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 10时55分]"
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 11时42分]"
         },
         {
           "title": "2万页爱泼斯坦邮件曝光，称特朗普私下里比公开形象更糟糕",
@@ -32,15 +44,37 @@
           "time_info": "[09时02分 ~ 10时55分]"
         },
         {
+          "title": "特朗普为内塔尼亚胡“求情”遭拒",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E2%80%9C%E6%B1%82%E6%83%85%E2%80%9D%E9%81%AD%E6%8B%92",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 11时42分]"
+        },
+        {
           "title": "特朗普送叙利亚领导人香水还问有几个妻子，美网民：缺乏外交礼仪",
           "url": "https://v.ifeng.com/c/8oFBSDgaA5N",
           "source": "凤凰网",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        },
+        {
+          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
+          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         },
         {
           "title": "特朗普政府考虑重新引入“食物金字塔”膳食指南",
@@ -71,7 +105,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
         },
@@ -85,17 +119,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
-        },
-        {
-          "title": "特朗普为内塔尼亚胡“求情”遭拒",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E2%80%9C%E6%B1%82%E6%83%85%E2%80%9D%E9%81%AD%E6%8B%92",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时55分"
         }
       ]
     },
@@ -111,8 +134,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 10时55分]"
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 11时42分]"
         },
         {
           "title": "美股大跌 特斯拉跌超6%",
@@ -120,11 +143,24 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            18
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 11时42分]"
+        },
+        {
+          "title": "美股为何大跌",
+          "url": "https://www.toutiao.com/trending/7572362509869387270/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时02分 ~ 10时55分]"
+          "time_info": "[10时55分 ~ 11时42分]"
         },
         {
           "title": "美股全线下挫 特斯拉跌超6%",
@@ -136,17 +172,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
-        },
-        {
-          "title": "美股为何大跌",
-          "url": "https://www.toutiao.com/trending/7572362509869387270/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时55分"
         }
       ]
     },
@@ -162,8 +187,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 10时55分]"
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 11时42分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -173,8 +198,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 10时55分]"
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 11时42分]"
         },
         {
           "title": "微软CEO：祝OpenAI甲骨文好运",
@@ -183,9 +208,26 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月14日（周五）上海金早盘价为955.38元/克，较国际金价(959.47元/克)，低4.09元/克",
+          "url": "https://flash.jin10.com/detail/20251114110518501800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         }
       ]
     }
