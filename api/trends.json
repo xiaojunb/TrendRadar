@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T13:41:31.825862+08:00",
-  "total_titles_processed": 716,
+  "generated_at": "2025-11-14T14:21:41.008682+08:00",
+  "total_titles_processed": 766,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时02分 ~ 13时41分]"
+          "appearance_count": 8,
+          "time_info": "[09时02分 ~ 14时21分]"
         },
         {
           "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 13时41分]"
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 14时21分]"
         },
         {
           "title": "人事主管表示，特朗普政府已雇佣了5万名新员工，其中大部分从事国家安全相关工作。",
@@ -77,6 +77,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        },
+        {
+          "title": "外媒：受特朗普关税影响 加拿大将改变木材出口路线",
+          "url": "https://flash.jin10.com/detail/20251114133112275800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "特朗普政府考虑重新引入“食物金字塔”膳食指南",
@@ -133,11 +144,12 @@
           "url": "https://www.cls.cn/detail/2200254",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时02分 ~ 13时41分]"
+          "appearance_count": 8,
+          "time_info": "[09时02分 ~ 14时21分]"
         },
         {
           "title": "美股大跌 特斯拉跌超6%",
@@ -190,8 +202,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时02分 ~ 13时41分]"
+          "appearance_count": 8,
+          "time_info": "[09时02分 ~ 14时21分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -200,11 +212,12 @@
           "ranks": [
             14,
             15,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时02分 ~ 13时41分]"
+          "appearance_count": 8,
+          "time_info": "[09时02分 ~ 14时21分]"
         },
         {
           "title": "微软CEO：祝OpenAI甲骨文好运",
@@ -216,6 +229,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场消息：Alphabet旗下谷歌（GOOGL.O）表示愿意调整其广告技术（Adtech）业务政策，以遵守欧盟的反垄断命令。谷歌拒绝出售其部分广告技术业务，称拆分将对出版商和广告商造成干扰。",
+          "url": "https://flash.jin10.com/detail/20251114140157691800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         }
       ]
     },
