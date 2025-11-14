@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T19:37:35.071092+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2025-11-14T20:27:45.256633+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             6,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时46分 ~ 19时37分]"
+          "appearance_count": 11,
+          "time_info": "[16时46分 ~ 20时27分]"
         },
         {
           "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
@@ -41,8 +42,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[11时42分 ~ 19时37分]"
+          "appearance_count": 22,
+          "time_info": "[11时42分 ~ 20时27分]"
         },
         {
           "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
@@ -199,7 +200,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
@@ -240,6 +241,18 @@
           "time_info": "[19时13分 ~ 19时37分]"
         },
         {
+          "title": "台积电美股盘前跌超2%，现报276.5美元。",
+          "url": "https://wallstreetcn.com/livenews/3004834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时37分 ~ 20时27分]"
+        },
+        {
           "title": "美股为何大跌",
           "url": "https://www.toutiao.com/trending/7572362509869387270/",
           "source": "今日头条",
@@ -274,15 +287,79 @@
           "time_info": "15时38分"
         },
         {
-          "title": "台积电美股盘前跌超2%，现报276.5美元。",
-          "url": "https://wallstreetcn.com/livenews/3004834",
-          "source": "华尔街见闻-快讯",
+          "title": "美股抛售加剧 企业盈利乐观与AI泡沫担忧形成对冲",
+          "url": "https://flash.jin10.com/detail/20251114200402077800",
+          "source": "金十数据",
           "ranks": [
-            6
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时37分"
+          "time_info": "20时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
+          "url": "https://wallstreetcn.com/articles/3759294",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时02分 ~ 14时50分]"
+        },
+        {
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时02分 ~ 15时15分]"
+        },
+        {
+          "title": "OpenAI战略布局解读",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%98%E7%95%A5%E5%B8%83%E5%B1%80%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 19时13分]"
+        },
+        {
+          "title": "OpenAI：与爱尔兰企业、旅游和就业部将于2026年推出一项“中小企业助推计划”。",
+          "url": "https://flash.jin10.com/detail/20251114200449772800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "微软CEO：祝OpenAI甲骨文好运",
+          "url": "https://www.toutiao.com/trending/7572366525785443903/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         }
       ]
     },
@@ -342,55 +419,54 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "伊朗",
       "match_count": 4,
       "titles": [
         {
-          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
-          "url": "https://wallstreetcn.com/articles/3759294",
-          "source": "华尔街见闻",
+          "title": "据两名海事消息人士透露，根据初步评估，塔拉拉号原油油轮被伊朗革命卫队拖往伊朗海岸。",
+          "url": "https://flash.jin10.com/detail/20251114165105993800",
+          "source": "金十数据",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时02分 ~ 14时50分]"
-        },
-        {
-          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时02分 ~ 15时15分]"
-        },
-        {
-          "title": "OpenAI战略布局解读",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%98%E7%95%A5%E5%B8%83%E5%B1%80%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 19时13分]"
-        },
-        {
-          "title": "微软CEO：祝OpenAI甲骨文好运",
-          "url": "https://www.toutiao.com/trending/7572366525785443903/",
-          "source": "今日头条",
-          "ranks": [
-            18
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时55分"
+          "time_info": "17时15分"
+        },
+        {
+          "title": "伊拉克总理与伊朗总统通电话 讨论双边关系等问题",
+          "url": "https://wallstreetcn.com/livenews/3004760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 18时16分]"
+        },
+        {
+          "title": "英国海事安全公司Ambrey：该油轮正驶向伊朗领海，组织认为此次事件很可能是有针对性的。",
+          "url": "https://flash.jin10.com/detail/20251114151828738800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "报道：伊朗武装部队在阿曼湾扣押一艘油轮",
+          "url": "https://flash.jin10.com/detail/20251114193627539800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         }
       ]
     },
@@ -426,47 +502,6 @@
           "source": "金十数据",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "据两名海事消息人士透露，根据初步评估，塔拉拉号原油油轮被伊朗革命卫队拖往伊朗海岸。",
-          "url": "https://flash.jin10.com/detail/20251114165105993800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "伊拉克总理与伊朗总统通电话 讨论双边关系等问题",
-          "url": "https://wallstreetcn.com/livenews/3004760",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时15分 ~ 18时16分]"
-        },
-        {
-          "title": "英国海事安全公司Ambrey：该油轮正驶向伊朗领海，组织认为此次事件很可能是有针对性的。",
-          "url": "https://flash.jin10.com/detail/20251114151828738800",
-          "source": "金十数据",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 1,
