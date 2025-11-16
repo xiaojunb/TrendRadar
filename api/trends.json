@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T18:40:30.128972+08:00",
-  "total_titles_processed": 926,
+  "generated_at": "2025-11-16T19:11:05.488432+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
@@ -39,6 +39,19 @@
           "time_info": "[13时40分 ~ 18时14分]"
         },
         {
+          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时35分 ~ 19时11分]"
+        },
+        {
           "title": "特朗普一个多月购债券逾八千万美元，涉及受益于其政策的行业",
           "url": "https://wallstreetcn.com/livenews/3005256",
           "source": "华尔街见闻-快讯",
@@ -72,17 +85,15 @@
           "time_info": "[11时50分 ~ 15时35分]"
         },
         {
-          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
-          "source": "澎湃新闻",
+          "title": "10亿至50亿！特朗普开口了",
+          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
+          "source": "凤凰网",
           "ranks": [
-            19,
-            17,
-            15
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时35分 ~ 18时40分]"
+          "appearance_count": 7,
+          "time_info": "[17时13分 ~ 19时11分]"
         },
         {
           "title": "特朗普：已对委内瑞拉问题作出决定",
@@ -120,22 +131,12 @@
           "url": "https://flash.jin10.com/detail/20251116182155589800",
           "source": "金十数据",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "10亿至50亿！特朗普开口了",
-          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
-          "source": "凤凰网",
-          "ranks": [
-            10
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时13分 ~ 18时40分]"
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时11分]"
         },
         {
           "title": "特朗普一个多月购债券逾8千万美元，涉及受益于其政策的行业",
@@ -176,7 +177,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗称在该国南部波斯湾海域扣押一艘油轮",
@@ -200,11 +201,24 @@
             7,
             13,
             14,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时35分 ~ 18时40分]"
+          "appearance_count": 8,
+          "time_info": "[15时35分 ~ 19时11分]"
+        },
+        {
+          "title": "伊朗外交部长阿拉奇：伊朗将始终准备好参与外交，但不会参与旨在强加条件的谈判。",
+          "url": "https://flash.jin10.com/detail/20251116183145693800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时11分]"
         },
         {
           "title": "伊朗外交部：美军事活动正在威胁国际和平与安全",
@@ -222,26 +236,15 @@
           "time_info": "[09时06分 ~ 13时13分]"
         },
         {
-          "title": "伊朗外交部长阿拉奇：伊朗将始终准备好参与外交，但不会参与旨在强加条件的谈判。",
-          "url": "https://flash.jin10.com/detail/20251116183145693800",
+          "title": "伊朗外长称伊朗境内已全面停止铀浓缩活动",
+          "url": "https://flash.jin10.com/detail/20251116184126885800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "伊朗外交部长阿拉奇：当前美国的做法丝毫没有显示出愿意进行平等公正谈判的迹象。",
-          "url": "https://flash.jin10.com/detail/20251116183102013800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
+          "time_info": "19时11分"
         },
         {
           "title": "伊朗外长：美国正在转变为基于武力的霸权主义",
@@ -256,6 +259,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时17分 ~ 18时14分]"
+        },
+        {
+          "title": "伊朗外交部长阿拉奇：当前美国的做法丝毫没有显示出愿意进行平等公正谈判的迹象。",
+          "url": "https://flash.jin10.com/detail/20251116183102013800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时11分]"
         },
         {
           "title": "伊朗外交部：美军事活动正在威胁国际和平与安全",
@@ -313,8 +328,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时06分 ~ 18时40分]"
+          "appearance_count": 21,
+          "time_info": "[09时06分 ~ 19时11分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -341,11 +356,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时06分 ~ 18时40分]"
+          "appearance_count": 21,
+          "time_info": "[09时06分 ~ 19时11分]"
         },
         {
           "title": "Gemini3.0能碾压GPT-5.1吗",
@@ -357,8 +373,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时16分 ~ 18时40分]"
+          "appearance_count": 10,
+          "time_info": "[16时16分 ~ 19时11分]"
         }
       ]
     }
