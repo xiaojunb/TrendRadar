@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T20:23:42.900370+08:00",
-  "total_titles_processed": 1029,
+  "generated_at": "2025-11-16T21:00:03.583246+08:00",
+  "total_titles_processed": 1053,
   "failed_sources": [],
   "trends": [
     {
@@ -39,6 +39,17 @@
           "time_info": "[13时40分 ~ 18时14分]"
         },
         {
+          "title": "10亿至50亿！特朗普开口了",
+          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[17时13分 ~ 21时00分]"
+        },
+        {
           "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
           "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
           "source": "澎湃新闻",
@@ -49,8 +60,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时35分 ~ 20时23分]"
+          "appearance_count": 15,
+          "time_info": "[15时35分 ~ 21时00分]"
         },
         {
           "title": "特朗普一个多月购债券逾八千万美元，涉及受益于其政策的行业",
@@ -86,17 +97,6 @@
           "time_info": "[11时50分 ~ 15时35分]"
         },
         {
-          "title": "10亿至50亿！特朗普开口了",
-          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时13分 ~ 20时23分]"
-        },
-        {
           "title": "特朗普：已对委内瑞拉问题作出决定",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E5%AF%B9%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%97%AE%E9%A2%98%E4%BD%9C%E5%87%BA%E5%86%B3%E5%AE%9A",
           "source": "百度热搜",
@@ -105,21 +105,6 @@
             10,
             9,
             17,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时06分 ~ 13时13分]"
-        },
-        {
-          "title": "据CNN：两名以色列消息人士称，特朗普政府正向以色列施压，要求其就拉法赫的哈马斯武装人员问题取得进展。",
-          "url": "https://flash.jin10.com/detail/20251115224710080800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            21,
-            22,
             23,
             25
           ],
@@ -138,8 +123,23 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时40分 ~ 20时23分]"
+          "appearance_count": 5,
+          "time_info": "[18时40分 ~ 21时00分]"
+        },
+        {
+          "title": "据CNN：两名以色列消息人士称，特朗普政府正向以色列施压，要求其就拉法赫的哈马斯武装人员问题取得进展。",
+          "url": "https://flash.jin10.com/detail/20251115224710080800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            21,
+            22,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时06分 ~ 13时13分]"
         },
         {
           "title": "特朗普一个多月购债券逾8千万美元，涉及受益于其政策的行业",
@@ -223,8 +223,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时40分 ~ 20时23分]"
+          "appearance_count": 5,
+          "time_info": "[18时40分 ~ 21时00分]"
         },
         {
           "title": "伊朗外长称伊朗境内已全面停止铀浓缩活动",
@@ -236,8 +236,34 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时11分 ~ 20时23分]"
+          "appearance_count": 4,
+          "time_info": "[19时11分 ~ 21时00分]"
+        },
+        {
+          "title": "伊朗外长说：暂无正进行的铀浓缩活动",
+          "url": "https://wallstreetcn.com/livenews/3005334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 21时00分]"
+        },
+        {
+          "title": "伊朗外交部长阿拉奇：当前美国的做法丝毫没有显示出愿意进行平等公正谈判的迹象。",
+          "url": "https://flash.jin10.com/detail/20251116183102013800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6,
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时40分 ~ 21时00分]"
         },
         {
           "title": "伊朗外交部：美军事活动正在威胁国际和平与安全",
@@ -253,31 +279,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时06分 ~ 13时13分]"
-        },
-        {
-          "title": "伊朗外长说：暂无正进行的铀浓缩活动",
-          "url": "https://wallstreetcn.com/livenews/3005334",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "伊朗外交部长阿拉奇：当前美国的做法丝毫没有显示出愿意进行平等公正谈判的迹象。",
-          "url": "https://flash.jin10.com/detail/20251116183102013800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            6,
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时40分 ~ 20时23分]"
         },
         {
           "title": "伊朗外长：美国正在转变为基于武力的霸权主义",
@@ -349,8 +350,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[09时06分 ~ 20时23分]"
+          "appearance_count": 25,
+          "time_info": "[09时06分 ~ 21时00分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -381,8 +382,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时16分 ~ 20时23分]"
+          "appearance_count": 14,
+          "time_info": "[16时16分 ~ 21时00分]"
         },
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
