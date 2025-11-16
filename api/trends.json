@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-16T22:12:12.288614+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2025-11-16T22:38:13.650909+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "诡异的现象：特朗普反复强调降息，美联储新主席候选人却集体讨论“缩表”",
@@ -46,8 +46,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[17时13分 ~ 22时12分]"
+          "appearance_count": 18,
+          "time_info": "[17时13分 ~ 22时38分]"
         },
         {
           "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
@@ -60,8 +60,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[15时35分 ~ 22时12分]"
+          "appearance_count": 22,
+          "time_info": "[15时35分 ~ 22时38分]"
         },
         {
           "title": "特朗普一个多月购债券逾八千万美元，涉及受益于其政策的行业",
@@ -142,6 +142,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时06分 ~ 13时13分]"
+        },
+        {
+          "title": "特朗普首席贸易谈判代表警告欧盟：欧盟对美国的关税仍然过高",
+          "url": "https://flash.jin10.com/detail/20251116221017649800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "特朗普一个多月购债券逾8千万美元，涉及受益于其政策的行业",
@@ -271,11 +282,12 @@
             4,
             6,
             9,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时23分 ~ 22时12分]"
+          "appearance_count": 6,
+          "time_info": "[20时23分 ~ 22时38分]"
         },
         {
           "title": "伊朗外交部：美军事活动正在威胁国际和平与安全",
@@ -362,8 +374,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[09时06分 ~ 22时12分]"
+          "appearance_count": 32,
+          "time_info": "[09时06分 ~ 22时38分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -394,8 +406,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[16时16分 ~ 22时12分]"
+          "appearance_count": 21,
+          "time_info": "[16时16分 ~ 22时38分]"
         },
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
