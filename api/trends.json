@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T17:18:47.306234+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2025-11-17T17:44:08.793262+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时03分 ~ 17时18分]"
+          "appearance_count": 22,
+          "time_info": "[09时03分 ~ 17时44分]"
         },
         {
           "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
@@ -45,8 +45,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时38分 ~ 17时18分]"
+          "appearance_count": 8,
+          "time_info": "[15时38分 ~ 17时44分]"
         },
         {
           "title": "特朗普：可能与委内瑞拉总统进行对话",
@@ -86,6 +86,17 @@
           "time_info": "[13时15分 ~ 14时22分]"
         },
         {
+          "title": "特朗普豪气“画饼”要发每人2000美元？美财长泼冷水：得先国会同意",
+          "url": "https://www.cls.cn/detail/2202033",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 17时44分]"
+        },
+        {
           "title": "特朗普：可能与委内瑞拉总统进行对话",
           "url": "https://news.ifeng.com/c/8oLf4PqxV5b",
           "source": "凤凰网",
@@ -118,17 +129,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时56分 ~ 10时57分]"
-        },
-        {
-          "title": "特朗普豪气“画饼”要发每人2000美元？美财长泼冷水：得先国会同意",
-          "url": "https://www.cls.cn/detail/2202033",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
         },
         {
           "title": "美国总统特朗普：众议院共和党人应投票公布爱泼斯坦文件，因为我们没有什么可隐瞒的。",
@@ -227,19 +227,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时21分 ~ 17时18分]"
-        },
-        {
-          "title": "美股盘前，部分明星科技股走强，谷歌A(GOOGL.O)涨5.4%，此前巴菲特首次建仓谷歌。特斯拉(TSLA.O)涨1.2%、美光科技(MU.O)涨2.3%。热门中概股方面，阿里巴巴(BABA.N)涨3.3%。",
-          "url": "https://flash.jin10.com/detail/20251117170331832800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
+          "appearance_count": 16,
+          "time_info": "[12时21分 ~ 17时44分]"
         },
         {
           "title": "谷歌：承诺投入225万美元支持非洲的AI相关数据产业。",
@@ -247,11 +236,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            19
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 17时44分]"
+        },
+        {
+          "title": "美股盘前，部分明星科技股走强，谷歌A(GOOGL.O)涨5.4%，此前巴菲特首次建仓谷歌。特斯拉(TSLA.O)涨1.2%、美光科技(MU.O)涨2.3%。热门中概股方面，阿里巴巴(BABA.N)涨3.3%。",
+          "url": "https://flash.jin10.com/detail/20251117170331832800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时49分 ~ 17时18分]"
+          "time_info": "[17时18分 ~ 17时44分]"
+        },
+        {
+          "title": "美股盘前，部分明星科技股走强，谷歌涨超5%，此前巴菲特首次建仓谷歌。特斯拉涨超1%、美光科技涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3005762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时44分]"
         },
         {
           "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
@@ -265,24 +279,13 @@
           "time_info": "09时03分"
         },
         {
-          "title": "美股盘前，部分明星科技股走强，谷歌涨超5%，此前巴菲特首次建仓谷歌。特斯拉涨超1%、美光科技涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3005762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
           "title": "谷歌：还将支持PARIS21伙伴关系，为各国国家统计局提供人工智能培训和技术支持。将与非洲经济委员会合作，助力非洲区域数据共享平台的启动。",
           "url": "https://flash.jin10.com/detail/20251117163740955800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -293,7 +296,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         }
@@ -303,6 +306,17 @@
       "keyword_group": "金价",
       "match_count": 6,
       "titles": [
+        {
+          "title": "美股盘前涨幅扩大，纳指期货涨1%，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
+          "url": "https://wallstreetcn.com/articles/3759498",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 17时44分]"
+        },
         {
           "title": "美股期货上涨，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
           "url": "https://wallstreetcn.com/articles/3759498",
@@ -314,17 +328,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时20分 ~ 16时49分]"
-        },
-        {
-          "title": "美股盘前涨幅扩大，纳指期货涨1%，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
-          "url": "https://wallstreetcn.com/articles/3759498",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
         },
         {
           "title": "摩根士丹利：预计2026年黄金价格将达到每盎司4500美元。",
@@ -397,22 +400,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 17时18分]"
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 17时44分]"
         },
         {
           "title": "小鹏汽车：第三季度营收203.8亿元人民币，市场预估204.5亿元人民币。 第三季度交付量116007辆，市场预估116289辆。 第三季度净亏损3.809亿元人民币，市场预估亏损5.699亿元人民币。 预计第四季度营收215亿元人民币至230亿元人民币，市场预估253.6亿元人民币。 预计第四季度交付量125000至132000辆，市场预估135984辆。 小鹏汽车美股盘前跌0.4%。",
           "url": "https://wallstreetcn.com/livenews/3005756",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时44分]"
         },
         {
           "title": "摩根士丹利表示，美股2026年底目标价为7,800点。 预计2026年美国股票的表现应优于世界其他地区的股票。 将美国可选消费板块评级从“低配”上调至“超配”。 将美国医疗保健板块评级从“中性”上调至“超配”。",
