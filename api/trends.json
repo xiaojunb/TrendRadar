@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T15:39:01.750170+08:00",
-  "total_titles_processed": 930,
+  "generated_at": "2025-11-18T16:19:49.901463+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时01分 ~ 15时39分]"
+          "appearance_count": 16,
+          "time_info": "[09时01分 ~ 16时19分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时53分 ~ 15时39分]"
+          "appearance_count": 15,
+          "time_info": "[10时53分 ~ 16时19分]"
         },
         {
           "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时53分 ~ 15时39分]"
+          "appearance_count": 15,
+          "time_info": "[10时53分 ~ 16时19分]"
         },
         {
           "title": "美股三大指数期货短线跳水，纳斯达克100指数期货跌幅扩大至1%，道指期货跌0.5%，标普500指数跌0.7%。",
@@ -68,6 +68,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时14分 ~ 14时21分]"
+        },
+        {
+          "title": "美国银行全球基金经理调查：54%的受访者认为“美股七巨头”是当前最拥挤的交易，45%的受访者认为人工智能泡沫是最大的尾部风险。",
+          "url": "https://flash.jin10.com/detail/20251118154840821800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "美股收跌 英伟达及科技股普跌",
@@ -216,8 +227,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时01分 ~ 15时39分]"
+          "appearance_count": 16,
+          "time_info": "[09时01分 ~ 16时19分]"
         },
         {
           "title": "金十图示：2025年11月18日（周二）上海金早盘价为921.22元/克，较国际金价(917.98元/克)，高3.24元/克",
@@ -269,8 +280,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时53分 ~ 15时39分]"
+          "appearance_count": 15,
+          "time_info": "[10时53分 ~ 16时19分]"
         }
       ]
     },
