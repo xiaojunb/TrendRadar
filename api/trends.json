@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T18:17:29.405261+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2025-11-18T18:45:57.502924+08:00",
+  "total_titles_processed": 1272,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[10时53分 ~ 18时17分]"
+          "appearance_count": 22,
+          "time_info": "[10时53分 ~ 18时45分]"
         },
         {
           "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
@@ -42,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[10时53分 ~ 18时17分]"
+          "appearance_count": 22,
+          "time_info": "[10时53分 ~ 18时45分]"
         },
         {
           "title": "微博第三季度调整后每股收益0.42美元，上年同期0.53美元，预估0.41美元。 第三季度月活跃用户5.8亿，同比下降1.5%，预估5.9亿。 第三季度净营收4.423亿美元，同比下降4.8%，预估4.409亿美元。 第三季度广告和营销营收3.754亿美元，同比下降5.8%，预估3.757亿美元。 微博美股盘前涨2.5%。",
@@ -52,11 +52,12 @@
           "ranks": [
             1,
             2,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时16分 ~ 18时17分]"
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 18时45分]"
         },
         {
           "title": "美股三大指数期货短线跳水，纳斯达克100指数期货跌幅扩大至1%，道指期货跌0.5%，标普500指数跌0.7%。",
@@ -224,8 +225,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[09时01分 ~ 18时17分]"
+          "appearance_count": 23,
+          "time_info": "[09时01分 ~ 18时45分]"
+        },
+        {
+          "title": "全球市场恐慌发酵：日本股债汇三杀，欧股全线下跌，比特币下破9万美元关口，金价跌破4000美元",
+          "url": "https://wallstreetcn.com/articles/3759603",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时16分 ~ 18时45分]"
         },
         {
           "title": "金十图示：2025年11月18日（周二）上海金早盘价为921.22元/克，较国际金价(917.98元/克)，高3.24元/克",
@@ -237,18 +251,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
-        },
-        {
-          "title": "全球市场恐慌发酵：日本股债汇三杀，欧股全线下跌，比特币下破9万美元关口，金价跌破4000美元",
-          "url": "https://wallstreetcn.com/articles/3759603",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时16分 ~ 18时17分]"
         }
       ]
     },
