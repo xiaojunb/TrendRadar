@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T12:18:16.202067+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2025-11-19T12:44:42.853242+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 12时18分]"
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 12时44分]"
         },
         {
           "title": "特朗普：已确定下一任美联储主席人选",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 12时18分]"
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 12时44分]"
         },
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -40,8 +40,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时53分 ~ 12时18分]"
+          "appearance_count": 7,
+          "time_info": "[10时53分 ~ 12时44分]"
         },
         {
           "title": "视频片段显示，埃隆·马斯克与众多嘉宾一道出席了特朗普与沙特王储的晚宴。 葡萄牙足球巨星罗纳尔多出席特朗普与沙特王储的晚宴。",
@@ -88,6 +88,19 @@
           "time_info": "09时02分"
         },
         {
+          "title": "马斯克出席特朗普与沙特王储晚宴",
+          "url": "https://www.toutiao.com/trending/7573762239518228521/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时41分 ~ 12时44分]"
+        },
+        {
           "title": "特朗普：沙特将获得F-35战机，已就此达成协议",
           "url": "https://news.ifeng.com/c/8oOUDZNFZvg",
           "source": "凤凰网",
@@ -97,18 +110,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时01分 ~ 10时54分]"
-        },
-        {
-          "title": "马斯克出席特朗普与沙特王储晚宴",
-          "url": "https://www.toutiao.com/trending/7573762239518228521/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时41分 ~ 12时18分]"
         },
         {
           "title": "特朗普暗示美联储主席人选已定",
@@ -212,8 +213,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 12时18分]"
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 12时44分]"
         },
         {
           "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
@@ -224,8 +225,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 12时18分]"
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 12时44分]"
         },
         {
           "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
@@ -236,8 +237,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时53分 ~ 12时18分]"
+          "appearance_count": 7,
+          "time_info": "[10时53分 ~ 12时44分]"
         },
         {
           "title": "Gemini3为何是目前最强AI",
@@ -249,8 +250,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时53分 ~ 12时18分]"
+          "appearance_count": 7,
+          "time_info": "[10时53分 ~ 12时44分]"
+        },
+        {
+          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
+          "url": "https://wallstreetcn.com/articles/3759673",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时53分 ~ 12时44分]"
         },
         {
           "title": "谷歌正式发布Gemini3",
@@ -273,19 +287,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时01分 ~ 09时02分]"
-        },
-        {
-          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
-          "url": "https://wallstreetcn.com/articles/3759673",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时53分 ~ 12时18分]"
         },
         {
           "title": "特朗普称沙特将获得F-35战机 谷歌推出新一代AI模型Gemini 3 | 环球市场",
@@ -312,8 +313,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 12时18分]"
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 12时44分]"
         },
         {
           "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
@@ -334,11 +335,12 @@
           "ranks": [
             2,
             18,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 12时18分]"
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 12时44分]"
         },
         {
           "title": "估值担忧打击美股科技股，标普500指数连续第四个交易日下跌，纳指收跌1.2%，多日来现卖出信号。美国积压数据陆续公布，市场等待有关美联储下一步行动的信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -346,11 +348,12 @@
           "source": "金十数据",
           "ranks": [
             12,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时18分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 12时44分]"
         },
         {
           "title": "美股科技股遭抛售 英伟达跌近3%",
@@ -389,8 +392,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时53分 ~ 12时18分]"
+          "appearance_count": 7,
+          "time_info": "[10时53分 ~ 12时44分]"
         }
       ]
     },
