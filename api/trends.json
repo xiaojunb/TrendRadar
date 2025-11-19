@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T21:49:12.222471+08:00",
-  "total_titles_processed": 1401,
+  "generated_at": "2025-11-19T22:14:46.248603+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[10时53分 ~ 21时49分]"
+          "appearance_count": 31,
+          "time_info": "[10时53分 ~ 22时14分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -64,8 +64,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[11时41分 ~ 21时49分]"
+          "appearance_count": 27,
+          "time_info": "[11时41分 ~ 22时14分]"
         },
         {
           "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
@@ -89,8 +89,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[16时47分 ~ 21时49分]"
+          "appearance_count": 15,
+          "time_info": "[16时47分 ~ 22时14分]"
         },
         {
           "title": "特朗普与沙特王储握手露出尴尬表情",
@@ -109,6 +109,17 @@
           "time_info": "[13时14分 ~ 17时16分]"
         },
         {
+          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
+          "url": "https://wallstreetcn.com/articles/3759658",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时12分 ~ 22时14分]"
+        },
+        {
           "title": "特朗普怒怼提问记者",
           "url": "https://www.douyin.com/hot/2310914",
           "source": "抖音",
@@ -119,17 +130,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时28分 ~ 21时08分]"
-        },
-        {
-          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
-          "url": "https://wallstreetcn.com/articles/3759658",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时12分 ~ 21时49分]"
         },
         {
           "title": "特朗普怼记者：沙特王储对卡舒吉案“一无所知”，别让他难堪",
@@ -490,8 +490,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[09时01分 ~ 21时49分]"
+          "appearance_count": 33,
+          "time_info": "[09时01分 ~ 22时14分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -505,8 +505,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[10时53分 ~ 21时49分]"
+          "appearance_count": 31,
+          "time_info": "[10时53分 ~ 22时14分]"
         },
         {
           "title": "Gemini3为何是目前最强AI",
@@ -548,11 +548,23 @@
             20,
             17,
             23,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[14时50分 ~ 21时49分]"
+          "appearance_count": 19,
+          "time_info": "[14时50分 ~ 22时14分]"
+        },
+        {
+          "title": "如何评价 Google 于 11 月 19 日凌晨正式发布的 Gemini 3 Pro 模型?",
+          "url": "https://www.zhihu.com/question/1974273046480184125",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时48分 ~ 22时14分]"
         },
         {
           "title": "谷歌正式发布Gemini3",
@@ -564,17 +576,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时01分 ~ 09时02分]"
-        },
-        {
-          "title": "如何评价 Google 于 11 月 19 日凌晨正式发布的 Gemini 3 Pro 模型?",
-          "url": "https://www.zhihu.com/question/1974273046480184125",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时48分 ~ 21时49分]"
         },
         {
           "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
@@ -643,8 +644,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[16时47分 ~ 21时49分]"
+          "appearance_count": 15,
+          "time_info": "[16时47分 ~ 22时14分]"
         },
         {
           "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
@@ -735,8 +736,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[10时53分 ~ 21时49分]"
+          "appearance_count": 29,
+          "time_info": "[10时53分 ~ 22时14分]"
         },
         {
           "title": "OpenAI：拉里·萨默斯已决定辞去OpenAI董事会职务。",
@@ -755,11 +756,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时08分 ~ 21时49分]"
+          "appearance_count": 3,
+          "time_info": "[21时08分 ~ 22时14分]"
         },
         {
           "title": "在爱泼斯坦丑闻曝光后，拉里·萨默斯辞去了OpenAI董事会职务。",
