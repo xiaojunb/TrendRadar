@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T17:42:05.623371+08:00",
-  "total_titles_processed": 998,
+  "generated_at": "2025-11-19T18:16:02.629369+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "【早报】与日方外交官磋商后对结果满意吗？中方：当然不满意；特朗普：美联储主席人选已定",
@@ -38,11 +38,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[10时53分 ~ 17时42分]"
+          "appearance_count": 23,
+          "time_info": "[10时53分 ~ 18时16分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -60,8 +61,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[11时41分 ~ 17时42分]"
+          "appearance_count": 21,
+          "time_info": "[11时41分 ~ 18时16分]"
         },
         {
           "title": "特朗普与沙特王储握手露出尴尬表情",
@@ -90,8 +91,19 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时38分 ~ 18时16分]"
+        },
+        {
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[15时38分 ~ 17时42分]"
+          "time_info": "[16时47分 ~ 18时16分]"
         },
         {
           "title": "特朗普怼记者：沙特王储对卡舒吉案“一无所知”，别让他难堪",
@@ -160,17 +172,6 @@
           "time_info": "09时02分"
         },
         {
-          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
-          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时47分 ~ 17时42分]"
-        },
-        {
           "title": "特朗普：沙特将获得F-35战机，已就此达成协议",
           "url": "https://news.ifeng.com/c/8oOUDZNFZvg",
           "source": "凤凰网",
@@ -192,6 +193,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时38分 ~ 16时19分]"
+        },
+        {
+          "title": "被特朗普指鼻骂“猪”的女记者是谁",
+          "url": "https://www.toutiao.com/trending/7574328835857023012/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
         },
         {
           "title": "沙特王储尴尬语塞回应特朗普问题",
@@ -299,7 +311,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -401,8 +413,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[09时01分 ~ 17时42分]"
+          "appearance_count": 25,
+          "time_info": "[09时01分 ~ 18时16分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -415,8 +427,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[10时53分 ~ 17时42分]"
+          "appearance_count": 23,
+          "time_info": "[10时53分 ~ 18时16分]"
         },
         {
           "title": "Gemini3为何是目前最强AI",
@@ -434,11 +446,12 @@
             14,
             19,
             20,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[10时53分 ~ 17时42分]"
+          "appearance_count": 23,
+          "time_info": "[10时53分 ~ 18时16分]"
         },
         {
           "title": "王自如深度体验谷歌AI",
@@ -454,8 +467,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时50分 ~ 17时42分]"
+          "appearance_count": 11,
+          "time_info": "[14时50分 ~ 18时16分]"
         },
         {
           "title": "谷歌正式发布Gemini3",
@@ -522,6 +535,19 @@
           "time_info": "[09时01分 ~ 14时20分]"
         },
         {
+          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
+          "url": "https://www.cls.cn/detail/2204885",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时47分 ~ 18时16分]"
+        },
+        {
           "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
           "url": "https://www.cls.cn/detail/2204220",
           "source": "财联社热门",
@@ -546,18 +572,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时54分 ~ 13时15分]"
-        },
-        {
-          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
-          "url": "https://www.cls.cn/detail/2204885",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时47分 ~ 17时42分]"
         },
         {
           "title": "估值担忧打击美股科技股，标普500指数连续第四个交易日下跌，纳指收跌1.2%，多日来现卖出信号。美国积压数据陆续公布，市场等待有关美联储下一步行动的信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -609,8 +623,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[10时53分 ~ 17时42分]"
+          "appearance_count": 21,
+          "time_info": "[10时53分 ~ 18时16分]"
         }
       ]
     },
