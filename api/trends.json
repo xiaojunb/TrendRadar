@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T15:14:44.644753+08:00",
-  "total_titles_processed": 724,
+  "generated_at": "2025-11-19T15:38:22.187092+08:00",
+  "total_titles_processed": 800,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "【早报】与日方外交官磋商后对结果满意吗？中方：当然不满意；特朗普：美联储主席人选已定",
@@ -40,8 +40,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时53分 ~ 15时14分]"
+          "appearance_count": 15,
+          "time_info": "[10时53分 ~ 15时38分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -56,8 +56,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时41分 ~ 15时14分]"
+          "appearance_count": 13,
+          "time_info": "[11时41分 ~ 15时38分]"
         },
         {
           "title": "特朗普与沙特王储握手露出尴尬表情",
@@ -71,8 +71,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时14分 ~ 15时14分]"
+          "appearance_count": 8,
+          "time_info": "[13时14分 ~ 15时38分]"
+        },
+        {
+          "title": "特朗普怼记者：沙特王储对卡舒吉案“一无所知”，别让他难堪",
+          "url": "https://news.ifeng.com/c/8oPCfhjamik",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时41分 ~ 15时38分]"
         },
         {
           "title": "视频片段显示，埃隆·马斯克与众多嘉宾一道出席了特朗普与沙特王储的晚宴。 葡萄牙足球巨星罗纳尔多出席特朗普与沙特王储的晚宴。",
@@ -119,15 +130,15 @@
           "time_info": "09时02分"
         },
         {
-          "title": "特朗普怼记者：沙特王储对卡舒吉案“一无所知”，别让他难堪",
-          "url": "https://news.ifeng.com/c/8oPCfhjamik",
-          "source": "凤凰网",
+          "title": "前美国商务部长：特朗普关税加上后就很难撤掉",
+          "url": "https://flash.jin10.com/detail/20251119152352836800",
+          "source": "金十数据",
           "ranks": [
-            9
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时41分 ~ 15时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "特朗普：沙特将获得F-35战机，已就此达成协议",
@@ -196,6 +207,17 @@
           "time_info": "09时02分"
         },
         {
+          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
+          "url": "https://www.cls.cn/detail/2204709",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "视频画面显示，马斯克及多位嘉宾一同出席了特朗普与沙特王储的晚宴。",
           "url": "https://flash.jin10.com/detail/20251119084229152800",
           "source": "金十数据",
@@ -205,6 +227,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "特朗普为何支持公开爱泼斯坦案文件",
+          "url": "https://www.toutiao.com/trending/7574298445284904498/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "美国白宫：美国总统特朗普将于周三中午在华盛顿举行的美沙投资论坛上发表讲话。",
@@ -246,7 +279,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         }
@@ -279,8 +312,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时53分 ~ 15时14分]"
+          "appearance_count": 15,
+          "time_info": "[10时53分 ~ 15时38分]"
         },
         {
           "title": "Gemini3为何是目前最强AI",
@@ -294,11 +327,12 @@
             5,
             6,
             16,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时53分 ~ 15时14分]"
+          "appearance_count": 15,
+          "time_info": "[10时53分 ~ 15时38分]"
         },
         {
           "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
@@ -309,8 +343,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时01分 ~ 15时14分]"
+          "appearance_count": 17,
+          "time_info": "[09时01分 ~ 15时38分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -322,8 +356,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时53分 ~ 15时14分]"
+          "appearance_count": 15,
+          "time_info": "[10时53分 ~ 15时38分]"
         },
         {
           "title": "谷歌正式发布Gemini3",
@@ -378,11 +412,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时50分 ~ 15时14分]"
+          "appearance_count": 3,
+          "time_info": "[14时50分 ~ 15时38分]"
         }
       ]
     },
@@ -477,8 +512,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时53分 ~ 15时14分]"
+          "appearance_count": 15,
+          "time_info": "[10时53分 ~ 15时38分]"
         }
       ]
     },
@@ -510,7 +545,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         }
