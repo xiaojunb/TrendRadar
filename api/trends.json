@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T12:44:42.853242+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2025-11-19T13:15:16.140411+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "【早报】与日方外交官磋商后对结果满意吗？中方：当然不满意；特朗普：美联储主席人选已定",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时01分 ~ 12时44分]"
+          "appearance_count": 11,
+          "time_info": "[09时01分 ~ 13时15分]"
         },
         {
           "title": "特朗普：已确定下一任美联储主席人选",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时01分 ~ 12时44分]"
+          "appearance_count": 11,
+          "time_info": "[09时01分 ~ 13时15分]"
         },
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -40,8 +40,22 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时53分 ~ 13时15分]"
+        },
+        {
+          "title": "马斯克出席特朗普与沙特王储晚宴",
+          "url": "https://www.toutiao.com/trending/7573762239518228521/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            13,
+            9,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[10时53分 ~ 12时44分]"
+          "time_info": "[11时41分 ~ 13时15分]"
         },
         {
           "title": "视频片段显示，埃隆·马斯克与众多嘉宾一道出席了特朗普与沙特王储的晚宴。 葡萄牙足球巨星罗纳尔多出席特朗普与沙特王储的晚宴。",
@@ -88,19 +102,6 @@
           "time_info": "09时02分"
         },
         {
-          "title": "马斯克出席特朗普与沙特王储晚宴",
-          "url": "https://www.toutiao.com/trending/7573762239518228521/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时41分 ~ 12时44分]"
-        },
-        {
           "title": "特朗普：沙特将获得F-35战机，已就此达成协议",
           "url": "https://news.ifeng.com/c/8oOUDZNFZvg",
           "source": "凤凰网",
@@ -110,6 +111,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时01分 ~ 10时54分]"
+        },
+        {
+          "title": "特朗普与沙特王储握手露出尴尬表情",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%B2%99%E7%89%B9%E7%8E%8B%E5%82%A8%E6%8F%A1%E6%89%8B%E9%9C%B2%E5%87%BA%E5%B0%B4%E5%B0%AC%E8%A1%A8%E6%83%85",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 13时15分]"
         },
         {
           "title": "特朗普暗示美联储主席人选已定",
@@ -213,8 +225,21 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时01分 ~ 13时15分]"
+        },
+        {
+          "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
+          "url": "https://www.cls.cn/detail/2204501",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[09时01分 ~ 12时44分]"
+          "time_info": "[10时53分 ~ 13时15分]"
         },
         {
           "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
@@ -225,20 +250,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时01分 ~ 12时44分]"
-        },
-        {
-          "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
-          "url": "https://www.cls.cn/detail/2204501",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时53分 ~ 12时44分]"
+          "appearance_count": 11,
+          "time_info": "[09时01分 ~ 13时15分]"
         },
         {
           "title": "Gemini3为何是目前最强AI",
@@ -247,11 +260,12 @@
           "ranks": [
             4,
             9,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时53分 ~ 12时44分]"
+          "appearance_count": 9,
+          "time_info": "[10时53分 ~ 13时15分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -263,8 +277,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时53分 ~ 12时44分]"
+          "appearance_count": 9,
+          "time_info": "[10时53分 ~ 13时15分]"
         },
         {
           "title": "谷歌正式发布Gemini3",
@@ -313,8 +327,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时01分 ~ 12时44分]"
+          "appearance_count": 11,
+          "time_info": "[09时01分 ~ 13时15分]"
         },
         {
           "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
@@ -339,8 +353,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 12时44分]"
+          "appearance_count": 5,
+          "time_info": "[10时54分 ~ 13时15分]"
         },
         {
           "title": "估值担忧打击美股科技股，标普500指数连续第四个交易日下跌，纳指收跌1.2%，多日来现卖出信号。美国积压数据陆续公布，市场等待有关美联储下一步行动的信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -392,8 +406,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时53分 ~ 12时44分]"
+          "appearance_count": 9,
+          "time_info": "[10时53分 ~ 13时15分]"
         }
       ]
     },
