@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T14:50:15.106211+08:00",
-  "total_titles_processed": 720,
+  "generated_at": "2025-11-20T15:14:35.039704+08:00",
+  "total_titles_processed": 758,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时43分 ~ 14时50分]"
+          "appearance_count": 14,
+          "time_info": "[10时43分 ~ 15时14分]"
         },
         {
           "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时16分 ~ 14时50分]"
+          "appearance_count": 11,
+          "time_info": "[12时16分 ~ 15时14分]"
         },
         {
           "title": "特朗普批准公布爱泼斯坦案档案",
@@ -74,6 +74,19 @@
           "time_info": "[12时17分 ~ 13时42分]"
         },
         {
+          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
+          "url": "https://www.cls.cn/detail/2205764",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时20分 ~ 15时14分]"
+        },
+        {
           "title": "特朗普政府宣布拆解教育部计划",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E6%8B%86%E8%A7%A3%E6%95%99%E8%82%B2%E9%83%A8%E8%AE%A1%E5%88%92",
           "source": "百度热搜",
@@ -97,18 +110,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时42分 ~ 14时21分]"
-        },
-        {
-          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
-          "url": "https://www.cls.cn/detail/2205764",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时20分 ~ 14时50分]"
         },
         {
           "title": "C罗随特朗普参观白宫开怀大笑",
@@ -191,11 +192,12 @@
             5,
             9,
             8,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时00分 ~ 14时50分]"
+          "appearance_count": 16,
+          "time_info": "[09时00分 ~ 15时14分]"
         },
         {
           "title": "Gemini3是目前最强AI吗",
@@ -206,11 +208,12 @@
             7,
             10,
             9,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时00分 ~ 14时50分]"
+          "appearance_count": 16,
+          "time_info": "[09时00分 ~ 15时14分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -221,8 +224,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时00分 ~ 14时50分]"
+          "appearance_count": 16,
+          "time_info": "[09时00分 ~ 15时14分]"
         },
         {
           "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
@@ -251,17 +254,6 @@
           "time_info": "09时01分"
         },
         {
-          "title": "谷歌：在中国台北启用新的硬件工程中心。",
-          "url": "https://wallstreetcn.com/livenews/3007704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
           "title": "谷歌(GOOG.O)：在台湾地区开设人工智能基础设施工程中心。",
           "url": "https://flash.jin10.com/detail/20251120103853378800",
           "source": "金十数据",
@@ -272,6 +264,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时43分 ~ 11时41分]"
+        },
+        {
+          "title": "谷歌：在中国台北启用新的硬件工程中心。",
+          "url": "https://wallstreetcn.com/livenews/3007704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 15时14分]"
         },
         {
           "title": "王自如深度体验谷歌AI",
@@ -309,8 +313,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时00分 ~ 14时50分]"
+          "appearance_count": 16,
+          "time_info": "[09时00分 ~ 15时14分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -321,8 +325,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时00分 ~ 14时50分]"
+          "appearance_count": 16,
+          "time_info": "[09时00分 ~ 15时14分]"
         },
         {
           "title": "美股期货涨幅扩大，标普500指数期货现涨1.2%，纳斯达克100指数期货涨1.7%。",
@@ -401,8 +405,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时49分 ~ 14时50分]"
+          "appearance_count": 3,
+          "time_info": "[14时49分 ~ 15时14分]"
         }
       ]
     }
