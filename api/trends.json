@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T18:44:45.516796+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2025-11-20T19:13:37.614142+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "大力推进美国AI发展，特朗普又有“新计划”！",
@@ -33,8 +33,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[12时16分 ~ 18时44分]"
+          "appearance_count": 22,
+          "time_info": "[12时16分 ~ 19时13分]"
         },
         {
           "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
@@ -77,17 +77,6 @@
           "time_info": "[09时00分 ~ 12时42分]"
         },
         {
-          "title": "克里姆林宫就“乌克兰28点和平计划”的报道作出回应：除了在阿拉斯加举行的俄罗斯总统普京与美国总统特朗普峰会上所说的内容外，我们没有新的补充。",
-          "url": "https://flash.jin10.com/detail/20251120181150851800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
-        },
-        {
           "title": "共和党议员对特朗普“关税红利”计划持保留态度",
           "url": "https://flash.jin10.com/detail/20251120120628966800",
           "source": "金十数据",
@@ -100,6 +89,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时17分 ~ 13时42分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-20）",
+          "url": "https://flash.jin10.com/detail/20251120183902087800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "特朗普政府宣布拆解教育部计划",
@@ -127,6 +127,18 @@
           "time_info": "[13时42分 ~ 14时21分]"
         },
         {
+          "title": "克里姆林宫就“乌克兰28点和平计划”的报道作出回应：除了在阿拉斯加举行的俄罗斯总统普京与美国总统特朗普峰会上所说的内容外，我们没有新的补充。",
+          "url": "https://flash.jin10.com/detail/20251120181150851800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 19时13分]"
+        },
+        {
           "title": "C罗随特朗普参观白宫开怀大笑",
           "url": "https://www.toutiao.com/trending/7573905925644340755/",
           "source": "今日头条",
@@ -147,6 +159,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时00分 ~ 09时01分]"
+        },
+        {
+          "title": "美媒：特朗普批准结束俄乌冲突的新计划",
+          "url": "https://wallstreetcn.com/livenews/3007866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 19时13分]"
         },
         {
           "title": "曝特朗普计划推迟半导体关税",
@@ -180,17 +204,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时40分 ~ 11时41分]"
-        },
-        {
-          "title": "美媒：特朗普批准结束俄乌冲突的新计划",
-          "url": "https://wallstreetcn.com/livenews/3007866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
         },
         {
           "title": "特朗普考虑最早周五签署有关AI的行政令。（The Verge）",
@@ -237,8 +250,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[09时00分 ~ 18时44分]"
+          "appearance_count": 27,
+          "time_info": "[09时00分 ~ 19时13分]"
         },
         {
           "title": "Gemini3是目前最强AI吗",
@@ -256,8 +269,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[09时00分 ~ 18时44分]"
+          "appearance_count": 27,
+          "time_info": "[09时00分 ~ 19时13分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -269,8 +282,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[09时00分 ~ 18时44分]"
+          "appearance_count": 27,
+          "time_info": "[09时00分 ~ 19时13分]"
         },
         {
           "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
@@ -419,11 +432,12 @@
           "url": "https://wallstreetcn.com/livenews/3007872",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 19时13分]"
         },
         {
           "title": "英伟达业绩驱散悲观情绪，纳指100期货涨1.9%，日经225涨超3%，比特币反弹至9.2万美元，金价冲高回落跌破4100美元",
@@ -443,9 +457,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 19时13分]"
         },
         {
           "title": "伦敦金属交易所（LME）：自2026年年中起，将停止管理伦敦金银市场协会（LBMA）的铂金和钯金价格，以便专注于核心的基本金属业务。",
@@ -454,7 +468,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -484,8 +498,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[09时00分 ~ 18时44分]"
+          "appearance_count": 27,
+          "time_info": "[09时00分 ~ 19时13分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -574,6 +588,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "市场消息：国际原子能机构理事会通过决议，要求伊朗就其被炸毁的核设施和浓缩铀库存作出解释并允许其进入。",
+          "url": "https://flash.jin10.com/detail/20251120183757484800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
+          "title": "市场消息：国际原子能机构理事会通过一项决议，要求伊朗“毫不拖延地”向国际原子能机构通报其浓缩铀库存及受袭核设施的状况。",
+          "url": "https://flash.jin10.com/detail/20251120183719098800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         }
       ]
     }
