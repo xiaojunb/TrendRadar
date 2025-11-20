@@ -1,12 +1,28 @@
 {
-  "generated_at": "2025-11-20T16:20:03.741177+08:00",
-  "total_titles_processed": 896,
+  "generated_at": "2025-11-20T16:48:43.709950+08:00",
+  "total_titles_processed": 938,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 15,
       "titles": [
+        {
+          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
+          "url": "https://www.cls.cn/detail/2205764",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时20分 ~ 16时48分]"
+        },
         {
           "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
           "url": "https://wallstreetcn.com/articles/3759743",
@@ -17,8 +33,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时16分 ~ 16时20分]"
+          "appearance_count": 16,
+          "time_info": "[12时16分 ~ 16时48分]"
         },
         {
           "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
@@ -29,23 +45,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时43分 ~ 16时20分]"
-        },
-        {
-          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
-          "url": "https://www.cls.cn/detail/2205764",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时20分 ~ 16时20分]"
+          "appearance_count": 19,
+          "time_info": "[10时43分 ~ 16时48分]"
         },
         {
           "title": "特朗普批准公布爱泼斯坦案档案",
@@ -195,7 +196,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "Gemini3有哪些新功能",
@@ -207,11 +208,12 @@
             9,
             8,
             7,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时00分 ~ 16时20分]"
+          "appearance_count": 21,
+          "time_info": "[09时00分 ~ 16时48分]"
         },
         {
           "title": "Gemini3是目前最强AI吗",
@@ -223,11 +225,12 @@
             10,
             9,
             8,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时00分 ~ 16时20分]"
+          "appearance_count": 21,
+          "time_info": "[09时00分 ~ 16时48分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -239,8 +242,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时00分 ~ 16时20分]"
+          "appearance_count": 21,
+          "time_info": "[09时00分 ~ 16时48分]"
         },
         {
           "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
@@ -304,6 +307,17 @@
           "time_info": "[09时00分 ~ 09时01分]"
         },
         {
+          "title": "土耳其副总统：谷歌将在土耳其投资20亿美元建设数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3007806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
           "title": "谷歌(GOOG.O)：台湾地区的人工智能基础设施中心是美国以外地区最大的。",
           "url": "https://flash.jin10.com/detail/20251120104126755800",
           "source": "金十数据",
@@ -329,8 +343,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时00分 ~ 16时20分]"
+          "appearance_count": 21,
+          "time_info": "[09时00分 ~ 16时48分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -392,11 +406,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时49分 ~ 16时20分]"
+          "appearance_count": 8,
+          "time_info": "[14时49分 ~ 16时48分]"
         },
         {
           "title": "瑞银集团：将2026年中现货黄金价格上行预期上调至4900美元/盎司（此前为4700美元/盎司），下行预期维持在3700美元/盎司。",
