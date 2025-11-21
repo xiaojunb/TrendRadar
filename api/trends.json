@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T15:39:38.918362+08:00",
-  "total_titles_processed": 918,
+  "generated_at": "2025-11-21T16:20:16.711427+08:00",
+  "total_titles_processed": 1023,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时01分 ~ 15时39分]"
+          "appearance_count": 19,
+          "time_info": "[09时01分 ~ 16时20分]"
         },
         {
           "title": "美股收盘：英伟达财报未能稳住市场 三大指数集体收跌 纳指大跌逾2%",
@@ -30,6 +30,19 @@
           "time_info": "[09时01分 ~ 15时39分]"
         },
         {
+          "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
+          "url": "https://www.cls.cn/detail/2206908",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[11时40分 ~ 16时20分]"
+        },
+        {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
           "url": "https://wallstreetcn.com/articles/3759840",
           "source": "华尔街见闻",
@@ -38,20 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时52分 ~ 15时39分]"
-        },
-        {
-          "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
-          "url": "https://www.cls.cn/detail/2206908",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时40分 ~ 15时39分]"
+          "appearance_count": 18,
+          "time_info": "[10时52分 ~ 16时20分]"
         },
         {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
@@ -64,8 +65,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时52分 ~ 15时39分]"
+          "appearance_count": 18,
+          "time_info": "[10时52分 ~ 16时20分]"
         },
         {
           "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
@@ -74,11 +75,12 @@
           "ranks": [
             10,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时17分 ~ 15时39分]"
+          "appearance_count": 15,
+          "time_info": "[12时17分 ~ 16时20分]"
         },
         {
           "title": "美股为何巨震暴跌",
@@ -87,11 +89,12 @@
           "ranks": [
             20,
             8,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时40分 ~ 15时39分]"
+          "appearance_count": 16,
+          "time_info": "[11时40分 ~ 16时20分]"
         },
         {
           "title": "美股为何巨震暴跌",
@@ -101,11 +104,12 @@
             29,
             24,
             28,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时43分 ~ 15时39分]"
+          "appearance_count": 14,
+          "time_info": "[12时43分 ~ 16时20分]"
         },
         {
           "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
@@ -116,8 +120,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时21分 ~ 15时39分]"
+          "appearance_count": 9,
+          "time_info": "[14时21分 ~ 16时20分]"
         },
         {
           "title": "美股科技股跳水引发连锁反应 亚洲芯片股承压",
@@ -205,7 +209,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -224,7 +228,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
@@ -246,11 +250,12 @@
             11,
             9,
             8,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时01分 ~ 15时39分]"
+          "appearance_count": 19,
+          "time_info": "[09时01分 ~ 16时20分]"
         },
         {
           "title": "特朗普批鲍威尔：想立刻炒了你",
@@ -261,8 +266,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时41分 ~ 15时39分]"
+          "appearance_count": 11,
+          "time_info": "[13时41分 ~ 16时20分]"
         },
         {
           "title": "俄新社援引克里姆林宫消息称，莫斯科方面尚未获悉基辅已同意就特朗普的和平计划进行谈判。",
@@ -290,6 +295,17 @@
           "time_info": "[12时43分 ~ 13时14分]"
         },
         {
+          "title": "特朗普政府宣布油气开发新动作 多州强烈反对",
+          "url": "https://wallstreetcn.com/livenews/3008527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "CBO下调特朗普关税所带来的赤字削减预估",
           "url": "https://flash.jin10.com/detail/20251121082349911800",
           "source": "金十数据",
@@ -310,6 +326,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "特朗普以死刑威胁多名民主党议员",
+          "url": "https://www.toutiao.com/trending/7574638830679195689/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "特朗普：民主党的麻烦比共和党大得多",
@@ -471,7 +498,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -556,11 +583,12 @@
           "url": "https://wallstreetcn.com/articles/3759753",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时01分 ~ 15时39分]"
+          "appearance_count": 19,
+          "time_info": "[09时01分 ~ 16时20分]"
         },
         {
           "title": "瑞典北欧斯安银行：Q1美债收益率料将达到3.9%",
