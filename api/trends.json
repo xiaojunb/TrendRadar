@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T13:14:58.960512+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2025-11-21T13:42:15.575723+08:00",
+  "total_titles_processed": 733,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 13时14分]"
+          "appearance_count": 10,
+          "time_info": "[09时01分 ~ 13时42分]"
         },
         {
           "title": "美股收盘：英伟达财报未能稳住市场 三大指数集体收跌 纳指大跌逾2%",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 13时14分]"
+          "appearance_count": 10,
+          "time_info": "[09时01分 ~ 13时42分]"
         },
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时52分 ~ 13时14分]"
+          "appearance_count": 9,
+          "time_info": "[10时52分 ~ 13时42分]"
         },
         {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
@@ -51,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时52分 ~ 13时14分]"
+          "appearance_count": 9,
+          "time_info": "[10时52分 ~ 13时42分]"
         },
         {
           "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
@@ -62,8 +62,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 13时14分]"
+          "appearance_count": 7,
+          "time_info": "[11时40分 ~ 13时42分]"
         },
         {
           "title": "美股为何巨震暴跌",
@@ -75,8 +75,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 13时14分]"
+          "appearance_count": 7,
+          "time_info": "[11时40分 ~ 13时42分]"
         },
         {
           "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
@@ -87,19 +87,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时17分 ~ 13时14分]"
-        },
-        {
-          "title": "美股科技股跳水引发连锁反应 亚洲芯片股承压",
-          "url": "https://flash.jin10.com/detail/20251121121525026800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时14分"
+          "appearance_count": 6,
+          "time_info": "[12时17分 ~ 13时42分]"
         },
         {
           "title": "美股为何巨震暴跌",
@@ -107,11 +96,24 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 13时14分]"
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 13时42分]"
+        },
+        {
+          "title": "美股科技股跳水引发连锁反应 亚洲芯片股承压",
+          "url": "https://flash.jin10.com/detail/20251121121525026800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 13时42分]"
         },
         {
           "title": "英伟达光环消失！美股遭遇惨烈高台跳水 华尔街全在问：为什么？",
@@ -187,7 +189,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         }
@@ -195,7 +197,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
@@ -206,8 +208,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 13时14分]"
+          "appearance_count": 10,
+          "time_info": "[09时01分 ~ 13时42分]"
         },
         {
           "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
@@ -216,11 +218,12 @@
           "ranks": [
             11,
             9,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 13时14分]"
+          "appearance_count": 10,
+          "time_info": "[09时01分 ~ 13时42分]"
         },
         {
           "title": "特朗普晒与C罗在白宫踢球AI视频",
@@ -233,6 +236,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时43分 ~ 13时14分]"
+        },
+        {
+          "title": "特朗普批鲍威尔：想立刻炒了你",
+          "url": "https://www.douyin.com/hot/2313190",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 13时42分]"
         },
         {
           "title": "CBO下调特朗普关税所带来的赤字削减预估",
@@ -280,11 +294,12 @@
           "ranks": [
             8,
             4,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时52分 ~ 13时14分]"
+          "appearance_count": 9,
+          "time_info": "[10时52分 ~ 13时42分]"
         },
         {
           "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
@@ -391,11 +406,12 @@
             6,
             12,
             15,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 13时14分]"
+          "appearance_count": 10,
+          "time_info": "[09时01分 ~ 13时42分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队：冲突会随时爆发",
@@ -455,8 +471,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 13时14分]"
+          "appearance_count": 10,
+          "time_info": "[09时01分 ~ 13时42分]"
         }
       ]
     }
