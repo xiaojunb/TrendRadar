@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T17:41:59.252128+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2025-11-21T18:15:20.404995+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
@@ -49,11 +49,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[10时52分 ~ 17时41分]"
+          "appearance_count": 22,
+          "time_info": "[10时52分 ~ 18时15分]"
         },
         {
           "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
@@ -67,8 +68,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[12时17分 ~ 17时41分]"
+          "appearance_count": 19,
+          "time_info": "[12时17分 ~ 18时15分]"
         },
         {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
@@ -81,8 +82,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[10时52分 ~ 17时41分]"
+          "appearance_count": 22,
+          "time_info": "[10时52分 ~ 18时15分]"
         },
         {
           "title": "美股为何巨震暴跌",
@@ -108,8 +109,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时21分 ~ 17时41分]"
+          "appearance_count": 13,
+          "time_info": "[14时21分 ~ 18时15分]"
         },
         {
           "title": "美股为何巨震暴跌",
@@ -145,11 +146,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时48分 ~ 17时41分]"
+          "appearance_count": 4,
+          "time_info": "[16时48分 ~ 18时15分]"
         },
         {
           "title": "英伟达光环消失！美股遭遇惨烈高台跳水 华尔街全在问：为什么？",
@@ -173,6 +175,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时40分 ~ 12时17分]"
+        },
+        {
+          "title": "美股期货短线跳水，纳指期货日内跌幅扩大至0.8%，标普500指数期货跌0.38%，道指期货日内涨0.12%。",
+          "url": "https://wallstreetcn.com/livenews/3008616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "美股大跌 英伟达跌超3%",
@@ -282,8 +295,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时41分 ~ 17时41分]"
+          "appearance_count": 15,
+          "time_info": "[13时41分 ~ 18时15分]"
         },
         {
           "title": "俄新社援引克里姆林宫消息称，莫斯科方面尚未获悉基辅已同意就特朗普的和平计划进行谈判。",
@@ -605,8 +618,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[09时01分 ~ 17时41分]"
+          "appearance_count": 23,
+          "time_info": "[09时01分 ~ 18时15分]"
         },
         {
           "title": "瑞典北欧斯安银行：Q1美债收益率料将达到3.9%",
@@ -620,6 +633,35 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时52分 ~ 15时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数DXY回落至100下方，日内跌0.23%。",
+          "url": "https://flash.jin10.com/detail/20251121162526707800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 17时15分]"
+        },
+        {
+          "title": "美元指数抹去此前跌幅，英镑触及日内低点。",
+          "url": "https://wallstreetcn.com/livenews/3008615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         }
       ]
     },
@@ -638,24 +680,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时40分 ~ 12时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数DXY回落至100下方，日内跌0.23%。",
-          "url": "https://flash.jin10.com/detail/20251121162526707800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时48分 ~ 17时15分]"
         }
       ]
     }
