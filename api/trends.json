@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T19:12:51.057321+08:00",
-  "total_titles_processed": 1378,
+  "generated_at": "2025-11-21T19:36:21.127998+08:00",
+  "total_titles_processed": 1425,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
@@ -53,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[10时52分 ~ 19时12分]"
+          "appearance_count": 26,
+          "time_info": "[10时52分 ~ 19时36分]"
         },
         {
           "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
@@ -82,8 +82,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[10时52分 ~ 19时12分]"
+          "appearance_count": 26,
+          "time_info": "[10时52分 ~ 19时36分]"
         },
         {
           "title": "美股为何巨震暴跌",
@@ -109,8 +109,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[14时21分 ~ 19时12分]"
+          "appearance_count": 17,
+          "time_info": "[14时21分 ~ 19时36分]"
         },
         {
           "title": "美股为何巨震暴跌",
@@ -139,8 +139,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时48分 ~ 19时12分]"
+          "appearance_count": 8,
+          "time_info": "[16时48分 ~ 19时36分]"
         },
         {
           "title": "美股科技股跳水引发连锁反应 亚洲芯片股承压",
@@ -189,6 +189,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时40分 ~ 12时17分]"
+        },
+        {
+          "title": "美股股指期货全线走高，纳指期货转涨，此前一度跌超0.9%，标普500指数期货涨0.2%，道指期货涨0.47%。",
+          "url": "https://wallstreetcn.com/livenews/3008659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "美股大跌 英伟达跌超3%",
@@ -260,7 +271,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
@@ -299,19 +310,30 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[13时41分 ~ 19时12分]"
+          "appearance_count": 19,
+          "time_info": "[13时41分 ~ 19时36分]"
         },
         {
-          "title": "知情人士：由于美国政府停摆43天，以及今年夏天首批250亿美元拨款缺乏明确计划，美国总统特朗普主推的“金穹”导弹防御计划面临重大延误。",
-          "url": "https://flash.jin10.com/detail/20251121190142654800",
+          "title": "美媒称特朗普执政团队可能“大换血” 白宫发言人否认",
+          "url": "https://flash.jin10.com/detail/20251121192247348800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时12分"
+          "time_info": "19时36分"
+        },
+        {
+          "title": "泽连斯基将于下周与特朗普讨论和平计划",
+          "url": "https://wallstreetcn.com/livenews/3008662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "俄新社援引克里姆林宫消息称，莫斯科方面尚未获悉基辅已同意就特朗普的和平计划进行谈判。",
@@ -325,6 +347,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时22分 ~ 15时15分]"
+        },
+        {
+          "title": "知情人士：由于美国政府停摆43天，以及今年夏天首批250亿美元拨款缺乏明确计划，美国总统特朗普主推的“金穹”导弹防御计划面临重大延误。",
+          "url": "https://flash.jin10.com/detail/20251121190142654800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 19时36分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-21）",
@@ -364,6 +398,18 @@
           "time_info": "[12时43分 ~ 13时14分]"
         },
         {
+          "title": "市场消息：乌克兰总统泽连斯基和特朗普将于下周讨论和平计划。",
+          "url": "https://flash.jin10.com/detail/20251121184349648800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 19时36分]"
+        },
+        {
           "title": "德国总理默茨将与美国总统特朗普和乌克兰总统泽连斯基通话。",
           "url": "https://flash.jin10.com/detail/20251121182101193800",
           "source": "金十数据",
@@ -374,17 +420,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时43分 ~ 19时12分]"
-        },
-        {
-          "title": "市场消息：乌克兰总统泽连斯基和特朗普将于下周讨论和平计划。",
-          "url": "https://flash.jin10.com/detail/20251121184349648800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
         },
         {
           "title": "CBO下调特朗普关税所带来的赤字削减预估",
@@ -409,6 +444,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "特朗普政府的官员为上任一周年后可能进行的内阁调整做准备。",
+          "url": "https://flash.jin10.com/detail/20251121190554844800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "特朗普以死刑威胁多名民主党议员",
           "url": "https://www.toutiao.com/trending/7574638830679195689/",
           "source": "今日头条",
@@ -425,6 +471,96 @@
           "source": "今日头条",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "Gemini 3深度实测",
+          "url": "https://www.douyin.com/hot/2312679",
+          "source": "抖音",
+          "ranks": [
+            8,
+            4,
+            9,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[10时52分 ~ 15时15分]"
+        },
+        {
+          "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
+          "url": "https://www.zhihu.com/question/1974854700256944776",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 12时17分]"
+        },
+        {
+          "title": "谷歌发布新一代图像生成模型",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 10时53分]"
+        },
+        {
+          "title": "意大利反垄断监管机构：在谷歌采取补救措施后，关闭于2024年7月启动的针对谷歌不当使用个人数据的调查。",
+          "url": "https://flash.jin10.com/detail/20251121150810136800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
+          "title": "出门问问TicNote与CodeBanana已全面接入Gemini 3模型",
+          "url": "https://wallstreetcn.com/livenews/3008660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "Gemini3是目前最强AI吗",
+          "url": "https://www.douyin.com/hot/2311060",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "如何评价谷歌发布新一代图像生成模型 Nano Banana Pro，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1974981372130116043",
+          "source": "知乎",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -529,85 +665,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "Gemini 3深度实测",
-          "url": "https://www.douyin.com/hot/2312679",
-          "source": "抖音",
-          "ranks": [
-            8,
-            4,
-            9,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时52分 ~ 15时15分]"
-        },
-        {
-          "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
-          "url": "https://www.zhihu.com/question/1974854700256944776",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时17分]"
-        },
-        {
-          "title": "谷歌发布新一代图像生成模型",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 10时53分]"
-        },
-        {
-          "title": "意大利反垄断监管机构：在谷歌采取补救措施后，关闭于2024年7月启动的针对谷歌不当使用个人数据的调查。",
-          "url": "https://flash.jin10.com/detail/20251121150810136800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
-          "title": "Gemini3是目前最强AI吗",
-          "url": "https://www.douyin.com/hot/2311060",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "如何评价谷歌发布新一代图像生成模型 Nano Banana Pro，有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1974981372130116043",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
       "match_count": 3,
       "titles": [
@@ -669,8 +726,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[09时01分 ~ 19时12分]"
+          "appearance_count": 27,
+          "time_info": "[09时01分 ~ 19时36分]"
         },
         {
           "title": "瑞典北欧斯安银行：Q1美债收益率料将达到3.9%",
