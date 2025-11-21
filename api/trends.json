@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T13:42:15.575723+08:00",
-  "total_titles_processed": 733,
+  "generated_at": "2025-11-21T14:22:09.503957+08:00",
+  "total_titles_processed": 788,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时01分 ~ 13时42分]"
+          "appearance_count": 12,
+          "time_info": "[09时01分 ~ 14时22分]"
         },
         {
           "title": "美股收盘：英伟达财报未能稳住市场 三大指数集体收跌 纳指大跌逾2%",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时01分 ~ 13时42分]"
+          "appearance_count": 12,
+          "time_info": "[09时01分 ~ 14时22分]"
         },
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
@@ -38,8 +38,20 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时52分 ~ 14时22分]"
+        },
+        {
+          "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
+          "url": "https://www.cls.cn/detail/2206908",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[10时52分 ~ 13时42分]"
+          "time_info": "[11时40分 ~ 14时22分]"
         },
         {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
@@ -51,19 +63,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时52分 ~ 13时42分]"
+          "appearance_count": 11,
+          "time_info": "[10时52分 ~ 14时22分]"
         },
         {
-          "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
-          "url": "https://www.cls.cn/detail/2206908",
+          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
+          "url": "https://www.cls.cn/detail/2206941",
           "source": "财联社热门",
           "ranks": [
+            10,
+            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时40分 ~ 13时42分]"
+          "appearance_count": 8,
+          "time_info": "[12时17分 ~ 14时22分]"
         },
         {
           "title": "美股为何巨震暴跌",
@@ -75,20 +89,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时40分 ~ 13时42分]"
-        },
-        {
-          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
-          "url": "https://www.cls.cn/detail/2206941",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时17分 ~ 13时42分]"
+          "appearance_count": 9,
+          "time_info": "[11时40分 ~ 14时22分]"
         },
         {
           "title": "美股为何巨震暴跌",
@@ -97,11 +99,12 @@
           "ranks": [
             29,
             24,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时43分 ~ 13时42分]"
+          "appearance_count": 7,
+          "time_info": "[12时43分 ~ 14时22分]"
         },
         {
           "title": "美股科技股跳水引发连锁反应 亚洲芯片股承压",
@@ -125,6 +128,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时52分 ~ 10时53分]"
+        },
+        {
+          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
+          "url": "https://wallstreetcn.com/articles/3759849",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
         },
         {
           "title": "9月非农就业岗位增长超预期，而失业率则升至4.4%，为四年来最高水平。市场押注美联储将在12月会议上按兵不动。美股周四大跌，欧股小幅收涨，现货黄金收跌0.1%，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -197,7 +211,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
@@ -208,8 +222,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时01分 ~ 13时42分]"
+          "appearance_count": 12,
+          "time_info": "[09时01分 ~ 14时22分]"
         },
         {
           "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
@@ -222,8 +236,30 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时01分 ~ 13时42分]"
+          "appearance_count": 12,
+          "time_info": "[09时01分 ~ 14时22分]"
+        },
+        {
+          "title": "俄新社援引克里姆林宫消息称，莫斯科方面尚未获悉基辅已同意就特朗普的和平计划进行谈判。",
+          "url": "https://flash.jin10.com/detail/20251121141912217800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
+          "title": "特朗普批鲍威尔：想立刻炒了你",
+          "url": "https://www.douyin.com/hot/2313190",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时41分 ~ 14时22分]"
         },
         {
           "title": "特朗普晒与C罗在白宫踢球AI视频",
@@ -236,17 +272,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时43分 ~ 13时14分]"
-        },
-        {
-          "title": "特朗普批鲍威尔：想立刻炒了你",
-          "url": "https://www.douyin.com/hot/2313190",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
         },
         {
           "title": "CBO下调特朗普关税所带来的赤字削减预估",
@@ -284,6 +309,93 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "OpenAI正式推出ChatGPT群聊功能",
+          "url": "https://wallstreetcn.com/livenews/3008363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时53分 ~ 12时44分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：与鸿海的协议旨在加强供应链，以满足当前和未来的需求。",
+          "url": "https://flash.jin10.com/detail/20251121110659900800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 12时17分]"
+        },
+        {
+          "title": "鸿海董事长：若与OpenAI合作将先从加州实验室开始，然后可能扩展到在俄亥俄州的生产业务。",
+          "url": "https://wallstreetcn.com/livenews/3008440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
+          "title": "鸿海董事长刘扬伟：与OpenAI的合作将从加州的一个实验室开始，随后可能扩展到俄亥俄州的制造业务。",
+          "url": "https://flash.jin10.com/detail/20251121134910969800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
+          "title": "鸿海董事长刘扬伟：与OpenAI合作的一个关键原因是他们是最大的生成式AI用户且拥有丰富的经验，但他们也看到了当前数据中心架构的局限性。",
+          "url": "https://flash.jin10.com/detail/20251121134120644800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
+          "title": "鸿海董事长刘扬伟：未提及与OpenAI成立合资企业或产量承诺，并不意味着未来不会发生。",
+          "url": "https://flash.jin10.com/detail/20251121133919252800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
+          "title": "鸿海董事长刘扬伟：OpenAI是我们最新的合作伙伴之一。",
+          "url": "https://flash.jin10.com/detail/20251121102852952800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 5,
       "titles": [
@@ -298,8 +410,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时52分 ~ 13时42分]"
+          "appearance_count": 11,
+          "time_info": "[10时52分 ~ 14时22分]"
         },
         {
           "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
@@ -347,49 +459,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI正式推出ChatGPT群聊功能",
-          "url": "https://wallstreetcn.com/livenews/3008363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 12时44分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：与鸿海的协议旨在加强供应链，以满足当前和未来的需求。",
-          "url": "https://flash.jin10.com/detail/20251121110659900800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 12时17分]"
-        },
-        {
-          "title": "鸿海董事长刘扬伟：OpenAI是我们最新的合作伙伴之一。",
-          "url": "https://flash.jin10.com/detail/20251121102852952800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
         }
       ]
     },
@@ -471,8 +540,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时01分 ~ 13时42分]"
+          "appearance_count": 12,
+          "time_info": "[09时01分 ~ 14时22分]"
         }
       ]
     }
