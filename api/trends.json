@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T12:17:42.400866+08:00",
-  "total_titles_processed": 582,
+  "generated_at": "2025-11-21T12:44:03.469230+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时17分]"
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 12时44分]"
         },
         {
           "title": "美股收盘：英伟达财报未能稳住市场 三大指数集体收跌 纳指大跌逾2%",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时17分]"
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 12时44分]"
         },
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时52分 ~ 12时17分]"
+          "appearance_count": 6,
+          "time_info": "[10时52分 ~ 12时44分]"
         },
         {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
@@ -47,11 +47,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时52分 ~ 12时17分]"
+          "appearance_count": 6,
+          "time_info": "[10时52分 ~ 12时44分]"
         },
         {
           "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
@@ -61,8 +62,33 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 12时17分]"
+          "appearance_count": 4,
+          "time_info": "[11时40分 ~ 12时44分]"
+        },
+        {
+          "title": "美股为何巨震暴跌",
+          "url": "https://www.toutiao.com/trending/7574979338739650091/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时40分 ~ 12时44分]"
+        },
+        {
+          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
+          "url": "https://www.cls.cn/detail/2206941",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时17分 ~ 12时44分]"
         },
         {
           "title": "英伟达光环消失！美股遭遇惨烈高台跳水 华尔街全在问：为什么？",
@@ -74,18 +100,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时52分 ~ 10时53分]"
-        },
-        {
-          "title": "美股为何巨震暴跌",
-          "url": "https://www.toutiao.com/trending/7574979338739650091/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 12时17分]"
         },
         {
           "title": "9月非农就业岗位增长超预期，而失业率则升至4.4%，为四年来最高水平。市场押注美联储将在12月会议上按兵不动。美股周四大跌，欧股小幅收涨，现货黄金收跌0.1%，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -100,6 +114,17 @@
           "time_info": "[11时40分 ~ 12时17分]"
         },
         {
+          "title": "美股为何巨震暴跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%BA%E4%BD%95%E5%B7%A8%E9%9C%87%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 12时44分]"
+        },
+        {
           "title": "美股大跌 英伟达跌超3%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C%E8%B6%853%25",
           "source": "百度热搜",
@@ -109,17 +134,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
-        },
-        {
-          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
-          "url": "https://www.cls.cn/detail/2206941",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
         },
         {
           "title": "美股期货收复失地，标普500指数期货转为上涨0.3%。",
@@ -157,6 +171,81 @@
       ]
     },
     {
+      "keyword_group": "特朗普",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
+          "url": "https://news.ifeng.com/c/8oRnabvaRvi",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 12时44分]"
+        },
+        {
+          "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
+          "url": "https://www.cls.cn/detail/2206817",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 12时44分]"
+        },
+        {
+          "title": "特朗普晒与C罗在白宫踢球AI视频",
+          "url": "https://www.toutiao.com/trending/7574730776219369513/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 12时44分]"
+        },
+        {
+          "title": "CBO下调特朗普关税所带来的赤字削减预估",
+          "url": "https://flash.jin10.com/detail/20251121082349911800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "“创世纪计划”！特朗普下周一签署AI新政，类比“曼哈顿计划”和“太空竞赛”",
+          "url": "https://wallstreetcn.com/articles/3759760",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "特朗普：民主党的麻烦比共和党大得多",
+          "url": "https://www.toutiao.com/trending/7574043619188277254/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 5,
       "titles": [
@@ -179,11 +268,12 @@
           "source": "抖音",
           "ranks": [
             8,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时52分 ~ 12时17分]"
+          "appearance_count": 6,
+          "time_info": "[10时52分 ~ 12时44分]"
         },
         {
           "title": "谷歌发布新一代图像生成模型",
@@ -222,70 +312,6 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
-          "url": "https://news.ifeng.com/c/8oRnabvaRvi",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时17分]"
-        },
-        {
-          "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
-          "url": "https://www.cls.cn/detail/2206817",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时17分]"
-        },
-        {
-          "title": "CBO下调特朗普关税所带来的赤字削减预估",
-          "url": "https://flash.jin10.com/detail/20251121082349911800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "“创世纪计划”！特朗普下周一签署AI新政，类比“曼哈顿计划”和“太空竞赛”",
-          "url": "https://wallstreetcn.com/articles/3759760",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "特朗普：民主党的麻烦比共和党大得多",
-          "url": "https://www.toutiao.com/trending/7574043619188277254/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -296,11 +322,12 @@
           "ranks": [
             4,
             17,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 12时17分]"
+          "appearance_count": 4,
+          "time_info": "[10时53分 ~ 12时44分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：与鸿海的协议旨在加强供应链，以满足当前和未来的需求。",
@@ -338,11 +365,12 @@
           "ranks": [
             5,
             6,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时17分]"
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 12时44分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队：冲突会随时爆发",
@@ -352,11 +380,12 @@
             9,
             14,
             17,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时17分]"
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 12时44分]"
         },
         {
           "title": "中国代表：武力解决不了伊朗核问题",
@@ -401,8 +430,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时17分]"
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 12时44分]"
         }
       ]
     }
