@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T22:12:04.449592+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2025-11-22T22:38:22.622997+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普喊话泽连斯基：必须接受，因为你无牌可打",
@@ -43,8 +43,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[15时13分 ~ 22时12分]"
+          "appearance_count": 23,
+          "time_info": "[15时13分 ~ 22时38分]"
         },
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
@@ -55,11 +55,12 @@
             9,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[10时26分 ~ 22时12分]"
+          "appearance_count": 33,
+          "time_info": "[10时26分 ~ 22时38分]"
         },
         {
           "title": "美国总统特朗普：众议员格林辞职是国家的一大喜讯。",
@@ -147,11 +148,12 @@
           "ranks": [
             16,
             15,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[13时39分 ~ 22时12分]"
+          "appearance_count": 26,
+          "time_info": "[13时39分 ~ 22时38分]"
         },
         {
           "title": "特朗普警告泽连斯基",
@@ -224,6 +226,19 @@
           "time_info": "[10时26分 ~ 14时18分]"
         },
         {
+          "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32020985",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[20时58分 ~ 22时38分]"
+        },
+        {
           "title": "美法官叫停特朗普政府削减对多地的联邦拨款",
           "url": "https://flash.jin10.com/detail/20251122100232879800",
           "source": "金十数据",
@@ -242,18 +257,6 @@
           "time_info": "[11时26分 ~ 14时46分]"
         },
         {
-          "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32020985",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[20时58分 ~ 22时12分]"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-22）",
           "url": "https://flash.jin10.com/detail/20251122182640033800",
           "source": "金十数据",
@@ -268,6 +271,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[18时39分 ~ 21时23分]"
+        },
+        {
+          "title": "纽约市长在特朗普面前言论“大变脸”",
+          "url": "https://wallstreetcn.com/livenews/3009006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            3,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时23分 ~ 22时38分]"
         },
         {
           "title": "加拿大政府：双方均对美国总统特朗普的领导及其旨在结束加沙战争的全面和平计划表示欢迎。",
@@ -298,17 +315,15 @@
           "time_info": "[17时37分 ~ 19时10分]"
         },
         {
-          "title": "纽约市长在特朗普面前言论“大变脸”",
-          "url": "https://wallstreetcn.com/livenews/3009006",
-          "source": "华尔街见闻-快讯",
+          "title": "德国总理默茨：昨晚与美国总统特朗普通话时，已明确表达了我对俄乌冲突的立场。",
+          "url": "https://flash.jin10.com/detail/20251122223224197800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            3,
-            9
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时23分 ~ 22时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
@@ -337,17 +352,6 @@
           "time_info": "[12时15分 ~ 13时39分]"
         },
         {
-          "title": "特朗普政府在法院裁决前准备关税备用方案。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3009012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
           "title": "据俄新社：俄罗斯总统普京与美国总统特朗普再次会晤已提上议程，一切皆有可能。",
           "url": "https://flash.jin10.com/detail/20251122180507453800",
           "source": "金十数据",
@@ -363,6 +367,18 @@
           "time_info": "[18时39分 ~ 20时59分]"
         },
         {
+          "title": "特朗普政府在法院裁决前准备关税备用方案。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3009012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 22时38分]"
+        },
+        {
           "title": "特朗普点名 马斯克马上发感谢帖",
           "url": "https://www.douyin.com/hot/2313458",
           "source": "抖音",
@@ -376,6 +392,18 @@
           "time_info": "[08时59分 ~ 11时49分]"
         },
         {
+          "title": "欧洲称特朗普关于乌克兰的方案仍需”完善”。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3009010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 22时38分]"
+        },
+        {
           "title": "特朗普划红线 泽连斯基会接受吗",
           "url": "https://www.toutiao.com/trending/7575475141363109395/",
           "source": "今日头条",
@@ -386,17 +414,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时13分 ~ 19时10分]"
-        },
-        {
-          "title": "欧洲称特朗普关于乌克兰的方案仍需”完善”。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3009010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
         },
         {
           "title": "美国白宫：特朗普总统签署公告，为某些固定污染源提供“监管减免”，以促进美国焦炉加工的安全性。",
@@ -419,6 +436,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "为应对法院裁决 特朗普政府准备关税备用方案",
+          "url": "https://flash.jin10.com/detail/20251122214339953800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "美国总统特朗普：需要与总部位于纽约的公用事业公司康爱迪生公司(Con Edison)会谈，以降低电价。",
@@ -446,8 +474,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[08时59分 ~ 22时12分]"
+          "appearance_count": 34,
+          "time_info": "[08时59分 ~ 22时38分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
@@ -459,8 +487,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[18时13分 ~ 22时12分]"
+          "appearance_count": 15,
+          "time_info": "[18时13分 ~ 22时38分]"
         },
         {
           "title": "小盘股指ETF收涨超3.8%，和地产ETF领跑美股大类资产类ETF",
@@ -639,8 +667,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[19时34分 ~ 22时12分]"
+          "appearance_count": 12,
+          "time_info": "[19时34分 ~ 22时38分]"
         },
         {
           "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
@@ -656,6 +684,19 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[10时26分 ~ 19时35分]"
+        },
+        {
+          "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
+          "url": "https://wallstreetcn.com/articles/3759917",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[20时22分 ~ 22时38分]"
         },
         {
           "title": "Gemini3玩法大全",
@@ -687,19 +728,6 @@
           "time_info": "[13时13分 ~ 19时35分]"
         },
         {
-          "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
-          "url": "https://wallstreetcn.com/articles/3759917",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[20时22分 ~ 22时12分]"
-        },
-        {
           "title": "面对AI泡沫质疑，谷歌AI基建负责人坦言：公司必须每六个月将AI算力翻倍以满足需求",
           "url": "https://wallstreetcn.com/articles/3759896",
           "source": "华尔街见闻",
@@ -709,8 +737,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[20时58分 ~ 22时12分]"
+          "appearance_count": 8,
+          "time_info": "[20时58分 ~ 22时38分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
@@ -723,6 +751,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时10分 ~ 19时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "澳新银行：金价回落但基本面稳固，白银表现仍亮眼",
+          "url": "https://flash.jin10.com/detail/20251122223006926800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         }
       ]
     },
