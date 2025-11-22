@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T12:41:52.873076+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2025-11-22T13:13:30.535068+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
@@ -17,8 +17,34 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时26分 ~ 12时41分]"
+          "appearance_count": 7,
+          "time_info": "[10时26分 ~ 13时13分]"
+        },
+        {
+          "title": "特朗普警告泽连斯基",
+          "url": "https://www.toutiao.com/trending/7575040325853577259/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            12,
+            10,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时26分 ~ 13时13分]"
+        },
+        {
+          "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
+          "url": "https://www.cls.cn/detail/2207928",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时26分 ~ 13时13分]"
         },
         {
           "title": "美国总统特朗普：我将立即终止对明尼苏达州索马里人的临时保护身份。",
@@ -29,36 +55,12 @@
             10,
             12,
             14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时26分 ~ 12时41分]"
-        },
-        {
-          "title": "特朗普警告泽连斯基",
-          "url": "https://www.toutiao.com/trending/7575040325853577259/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            12,
-            10,
-            13
+            19,
+            21
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时26分 ~ 12时41分]"
-        },
-        {
-          "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
-          "url": "https://www.cls.cn/detail/2207928",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时26分 ~ 12时41分]"
+          "time_info": "[10时26分 ~ 13时13分]"
         },
         {
           "title": "特朗普明确基辅接受新方案的最后期限及拒绝后果",
@@ -69,11 +71,52 @@
             11,
             13,
             15,
-            20
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时26分 ~ 13时13分]"
+        },
+        {
+          "title": "美国总统特朗普：众议员格林辞职是国家的一大喜讯。",
+          "url": "https://wallstreetcn.com/livenews/3008950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            6,
+            7,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时26分 ~ 12时41分]"
+          "time_info": "[11时26分 ~ 13时13分]"
+        },
+        {
+          "title": "特朗普喊话泽连斯基：必须接受，因为你无牌可打",
+          "url": "https://v.ifeng.com/c/8oU2xy9xf53",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "美国总统特朗普：众议员格林辞职是国家的一大喜讯。",
+          "url": "https://flash.jin10.com/detail/20251122102554938800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            7,
+            9,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 13时13分]"
         },
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
@@ -91,34 +134,6 @@
           "time_info": "[08时59分 ~ 12时16分]"
         },
         {
-          "title": "美国总统特朗普：众议员格林辞职是国家的一大喜讯。",
-          "url": "https://wallstreetcn.com/livenews/3008950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            6,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 12时41分]"
-        },
-        {
-          "title": "美国总统特朗普：众议员格林辞职是国家的一大喜讯。",
-          "url": "https://flash.jin10.com/detail/20251122102554938800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            7,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 12时41分]"
-        },
-        {
           "title": "美法官叫停特朗普政府削减对多地的联邦拨款",
           "url": "https://flash.jin10.com/detail/20251122100232879800",
           "source": "金十数据",
@@ -126,11 +141,12 @@
             8,
             10,
             12,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 12时41分]"
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 13时13分]"
         },
         {
           "title": "特朗普昔日亲密盟友将辞去众议员职务",
@@ -140,8 +156,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 12时41分]"
+          "appearance_count": 4,
+          "time_info": "[12时15分 ~ 13时13分]"
         },
         {
           "title": "特朗普点名 马斯克马上发感谢帖",
@@ -179,6 +195,17 @@
           "time_info": "08时59分"
         },
         {
+          "title": "公开决裂后 特朗普铁杆盟友辞职",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%BC%80%E5%86%B3%E8%A3%82%E5%90%8E+%E7%89%B9%E6%9C%97%E6%99%AE%E9%93%81%E6%9D%86%E7%9B%9F%E5%8F%8B%E8%BE%9E%E8%81%8C",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
           "title": "美国总统特朗普：需要与总部位于纽约的公用事业公司康爱迪生公司(Con Edison)会谈，以降低电价。",
           "url": "https://wallstreetcn.com/livenews/3008908",
           "source": "华尔街见闻-快讯",
@@ -188,6 +215,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "特朗普警告泽连斯基",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         }
       ]
     },
@@ -204,8 +242,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时59分 ~ 12时41分]"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 13时13分]"
         },
         {
           "title": "小盘股指ETF收涨超3.8%，和地产ETF领跑美股大类资产类ETF",
@@ -220,8 +258,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时59分 ~ 12时41分]"
+          "appearance_count": 7,
+          "time_info": "[08时59分 ~ 13时13分]"
         },
         {
           "title": "全球航空业ETF收涨3.5%，和银行业ETF领跑美股行业ETF，本周半导体ETF跌超5.4%、科技行业ETF累跌超5%",
@@ -236,8 +274,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时59分 ~ 12时41分]"
+          "appearance_count": 7,
+          "time_info": "[08时59分 ~ 13时13分]"
         },
         {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
@@ -337,7 +375,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
@@ -348,8 +386,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时59分 ~ 12时41分]"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 13时13分]"
         },
         {
           "title": "Gemini3玩法大全",
@@ -361,8 +399,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时26分 ~ 12时41分]"
+          "appearance_count": 7,
+          "time_info": "[10时26分 ~ 13时13分]"
         },
         {
           "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
@@ -373,8 +411,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时26分 ~ 12时41分]"
+          "appearance_count": 5,
+          "time_info": "[10时26分 ~ 13时13分]"
+        },
+        {
+          "title": "“王者归来”之后 谷歌再下重注：世界模型将迎来“ChatGPT时刻”",
+          "url": "https://www.cls.cn/detail/2207169",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         }
       ]
     },
@@ -395,8 +444,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时59分 ~ 12时41分]"
+          "appearance_count": 7,
+          "time_info": "[08时59分 ~ 13时13分]"
         }
       ]
     },
@@ -409,11 +458,12 @@
           "url": "https://www.toutiao.com/trending/7575331177129577990/",
           "source": "今日头条",
           "ranks": [
-            28
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 13时13分]"
         }
       ]
     }
