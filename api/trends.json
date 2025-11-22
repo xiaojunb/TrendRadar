@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T14:18:54.168611+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2025-11-22T14:46:44.889847+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时26分 ~ 14时18分]"
+          "appearance_count": 10,
+          "time_info": "[10时26分 ~ 14时46分]"
         },
         {
           "title": "特朗普警告泽连斯基",
@@ -30,11 +30,12 @@
             10,
             13,
             19,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时26分 ~ 14时18分]"
+          "appearance_count": 10,
+          "time_info": "[10时26分 ~ 14时46分]"
         },
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
@@ -45,8 +46,36 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时26分 ~ 14时18分]"
+          "appearance_count": 10,
+          "time_info": "[10时26分 ~ 14时46分]"
+        },
+        {
+          "title": "特朗普喊话泽连斯基：必须接受，因为你无牌可打",
+          "url": "https://v.ifeng.com/c/8oU2xy9xf53",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时13分 ~ 14时46分]"
+        },
+        {
+          "title": "美国总统特朗普：众议员格林辞职是国家的一大喜讯。",
+          "url": "https://wallstreetcn.com/livenews/3008950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            6,
+            7,
+            9,
+            12,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时26分 ~ 14时46分]"
         },
         {
           "title": "美国总统特朗普：我将立即终止对明尼苏达州索马里人的临时保护身份。",
@@ -67,6 +96,24 @@
           "time_info": "[10时26分 ~ 14时18分]"
         },
         {
+          "title": "美国总统特朗普：众议员格林辞职是国家的一大喜讯。",
+          "url": "https://flash.jin10.com/detail/20251122102554938800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            7,
+            9,
+            14,
+            16,
+            22,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时26分 ~ 14时46分]"
+        },
+        {
           "title": "特朗普明确基辅接受新方案的最后期限及拒绝后果",
           "url": "https://flash.jin10.com/detail/20251122092917398800",
           "source": "金十数据",
@@ -85,50 +132,6 @@
           "time_info": "[10时26分 ~ 14时18分]"
         },
         {
-          "title": "特朗普喊话泽连斯基：必须接受，因为你无牌可打",
-          "url": "https://v.ifeng.com/c/8oU2xy9xf53",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 14时18分]"
-        },
-        {
-          "title": "美国总统特朗普：众议员格林辞职是国家的一大喜讯。",
-          "url": "https://wallstreetcn.com/livenews/3008950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            6,
-            7,
-            9,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时26分 ~ 14时18分]"
-        },
-        {
-          "title": "美国总统特朗普：众议员格林辞职是国家的一大喜讯。",
-          "url": "https://flash.jin10.com/detail/20251122102554938800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            7,
-            9,
-            14,
-            16,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时26分 ~ 14时18分]"
-        },
-        {
           "title": "美法官叫停特朗普政府削减对多地的联邦拨款",
           "url": "https://flash.jin10.com/detail/20251122100232879800",
           "source": "金十数据",
@@ -139,11 +142,12 @@
             17,
             19,
             25,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时26分 ~ 14时18分]"
+          "appearance_count": 8,
+          "time_info": "[11时26分 ~ 14时46分]"
         },
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
@@ -178,11 +182,12 @@
           "ranks": [
             27,
             16,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 14时18分]"
+          "appearance_count": 4,
+          "time_info": "[13时13分 ~ 14时46分]"
         },
         {
           "title": "特朗普警告泽连斯基",
@@ -191,11 +196,23 @@
           "ranks": [
             29,
             20,
-            18
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时13分 ~ 14时46分]"
+        },
+        {
+          "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32018623",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时13分 ~ 14时18分]"
+          "time_info": "[13时39分 ~ 14时46分]"
         },
         {
           "title": "特朗普点名 马斯克马上发感谢帖",
@@ -211,26 +228,15 @@
           "time_info": "[08时59分 ~ 11时49分]"
         },
         {
-          "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32018623",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时39分 ~ 14时18分]"
-        },
-        {
           "title": "特朗普见“社会主义者”马姆达尼，两人竟“化干戈为玉帛”",
           "url": "https://news.ifeng.com/c/8oUGoYyox5f",
           "source": "凤凰网",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 14时46分]"
         },
         {
           "title": "昔日盟友格林辞职，特朗普：好啊",
@@ -239,9 +245,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 14时46分]"
         },
         {
           "title": "美国白宫：特朗普总统签署公告，为某些固定污染源提供“监管减免”，以促进美国焦炉加工的安全性。",
@@ -291,8 +297,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时59分 ~ 14时18分]"
+          "appearance_count": 11,
+          "time_info": "[08时59分 ~ 14时46分]"
         },
         {
           "title": "小盘股指ETF收涨超3.8%，和地产ETF领跑美股大类资产类ETF",
@@ -306,11 +312,12 @@
             19,
             21,
             24,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时59分 ~ 14时18分]"
+          "appearance_count": 10,
+          "time_info": "[08时59分 ~ 14时46分]"
         },
         {
           "title": "全球航空业ETF收涨3.5%，和银行业ETF领跑美股行业ETF，本周半导体ETF跌超5.4%、科技行业ETF累跌超5%",
@@ -367,6 +374,19 @@
           "time_info": "[08时59分 ~ 11时49分]"
         },
         {
+          "title": "美股深夜反弹 中国资产爆发",
+          "url": "https://www.toutiao.com/trending/7575388560119827987/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时39分 ~ 14时46分]"
+        },
+        {
           "title": "美股泡沫离破裂还有多久",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E7%A6%BB%E7%A0%B4%E8%A3%82%E8%BF%98%E6%9C%89%E5%A4%9A%E4%B9%85",
           "source": "bilibili 热搜",
@@ -378,18 +398,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时26分 ~ 12时41分]"
-        },
-        {
-          "title": "美股深夜反弹 中国资产爆发",
-          "url": "https://www.toutiao.com/trending/7575388560119827987/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时39分 ~ 14时18分]"
         },
         {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
@@ -451,8 +459,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时59分 ~ 14时18分]"
+          "appearance_count": 11,
+          "time_info": "[08时59分 ~ 14时46分]"
         },
         {
           "title": "Gemini3玩法大全",
@@ -462,11 +470,12 @@
             17,
             10,
             11,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时26分 ~ 14时18分]"
+          "appearance_count": 10,
+          "time_info": "[10时26分 ~ 14时46分]"
         },
         {
           "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
@@ -477,8 +486,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时26分 ~ 14时18分]"
+          "appearance_count": 8,
+          "time_info": "[10时26分 ~ 14时46分]"
         },
         {
           "title": "“王者归来”之后 谷歌再下重注：世界模型将迎来“ChatGPT时刻”",
@@ -489,8 +498,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 14时18分]"
+          "appearance_count": 4,
+          "time_info": "[13时13分 ~ 14时46分]"
         }
       ]
     },
