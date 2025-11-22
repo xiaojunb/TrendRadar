@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T19:10:51.304740+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2025-11-22T19:35:09.100088+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时13分 ~ 19时10分]"
+          "appearance_count": 13,
+          "time_info": "[15时13分 ~ 19时35分]"
         },
         {
           "title": "美国总统特朗普：众议员格林辞职是国家的一大喜讯。",
@@ -77,8 +77,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[10时26分 ~ 19时10分]"
+          "appearance_count": 23,
+          "time_info": "[10时26分 ~ 19时35分]"
         },
         {
           "title": "昔日盟友格林辞职，特朗普：好啊",
@@ -147,8 +147,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时39分 ~ 19时10分]"
+          "appearance_count": 16,
+          "time_info": "[13时39分 ~ 19时35分]"
         },
         {
           "title": "特朗普警告泽连斯基",
@@ -284,11 +284,25 @@
           "source": "金十数据",
           "ranks": [
             3,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 19时10分]"
+          "appearance_count": 3,
+          "time_info": "[18时39分 ~ 19时35分]"
+        },
+        {
+          "title": "据俄新社：俄罗斯总统普京与美国总统特朗普再次会晤已提上议程，一切皆有可能。",
+          "url": "https://flash.jin10.com/detail/20251122180507453800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时39分 ~ 19时35分]"
         },
         {
           "title": "特朗普点名 马斯克马上发感谢帖",
@@ -302,18 +316,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时59分 ~ 11时49分]"
-        },
-        {
-          "title": "据俄新社：俄罗斯总统普京与美国总统特朗普再次会晤已提上议程，一切皆有可能。",
-          "url": "https://flash.jin10.com/detail/20251122180507453800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 19时10分]"
         },
         {
           "title": "特朗普划红线 泽连斯基会接受吗",
@@ -375,8 +377,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[08时59分 ~ 19时10分]"
+          "appearance_count": 24,
+          "time_info": "[08时59分 ~ 19时35分]"
         },
         {
           "title": "小盘股指ETF收涨超3.8%，和地产ETF领跑美股大类资产类ETF",
@@ -439,6 +441,18 @@
           "time_info": "08时59分"
         },
         {
+          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
+          "url": "https://wallstreetcn.com/articles/3759920",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 19时35分]"
+        },
+        {
           "title": "美股深夜反弹 中国资产爆发",
           "url": "https://www.toutiao.com/trending/7575388560119827987/",
           "source": "今日头条",
@@ -465,17 +479,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时59分 ~ 11时49分]"
-        },
-        {
-          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
-          "url": "https://wallstreetcn.com/articles/3759920",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时13分 ~ 19时10分]"
         },
         {
           "title": "美股泡沫离破裂还有多久",
@@ -539,7 +542,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
@@ -552,8 +555,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[08时59分 ~ 19时10分]"
+          "appearance_count": 24,
+          "time_info": "[08时59分 ~ 19时35分]"
         },
         {
           "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
@@ -567,8 +570,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[10时26分 ~ 19时10分]"
+          "appearance_count": 21,
+          "time_info": "[10时26分 ~ 19时35分]"
         },
         {
           "title": "Gemini3玩法大全",
@@ -596,19 +599,31 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时13分 ~ 19时10分]"
+          "appearance_count": 17,
+          "time_info": "[13时13分 ~ 19时35分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
           "url": "https://www.douyin.com/hot/2314319",
           "source": "抖音",
           "ranks": [
-            29
+            29,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时10分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时10分 ~ 19时35分]"
+        },
+        {
+          "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
+          "url": "https://wallstreetcn.com/articles/3759931",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 19时35分]"
         }
       ]
     },
