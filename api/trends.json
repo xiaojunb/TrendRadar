@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T16:50:03.981826+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2025-11-24T17:18:25.559888+08:00",
+  "total_titles_processed": 1071,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时06分 ~ 16时50分]"
+          "appearance_count": 19,
+          "time_info": "[09时06分 ~ 17时18分]"
         },
         {
           "title": "美媒披露：特朗普最后一刻才知道俄乌“28点和平计划”内容",
@@ -30,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时42分 ~ 16时50分]"
+          "appearance_count": 13,
+          "time_info": "[13时42分 ~ 17时18分]"
         },
         {
           "title": "泽连斯基：感谢美国，感谢特朗普",
@@ -80,6 +80,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时49分 ~ 16时50分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基办公室副主任Brusylo：谈判将在未来几天继续进行。 谈判将在工作组层面继续进行。 乌克兰加入北约的可能性并未完全排除。 泽连斯基和特朗普将最终敲定领土问题的想法。",
+          "url": "https://wallstreetcn.com/livenews/3009492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
+          "title": "曝特朗普最后一刻才知28点计划内容",
+          "url": "https://www.toutiao.com/trending/7575287851869323300/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "特朗普抱怨乌克兰“毫无感激之心”",
@@ -198,7 +220,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -210,19 +232,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时22分 ~ 16时50分]"
+          "appearance_count": 11,
+          "time_info": "[14时22分 ~ 17时18分]"
+        },
+        {
+          "title": "美股盘前：中概股、科技股普涨",
+          "url": "https://wallstreetcn.com/livenews/3009505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "美股期货涨幅扩大，纳斯达克100指数期货涨1%，标普500指数期货涨0.7%，道指期货涨0.4%。",
           "url": "https://wallstreetcn.com/livenews/3009473",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 17时18分]"
         },
         {
           "title": "本周重要事件与数据预告：美国数据密集补发、美股假期休市及阿里财报",
@@ -327,11 +361,12 @@
           "url": "https://www.cls.cn/detail/2208933",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 16时50分]"
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 17时18分]"
         }
       ]
     }
