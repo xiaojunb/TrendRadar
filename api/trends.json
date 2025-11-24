@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T15:15:14.855992+08:00",
-  "total_titles_processed": 826,
+  "generated_at": "2025-11-24T15:39:05.746980+08:00",
+  "total_titles_processed": 881,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时06分 ~ 15时15分]"
+          "appearance_count": 14,
+          "time_info": "[09时06分 ~ 15时39分]"
         },
         {
           "title": "泽连斯基：感谢美国，感谢特朗普",
@@ -42,8 +42,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时42分 ~ 15时15分]"
+          "appearance_count": 8,
+          "time_info": "[13时42分 ~ 15时39分]"
         },
         {
           "title": "特朗普：期待最高法院对关税问题的裁决。",
@@ -118,7 +118,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "Gemini3.0炸裂玩法合集",
@@ -132,8 +132,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时06分 ~ 14时22分]"
+          "appearance_count": 9,
+          "time_info": "[09时06分 ~ 15时39分]"
         },
         {
           "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
@@ -150,13 +150,24 @@
           "time_info": "[12时08分 ~ 13时43分]"
         },
         {
+          "title": "谷歌称必须每6个月将AI算力翻倍 谷歌算力供应链有望站上风口",
+          "url": "https://www.cls.cn/detail/2208396",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 15时39分]"
+        },
+        {
           "title": "谷歌云：北约与谷歌云签署数百万美元协议，打造由人工智能驱动的主权云。",
           "url": "https://flash.jin10.com/detail/20251124150257144800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -187,8 +198,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时22分 ~ 15时15分]"
+          "appearance_count": 6,
+          "time_info": "[14时22分 ~ 15时39分]"
         },
         {
           "title": "本周重要事件与数据预告：美国数据密集补发、美股假期休市及阿里财报",
@@ -225,7 +236,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
