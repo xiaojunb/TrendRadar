@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T14:53:22.400561+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2025-11-25T15:15:49.533835+08:00",
+  "total_titles_processed": 898,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时01分 ~ 14时53分]"
+          "appearance_count": 14,
+          "time_info": "[09时01分 ~ 15时15分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时01分 ~ 14时53分]"
+          "appearance_count": 14,
+          "time_info": "[09时01分 ~ 15时15分]"
         },
         {
           "title": "特朗普要求与高市早苗通话",
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时56分 ~ 14时53分]"
+          "appearance_count": 12,
+          "time_info": "[10时56分 ~ 15时15分]"
         },
         {
           "title": "泽连斯基直面“28点”：历史性艰难抉择在即，还要对特朗普说谢谢",
@@ -52,8 +52,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时01分 ~ 14时53分]"
+          "appearance_count": 14,
+          "time_info": "[09时01分 ~ 15时15分]"
         },
         {
           "title": "“跌疯了”的币圈“阴谋论满天飞”：美国政府“抢钱”，华尔街“做空”，甚至是“摩根大通大战特朗普”",
@@ -63,8 +63,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时01分 ~ 14时53分]"
+          "appearance_count": 14,
+          "time_info": "[09时01分 ~ 15时15分]"
         },
         {
           "title": "“创世纪计划”启动！特朗普签署AI新政 对标“曼哈顿计划”",
@@ -77,8 +77,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时56分 ~ 14时53分]"
+          "appearance_count": 12,
+          "time_info": "[10时56分 ~ 15时15分]"
         },
         {
           "title": "日媒：特朗普要求与高市早苗通话",
@@ -91,8 +91,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时56分 ~ 14时53分]"
+          "appearance_count": 12,
+          "time_info": "[10时56分 ~ 15时15分]"
         },
         {
           "title": "特朗普：将于明年4月访华",
@@ -158,8 +158,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时01分 ~ 14时53分]"
+          "appearance_count": 14,
+          "time_info": "[09时01分 ~ 15时15分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -180,11 +180,23 @@
             14,
             10,
             24,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时01分 ~ 14时53分]"
+          "appearance_count": 14,
+          "time_info": "[09时01分 ~ 15时15分]"
+        },
+        {
+          "title": "与特朗普通话是否谈及涉台言论？高市早苗回应",
+          "url": "https://news.ifeng.com/c/8oZ8o93y559",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时20分 ~ 15时15分]"
         },
         {
           "title": "特朗普：将于明年4月访华",
@@ -200,15 +212,18 @@
           "time_info": "[10时56分 ~ 13时15分]"
         },
         {
-          "title": "与特朗普通话是否谈及涉台言论？高市早苗回应",
-          "url": "https://news.ifeng.com/c/8oZ8o93y559",
-          "source": "凤凰网",
+          "title": "特朗普与高市早苗通话",
+          "url": "https://www.douyin.com/hot/2317172",
+          "source": "抖音",
           "ranks": [
-            6
+            15,
+            13,
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时20分 ~ 14时53分]"
+          "appearance_count": 9,
+          "time_info": "[12时20分 ~ 15时15分]"
         },
         {
           "title": "与特朗普通话谈及涉台言论？高市回应",
@@ -219,11 +234,25 @@
             7,
             8,
             10,
-            12
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时20分 ~ 15时15分]"
+        },
+        {
+          "title": "特朗普 25 日要求与高市早苗通话，高市早苗通话后回应「细节不便透露」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1976581502214107178",
+          "source": "知乎",
+          "ranks": [
+            15,
+            6,
+            16
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时20分 ~ 14时53分]"
+          "time_info": "[12时45分 ~ 15时15分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -235,31 +264,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时01分 ~ 10时56分]"
-        },
-        {
-          "title": "特朗普与高市早苗通话",
-          "url": "https://www.douyin.com/hot/2317172",
-          "source": "抖音",
-          "ranks": [
-            15,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时20分 ~ 14时53分]"
-        },
-        {
-          "title": "特朗普 25 日要求与高市早苗通话，高市早苗通话后回应「细节不便透露」，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1976581502214107178",
-          "source": "知乎",
-          "ranks": [
-            15,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时45分 ~ 14时53分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -282,6 +286,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时01分 ~ 09时02分]"
+        },
+        {
+          "title": "特朗普称明年四月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%98%8E%E5%B9%B4%E5%9B%9B%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            17,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 15时15分]"
         },
         {
           "title": "日媒：特朗普要求与高市早苗通话",
@@ -369,27 +386,16 @@
           "time_info": "[09时01分 ~ 11时46分]"
         },
         {
-          "title": "特朗普称明年四月访华",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%98%8E%E5%B9%B4%E5%9B%9B%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 14时22分]"
-        },
-        {
           "title": "高市早苗回应与特朗普通话",
           "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%9E%E5%BA%94%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时42分 ~ 14时53分]"
+          "appearance_count": 4,
+          "time_info": "[13时42分 ~ 15时15分]"
         },
         {
           "title": "日媒：特朗普要求与高市通话",
@@ -402,6 +408,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时56分 ~ 11时46分]"
+        },
+        {
+          "title": "高市早苗回应与特朗普通话",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%9E%E5%BA%94%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "日本首相高市早苗：美国总统特朗普告诉我，我们是非常亲密的朋友，我可以随时打电话。",
@@ -484,7 +501,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
@@ -492,11 +509,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时01分 ~ 14时53分]"
+          "appearance_count": 14,
+          "time_info": "[09时01分 ~ 15时15分]"
         },
         {
           "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
@@ -507,8 +525,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时14分 ~ 14时53分]"
+          "appearance_count": 6,
+          "time_info": "[13时14分 ~ 15时15分]"
         },
         {
           "title": "风投基金Accel宣布其Atoms AI孵化计划将于2026年遴选约5至10家印度AI初创公司。谷歌AI未来基金与Accel将向每家初创企业联合投资最高200万美元。",
@@ -553,6 +571,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
+          "url": "https://wallstreetcn.com/articles/3760047",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "谷歌与Accel 合作，通过 AI Futures Fund 为印度人工智能初创企业提供资金支持，每家公司最高可获得 200 万美元的资助，目标是扶持5至10家企业。此举旨在加快印度在全球人工智能创新领域的作用。（道琼斯）",
@@ -603,8 +632,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时01分 ~ 14时53分]"
+          "appearance_count": 14,
+          "time_info": "[09时01分 ~ 15时15分]"
         },
         {
           "title": "美股存储概念股强劲反弹，大摩研报预测内存长期紧张",
