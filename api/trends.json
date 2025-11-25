@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T21:09:48.701956+08:00",
-  "total_titles_processed": 1565,
+  "generated_at": "2025-11-25T21:50:18.833681+08:00",
+  "total_titles_processed": 1638,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 59,
       "titles": [
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[09时01分 ~ 21时09分]"
+          "appearance_count": 30,
+          "time_info": "[09时01分 ~ 21时50分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[09时01分 ~ 21时09分]"
+          "appearance_count": 30,
+          "time_info": "[09时01分 ~ 21时50分]"
         },
         {
           "title": "泽连斯基直面“28点”：历史性艰难抉择在即，还要对特朗普说谢谢",
@@ -69,8 +69,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[10时56分 ~ 21时09分]"
+          "appearance_count": 28,
+          "time_info": "[10时56分 ~ 21时50分]"
         },
         {
           "title": "特朗普要求与高市早苗通话",
@@ -127,8 +127,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时42分 ~ 19时38分]"
+          "appearance_count": 16,
+          "time_info": "[13时42分 ~ 21时50分]"
         },
         {
           "title": "高市早苗与特朗普通话",
@@ -167,8 +167,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[16时20分 ~ 21时09分]"
+          "appearance_count": 15,
+          "time_info": "[16时20分 ~ 21时50分]"
         },
         {
           "title": "特朗普：将于明年4月访华",
@@ -204,8 +204,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[12时20分 ~ 21时09分]"
+          "appearance_count": 25,
+          "time_info": "[12时20分 ~ 21时50分]"
         },
         {
           "title": "与特朗普通话是否谈及涉台言论？高市早苗回应",
@@ -498,6 +498,31 @@
           "time_info": "[17时17分 ~ 18时47分]"
         },
         {
+          "title": "特朗普主动和高市通话所为何事",
+          "url": "https://www.toutiao.com/trending/7576615764908576275/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时28分 ~ 21时50分]"
+        },
+        {
+          "title": "台评论员称高市可能被特朗普骂了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%AF%84%E8%AE%BA%E5%91%98%E7%A7%B0%E9%AB%98%E5%B8%82%E5%8F%AF%E8%83%BD%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E9%AA%82%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时28分 ~ 21时50分]"
+        },
+        {
           "title": "【外交部：中美元首通话是美方发起的，通话氛围是积极的、友好的、建设性的】在11月25日外交部例行记者会上，有记者提问称，根据中方发布的消息，昨晚中美元首通了电话，请问这次通话是由中方主动提议，还是应美方邀请进行？另外这次通话持续了多长时间？中方如何评价这次通话的成果？对此，发言人毛宁表示，特朗普总统第二任期以来，中美元首保持着经常性的交往。据我了解，此次通话是美方发起的，通话的氛围是积极的、友好的、建设性的。两国元首就共同关心的问题进行沟通，对中美关系稳定发展十分重要。（环球网）",
           "url": "https://wallstreetcn.com/livenews/3010059",
           "source": "华尔街见闻-快讯",
@@ -521,30 +546,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时56分 ~ 11时46分]"
-        },
-        {
-          "title": "特朗普主动和高市通话所为何事",
-          "url": "https://www.toutiao.com/trending/7576615764908576275/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时28分 ~ 21时09分]"
-        },
-        {
-          "title": "台评论员称高市可能被特朗普骂了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%AF%84%E8%AE%BA%E5%91%98%E7%A7%B0%E9%AB%98%E5%B8%82%E5%8F%AF%E8%83%BD%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E9%AA%82%E4%BA%86%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时28分 ~ 21时09分]"
         },
         {
           "title": "高市回应与特朗普通话是否涉台",
@@ -590,6 +591,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普很有可能在12月25日之前宣布美联储主席人选。 五位非常优秀的候选人，都给我留下了深刻的印象。 债券市场迎来自2020年以来最好的一年。 政府关门使美国GDP减少了1.5%，至少损失了110亿美元。 美联储理事们似乎倾向于降息。 美联储应当如过去那样退居幕后。 就金融系统中的准备金是否真正保持充足而言，该制度似乎正开始显现裂痕。 我认为我们需要适当简化现有政策框架。",
+          "url": "https://wallstreetcn.com/livenews/3010244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "据日本富士新闻网：日本首相高市早苗和美国总统特朗普计划今日进行通话。",
@@ -722,12 +734,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
+        },
+        {
+          "title": "美国财长贝森特：总统特朗普在圣诞节（12月25日）前宣布美联储新任主席人选的可能性非常大。",
+          "url": "https://flash.jin10.com/detail/20251125210641313800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
@@ -741,6 +764,21 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[09时01分 ~ 16时49分]"
+        },
+        {
+          "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
+          "url": "https://www.cls.cn/detail/2210305",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时16分 ~ 21时50分]"
         },
         {
           "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
@@ -758,20 +796,6 @@
           "time_info": "[13时14分 ~ 20时29分]"
         },
         {
-          "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
-          "url": "https://www.cls.cn/detail/2210305",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时16分 ~ 21时09分]"
-        },
-        {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
           "url": "https://wallstreetcn.com/articles/3760047",
           "source": "华尔街见闻",
@@ -783,8 +807,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[15时15分 ~ 21时09分]"
+          "appearance_count": 17,
+          "time_info": "[15时15分 ~ 21时50分]"
         },
         {
           "title": "【焦点复盘】创业板指高开高走涨近2%，谷歌产业链获持续热捧，福建本地股卷土重来",
@@ -795,8 +819,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时12分 ~ 21时09分]"
+          "appearance_count": 8,
+          "time_info": "[19时12分 ~ 21时50分]"
         },
         {
           "title": "英伟达(NVDA.O)盘前跌超4%，消息面上，谷歌拟向Meta直接销售TPU。",
@@ -857,6 +881,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时13分 ~ 20时29分]"
+        },
+        {
+          "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
+          "url": "https://www.cls.cn/detail/2210485",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "市场消息：谷歌(GOOG.O)与风险投资基金Accel合作，共同孵化印度人工智能初创企业。谷歌基金表示，下一波人工智能创新很可能来自印度。",
@@ -955,6 +990,20 @@
           "time_info": "[09时01分 ~ 15时15分]"
         },
         {
+          "title": "诺和诺德美股盘前涨近2%，报告显示公司Amycretin减肥效果显著",
+          "url": "https://wallstreetcn.com/livenews/3010203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时38分 ~ 21时50分]"
+        },
+        {
           "title": "蔚来美股盘前涨超9%，公司展望第四季度总营收将在327.58亿元至340.39亿元之间；预计2025年第四季度的汽车交付量将在120,000辆至125,000辆之间。",
           "url": "https://wallstreetcn.com/livenews/3010161",
           "source": "华尔街见闻-快讯",
@@ -969,29 +1018,17 @@
           "time_info": "[18时47分 ~ 20时29分]"
         },
         {
-          "title": "诺和诺德美股盘前涨近2%，报告显示公司Amycretin减肥效果显著",
-          "url": "https://wallstreetcn.com/livenews/3010203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时38分 ~ 21时09分]"
-        },
-        {
           "title": "柯尔百货美股盘前涨幅扩大至逾24%，公司上调全财年指引。",
           "url": "https://wallstreetcn.com/livenews/3010218",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时29分 ~ 21时09分]"
+          "appearance_count": 3,
+          "time_info": "[20时29分 ~ 21时50分]"
         },
         {
           "title": "百思买三季度营收96.7亿美元，预估95.8亿美元。 三季度经调整后每股收益1.4美元，预估1.3美元。 百思买预计全财年营收416.5亿美元-419.5亿美元，此前预计411亿美元-419亿美元。 百思买预计全财年经调整后每股收益6.25美元-6.35美元，此前预计6.15-6.3美元。 百思买美股盘前一度涨近3%。",
@@ -999,11 +1036,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时29分 ~ 21时09分]"
+          "appearance_count": 3,
+          "time_info": "[20时29分 ~ 21时50分]"
         },
         {
           "title": "柯尔百货第三季度销售净额34亿美元，预估33.3亿美元。 第三季度每股收益0.070美元，上年同期0.20美元。 柯尔百货预计全年同店销售下降2.5％至3％，此前预计下降4％至5％。 柯尔百货预计全年营业利益率3.1％至3.2％，此前预计2.5％至2.7％。 柯尔百货仍然预测全年资本支出大约4.00亿美元，预估4.029亿美元。 柯尔百货美股盘前涨超14%。",
@@ -1011,11 +1049,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            13
+            13,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时29分 ~ 21时09分]"
+          "appearance_count": 3,
+          "time_info": "[20时29分 ~ 21时50分]"
         },
         {
           "title": "阿里巴巴美股盘前涨近5%，公司第二财季营收超预估，且公司第二财季云智能集团收入398.2亿元人民币，也超出预估的379.9亿元人民币。",
@@ -1127,7 +1166,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         }
@@ -1222,11 +1261,12 @@
           "url": "https://wallstreetcn.com/livenews/3010231",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时50分]"
         }
       ]
     },
@@ -1241,7 +1281,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         }
