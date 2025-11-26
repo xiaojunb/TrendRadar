@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T15:39:15.265460+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2025-11-26T16:20:09.009070+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 44,
       "titles": [
         {
           "title": "【早报】特朗普：俄乌和平协议已“非常接近达成”；商业航天，迎来政策利好",
@@ -37,11 +37,12 @@
           "source": "凤凰网",
           "ranks": [
             2,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时02分 ~ 15时39分]"
+          "appearance_count": 15,
+          "time_info": "[09时02分 ~ 16时20分]"
         },
         {
           "title": "快评｜特朗普与中方通话后致电高市早苗，专家：“背后信号不言自明”",
@@ -52,8 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时02分 ~ 15时39分]"
+          "appearance_count": 15,
+          "time_info": "[09时02分 ~ 16时20分]"
         },
         {
           "title": "俄乌战争转机来了？特朗普：已“非常接近达成”和平协议，仅剩少数细节！",
@@ -63,11 +64,12 @@
             11,
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时56分 ~ 15时39分]"
+          "appearance_count": 14,
+          "time_info": "[10时56分 ~ 16时20分]"
         },
         {
           "title": "美国财长预告：特朗普“极有可能”在1个月内提名新美联储主席",
@@ -182,6 +184,40 @@
           "time_info": "[10时56分 ~ 14时22分]"
         },
         {
+          "title": "中方是否请特朗普向高市传口信？外交部回应",
+          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时20分]"
+        },
+        {
+          "title": "中方回应是否请特朗普向高市传口信",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E8%AF%B7%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E9%AB%98%E5%B8%82%E4%BC%A0%E5%8F%A3%E4%BF%A1",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时38分 ~ 16时20分]"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：欧洲必须继续向俄罗斯施压。 俄罗斯的策略没有改变。 欢迎美国总统特朗普所领导的努力。",
+          "url": "https://wallstreetcn.com/livenews/3010763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "特朗普想把特赦火鸡命名为佩洛西",
           "url": "https://www.douyin.com/hot/2318082",
           "source": "抖音",
@@ -213,6 +249,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "美财长：特朗普明年或将两次访华",
+          "url": "https://www.douyin.com/hot/2318105",
+          "source": "抖音",
+          "ranks": [
+            30,
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时52分 ~ 16时20分]"
         },
         {
           "title": "刚见面不久特朗普为何急着和中方通话",
@@ -264,27 +313,27 @@
           "time_info": "[14时52分 ~ 15时15分]"
         },
         {
-          "title": "美财长：特朗普明年或将两次访华",
-          "url": "https://www.douyin.com/hot/2318105",
-          "source": "抖音",
+          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
+          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
+          "source": "凤凰网",
           "ranks": [
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时52分 ~ 15时15分]"
-        },
-        {
-          "title": "中方回应是否请特朗普向高市传口信",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E8%AF%B7%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E9%AB%98%E5%B8%82%E4%BC%A0%E5%8F%A3%E4%BF%A1",
-          "source": "百度热搜",
-          "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时38分 ~ 15时39分]"
+          "time_info": "[16时19分 ~ 16时20分]"
+        },
+        {
+          "title": "中方是否请特朗普向高市传口信？外交部：没有更多信息提供",
+          "url": "https://wallstreetcn.com/livenews/3010730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时39分 ~ 16时20分]"
         },
         {
           "title": "特朗普：俄乌和平协议非常接近达成",
@@ -320,17 +369,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
-        },
-        {
-          "title": "中方是否请特朗普向高市传口信？外交部：没有更多信息提供",
-          "url": "https://wallstreetcn.com/livenews/3010730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时39分"
         },
         {
           "title": "特朗普：与俄罗斯和乌克兰正取得进展，美国特使Witkoff下周将在莫斯科会见普京。",
@@ -372,7 +410,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -443,6 +481,17 @@
           "time_info": "09时02分"
         },
         {
+          "title": "斯洛伐克外交部：斯洛伐克支持美国总统特朗普的乌克兰和平计划，并呼吁欧洲伙伴在这一进程中充分合作。",
+          "url": "https://flash.jin10.com/detail/20251126153301745800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "美国总统特朗普：（俄乌）达成协议没有设定最后期限。",
           "url": "https://flash.jin10.com/detail/20251126080148056800",
           "source": "金十数据",
@@ -490,7 +539,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -501,8 +550,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时02分 ~ 15时39分]"
+          "appearance_count": 15,
+          "time_info": "[09时02分 ~ 16时20分]"
         },
         {
           "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
@@ -548,8 +597,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时02分 ~ 15时39分]"
+          "appearance_count": 15,
+          "time_info": "[09时02分 ~ 16时20分]"
         },
         {
           "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
@@ -562,8 +611,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时56分 ~ 15时39分]"
+          "appearance_count": 14,
+          "time_info": "[10时56分 ~ 16时20分]"
         },
         {
           "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
@@ -571,22 +620,24 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时22分 ~ 15时39分]"
+          "appearance_count": 8,
+          "time_info": "[14时22分 ~ 16时20分]"
         },
         {
           "title": "Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有",
           "url": "https://www.cls.cn/detail/2211111",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 13时41分]"
+          "appearance_count": 5,
+          "time_info": "[12时46分 ~ 16时20分]"
         },
         {
           "title": "如何评价谷歌 TPU 业务？",
@@ -615,6 +666,17 @@
           "time_info": "[12时20分 ~ 13时14分]"
         },
         {
+          "title": "谷歌AI平台全球第一 火山引擎中国第一",
+          "url": "https://www.toutiao.com/trending/7576941585242505243/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时20分]"
+        },
+        {
           "title": "美股收盘：谷歌市值逼近4万亿美元",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%B0%B7%E6%AD%8C%E5%B8%82%E5%80%BC%E9%80%BC%E8%BF%914%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
@@ -625,12 +687,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时02分 ~ 10时56分]"
+        },
+        {
+          "title": "谷歌状态页面显示亚洲地区谷歌会议（Google Meet）服务出现问题。",
+          "url": "https://flash.jin10.com/detail/20251126154853273800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "机构：临近“十二月热潮” 金价再创纪录新高可能性大增",
@@ -639,7 +712,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -677,6 +750,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "金十图示：2025年11月26日（周三）上海金午盘价为942.19元/克，较国际金价(946.47元/克)，低4.28元/克",
+          "url": "https://flash.jin10.com/detail/20251126155055720800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         }
       ]
     },
@@ -718,11 +802,12 @@
           "url": "https://flash.jin10.com/detail/20251126153143429800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时39分 ~ 16时20分]"
         }
       ]
     },
