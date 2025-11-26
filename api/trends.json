@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T18:16:34.396495+08:00",
-  "total_titles_processed": 1223,
+  "generated_at": "2025-11-26T18:46:06.146584+08:00",
+  "total_titles_processed": 1289,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[09时02分 ~ 15时39分]"
+        },
+        {
+          "title": "中方是否请特朗普向高市传口信？外交部回应",
+          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时19分 ~ 18时46分]"
         },
         {
           "title": "特朗普与中方通话后致电高市早苗，专家：信号明确",
@@ -41,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时02分 ~ 18时16分]"
+          "appearance_count": 23,
+          "time_info": "[09时02分 ~ 18时46分]"
         },
         {
           "title": "快评｜特朗普与中方通话后致电高市早苗，专家：“背后信号不言自明”",
@@ -51,11 +63,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时02分 ~ 18时16分]"
+          "appearance_count": 23,
+          "time_info": "[09时02分 ~ 18时46分]"
         },
         {
           "title": "中方回应是否请特朗普向高市传口信",
@@ -64,23 +77,12 @@
           "ranks": [
             8,
             4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时38分 ~ 18时16分]"
-        },
-        {
-          "title": "中方是否请特朗普向高市传口信？外交部回应",
-          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
-          "source": "凤凰网",
-          "ranks": [
             2,
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时19分 ~ 18时16分]"
+          "appearance_count": 12,
+          "time_info": "[15时38分 ~ 18时46分]"
         },
         {
           "title": "俄乌战争转机来了？特朗普：已“非常接近达成”和平协议，仅剩少数细节！",
@@ -110,6 +112,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[09时02分 ~ 15时15分]"
+        },
+        {
+          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
+          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时19分 ~ 18时46分]"
         },
         {
           "title": "2026年11月深圳的APEC会议，特朗普要来了？",
@@ -167,17 +181,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[14时52分 ~ 17时43分]"
-        },
-        {
-          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
-          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时19分 ~ 18时16分]"
         },
         {
           "title": "与特朗普通话是否谈及涉台言论？高市早苗：不便透露",
@@ -357,6 +360,18 @@
           "time_info": "[15时39分 ~ 16时49分]"
         },
         {
+          "title": "特朗普 先达成协议再说",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%20%E5%85%88%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E5%86%8D%E8%AF%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 18时46分]"
+        },
+        {
           "title": "特朗普：俄乌和平协议已非常接近达成",
           "url": "https://www.toutiao.com/trending/7576122161153281599/",
           "source": "今日头条",
@@ -437,17 +452,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
-        },
-        {
-          "title": "特朗普 先达成协议再说",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%20%E5%85%88%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E5%86%8D%E8%AF%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：我们欢迎美国总统特朗普为乌克兰和平所作的努力。",
@@ -618,7 +622,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -629,8 +633,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时02分 ~ 18时16分]"
+          "appearance_count": 23,
+          "time_info": "[09时02分 ~ 18时46分]"
         },
         {
           "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
@@ -666,8 +670,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时02分 ~ 18时16分]"
+          "appearance_count": 23,
+          "time_info": "[09时02分 ~ 18时46分]"
         },
         {
           "title": "性能硬刚Blackwell、能效吊打GPU，一文深度拆解谷歌TPU“真实战力”",
@@ -692,8 +696,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时22分 ~ 18时16分]"
+          "appearance_count": 16,
+          "time_info": "[14时22分 ~ 18时46分]"
         },
         {
           "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
@@ -720,8 +724,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时46分 ~ 18时16分]"
+          "appearance_count": 13,
+          "time_info": "[12时46分 ~ 18时46分]"
         },
         {
           "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
@@ -731,8 +735,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时48分 ~ 18时16分]"
+          "appearance_count": 8,
+          "time_info": "[16时48分 ~ 18时46分]"
+        },
+        {
+          "title": "金十整理：谷歌11月狂炸英伟达，巴菲特谢幕押注精准，软银躺枪",
+          "url": "https://flash.jin10.com/detail/20251126182610952800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "【供货谷歌？中际旭创股价创历史新高，公司回应】11月26日，中际旭创大涨13.25%，报收543.22元/股，成交额达329.8亿元居A股第一，总市值破6000亿元大关，年内涨幅超342%。盘面上，CPO板块集体异动，“易中天”携手走强。有市场消息称，中际旭创是谷歌光模块供应商。中际旭创相关人士表示，公司本次股价上涨受综合因素影响，至于公司的“具体合作包括订单都不方便透露”。（21财经）",
@@ -811,13 +826,24 @@
           "time_info": "[09时02分 ~ 10时56分]"
         },
         {
+          "title": "阿里千问霸榜空间智能榜单前二，性能超越Gemini3、GPT5.1",
+          "url": "https://wallstreetcn.com/livenews/3010815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
           "title": "Gemini 3 发布是否预示着程序员真正可以被替代？",
           "url": "https://www.zhihu.com/theater/73901?drama_id=1977055301153857730&source=isuda",
           "source": "知乎",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -909,6 +935,49 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "理想汽车美股盘前跌超4%，公司对第四季度营收指引低于市场预估。",
+          "url": "https://wallstreetcn.com/livenews/3010788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 18时46分]"
+        },
+        {
+          "title": "美国9月PPI同比增长2.7% 美股期指涨跌不一 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2210782",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 10时56分]"
+        },
+        {
+          "title": "理想汽车美股盘前跌幅收窄至不足1%，此前一度跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3010820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -958,42 +1027,12 @@
           "url": "https://www.cls.cn/detail/2211503",
           "source": "财联社热门",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "理想汽车美股盘前跌超4%，公司对第四季度营收指引低于市场预估。",
-          "url": "https://wallstreetcn.com/livenews/3010788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            12
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时17分 ~ 18时16分]"
-        },
-        {
-          "title": "美国9月PPI同比增长2.7% 美股期指涨跌不一 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2210782",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 10时56分]"
+          "time_info": "[18时16分 ~ 18时46分]"
         }
       ]
     },
@@ -1023,11 +1062,12 @@
           "url": "https://flash.jin10.com/detail/20251126180330403800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 18时46分]"
         }
       ]
     }
