@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T12:45:28.797609+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2025-11-27T13:15:22.011295+08:00",
+  "total_titles_processed": 689,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 13时15分]"
         },
         {
           "title": "特朗普施压高市别在台湾问题上挑衅",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 13时15分]"
         },
         {
           "title": "特朗普电话后日本沮丧了三次",
@@ -40,11 +40,12 @@
             5,
             8,
             25,
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 13时15分]"
         },
         {
           "title": "委内瑞拉谴责美国犯下反人类罪行，欢迎与特朗普直接对话",
@@ -54,8 +55,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 13时15分]"
         },
         {
           "title": "特朗普力推,尖峰时刻4要来了?",
@@ -69,8 +70,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 13时15分]"
         },
         {
           "title": "白宫附近发生枪击 特朗普要求向华盛顿增派数百名士兵 | 环球市场",
@@ -79,11 +80,23 @@
           "ranks": [
             12,
             13,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 13时15分]"
+        },
+        {
+          "title": "特朗普称对国民警卫队成员的袭击是“恐怖行为”",
+          "url": "https://wallstreetcn.com/livenews/3011273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         },
         {
           "title": "特朗普施压高市别在台湾问题上挑衅",
@@ -95,8 +108,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 12时45分]"
+          "appearance_count": 5,
+          "time_info": "[10时53分 ~ 13时15分]"
         },
         {
           "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
@@ -108,8 +121,35 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 12时45分]"
+          "appearance_count": 5,
+          "time_info": "[10时53分 ~ 13时15分]"
+        },
+        {
+          "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32049650",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时53分 ~ 13时15分]"
+        },
+        {
+          "title": "特朗普为何称明年G20峰会不邀请南非",
+          "url": "https://www.toutiao.com/trending/7577192276787465747/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            19,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时53分 ~ 13时15分]"
         },
         {
           "title": "特朗普施压高市别在台湾问题上挑衅",
@@ -138,31 +178,15 @@
           "time_info": "[09时01分 ~ 12时18分]"
         },
         {
-          "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32049650",
-          "source": "澎湃新闻",
+          "title": "高市早苗与特朗普通话内容曝光",
+          "url": "https://news.ifeng.com/c/8ocSbqgk7N4",
+          "source": "凤凰网",
           "ranks": [
-            19,
-            18,
-            17
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 12时45分]"
-        },
-        {
-          "title": "特朗普为何称明年G20峰会不邀请南非",
-          "url": "https://www.toutiao.com/trending/7577192276787465747/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            19,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 12时45分]"
+          "appearance_count": 3,
+          "time_info": "[12时18分 ~ 13时15分]"
         },
         {
           "title": "特朗普与高市通话说了啥？郭正亮蔡正元异口同声：高市早苗挨骂了",
@@ -176,17 +200,6 @@
           "time_info": "[09时01分 ~ 11时42分]"
         },
         {
-          "title": "高市早苗与特朗普通话内容曝光",
-          "url": "https://news.ifeng.com/c/8ocSbqgk7N4",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 12时45分]"
-        },
-        {
           "title": "特朗普下令增兵：行凶者必付出代价",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%A2%9E%E5%85%B5%EF%BC%9A%E8%A1%8C%E5%87%B6%E8%80%85%E5%BF%85%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7",
           "source": "百度热搜",
@@ -194,8 +207,19 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时18分 ~ 13时15分]"
+        },
+        {
+          "title": "要乌方让出的土地太多？特朗普：早晚要被拿下，停战就是俄方最大让步",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32046964",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时18分 ~ 12时45分]"
+          "time_info": "[12时45分 ~ 13时15分]"
         },
         {
           "title": "特朗普一通电话后 高市早苗只有沉默",
@@ -231,17 +255,6 @@
           "time_info": "09时01分"
         },
         {
-          "title": "要乌方让出的土地太多？特朗普：早晚要被拿下，停战就是俄方最大让步",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32046964",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        },
-        {
           "title": "美财长：特朗普明年或将两次访华",
           "url": "https://www.douyin.com/hot/2318105",
           "source": "抖音",
@@ -266,6 +279,47 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "暴跌40%！软银成为“OpenAI链”风向标",
+          "url": "https://wallstreetcn.com/articles/3760166",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 13时15分]"
+        },
+        {
+          "title": "OpenAI：已将Mixpanel从生产环境中移除",
+          "url": "https://wallstreetcn.com/livenews/3011268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 13时15分]"
+        },
+        {
+          "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
+          "url": "https://wallstreetcn.com/articles/3760202",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
@@ -277,8 +331,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 13时15分]"
         },
         {
           "title": "美股收盘：三大指数连涨四日 芯片股全线走强",
@@ -289,8 +343,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 13时15分]"
         },
         {
           "title": "市场情绪持续回暖 美股三大期指集体走高 | 今夜看点",
@@ -319,8 +373,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 13时15分]"
         },
         {
           "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
@@ -333,35 +387,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时01分 ~ 11时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "暴跌40%！软银成为“OpenAI链”风向标",
-          "url": "https://wallstreetcn.com/articles/3760166",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时45分]"
-        },
-        {
-          "title": "OpenAI：已将Mixpanel从生产环境中移除",
-          "url": "https://wallstreetcn.com/livenews/3011268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时45分"
         }
       ]
     },
