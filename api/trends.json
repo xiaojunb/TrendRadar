@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T18:16:13.016390+08:00",
-  "total_titles_processed": 1263,
+  "generated_at": "2025-11-28T18:44:34.264140+08:00",
+  "total_titles_processed": 1329,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时52分 ~ 18时16分]"
+          "appearance_count": 13,
+          "time_info": "[14时52分 ~ 18时44分]"
         },
         {
           "title": "特朗普称将暂停“第三世界国家”移民",
@@ -32,11 +32,12 @@
             1,
             12,
             16,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时22分 ~ 18时16分]"
+          "appearance_count": 14,
+          "time_info": "[14时22分 ~ 18时44分]"
         },
         {
           "title": "中方回应特朗普要求高市降低声调",
@@ -81,8 +82,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时42分 ~ 18时16分]"
+          "appearance_count": 17,
+          "time_info": "[10时42分 ~ 18时44分]"
         },
         {
           "title": "特朗普称将对委内瑞拉展开地面行动",
@@ -204,6 +205,18 @@
           "time_info": "[09时00分 ~ 10时43分]"
         },
         {
+          "title": "特朗普能否影响高市改善中日关系",
+          "url": "https://www.toutiao.com/trending/7577703090468425243/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 18时44分]"
+        },
+        {
           "title": "深扒特朗普关税操盘手卢特尼克",
           "url": "https://www.toutiao.com/trending/7576615723494260762/",
           "source": "今日头条",
@@ -238,17 +251,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时42分 ~ 14时22分]"
-        },
-        {
-          "title": "特朗普能否影响高市改善中日关系",
-          "url": "https://www.toutiao.com/trending/7577703090468425243/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
         },
         {
           "title": "特朗普封杀移民？这次的风暴，会撕裂美国就业市场丨Hi，今天怎么看？",
@@ -385,8 +387,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[09时00分 ~ 18时16分]"
+          "appearance_count": 23,
+          "time_info": "[09时00分 ~ 18时44分]"
         },
         {
           "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
@@ -399,8 +401,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[09时00分 ~ 18时16分]"
+          "appearance_count": 23,
+          "time_info": "[09时00分 ~ 18时44分]"
         },
         {
           "title": "DeepSeek开启无限进化新时代",
@@ -413,11 +415,12 @@
             8,
             10,
             5,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[12时18分 ~ 18时16分]"
+          "appearance_count": 19,
+          "time_info": "[12时18分 ~ 18时44分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -444,8 +447,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时52分 ~ 18时16分]"
+          "appearance_count": 13,
+          "time_info": "[14时52分 ~ 18时44分]"
         },
         {
           "title": "DeepSeek新模型有多猛",
@@ -591,11 +594,12 @@
           "url": "https://www.cls.cn/detail/2213699",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 18时44分]"
         },
         {
           "title": "谷歌已重启AI眼镜项目 AI眼镜产业链近期催化密集",
@@ -628,7 +632,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         }
@@ -648,8 +652,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[09时00分 ~ 18时16分]"
+          "appearance_count": 23,
+          "time_info": "[09时00分 ~ 18时44分]"
         },
         {
           "title": "新一轮牛市已在路上？华尔街纷纷给美股定下高目标价",
@@ -669,7 +673,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         }
