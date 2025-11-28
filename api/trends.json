@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-11-28T12:18:22.209834+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2025-11-28T12:45:03.394901+08:00",
+  "total_titles_processed": 640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
-        {
-          "title": "特朗普称美国已订购更多B-2隐形轰炸机",
-          "url": "https://wallstreetcn.com/livenews/3011869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
         {
           "title": "特朗普拒邀南非参加明年G20峰会，南非反击：不接受侮辱",
           "url": "https://news.ifeng.com/c/8odIMcYqHFR",
@@ -26,8 +15,66 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时00分 ~ 12时18分]"
+          "appearance_count": 7,
+          "time_info": "[09时00分 ~ 12时45分]"
+        },
+        {
+          "title": "中方回应特朗普要求高市降低声调",
+          "url": "https://www.douyin.com/hot/2319515",
+          "source": "抖音",
+          "ranks": [
+            8,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时42分 ~ 12时45分]"
+        },
+        {
+          "title": "特朗普：将对委内瑞拉展开地面行动",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E5%AF%B9%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%B1%95%E5%BC%80%E5%9C%B0%E9%9D%A2%E8%A1%8C%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时42分 ~ 12时45分]"
+        },
+        {
+          "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32056350",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时42分 ~ 12时45分]"
+        },
+        {
+          "title": "特朗普称将对委内瑞拉展开地面行动",
+          "url": "https://www.douyin.com/hot/2319972",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时42分 ~ 12时45分]"
+        },
+        {
+          "title": "特朗普：将永久停止所有“第三世界”国家的移民",
+          "url": "https://wallstreetcn.com/livenews/3011877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
         },
         {
           "title": "特朗普称将对委内瑞拉展开地面行动",
@@ -44,51 +91,16 @@
           "time_info": "[09时00分 ~ 12时18分]"
         },
         {
-          "title": "中方回应特朗普要求高市降低声调",
-          "url": "https://www.douyin.com/hot/2319515",
-          "source": "抖音",
+          "title": "特朗普称美国已订购更多B-2隐形轰炸机",
+          "url": "https://wallstreetcn.com/livenews/3011869",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            10,
-            17
+            2,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时42分 ~ 12时18分]"
-        },
-        {
-          "title": "特朗普：将对委内瑞拉展开地面行动",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E5%AF%B9%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%B1%95%E5%BC%80%E5%9C%B0%E9%9D%A2%E8%A1%8C%E5%8A%A8",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时42分 ~ 12时18分]"
-        },
-        {
-          "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32056350",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时42分 ~ 12时18分]"
-        },
-        {
-          "title": "特朗普称将对委内瑞拉展开地面行动",
-          "url": "https://www.douyin.com/hot/2319972",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时42分 ~ 12时18分]"
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 12时45分]"
         },
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
@@ -187,7 +199,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
@@ -217,7 +229,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "如何看待 DeepSeek 发布的新模型 DeepSeek-Math-V2？",
@@ -227,8 +239,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时00分 ~ 12时18分]"
+          "appearance_count": 7,
+          "time_info": "[09时00分 ~ 12时45分]"
         },
         {
           "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
@@ -240,8 +252,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时00分 ~ 12时18分]"
+          "appearance_count": 7,
+          "time_info": "[09时00分 ~ 12时45分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -257,6 +269,17 @@
           "time_info": "[09时00分 ~ 12时18分]"
         },
         {
+          "title": "DeepSeek开启无限进化新时代",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E5%90%AF%E6%97%A0%E9%99%90%E8%BF%9B%E5%8C%96%E6%96%B0%E6%97%B6%E4%BB%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时18分 ~ 12时45分]"
+        },
+        {
           "title": "DeepSeek推出新模型",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%8E%A8%E5%87%BA%E6%96%B0%E6%A8%A1%E5%9E%8B%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -268,15 +291,15 @@
           "time_info": "[10时42分 ~ 10时43分]"
         },
         {
-          "title": "DeepSeek开启无限进化新时代",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E5%90%AF%E6%97%A0%E9%99%90%E8%BF%9B%E5%8C%96%E6%96%B0%E6%97%B6%E4%BB%A3",
-          "source": "bilibili 热搜",
+          "title": "DeepSeek新模型有多猛",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%9C%89%E5%A4%9A%E7%8C%9B%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 12时45分]"
         }
       ]
     },
@@ -356,8 +379,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时00分 ~ 12时18分]"
+          "appearance_count": 7,
+          "time_info": "[09时00分 ~ 12时45分]"
         }
       ]
     }
