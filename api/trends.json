@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T13:42:58.941505+08:00",
-  "total_titles_processed": 730,
+  "generated_at": "2025-11-28T14:22:21.879228+08:00",
+  "total_titles_processed": 776,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普：将对委内瑞拉展开地面行动",
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             14,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时42分 ~ 13时42分]"
+          "appearance_count": 9,
+          "time_info": "[10时42分 ~ 14时22分]"
         },
         {
           "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
@@ -29,8 +30,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时42分 ~ 13时42分]"
+          "appearance_count": 9,
+          "time_info": "[10时42分 ~ 14时22分]"
         },
         {
           "title": "特朗普称将对委内瑞拉展开地面行动",
@@ -40,8 +41,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时42分 ~ 13时42分]"
+          "appearance_count": 9,
+          "time_info": "[10时42分 ~ 14时22分]"
         },
         {
           "title": "特朗普拒邀南非参加明年G20峰会，南非反击：不接受侮辱",
@@ -61,11 +62,12 @@
           "ranks": [
             8,
             10,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时42分 ~ 12时45分]"
+          "appearance_count": 7,
+          "time_info": "[10时42分 ~ 14时22分]"
         },
         {
           "title": "特朗普称将对委内瑞拉展开地面行动",
@@ -83,28 +85,6 @@
           "time_info": "[09时00分 ~ 13时15分]"
         },
         {
-          "title": "丹麦设立“守夜人” 专盯特朗普的一举一动",
-          "url": "https://flash.jin10.com/detail/20251128133301169800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "据英国金融时报：印尼正抵制美国总统特朗普试图强使其接受所谓“毒丸条款”及其它强制性条款的企图，这些条款原本拟纳入其与美国的“对等关税”贸易协议中。",
-          "url": "https://flash.jin10.com/detail/20251128132329449800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
           "title": "特朗普称美国已订购更多B-2隐形轰炸机",
           "url": "https://wallstreetcn.com/livenews/3011869",
           "source": "华尔街见闻-快讯",
@@ -112,11 +92,23 @@
             2,
             11,
             17,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时18分 ~ 13时42分]"
+          "appearance_count": 5,
+          "time_info": "[12时18分 ~ 14时22分]"
+        },
+        {
+          "title": "特朗普称将暂停“第三世界国家”移民",
+          "url": "https://www.toutiao.com/trending/7577245940038258219/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "特朗普：将永久停止所有“第三世界”国家的移民",
@@ -125,11 +117,12 @@
           "ranks": [
             4,
             10,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时45分 ~ 13时42分]"
+          "appearance_count": 4,
+          "time_info": "[12时45分 ~ 14时22分]"
         },
         {
           "title": "特朗普：将永久暂停来自“第三世界国家”的移民",
@@ -137,11 +130,36 @@
           "source": "金十数据",
           "ranks": [
             2,
-            15
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时15分 ~ 14时22分]"
+        },
+        {
+          "title": "丹麦设立“守夜人” 专盯特朗普的一举一动",
+          "url": "https://flash.jin10.com/detail/20251128133301169800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时42分]"
+          "time_info": "[13时42分 ~ 14时22分]"
+        },
+        {
+          "title": "据英国金融时报：印尼正抵制美国总统特朗普试图强使其接受所谓“毒丸条款”及其它强制性条款的企图，这些条款原本拟纳入其与美国的“对等关税”贸易协议中。",
+          "url": "https://flash.jin10.com/detail/20251128132329449800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 14时22分]"
         },
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
@@ -178,6 +196,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时15分 ~ 13时42分]"
+        },
+        {
+          "title": "特朗普敲打高市早苗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%95%B2%E6%89%93%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 14时22分]"
         },
         {
           "title": "特朗普称将对委内瑞拉展开陆地行动",
@@ -246,17 +276,6 @@
           "time_info": "09时00分"
         },
         {
-          "title": "特朗普敲打高市早苗",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%95%B2%E6%89%93%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
           "title": "特朗普：得益于关税收入，美国将在未来几年“大幅削减甚至可能完全取消”所得税。",
           "url": "https://wallstreetcn.com/livenews/3011707",
           "source": "华尔街见闻-快讯",
@@ -314,8 +333,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时00分 ~ 13时42分]"
+          "appearance_count": 10,
+          "time_info": "[09时00分 ~ 14时22分]"
         },
         {
           "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
@@ -327,8 +346,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时00分 ~ 13时42分]"
+          "appearance_count": 10,
+          "time_info": "[09时00分 ~ 14时22分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -341,8 +360,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时00分 ~ 13时42分]"
+          "appearance_count": 6,
+          "time_info": "[09时00分 ~ 14时22分]"
         },
         {
           "title": "DeepSeek开启无限进化新时代",
@@ -353,8 +372,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时18分 ~ 13时42分]"
+          "appearance_count": 6,
+          "time_info": "[12时18分 ~ 14时22分]"
         },
         {
           "title": "DeepSeek新模型有多猛",
@@ -400,11 +419,12 @@
           "url": "https://wallstreetcn.com/livenews/3011904",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 14时22分]"
         },
         {
           "title": "据英国金融时报：多家银行正商谈再向甲骨文(ORCL.N)和数据中心建设商VANTAGE提供380亿美元贷款，以资助其为OpenAI建设更多数据中心。",
@@ -412,11 +432,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时42分]"
+          "appearance_count": 3,
+          "time_info": "[13时15分 ~ 14时22分]"
         },
         {
           "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
@@ -479,8 +500,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时00分 ~ 13时42分]"
+          "appearance_count": 10,
+          "time_info": "[09时00分 ~ 14时22分]"
         }
       ]
     }
