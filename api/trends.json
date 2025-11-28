@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T16:49:17.652529+08:00",
-  "total_titles_processed": 1097,
+  "generated_at": "2025-11-28T17:15:39.251950+08:00",
+  "total_titles_processed": 1129,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普称将暂停“第三世界国家”移民",
@@ -17,8 +17,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时22分 ~ 16时49分]"
+          "appearance_count": 10,
+          "time_info": "[14时22分 ~ 17时15分]"
         },
         {
           "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
@@ -32,8 +32,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时52分 ~ 16时49分]"
+          "appearance_count": 9,
+          "time_info": "[14时52分 ~ 17时15分]"
         },
         {
           "title": "中方回应特朗普要求高市降低声调",
@@ -77,8 +77,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时42分 ~ 16时49分]"
+          "appearance_count": 13,
+          "time_info": "[10时42分 ~ 17时15分]"
         },
         {
           "title": "特朗普称将对委内瑞拉展开地面行动",
@@ -236,6 +236,17 @@
           "time_info": "[13时42分 ~ 14时22分]"
         },
         {
+          "title": "特朗普封杀移民？这次的风暴，会撕裂美国就业市场丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20251128164740683800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
           "title": "特朗普称将对委内瑞拉展开陆地行动",
           "url": "https://flash.jin10.com/detail/20251128082054241800",
           "source": "金十数据",
@@ -359,8 +370,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时00分 ~ 16时49分]"
+          "appearance_count": 19,
+          "time_info": "[09时00分 ~ 17时15分]"
         },
         {
           "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
@@ -372,8 +383,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时00分 ~ 16时49分]"
+          "appearance_count": 19,
+          "time_info": "[09时00分 ~ 17时15分]"
         },
         {
           "title": "DeepSeek开启无限进化新时代",
@@ -387,8 +398,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时18分 ~ 16时49分]"
+          "appearance_count": 15,
+          "time_info": "[12时18分 ~ 17时15分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -415,8 +426,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时52分 ~ 16时49分]"
+          "appearance_count": 9,
+          "time_info": "[14时52分 ~ 17时15分]"
         },
         {
           "title": "DeepSeek新模型有多猛",
@@ -535,17 +546,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "苹果(AAPL.O)：与谷歌地图和WAZE等其他地图服务相比，苹果地图在欧盟的使用率非常有限。",
-          "url": "https://flash.jin10.com/detail/20251128161818417800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时49分"
-        },
-        {
           "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
           "url": "https://www.cls.cn/detail/2213001",
           "source": "财联社热门",
@@ -557,15 +557,28 @@
           "time_info": "09时00分"
         },
         {
+          "title": "苹果(AAPL.O)：与谷歌地图和WAZE等其他地图服务相比，苹果地图在欧盟的使用率非常有限。",
+          "url": "https://flash.jin10.com/detail/20251128161818417800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 17时15分]"
+        },
+        {
           "title": "谷歌已重启AI眼镜项目 AI眼镜产业链近期催化密集",
           "url": "https://www.cls.cn/detail/2213392",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 17时15分]"
         }
       ]
     },
@@ -612,8 +625,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时00分 ~ 16时49分]"
+          "appearance_count": 19,
+          "time_info": "[09时00分 ~ 17时15分]"
         }
       ]
     }
