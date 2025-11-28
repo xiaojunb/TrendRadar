@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T19:12:54.081617+08:00",
-  "total_titles_processed": 1389,
+  "generated_at": "2025-11-28T19:36:50.683011+08:00",
+  "total_titles_processed": 1428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
@@ -20,8 +20,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时52分 ~ 19时12分]"
+          "appearance_count": 15,
+          "time_info": "[14时52分 ~ 19时36分]"
         },
         {
           "title": "特朗普称将暂停“第三世界国家”移民",
@@ -82,8 +82,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时42分 ~ 19时12分]"
+          "appearance_count": 19,
+          "time_info": "[10时42分 ~ 19时36分]"
         },
         {
           "title": "特朗普称将对委内瑞拉展开地面行动",
@@ -265,6 +265,17 @@
           "time_info": "17时15分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-28）",
+          "url": "https://flash.jin10.com/detail/20251128192525355800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "特朗普称将对委内瑞拉展开陆地行动",
           "url": "https://flash.jin10.com/detail/20251128082054241800",
           "source": "金十数据",
@@ -337,7 +348,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -348,7 +359,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -407,11 +418,12 @@
           "url": "https://www.zhihu.com/question/1977462001522450495",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[09时00分 ~ 19时12分]"
+          "appearance_count": 25,
+          "time_info": "[09时00分 ~ 19时36分]"
         },
         {
           "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
@@ -424,8 +436,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[09时00分 ~ 19时12分]"
+          "appearance_count": 25,
+          "time_info": "[09时00分 ~ 19时36分]"
         },
         {
           "title": "DeepSeek开启无限进化新时代",
@@ -470,8 +482,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时52分 ~ 19时12分]"
+          "appearance_count": 15,
+          "time_info": "[14时52分 ~ 19时36分]"
         },
         {
           "title": "DeepSeek新模型有多猛",
@@ -502,7 +514,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         }
@@ -612,6 +624,19 @@
           "time_info": "09时00分"
         },
         {
+          "title": "AI争霸下一战场？谷歌皮查伊：希望2027年前将TPU送上太空",
+          "url": "https://www.cls.cn/detail/2213699",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时15分 ~ 19时36分]"
+        },
+        {
           "title": "苹果(AAPL.O)：与谷歌地图和WAZE等其他地图服务相比，苹果地图在欧盟的使用率非常有限。",
           "url": "https://flash.jin10.com/detail/20251128161818417800",
           "source": "金十数据",
@@ -622,19 +647,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时49分 ~ 17时15分]"
-        },
-        {
-          "title": "AI争霸下一战场？谷歌皮查伊：希望2027年前将TPU送上太空",
-          "url": "https://www.cls.cn/detail/2213699",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时15分 ~ 19时12分]"
         },
         {
           "title": "谷歌已重启AI眼镜项目 AI眼镜产业链近期催化密集",
@@ -687,8 +699,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[09时00分 ~ 19时12分]"
+          "appearance_count": 25,
+          "time_info": "[09时00分 ~ 19时36分]"
         },
         {
           "title": "新一轮牛市已在路上？华尔街纷纷给美股定下高目标价",
@@ -741,6 +753,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时42分 ~ 12时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "芝商所（CME）：交易平台BrokerTec美债期货已恢复交易，其他市场目前仍暂停交易。",
+          "url": "https://flash.jin10.com/detail/20251128190714411800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         }
       ]
     }
