@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T15:39:14.185851+08:00",
-  "total_titles_processed": 938,
+  "generated_at": "2025-11-28T16:20:26.894822+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            1
+            1,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时22分 ~ 15时39分]"
+          "appearance_count": 8,
+          "time_info": "[14时22分 ~ 16时20分]"
         },
         {
           "title": "中方回应特朗普要求高市降低声调",
@@ -82,11 +83,12 @@
           "ranks": [
             8,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时52分 ~ 15时39分]"
+          "appearance_count": 7,
+          "time_info": "[14时52分 ~ 16时20分]"
         },
         {
           "title": "特朗普拒邀南非参加明年G20峰会，南非反击：不接受侮辱",
@@ -355,8 +357,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时00分 ~ 15时39分]"
+          "appearance_count": 17,
+          "time_info": "[09时00分 ~ 16时20分]"
         },
         {
           "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
@@ -368,8 +370,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时00分 ~ 15时39分]"
+          "appearance_count": 17,
+          "time_info": "[09时00分 ~ 16时20分]"
         },
         {
           "title": "DeepSeek开启无限进化新时代",
@@ -378,11 +380,12 @@
           "ranks": [
             7,
             9,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时18分 ~ 15时39分]"
+          "appearance_count": 13,
+          "time_info": "[12时18分 ~ 16时20分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -408,8 +411,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时52分 ~ 15时39分]"
+          "appearance_count": 7,
+          "time_info": "[14时52分 ~ 16时20分]"
         },
         {
           "title": "DeepSeek新模型有多猛",
@@ -583,8 +586,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时00分 ~ 15时39分]"
+          "appearance_count": 17,
+          "time_info": "[09时00分 ~ 16时20分]"
         }
       ]
     }
