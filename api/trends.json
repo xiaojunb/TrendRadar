@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T19:36:50.683011+08:00",
-  "total_titles_processed": 1428,
+  "generated_at": "2025-11-28T20:27:51.789400+08:00",
+  "total_titles_processed": 1497,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[14时52分 ~ 19时36分]"
+          "appearance_count": 16,
+          "time_info": "[14时52分 ~ 20时27分]"
         },
         {
           "title": "特朗普称将暂停“第三世界国家”移民",
@@ -82,8 +82,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[10时42分 ~ 19时36分]"
+          "appearance_count": 20,
+          "time_info": "[10时42分 ~ 20时27分]"
         },
         {
           "title": "特朗普称将对委内瑞拉展开地面行动",
@@ -230,6 +230,18 @@
           "time_info": "[10时42分 ~ 11时42分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-28）",
+          "url": "https://flash.jin10.com/detail/20251128192525355800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 20时27分]"
+        },
+        {
           "title": "美国总统特朗普：将取消所有给予非美国公民的联邦福利和补贴。",
           "url": "https://flash.jin10.com/detail/20251128123158810800",
           "source": "金十数据",
@@ -263,17 +275,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-28）",
-          "url": "https://flash.jin10.com/detail/20251128192525355800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时36分"
         },
         {
           "title": "特朗普称将对委内瑞拉展开陆地行动",
@@ -419,11 +420,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[09时00分 ~ 19时36分]"
+          "appearance_count": 26,
+          "time_info": "[09时00分 ~ 20时27分]"
         },
         {
           "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
@@ -433,11 +435,12 @@
             7,
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[09时00分 ~ 19时36分]"
+          "appearance_count": 26,
+          "time_info": "[09时00分 ~ 20时27分]"
         },
         {
           "title": "DeepSeek开启无限进化新时代",
@@ -466,11 +469,12 @@
             20,
             28,
             26,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时00分 ~ 15时15分]"
+          "appearance_count": 11,
+          "time_info": "[09时00分 ~ 20时27分]"
         },
         {
           "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
@@ -482,8 +486,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[14时52分 ~ 19时36分]"
+          "appearance_count": 16,
+          "time_info": "[14时52分 ~ 20时27分]"
         },
         {
           "title": "DeepSeek新模型有多猛",
@@ -517,6 +521,94 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
+          "url": "https://www.cls.cn/detail/2213001",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时00分"
+        },
+        {
+          "title": "AI争霸下一战场？谷歌皮查伊：希望2027年前将TPU送上太空",
+          "url": "https://www.cls.cn/detail/2213699",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时15分 ~ 19时36分]"
+        },
+        {
+          "title": "苹果(AAPL.O)：与谷歌地图和WAZE等其他地图服务相比，苹果地图在欧盟的使用率非常有限。",
+          "url": "https://flash.jin10.com/detail/20251128161818417800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 17时15分]"
+        },
+        {
+          "title": "谷歌已重启AI眼镜项目 AI眼镜产业链近期催化密集",
+          "url": "https://www.cls.cn/detail/2213392",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 17时15分]"
+        },
+        {
+          "title": "美股盘前，科技股多数上涨，美光科技涨2%，高通涨逾1%，谷歌A涨逾1%。",
+          "url": "https://wallstreetcn.com/livenews/3012094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 18时16分]"
+        },
+        {
+          "title": "印度阿达尼集团首席财务官：阿达尼集团将投资50亿美元于谷歌数据中心。",
+          "url": "https://flash.jin10.com/detail/20251128200630059800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "市场消息：谷歌撤回了针对微软(MSFT.O)云业务做法的欧盟反垄断投诉。",
+          "url": "https://flash.jin10.com/detail/20251128180023594800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         }
       ]
     },
@@ -609,83 +701,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
-          "url": "https://www.cls.cn/detail/2213001",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时00分"
-        },
-        {
-          "title": "AI争霸下一战场？谷歌皮查伊：希望2027年前将TPU送上太空",
-          "url": "https://www.cls.cn/detail/2213699",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时15分 ~ 19时36分]"
-        },
-        {
-          "title": "苹果(AAPL.O)：与谷歌地图和WAZE等其他地图服务相比，苹果地图在欧盟的使用率非常有限。",
-          "url": "https://flash.jin10.com/detail/20251128161818417800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 17时15分]"
-        },
-        {
-          "title": "谷歌已重启AI眼镜项目 AI眼镜产业链近期催化密集",
-          "url": "https://www.cls.cn/detail/2213392",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 17时15分]"
-        },
-        {
-          "title": "美股盘前，科技股多数上涨，美光科技涨2%，高通涨逾1%，谷歌A涨逾1%。",
-          "url": "https://wallstreetcn.com/livenews/3012094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 18时16分]"
-        },
-        {
-          "title": "市场消息：谷歌撤回了针对微软(MSFT.O)云业务做法的欧盟反垄断投诉。",
-          "url": "https://flash.jin10.com/detail/20251128180023594800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
@@ -699,8 +714,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[09时00分 ~ 19时36分]"
+          "appearance_count": 26,
+          "time_info": "[09时00分 ~ 20时27分]"
         },
         {
           "title": "新一轮牛市已在路上？华尔街纷纷给美股定下高目标价",
@@ -767,7 +782,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         }
