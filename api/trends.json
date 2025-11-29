@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T11:42:12.619053+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2025-11-29T12:17:07.046086+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E6%B0%B8%E4%B9%85%E5%81%9C%E6%AD%A2%E7%AC%AC%E4%B8%89%E4%B8%96%E7%95%8C%E5%9B%BD%E5%AE%B6%E7%A7%BB%E6%B0%91",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时00分 ~ 11时42分]"
+          "appearance_count": 6,
+          "time_info": "[09时00分 ~ 12时17分]"
         },
         {
           "title": "特朗普：废除拜登用自动签名笔签署的文件",
@@ -27,8 +28,35 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时42分 ~ 12时17分]"
+        },
+        {
+          "title": "乌克兰代表团前往美国，将与总统特朗普的特使Witkoff会谈。",
+          "url": "https://wallstreetcn.com/livenews/3012397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时00分 ~ 12时17分]"
+        },
+        {
+          "title": "特朗普宣布：拜登任内通过“自动签名笔”签署的所有文件即刻终止效力",
+          "url": "https://wallstreetcn.com/livenews/3012411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            11,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时42分 ~ 11时42分]"
+          "time_info": "[10时42分 ~ 12时17分]"
         },
         {
           "title": "特朗普：撤销前总统拜登通过自动签名装置签署的所有文件",
@@ -57,19 +85,6 @@
           "time_info": "[09时00分 ~ 11时42分]"
         },
         {
-          "title": "乌克兰代表团前往美国，将与总统特朗普的特使Witkoff会谈。",
-          "url": "https://wallstreetcn.com/livenews/3012397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时00分 ~ 11时42分]"
-        },
-        {
           "title": "曝特朗普已与马杜罗通话",
           "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%B7%B2%E4%B8%8E%E9%A9%AC%E6%9D%9C%E7%BD%97%E9%80%9A%E8%AF%9D",
           "source": "百度热搜",
@@ -79,18 +94,6 @@
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时42分 ~ 11时42分]"
-        },
-        {
-          "title": "特朗普宣布：拜登任内通过“自动签名笔”签署的所有文件即刻终止效力",
-          "url": "https://wallstreetcn.com/livenews/3012411",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
           "time_info": "[10时42分 ~ 11时42分]"
         },
         {
@@ -197,8 +200,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时00分 ~ 11时42分]"
+          "appearance_count": 6,
+          "time_info": "[09时00分 ~ 12时17分]"
         },
         {
           "title": "美股三大指数收涨 英特尔暴涨10%",
@@ -207,11 +210,12 @@
           "ranks": [
             15,
             23,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时00分 ~ 11时42分]"
+          "appearance_count": 6,
+          "time_info": "[09时00分 ~ 12时17分]"
         },
         {
           "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股收盘）",
@@ -220,11 +224,12 @@
           "ranks": [
             7,
             22,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时00分 ~ 11时42分]"
+          "appearance_count": 4,
+          "time_info": "[09时00分 ~ 12时17分]"
         },
         {
           "title": "金十图示：2025年11月28日（周五）热门中概股行情一览（美股收盘）",
@@ -233,11 +238,12 @@
           "ranks": [
             8,
             23,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时00分 ~ 11时42分]"
+          "appearance_count": 4,
+          "time_info": "[09时00分 ~ 12时17分]"
         },
         {
           "title": "黄金ETF收涨超1.2%，和布油基金领跑美股大类资产类ETF，黄金ETF今年已涨超60%",
@@ -246,11 +252,12 @@
           "ranks": [
             9,
             19,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时00分 ~ 11时42分]"
+          "appearance_count": 4,
+          "time_info": "[09时00分 ~ 12时17分]"
         },
         {
           "title": "周五（11月28日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.80%，报92430美元，11月份累跌16.09%。 CME以太币期货DCR主力合约涨1.60%，报3075美元，11月份累跌23.02%。 美股加密货币与加密货币关联指数11月份累跌21.92%，最终报71.30点。",
@@ -295,8 +302,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时42分 ~ 11时42分]"
+          "appearance_count": 5,
+          "time_info": "[10时42分 ~ 12时17分]"
         }
       ]
     },
@@ -316,6 +323,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时00分 ~ 11时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 12时17分]"
         }
       ]
     },
