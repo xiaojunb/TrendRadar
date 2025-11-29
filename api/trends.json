@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T22:12:39.801563+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2025-11-29T22:39:38.942726+08:00",
+  "total_titles_processed": 1183,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时14分 ~ 22时12分]"
+          "appearance_count": 10,
+          "time_info": "[18时14分 ~ 22时39分]"
         },
         {
           "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时24分 ~ 22时12分]"
+          "appearance_count": 6,
+          "time_info": "[20时24分 ~ 22时39分]"
         },
         {
           "title": "特朗普宣布：拜登任内通过“自动签名笔”签署的所有文件即刻终止效力",
@@ -58,8 +58,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时41分 ~ 22时12分]"
+          "appearance_count": 9,
+          "time_info": "[18时41分 ~ 22时39分]"
         },
         {
           "title": "特朗普长子成2028总统大选热门人选",
@@ -104,18 +104,6 @@
           "time_info": "[13时13分 ~ 15时36分]"
         },
         {
-          "title": "美国总统特朗普：我们应该会在中期选举中以创纪录的票数获胜。我是“平价医疗总统”。",
-          "url": "https://flash.jin10.com/detail/20251129211916234800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 22时12分]"
-        },
-        {
           "title": "特朗普：将永久停止第三世界国家移民",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E6%B0%B8%E4%B9%85%E5%81%9C%E6%AD%A2%E7%AC%AC%E4%B8%89%E4%B8%96%E7%95%8C%E5%9B%BD%E5%AE%B6%E7%A7%BB%E6%B0%91",
           "source": "百度热搜",
@@ -144,16 +132,17 @@
           "time_info": "[18时14分 ~ 21时02分]"
         },
         {
-          "title": "美国总统特朗普：因为我为美国争取到了最惠国待遇，药品价格正以前所未有的速度下降，降幅高达500%、600%、700%甚至更多。没有哪位总统能做到这一点，但我做到了。",
-          "url": "https://flash.jin10.com/detail/20251129211849546800",
+          "title": "美国总统特朗普：我们应该会在中期选举中以创纪录的票数获胜。我是“平价医疗总统”。",
+          "url": "https://flash.jin10.com/detail/20251129211916234800",
           "source": "金十数据",
           "ranks": [
+            1,
             2,
-            3
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 22时12分]"
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 22时39分]"
         },
         {
           "title": "特朗普称委内瑞拉空域应被视为关闭",
@@ -161,11 +150,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 22时12分]"
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 22时39分]"
         },
         {
           "title": "特朗普将赦免被判45年洪都拉斯前总统",
@@ -178,6 +168,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[20时24分 ~ 21时42分]"
+        },
+        {
+          "title": "美国总统特朗普：因为我为美国争取到了最惠国待遇，药品价格正以前所未有的速度下降，降幅高达500%、600%、700%甚至更多。没有哪位总统能做到这一点，但我做到了。",
+          "url": "https://flash.jin10.com/detail/20251129211849546800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 22时39分]"
         },
         {
           "title": "乌克兰代表团前往美国，将与总统特朗普的特使Witkoff会谈。",
@@ -213,11 +216,12 @@
           "ranks": [
             1,
             13,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时02分 ~ 22时12分]"
+          "appearance_count": 4,
+          "time_info": "[21时02分 ~ 22时39分]"
         },
         {
           "title": "美国总统特朗普：股票市场和401k计划达到了历史新高，通货膨胀、物价和税收都在下降。",
@@ -226,11 +230,12 @@
           "ranks": [
             2,
             14,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时02分 ~ 22时12分]"
+          "appearance_count": 4,
+          "time_info": "[21时02分 ~ 22时39分]"
         },
         {
           "title": "美国总统特朗普：关税使我们的国家变得富裕、强大、强盛且安全。",
@@ -239,11 +244,12 @@
           "ranks": [
             3,
             15,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时02分 ~ 22时12分]"
+          "appearance_count": 4,
+          "time_info": "[21时02分 ~ 22时39分]"
         },
         {
           "title": "特朗普长子成2028美国总统大选热门",
@@ -270,6 +276,19 @@
           "time_info": "[13时13分 ~ 14时49分]"
         },
         {
+          "title": "特朗普向委内瑞拉发出威胁信号",
+          "url": "https://flash.jin10.com/detail/20251129210108575800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 22时39分]"
+        },
+        {
           "title": "特朗普：撤销前总统拜登通过自动签名装置签署的所有文件",
           "url": "https://flash.jin10.com/detail/20251129034311624800",
           "source": "金十数据",
@@ -281,6 +300,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时00分 ~ 11时42分]"
+        },
+        {
+          "title": "美国总统特朗普：将委内瑞拉上空及周边空域视为禁飞区。",
+          "url": "https://flash.jin10.com/detail/20251129204723280800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 22时39分]"
         },
         {
           "title": "美国总统特朗普：任何由美国前总统拜登使用自动笔签署的文件（约占其签署文件的92%）即日起全部终止生效，不再具有任何法律效力。",
@@ -296,6 +328,19 @@
           "time_info": "[09时00分 ~ 11时42分]"
         },
         {
+          "title": "美国总统特朗普：美国再次受到尊重，前所未有的尊重。所有这一切都是由强有力的领导和关税带来的。向上帝祈祷，我们的九位大法官将显示出伟大的智慧，为美国做正确的事。",
+          "url": "https://flash.jin10.com/detail/20251129202718380800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 22时39分]"
+        },
+        {
           "title": "曝特朗普已与马杜罗通话",
           "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%B7%B2%E4%B8%8E%E9%A9%AC%E6%9D%9C%E7%BD%97%E9%80%9A%E8%AF%9D",
           "source": "百度热搜",
@@ -308,42 +353,6 @@
           "time_info": "[10时42分 ~ 11时42分]"
         },
         {
-          "title": "特朗普向委内瑞拉发出威胁信号",
-          "url": "https://flash.jin10.com/detail/20251129210108575800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 22时12分]"
-        },
-        {
-          "title": "美国总统特朗普：将委内瑞拉上空及周边空域视为禁飞区。",
-          "url": "https://flash.jin10.com/detail/20251129204723280800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 22时12分]"
-        },
-        {
-          "title": "美国总统特朗普：美国再次受到尊重，前所未有的尊重。所有这一切都是由强有力的领导和关税带来的。向上帝祈祷，我们的九位大法官将显示出伟大的智慧，为美国做正确的事。",
-          "url": "https://flash.jin10.com/detail/20251129202718380800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 22时12分]"
-        },
-        {
           "title": "美媒：特朗普上周与马杜罗通话 讨论举行会晤的可能性",
           "url": "https://flash.jin10.com/detail/20251129033025451800",
           "source": "金十数据",
@@ -354,6 +363,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时00分 ~ 10时42分]"
+        },
+        {
+          "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
+          "url": "https://flash.jin10.com/detail/20251129220829620800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "乌克兰代表团将赴美会见特朗普心腹和女婿，讨论和平计划",
@@ -543,6 +563,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
+          "url": "https://www.zhihu.com/question/1923520417756321577",
+          "source": "知乎",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 22时39分]"
+        },
+        {
           "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
           "url": "https://wallstreetcn.com/articles/3760294",
           "source": "华尔街见闻",
@@ -563,17 +595,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
-        },
-        {
-          "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
-          "url": "https://www.zhihu.com/question/1923520417756321577",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
         }
       ]
     },
@@ -593,8 +614,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[13时13分 ~ 22时12分]"
+          "appearance_count": 22,
+          "time_info": "[13时13分 ~ 22时39分]"
         },
         {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
@@ -608,8 +629,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[10时42分 ~ 22时12分]"
+          "appearance_count": 28,
+          "time_info": "[10时42分 ~ 22时39分]"
         },
         {
           "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
@@ -622,8 +643,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时11分 ~ 22时12分]"
+          "appearance_count": 8,
+          "time_info": "[19时11分 ~ 22时39分]"
         }
       ]
     },
@@ -645,8 +666,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[12时43分 ~ 22时12分]"
+          "appearance_count": 23,
+          "time_info": "[12时43分 ~ 22时39分]"
         },
         {
           "title": "金价",
