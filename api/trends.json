@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T16:18:03.793089+08:00",
-  "total_titles_processed": 750,
+  "generated_at": "2025-11-29T16:45:20.285987+08:00",
+  "total_titles_processed": 783,
   "failed_sources": [],
   "trends": [
     {
@@ -234,8 +234,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时00分 ~ 16时18分]"
+          "appearance_count": 17,
+          "time_info": "[09时00分 ~ 16时45分]"
         },
         {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
@@ -326,6 +326,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
+          "url": "https://wallstreetcn.com/articles/3760370",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时13分 ~ 16时45分]"
+        },
+        {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
           "url": "https://www.cls.cn/detail/2214531",
           "source": "财联社热门",
@@ -337,21 +350,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时42分 ~ 16时18分]"
-        },
-        {
-          "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
-          "url": "https://wallstreetcn.com/articles/3760370",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时13分 ~ 16时18分]"
+          "appearance_count": 16,
+          "time_info": "[10时42分 ~ 16时45分]"
         }
       ]
     },
@@ -370,8 +370,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时43分 ~ 16时18分]"
+          "appearance_count": 11,
+          "time_info": "[12时43分 ~ 16时45分]"
         },
         {
           "title": "金价",
