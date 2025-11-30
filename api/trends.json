@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T14:20:49.390616+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2025-11-30T14:50:24.550412+08:00",
+  "total_titles_processed": 666,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             14,
             21,
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时09分 ~ 14时20分]"
+          "appearance_count": 8,
+          "time_info": "[09时09分 ~ 14时50分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -40,11 +41,12 @@
           "url": "https://wallstreetcn.com/articles/3760394",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时50分]"
         },
         {
           "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
@@ -117,8 +119,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时09分 ~ 14时20分]"
+          "appearance_count": 10,
+          "time_info": "[09时09分 ~ 14时50分]"
         },
         {
           "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
@@ -159,11 +161,12 @@
             6,
             12,
             13,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时09分 ~ 14时20分]"
+          "appearance_count": 10,
+          "time_info": "[09时09分 ~ 14时50分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -187,11 +190,12 @@
           "url": "https://news.ifeng.com/c/8ohK4NeU28p",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时50分]"
         },
         {
           "title": "土耳其外交部：土耳其外交部长将于11月30日访问伊朗。",
