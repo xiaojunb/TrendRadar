@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T12:33:59.495128+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2025-12-01T13:23:09.485116+08:00",
+  "total_titles_processed": 662,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,33 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 12时33分]"
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 13时23分]"
+        },
+        {
+          "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
+          "url": "https://www.cls.cn/detail/2215261",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 13时23分]"
+        },
+        {
+          "title": "特朗普：俄乌和平协议“很有可能”达成",
+          "url": "https://news.ifeng.com/c/8oikvl8KaCy",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时14分 ~ 13时23分]"
         },
         {
           "title": "“特朗普交易”遭重创",
@@ -30,30 +55,6 @@
           "time_info": "09时14分"
         },
         {
-          "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
-          "url": "https://www.cls.cn/detail/2215261",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 12时33分]"
-        },
-        {
-          "title": "特朗普：俄乌和平协议“很有可能”达成",
-          "url": "https://news.ifeng.com/c/8oikvl8KaCy",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 12时33分]"
-        },
-        {
           "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
           "url": "https://news.ifeng.com/c/8oikvl8KaAC",
           "source": "凤凰网",
@@ -62,8 +63,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 12时33分]"
+          "appearance_count": 5,
+          "time_info": "[09时14分 ~ 13时23分]"
         },
         {
           "title": "特朗普：俄乌和平协议“很可能”达成",
@@ -72,11 +73,12 @@
           "ranks": [
             12,
             10,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 12时33分]"
+          "appearance_count": 5,
+          "time_info": "[09时14分 ~ 13时23分]"
         },
         {
           "title": "特朗普：已确定美联储主席继任者，很快就会宣布",
@@ -86,8 +88,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 12时33分]"
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 13时23分]"
+        },
+        {
+          "title": "特朗普：已选定下任美联储主席",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E9%80%89%E5%AE%9A%E4%B8%8B%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 13时23分]"
         },
         {
           "title": "特朗普与委总统通话，直接要求对方下台！",
@@ -96,17 +109,6 @@
           "ranks": [
             9,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 12时33分]"
-        },
-        {
-          "title": "特朗普：已选定下任美联储主席",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E9%80%89%E5%AE%9A%E4%B8%8B%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
-          "source": "百度热搜",
-          "ranks": [
-            23
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -130,7 +132,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         }
@@ -179,8 +181,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 12时33分]"
+          "appearance_count": 5,
+          "time_info": "[09时14分 ~ 13时23分]"
         }
       ]
     },
@@ -198,6 +200,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比特币跌破8.6万美元，24小时跌幅近6%。 美股期货跌幅逐步扩大，纳斯达克100指数期货跌近0.9%，标普500股指期货跌近0.7%，道琼斯指数期货跌0.45%。",
+          "url": "https://wallstreetcn.com/livenews/3012789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         }
       ]
     },
