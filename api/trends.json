@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T15:42:40.473058+08:00",
-  "total_titles_processed": 907,
+  "generated_at": "2025-12-01T16:22:22.704341+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时22分 ~ 15时42分]"
+          "appearance_count": 12,
+          "time_info": "[11时22分 ~ 16时22分]"
         },
         {
           "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时22分 ~ 15时42分]"
+          "appearance_count": 12,
+          "time_info": "[11时22分 ~ 16时22分]"
         },
         {
           "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
@@ -68,6 +68,18 @@
           "time_info": "[09时14分 ~ 13时48分]"
         },
         {
+          "title": "美防长被爆在一次打击行动中下令杀光所有人，特朗普回应",
+          "url": "https://news.ifeng.com/c/8ojG5nBjIJr",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时23分 ~ 16时22分]"
+        },
+        {
           "title": "特朗普：已确定美联储主席继任者，很快就会宣布",
           "url": "https://news.ifeng.com/c/8oizWNiI4Dt",
           "source": "凤凰网",
@@ -77,17 +89,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时22分 ~ 13时48分]"
-        },
-        {
-          "title": "美防长被爆在一次打击行动中下令杀光所有人，特朗普回应",
-          "url": "https://news.ifeng.com/c/8ojG5nBjIJr",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时23分 ~ 15时42分]"
         },
         {
           "title": "“特朗普交易”遭重创",
@@ -189,11 +190,12 @@
             29,
             26,
             24,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时14分 ~ 15时42分]"
+          "appearance_count": 10,
+          "time_info": "[09时14分 ~ 16时22分]"
         },
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
@@ -229,9 +231,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 16时22分]"
         }
       ]
     },
@@ -275,7 +277,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -286,7 +288,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         }
