@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T17:48:26.596803+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2025-12-01T18:17:43.593173+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时22分 ~ 17时48分]"
+          "appearance_count": 17,
+          "time_info": "[11时22分 ~ 18时17分]"
         },
         {
           "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
@@ -27,11 +27,12 @@
             9,
             5,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时22分 ~ 17时48分]"
+          "appearance_count": 17,
+          "time_info": "[11时22分 ~ 18时17分]"
         },
         {
           "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
@@ -104,6 +105,17 @@
           "time_info": "[11时22分 ~ 17时48分]"
         },
         {
+          "title": "特朗普拒邀南非参加明年G20峰会，南非：我们是创始成员国",
+          "url": "https://news.ifeng.com/c/8ojNQ6MCJEg",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时51分 ~ 18时17分]"
+        },
+        {
           "title": "“特朗普交易”遭重创",
           "url": "https://wallstreetcn.com/articles/3760394",
           "source": "华尔街见闻",
@@ -140,17 +152,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时23分 ~ 15时42分]"
-        },
-        {
-          "title": "特朗普拒邀南非参加明年G20峰会，南非：我们是创始成员国",
-          "url": "https://news.ifeng.com/c/8ojNQ6MCJEg",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时51分 ~ 17时48分]"
         },
         {
           "title": "美乌4小时会谈细节曝光 特朗普发声",
@@ -212,6 +213,20 @@
           "time_info": "[09时14分 ~ 17时48分]"
         },
         {
+          "title": "存储大厂打入“谷歌链”！SK海力士借机巩固HBM龙头地位",
+          "url": "https://www.cls.cn/detail/2215337",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时42分 ~ 18时17分]"
+        },
+        {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
           "url": "https://www.cls.cn/detail/2215087",
           "source": "财联社热门",
@@ -223,19 +238,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时14分 ~ 12时33分]"
-        },
-        {
-          "title": "存储大厂打入“谷歌链”！SK海力士借机巩固HBM龙头地位",
-          "url": "https://www.cls.cn/detail/2215337",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时42分 ~ 17时48分]"
         },
         {
           "title": "亚马逊和谷歌共推多云网络服务，加快云端互联",
@@ -256,17 +258,18 @@
           "url": "https://wallstreetcn.com/livenews/3012928",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 18时17分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
@@ -289,6 +292,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
+        },
+        {
+          "title": "三年前，ChatGPT发布，“AI狂潮”席卷全球，一个新时代拉开帷幕",
+          "url": "https://wallstreetcn.com/articles/3760419",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         }
       ]
     },
@@ -354,6 +368,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "最高8000点！华尔街“2026美股预测”陆续出炉，一个比一个乐观……",
+          "url": "https://www.cls.cn/detail/2215285",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 18时17分]"
+        },
+        {
           "title": "比特币跌破8.6万美元，24小时跌幅近6%。 美股期货跌幅逐步扩大，纳斯达克100指数期货跌近0.9%，标普500股指期货跌近0.7%，道琼斯指数期货跌0.45%。",
           "url": "https://wallstreetcn.com/livenews/3012789",
           "source": "华尔街见闻-快讯",
@@ -365,18 +391,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时23分 ~ 14时23分]"
-        },
-        {
-          "title": "最高8000点！华尔街“2026美股预测”陆续出炉，一个比一个乐观……",
-          "url": "https://www.cls.cn/detail/2215285",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 17时48分]"
         }
       ]
     },
