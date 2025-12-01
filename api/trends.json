@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-01T13:23:09.485116+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2025-12-01T13:48:09.041862+08:00",
+  "total_titles_processed": 694,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
           "url": "https://wallstreetcn.com/articles/3760417",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 13时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时22分 ~ 13时48分]"
         },
         {
           "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
@@ -28,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 13时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时22分 ~ 13时48分]"
         },
         {
           "title": "特朗普：俄乌和平协议“很有可能”达成",
@@ -40,8 +41,42 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时14分 ~ 13时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 13时48分]"
+        },
+        {
+          "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
+          "url": "https://news.ifeng.com/c/8oikvl8KaAC",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 13时48分]"
+        },
+        {
+          "title": "特朗普：已确定美联储主席继任者，很快就会宣布",
+          "url": "https://news.ifeng.com/c/8oizWNiI4Dt",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时22分 ~ 13时48分]"
+        },
+        {
+          "title": "特朗普：已选定下任美联储主席",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E9%80%89%E5%AE%9A%E4%B8%8B%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时22分 ~ 13时48分]"
         },
         {
           "title": "“特朗普交易”遭重创",
@@ -53,18 +88,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
-        },
-        {
-          "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
-          "url": "https://news.ifeng.com/c/8oikvl8KaAC",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时14分 ~ 13时23分]"
         },
         {
           "title": "特朗普：俄乌和平协议“很可能”达成",
@@ -81,28 +104,6 @@
           "time_info": "[09时14分 ~ 13时23分]"
         },
         {
-          "title": "特朗普：已确定美联储主席继任者，很快就会宣布",
-          "url": "https://news.ifeng.com/c/8oizWNiI4Dt",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 13时23分]"
-        },
-        {
-          "title": "特朗普：已选定下任美联储主席",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E9%80%89%E5%AE%9A%E4%B8%8B%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 13时23分]"
-        },
-        {
           "title": "特朗普与委总统通话，直接要求对方下台！",
           "url": "https://wallstreetcn.com/articles/3760404",
           "source": "华尔街见闻",
@@ -113,6 +114,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时22分 ~ 12时33分]"
+        },
+        {
+          "title": "美乌4小时会谈细节曝光 特朗普发声",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%B9%8C4%E5%B0%8F%E6%97%B6%E4%BC%9A%E8%B0%88%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89+%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 13时48分]"
         },
         {
           "title": "芝商所上周五经历数小时故障，白银刷新历史新高！特朗普已敲定下任美联储主席人选，美乌新会谈“富有成效但仍有工作要做”....美油卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -161,11 +173,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             18,
-            10
+            10,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 11时22分]"
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 13时48分]"
         }
       ]
     },
@@ -181,8 +194,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时14分 ~ 13时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 13时48分]"
         }
       ]
     },
@@ -212,11 +225,12 @@
           "url": "https://wallstreetcn.com/livenews/3012789",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 13时48分]"
         }
       ]
     },
