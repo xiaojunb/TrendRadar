@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T20:29:48.196168+08:00",
-  "total_titles_processed": 1397,
+  "generated_at": "2025-12-02T21:12:11.491973+08:00",
+  "total_titles_processed": 1454,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "“即将宣布”，特朗普称已选定下任美联储主席",
@@ -33,15 +33,15 @@
           "time_info": "[09时03分 ~ 18时16分]"
         },
         {
-          "title": "法巴银行：若最高法院推翻特朗普关税 美元或应声下跌",
-          "url": "https://flash.jin10.com/detail/20251202201321333800",
-          "source": "金十数据",
+          "title": "戴尔夫妇捐赠62.5亿美元为针对儿童的“特朗普账户”提供资金。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3013734",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时29分"
+          "time_info": "21时12分"
         },
         {
           "title": "特朗普面临支持率“大麻烦”",
@@ -68,6 +68,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时59分 ~ 12时25分]"
+        },
+        {
+          "title": "法巴银行：若最高法院推翻特朗普关税 美元或应声下跌",
+          "url": "https://flash.jin10.com/detail/20251202201321333800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 21时12分]"
         },
         {
           "title": "特朗普明日凌晨3点将发表重大声明",
@@ -147,11 +159,12 @@
           "url": "https://flash.jin10.com/detail/20251202195853225800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 21时12分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-02）",
@@ -202,8 +215,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[09时03分 ~ 20时29分]"
+          "appearance_count": 29,
+          "time_info": "[09时03分 ~ 21时12分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -236,8 +249,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[09时03分 ~ 20时29分]"
+          "appearance_count": 29,
+          "time_info": "[09时03分 ~ 21时12分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -251,8 +264,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[09时03分 ~ 20时29分]"
+          "appearance_count": 29,
+          "time_info": "[09时03分 ~ 21时12分]"
         },
         {
           "title": "2025 年 12 月 1 日，DeepSeek 正式发布 V3.2 和 V3.2-Speciale，如何评价该模型？",
@@ -275,9 +288,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时29分 ~ 21时12分]"
         },
         {
           "title": "DeepSeek新模型能否改变AI格局",
@@ -294,7 +307,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股收盘：三大指数“五连阳”戛然而止 中国资产逆势走强",
@@ -358,6 +371,17 @@
           "time_info": "[17时20分 ~ 17时46分]"
         },
         {
+          "title": "花旗集团(C.N)美股盘前涨近9%，此前上调了2025财年销售预测。",
+          "url": "https://flash.jin10.com/detail/20251202202834556800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "美股市场全线杀跌发生了什么",
           "url": "https://www.toutiao.com/trending/7579051553873481270/",
           "source": "今日头条",
@@ -374,6 +398,67 @@
           "source": "今日头条",
           "ranks": [
             26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "德商银行：预计明年铂金价格将与黄金走势基本一致，并于2026年底升至每1800美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251202204252872800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "德商银行：预计未来一年内金价将上涨至4400美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251202204210323800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "金十图示：2025年12月02日（周二）上海金早盘价为955.63元/克，较国际金价(959.69元/克)，低4.06元/克",
+          "url": "https://flash.jin10.com/detail/20251202101919680800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "金价随美债收益率走强而回落 市场聚焦美国经济数据",
+          "url": "https://flash.jin10.com/detail/20251202173757800800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -422,11 +507,12 @@
             16,
             14,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[12时49分 ~ 20时29分]"
+          "appearance_count": 23,
+          "time_info": "[12时49分 ~ 21时12分]"
         },
         {
           "title": "澳大利亚竞争与消费者委员会：谷歌被责令支付5500万澳元罚款。",
@@ -456,8 +542,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[10时59分 ~ 20时29分]"
+          "appearance_count": 28,
+          "time_info": "[10时59分 ~ 21时12分]"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
@@ -478,7 +564,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -486,45 +572,6 @@
           "title": "中信证券推演：将OpenAI陷入经营危机、AI产业投资节奏放缓视为基准情形",
           "url": "https://flash.jin10.com/detail/20251202081057394800",
           "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月02日（周二）上海金早盘价为955.63元/克，较国际金价(959.69元/克)，低4.06元/克",
-          "url": "https://flash.jin10.com/detail/20251202101919680800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "金价随美债收益率走强而回落 市场聚焦美国经济数据",
-          "url": "https://flash.jin10.com/detail/20251202173757800800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=25&Refer=top",
-          "source": "微博",
           "ranks": [
             25
           ],
