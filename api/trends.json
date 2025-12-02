@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T19:39:33.586257+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2025-12-02T20:29:48.196168+08:00",
+  "total_titles_processed": 1397,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "“即将宣布”，特朗普称已选定下任美联储主席",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 23,
           "time_info": "[09时03分 ~ 18时16分]"
+        },
+        {
+          "title": "法巴银行：若最高法院推翻特朗普关税 美元或应声下跌",
+          "url": "https://flash.jin10.com/detail/20251202201321333800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "特朗普面临支持率“大麻烦”",
@@ -71,6 +82,19 @@
           "time_info": "[10时59分 ~ 11时53分]"
         },
         {
+          "title": "特朗普被曝近期在电话中要求马杜罗辞职，马杜罗拒绝",
+          "url": "https://wallstreetcn.com/livenews/3013679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 20时29分]"
+        },
+        {
           "title": "特朗普第一年政绩如何",
           "url": "https://www.toutiao.com/trending/7579124982735703594/",
           "source": "今日头条",
@@ -95,18 +119,6 @@
           "time_info": "[14时53分 ~ 15时17分]"
         },
         {
-          "title": "特朗普被曝近期在电话中要求马杜罗辞职，马杜罗拒绝",
-          "url": "https://wallstreetcn.com/livenews/3013679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 19时39分]"
-        },
-        {
           "title": "美制造业PMI连续第九个月处于收缩区间，现货白银一度逼近59美元，特朗普就委内瑞拉局势召开会议，美英就药品定价达成原则性协议......现货金银卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251202103143252800",
           "source": "金十数据",
@@ -129,6 +141,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时46分 ~ 18时16分]"
+        },
+        {
+          "title": "摸着特朗普过河过河？日版效率部宣布成立丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20251202195853225800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-02）",
@@ -156,7 +179,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
@@ -179,8 +202,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[09时03分 ~ 19时39分]"
+          "appearance_count": 27,
+          "time_info": "[09时03分 ~ 20时29分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -213,8 +236,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[09时03分 ~ 19时39分]"
+          "appearance_count": 27,
+          "time_info": "[09时03分 ~ 20时29分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -228,8 +251,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[09时03分 ~ 19时39分]"
+          "appearance_count": 27,
+          "time_info": "[09时03分 ~ 20时29分]"
         },
         {
           "title": "2025 年 12 月 1 日，DeepSeek 正式发布 V3.2 和 V3.2-Speciale，如何评价该模型？",
@@ -244,6 +267,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时53分 ~ 16时52分]"
+        },
+        {
+          "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
+          "url": "https://wallstreetcn.com/articles/3760505",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "DeepSeek新模型能否改变AI格局",
@@ -391,8 +425,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[12时49分 ~ 19时39分]"
+          "appearance_count": 21,
+          "time_info": "[12时49分 ~ 20时29分]"
         },
         {
           "title": "澳大利亚竞争与消费者委员会：谷歌被责令支付5500万澳元罚款。",
@@ -409,7 +443,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
@@ -418,11 +452,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[10时59分 ~ 19时39分]"
+          "appearance_count": 26,
+          "time_info": "[10时59分 ~ 20时29分]"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
@@ -435,6 +470,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时49分 ~ 13时42分]"
+        },
+        {
+          "title": "OpenAI拉响红色警报",
+          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E6%8B%89%E5%93%8D%E7%BA%A2%E8%89%B2%E8%AD%A6%E6%8A%A5%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "中信证券推演：将OpenAI陷入经营危机、AI产业投资节奏放缓视为基准情形",
