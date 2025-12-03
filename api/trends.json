@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T22:16:02.954171+08:00",
-  "total_titles_processed": 1631,
+  "generated_at": "2025-12-03T22:47:17.722811+08:00",
+  "total_titles_processed": 1699,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普签署法律以加深美台联系，外交部回应",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[15时41分 ~ 22时16分]"
+          "appearance_count": 20,
+          "time_info": "[15时41分 ~ 22时47分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[09时03分 ~ 22时16分]"
+          "appearance_count": 30,
+          "time_info": "[09时03分 ~ 22时47分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -67,8 +67,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[15时41分 ~ 22时16分]"
+          "appearance_count": 20,
+          "time_info": "[15时41分 ~ 22时47分]"
         },
         {
           "title": "特朗普点名日本",
@@ -126,11 +126,12 @@
             12,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[17时18分 ~ 22时16分]"
+          "appearance_count": 17,
+          "time_info": "[17时18分 ~ 22时47分]"
         },
         {
           "title": "特朗普“眼中钉”暂时拔不掉了？德银：鲍威尔卸任美联储主席后或留任理事",
@@ -139,11 +140,12 @@
           "ranks": [
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[18时47分 ~ 22时16分]"
+          "appearance_count": 14,
+          "time_info": "[18时47分 ~ 22时47分]"
         },
         {
           "title": "特朗普点名日本",
@@ -184,6 +186,17 @@
           "time_info": "[16时50分 ~ 19时14分]"
         },
         {
+          "title": "外交部回应特朗普签署涉台法案，敦促美方「慎之又慎处理台湾问题，停止美台官方往来」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1979582977764783855",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时52分 ~ 22时47分]"
+        },
+        {
           "title": "据《华盛顿邮报》对美国周二内阁会议上多个视频的分析，在大约75分钟的时间里，特朗普的眼睛累计闭了近6分钟。",
           "url": "https://flash.jin10.com/detail/20251203085601440800",
           "source": "金十数据",
@@ -217,17 +230,6 @@
           "time_info": "09时03分"
         },
         {
-          "title": "据美国纽约联储数据，上个交易日（12月2日，特朗普介绍哈塞特是“潜在美联储主席”当天）担保隔夜融资利率（SOFR）报4.01%，之前一天报4.12%。 上个交易日有效的联邦基金利率报3.89%，之前一天报3.89%。",
-          "url": "https://wallstreetcn.com/livenews/3014498",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
           "title": "白宫：特朗普已终止“无休止”援乌",
           "url": "https://news.ifeng.com/c/8okzUol0Uy6",
           "source": "凤凰网",
@@ -250,6 +252,17 @@
           "time_info": "16时20分"
         },
         {
+          "title": "墨西哥总统辛鲍姆：与美国总统特朗普的会晤尚未确定。",
+          "url": "https://flash.jin10.com/detail/20251203221328910800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
           "title": "特朗普开嘲：许多盟友敲美国竹杠，我不点名…比如日韩",
           "url": "https://news.ifeng.com/c/8omUX9I4Irn",
           "source": "凤凰网",
@@ -260,6 +273,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时41分 ~ 16时20分]"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（12月2日，特朗普介绍哈塞特是“潜在美联储主席”当天）担保隔夜融资利率（SOFR）报4.01%，之前一天报4.12%。 上个交易日有效的联邦基金利率报3.89%，之前一天报3.89%。",
+          "url": "https://wallstreetcn.com/livenews/3014498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时47分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-03）",
@@ -298,17 +323,6 @@
           "time_info": "[16时50分 ~ 18时16分]"
         },
         {
-          "title": "外交部回应特朗普签署涉台法案，敦促美方「慎之又慎处理台湾问题，停止美台官方往来」，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1979582977764783855",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时52分 ~ 22时16分]"
-        },
-        {
           "title": "特朗普与巴西总统讨论合作打击有组织犯罪等议题",
           "url": "https://wallstreetcn.com/livenews/3014160",
           "source": "华尔街见闻-快讯",
@@ -332,6 +346,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时58分 ~ 12时23分]"
+        },
+        {
+          "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32092056",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时16分 ~ 22时47分]"
         },
         {
           "title": "内塔尼亚胡求特朗普：再帮帮忙",
@@ -472,17 +497,6 @@
           "time_info": "19时39分"
         },
         {
-          "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32092056",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
           "title": "中方回应特朗普签属涉台法律",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E5%B1%9E%E6%B6%89%E5%8F%B0%E6%B3%95%E5%BE%8B",
           "source": "百度热搜",
@@ -525,12 +539,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        },
+        {
+          "title": "消息人士：特朗普政府考虑允许马杜罗迁往卡塔尔",
+          "url": "https://flash.jin10.com/detail/20251203215521429800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
@@ -541,8 +566,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[09时03分 ~ 22时16分]"
+          "appearance_count": 30,
+          "time_info": "[09时03分 ~ 22时47分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -568,15 +593,28 @@
           "time_info": "[21时53分 ~ 22时16分]"
         },
         {
+          "title": "小非农超预期降温，美股期货上扬，美元短线跳水，伦铜涨破纪录，白银高位震荡，离岸人民币创14个月来高点",
+          "url": "https://wallstreetcn.com/articles/3760624",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时16分 ~ 22时47分]"
+        },
+        {
           "title": "周三美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3014495",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时47分]"
         },
         {
           "title": "小非农超预期降温，美股期货上扬，美元短线跳水，伦铜涨破纪录，白银新高回落，离岸人民币创14个月来高点",
@@ -614,15 +652,26 @@
           "time_info": "[20时29分 ~ 21时12分]"
         },
         {
-          "title": "小非农超预期降温，美股期货上扬，美元短线跳水，伦铜涨破纪录，白银高位震荡，离岸人民币创14个月来高点",
-          "url": "https://wallstreetcn.com/articles/3760624",
-          "source": "华尔街见闻",
+          "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2218814",
+          "source": "财联社热门",
           "ranks": [
-            6
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 22时47分]"
+        },
+        {
+          "title": "纳斯达克100股指期货美股盘前转跌，英伟达（盘前）转跌。",
+          "url": "https://wallstreetcn.com/livenews/3014503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时16分"
+          "time_info": "22时47分"
         },
         {
           "title": "市场静待美国数据，美股期货上扬，伦铜涨破纪录，白银新高回落，离岸人民币创14个月来高点",
@@ -645,6 +694,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
+        },
+        {
+          "title": "微软(MSFT.O)美股盘前跌近2%。",
+          "url": "https://flash.jin10.com/detail/20251203220751256800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         },
         {
           "title": "迈威尔科技集团(MRVL.O)美股盘前大涨10.7%，此前公司宣布以32.5亿美元收购芯片初创企业Celestial AI，并公布了第三季度业绩。",
@@ -770,8 +830,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[09时03分 ~ 22时16分]"
+          "appearance_count": 30,
+          "time_info": "[09时03分 ~ 22时47分]"
         },
         {
           "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
@@ -793,11 +853,12 @@
           "url": "https://wallstreetcn.com/livenews/3014500",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时47分]"
         },
         {
           "title": "马士基：目前尚无具体时间表，无法将东西向（Gemini）航线改道经红海航行。",
@@ -882,6 +943,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "Deepseek 团队为什么把大量精力花在 IMO 这种对普通人和商业应用都没有用途的地方？",
+          "url": "https://www.zhihu.com/question/1979307622185341611",
+          "source": "知乎",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时15分 ~ 22时47分]"
+        },
+        {
           "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
           "url": "https://www.cls.cn/detail/2217435",
           "source": "财联社热门",
@@ -903,17 +976,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时03分 ~ 10时58分]"
-        },
-        {
-          "title": "Deepseek 团队为什么把大量精力花在 IMO 这种对普通人和商业应用都没有用途的地方？",
-          "url": "https://www.zhihu.com/question/1979307622185341611",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时15分 ~ 22时16分]"
         }
       ]
     },
@@ -941,11 +1003,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时53分 ~ 22时16分]"
+          "appearance_count": 3,
+          "time_info": "[21时53分 ~ 22时47分]"
         },
         {
           "title": "美元指数DXY跌至98.977，创一个月新低。",
