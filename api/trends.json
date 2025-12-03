@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T14:22:50.608886+08:00",
-  "total_titles_processed": 749,
+  "generated_at": "2025-12-03T14:53:35.854069+08:00",
+  "total_titles_processed": 808,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普“点名”日本",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时58分 ~ 14时22分]"
+          "appearance_count": 8,
+          "time_info": "[10时58分 ~ 14时53分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时58分 ~ 14时22分]"
+          "appearance_count": 8,
+          "time_info": "[10时58分 ~ 14时53分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时03分 ~ 14时22分]"
+          "appearance_count": 9,
+          "time_info": "[09时03分 ~ 14时53分]"
         },
         {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
@@ -152,6 +152,28 @@
           "time_info": "[11时50分 ~ 12时23分]"
         },
         {
+          "title": "特朗普发文称哈塞特或将担任美联储主席，从其经济和政策路径看，为何最后可能是他？",
+          "url": "https://www.zhihu.com/question/1979467875078149565",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "特朗普在内阁会议上睡眼惺忪",
+          "url": "https://www.toutiao.com/trending/7579102119777828918/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "哥伦比亚总统回应特朗普威胁：侵犯主权即宣战",
           "url": "https://flash.jin10.com/detail/20251203075451348800",
           "source": "金十数据",
@@ -188,8 +210,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时03分 ~ 14时22分]"
+          "appearance_count": 9,
+          "time_info": "[09时03分 ~ 14时53分]"
         },
         {
           "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
@@ -198,11 +220,12 @@
           "ranks": [
             12,
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时23分 ~ 14时22分]"
+          "appearance_count": 6,
+          "time_info": "[12时23分 ~ 14时53分]"
         },
         {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
@@ -222,6 +245,17 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "金价10000美元、量子计算突破引发恐慌、AI触发全面危机......这家投行2026年“离谱”预测来了",
+          "url": "https://wallstreetcn.com/articles/3760553",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 14时53分]"
+        },
+        {
           "title": "金十图示：2025年12月03日（周三）上海金早盘价为955.55元/克，较国际金价(959.05元/克)，低3.5元/克",
           "url": "https://flash.jin10.com/detail/20251203101800307800",
           "source": "金十数据",
@@ -231,17 +265,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
-        },
-        {
-          "title": "金价10000美元、量子计算突破引发恐慌、AI触发全面危机......这家投行2026年“离谱”预测来了",
-          "url": "https://wallstreetcn.com/articles/3760553",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时23分"
         },
         {
           "title": "黄金价格走高 等待美联储政策指引",
@@ -269,8 +292,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时03分 ~ 14时22分]"
+          "appearance_count": 9,
+          "time_info": "[09时03分 ~ 14时53分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -281,8 +304,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时03分 ~ 14时22分]"
+          "appearance_count": 9,
+          "time_info": "[09时03分 ~ 14时53分]"
         },
         {
           "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
