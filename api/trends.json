@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T15:16:48.095176+08:00",
-  "total_titles_processed": 886,
+  "generated_at": "2025-12-04T15:40:58.245554+08:00",
+  "total_titles_processed": 950,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             10,
             6,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时59分 ~ 15时16分]"
+          "appearance_count": 13,
+          "time_info": "[10时59分 ~ 15时40分]"
         },
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
@@ -41,8 +42,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时54分 ~ 15时16分]"
+          "appearance_count": 11,
+          "time_info": "[11时54分 ~ 15时40分]"
         },
         {
           "title": "中方回应特朗普签署涉台法案",
@@ -52,8 +53,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时03分 ~ 15时16分]"
+          "appearance_count": 14,
+          "time_info": "[09时03分 ~ 15时40分]"
         },
         {
           "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
@@ -62,11 +63,12 @@
           "ranks": [
             19,
             17,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时24分 ~ 15时16分]"
+          "appearance_count": 10,
+          "time_info": "[12时24分 ~ 15时40分]"
         },
         {
           "title": "特朗普：将很快在拉美开展地面打击",
@@ -77,8 +79,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时49分 ~ 15时16分]"
+          "appearance_count": 9,
+          "time_info": "[12时49分 ~ 15时40分]"
         },
         {
           "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
@@ -330,6 +332,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "机构：10年期美债收益率短期盘整 突破4.1%或成2026年结构性趋势",
+          "url": "https://flash.jin10.com/detail/20251204142500817800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 15时16分]"
+        },
+        {
+          "title": "美债收益率在亚洲交易时段上涨 市场继续押注美联储降息",
+          "url": "https://flash.jin10.com/detail/20251204151726193800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -341,11 +371,12 @@
             9,
             10,
             11,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时54分 ~ 15时16分]"
+          "appearance_count": 11,
+          "time_info": "[11时54分 ~ 15时40分]"
         },
         {
           "title": "美元指数DXY向上触及99，日内涨0.13%。",
@@ -391,23 +422,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "机构：10年期美债收益率短期盘整 突破4.1%或成2026年结构性趋势",
-          "url": "https://flash.jin10.com/detail/20251204142500817800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 15时16分]"
         }
       ]
     }
