@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T11:00:16.833726+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2025-12-04T11:54:23.797886+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 11时00分]"
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 11时54分]"
         },
         {
           "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
@@ -24,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 11时00分]"
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 11时54分]"
         },
         {
           "title": "中方回应特朗普签署涉台法案",
@@ -38,19 +39,32 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 11时00分]"
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 11时54分]"
         },
         {
           "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
           "url": "https://www.cls.cn/detail/2219030",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 11时54分]"
+        },
+        {
+          "title": "特朗普言论加剧市场担忧 “战争溢价”推高油价",
+          "url": "https://flash.jin10.com/detail/20251204104330590800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时00分]"
+          "time_info": "[11时00分 ~ 11时54分]"
         },
         {
           "title": "特朗普签署法律以加深美台联系，外交部回应",
@@ -64,15 +78,15 @@
           "time_info": "09时03分"
         },
         {
-          "title": "特朗普言论加剧市场担忧 “战争溢价”推高油价",
-          "url": "https://flash.jin10.com/detail/20251204104330590800",
-          "source": "金十数据",
+          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
+          "url": "https://wallstreetcn.com/articles/3760676",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时00分"
+          "time_info": "11时54分"
         },
         {
           "title": "美国国务院备忘录显示，特朗普政府下令加强对H-1B签证申请人的审查。",
@@ -92,7 +106,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时00分"
         },
@@ -114,7 +128,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时00分"
         },
@@ -152,11 +166,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 11时00分]"
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 11时54分]"
         },
         {
           "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
@@ -164,11 +179,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 11时00分]"
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 11时54分]"
         },
         {
           "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
@@ -205,9 +221,37 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数DXY向上触及99，日内涨0.13%。",
+          "url": "https://flash.jin10.com/detail/20251204112158676800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
+          "title": "美元指数跌破50日均线 伦铜再创历史新高 | 环球市场",
+          "url": "https://www.cls.cn/detail/2219026",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         }
       ]
     },
