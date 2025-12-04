@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T13:15:10.500298+08:00",
-  "total_titles_processed": 682,
+  "generated_at": "2025-12-04T13:43:11.606488+08:00",
+  "total_titles_processed": 722,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时03分 ~ 13时15分]"
+          "appearance_count": 10,
+          "time_info": "[09时03分 ~ 13时43分]"
+        },
+        {
+          "title": "中方回应特朗普签署涉台法案",
+          "url": "https://www.douyin.com/hot/2325113",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时03分 ~ 13时43分]"
+        },
+        {
+          "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
+          "url": "https://www.cls.cn/detail/2219030",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时59分 ~ 13时43分]"
         },
         {
           "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
@@ -33,30 +57,6 @@
           "time_info": "[09时03分 ~ 13时15分]"
         },
         {
-          "title": "中方回应特朗普签署涉台法案",
-          "url": "https://www.douyin.com/hot/2325113",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时03分 ~ 13时15分]"
-        },
-        {
-          "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
-          "url": "https://www.cls.cn/detail/2219030",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时59分 ~ 13时15分]"
-        },
-        {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
           "url": "https://wallstreetcn.com/articles/3760676",
           "source": "华尔街见闻",
@@ -65,19 +65,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时54分 ~ 13时15分]"
+          "appearance_count": 7,
+          "time_info": "[11时54分 ~ 13时43分]"
         },
         {
           "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
           "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时24分 ~ 13时15分]"
+          "appearance_count": 6,
+          "time_info": "[12时24分 ~ 13时43分]"
         },
         {
           "title": "特朗普：将很快在拉美开展地面打击",
@@ -88,8 +89,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 13时15分]"
+          "appearance_count": 5,
+          "time_info": "[12时49分 ~ 13时43分]"
         },
         {
           "title": "马杜罗证实曾同特朗普通电话",
@@ -99,8 +100,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 13时15分]"
+          "appearance_count": 5,
+          "time_info": "[12时49分 ~ 13时43分]"
         },
         {
           "title": "特朗普言论加剧市场担忧 “战争溢价”推高油价",
@@ -218,8 +219,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时03分 ~ 13时15分]"
+          "appearance_count": 10,
+          "time_info": "[09时03分 ~ 13时43分]"
         },
         {
           "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
@@ -231,8 +232,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时03分 ~ 13时15分]"
+          "appearance_count": 10,
+          "time_info": "[09时03分 ~ 13时43分]"
         },
         {
           "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
@@ -244,6 +245,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时59分 ~ 11时00分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Deepseek 团队为什么把大量精力花在 IMO 这种对普通人和商业应用都没有用途的地方？",
+          "url": "https://www.zhihu.com/question/1979307622185341611",
+          "source": "知乎",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 11时00分]"
+        },
+        {
+          "title": "DeepSeek为何坚持中文思考",
+          "url": "https://www.toutiao.com/trending/7579812840597360174/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
         }
       ]
     },
@@ -280,17 +310,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "美元指数DXY向上触及99，日内涨0.13%。",
-          "url": "https://flash.jin10.com/detail/20251204112158676800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时54分"
-        },
-        {
           "title": "美元指数跌破50日均线 伦铜再创历史新高 | 环球市场",
           "url": "https://www.cls.cn/detail/2219026",
           "source": "财联社热门",
@@ -301,26 +320,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时54分 ~ 13时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 7,
+          "time_info": "[11时54分 ~ 13时43分]"
+        },
         {
-          "title": "Deepseek 团队为什么把大量精力花在 IMO 这种对普通人和商业应用都没有用途的地方？",
-          "url": "https://www.zhihu.com/question/1979307622185341611",
-          "source": "知乎",
+          "title": "美元指数DXY向上触及99，日内涨0.13%。",
+          "url": "https://flash.jin10.com/detail/20251204112158676800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            14
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 11时00分]"
+          "appearance_count": 1,
+          "time_info": "11时54分"
         }
       ]
     },
