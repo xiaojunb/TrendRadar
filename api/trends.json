@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T18:16:19.102152+08:00",
-  "total_titles_processed": 1325,
+  "generated_at": "2025-12-05T18:45:07.773348+08:00",
+  "total_titles_processed": 1385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美初请数据创三年新低，现货白银大幅回调！美官员称特朗普考虑明年退出美墨加协定，日本央行12月加息几成定局......美油卖出信号持续保持强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -65,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-05）",
+          "url": "https://flash.jin10.com/detail/20251205180349829800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "与特朗普意见不合，白宫宴会厅设计师换人",
@@ -233,8 +244,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时03分 ~ 18时16分]"
+          "appearance_count": 20,
+          "time_info": "[09时03分 ~ 18时45分]"
         },
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
@@ -261,11 +272,12 @@
           "ranks": [
             15,
             14,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时22分 ~ 18时16分]"
+          "appearance_count": 12,
+          "time_info": "[14时22分 ~ 18时45分]"
         },
         {
           "title": "专访｜伊朗前副总统谈伊朗干旱：“破产”的水资源与“零日”警告",
