@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T21:50:01.317999+08:00",
-  "total_titles_processed": 1721,
+  "generated_at": "2025-12-05T22:15:09.139269+08:00",
+  "total_titles_processed": 1772,
   "failed_sources": [],
   "trends": [
     {
@@ -43,6 +43,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时42分 ~ 18时16分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-05）",
+          "url": "https://flash.jin10.com/detail/20251205213443554800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 22时15分]"
         },
         {
           "title": "华纳兄弟探索公司(WBD.O)美股将于纽约时间上午7:20（北京时间晚上8:20）恢复交易。",
@@ -93,17 +105,6 @@
           "time_info": "[21时10分 ~ 21时50分]"
         },
         {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-12-05）",
-          "url": "https://flash.jin10.com/detail/20251205213443554800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
           "title": "华纳兄弟探索公司(WBD.O)美股盘前转涨，现涨1.2%。",
           "url": "https://flash.jin10.com/detail/20251205203026241800",
           "source": "金十数据",
@@ -151,7 +152,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美初请数据创三年新低，现货白银大幅回调！美官员称特朗普考虑明年退出美墨加协定，日本央行12月加息几成定局......美油卖出信号持续保持强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -163,6 +164,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时00分"
+        },
+        {
+          "title": "印媒发莫迪普京动画片 还恶搞特朗普",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%E5%8F%91%E8%8E%AB%E8%BF%AA%E6%99%AE%E4%BA%AC%E5%8A%A8%E7%94%BB%E7%89%87+%E8%BF%98%E6%81%B6%E6%90%9E%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时08分 ~ 22时15分]"
         },
         {
           "title": "市场消息：美国总统特朗普将于当地时间周五下午3点（北京时间次日凌晨4点）签署行政令。",
@@ -191,16 +205,28 @@
           "time_info": "[13时42分 ~ 14时53分]"
         },
         {
-          "title": "印媒发莫迪普京动画片 还恶搞特朗普",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%E5%8F%91%E8%8E%AB%E8%BF%AA%E6%99%AE%E4%BA%AC%E5%8A%A8%E7%94%BB%E7%89%87+%E8%BF%98%E6%81%B6%E6%90%9E%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
+          "title": "美国白宫国家经济委员会主任哈塞特：现在是美联储 “谨慎降息”的好时机，预计美联储下周将采取这一行动。 预计政府关门的影响比预期的要大。 预计第一季度将出现更大幅度的反弹。 2026年的生产率可能会达到4%。 人工智能经济的发展速度比20世纪90年代的互联网经济更快。 如果（明年）一季度和二季度的（经济）增速为3%，将会感到失望。 只要没有“随机黑天鹅”事件发生，预计2026年将成为“美国经济史上的黄金年份之一” 如果最高法院否决关税，将会造成巨大混乱。 没有和特朗普讨论过美联储主席的问题。 我支持贝森特在地区联储主席问题上的看法。",
+          "url": "https://wallstreetcn.com/livenews/3015973",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            30,
-            27
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时08分 ~ 21时50分]"
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 22时15分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：未与美国总统特朗普讨论美联储主席（人选）问题。",
+          "url": "https://flash.jin10.com/detail/20251205211546105800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 22时15分]"
         },
         {
           "title": "美部长花式“拍特朗普马屁”，特朗普听完直接笑了(图)",
@@ -212,6 +238,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        },
+        {
+          "title": "墨西哥外交部：墨西哥总统辛鲍姆确认将与美国总统特朗普和加拿大总理卡尼会面。",
+          "url": "https://flash.jin10.com/detail/20251205214207524800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "哥伦比亚总统警告特朗普：不要惊醒“美洲豹”",
@@ -236,17 +273,6 @@
           "time_info": "18时45分"
         },
         {
-          "title": "美国白宫国家经济委员会主任哈塞特：现在是美联储 “谨慎降息”的好时机，预计美联储下周将采取这一行动。 预计政府关门的影响比预期的要大。 预计第一季度将出现更大幅度的反弹。 2026年的生产率可能会达到4%。 人工智能经济的发展速度比20世纪90年代的互联网经济更快。 如果（明年）一季度和二季度的（经济）增速为3%，将会感到失望。 只要没有“随机黑天鹅”事件发生，预计2026年将成为“美国经济史上的黄金年份之一” 如果最高法院否决关税，将会造成巨大混乱。 没有和特朗普讨论过美联储主席的问题。 我支持贝森特在地区联储主席问题上的看法。",
-          "url": "https://wallstreetcn.com/livenews/3015973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
           "title": "与特朗普意见不合，白宫宴会厅设计师换人",
           "url": "https://wallstreetcn.com/livenews/3015772",
           "source": "华尔街见闻-快讯",
@@ -267,17 +293,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：未与美国总统特朗普讨论美联储主席（人选）问题。",
-          "url": "https://flash.jin10.com/detail/20251205211546105800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时50分"
         }
       ]
     },
@@ -401,8 +416,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[09时03分 ~ 21时50分]"
+          "appearance_count": 31,
+          "time_info": "[09时03分 ~ 22时15分]"
         },
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
@@ -433,8 +448,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[14时22分 ~ 21时50分]"
+          "appearance_count": 23,
+          "time_info": "[14时22分 ~ 22时15分]"
         },
         {
           "title": "专访｜伊朗前副总统谈伊朗干旱：“破产”的水资源与“零日”警告",
