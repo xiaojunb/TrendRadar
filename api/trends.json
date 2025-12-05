@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T18:45:07.773348+08:00",
-  "total_titles_processed": 1385,
+  "generated_at": "2025-12-05T19:14:13.048560+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
     {
@@ -73,7 +73,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -232,6 +232,35 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Gemini 3 DeepThink 发布",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%20DeepThink%20%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时14分]"
+        },
+        {
+          "title": "消息人士：印度政府正在审议电信行业的一项提案，该提案要求智能手机制造商必须启用始终在线的位置服务，以加强监控能力。苹果(AAPL.O)、谷歌(GOOG.O)、三星致函印度，因隐私担忧要求其勿接受电信提案，并警告其监管过度干预。",
+          "url": "https://flash.jin10.com/detail/20251205161256990800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 17时15分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -244,8 +273,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时03分 ~ 18时45分]"
+          "appearance_count": 22,
+          "time_info": "[09时03分 ~ 19时14分]"
         },
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
@@ -276,8 +305,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时22分 ~ 18时45分]"
+          "appearance_count": 14,
+          "time_info": "[14时22分 ~ 19时14分]"
         },
         {
           "title": "专访｜伊朗前副总统谈伊朗干旱：“破产”的水资源与“零日”警告",
@@ -291,24 +320,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时53分 ~ 13时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "消息人士：印度政府正在审议电信行业的一项提案，该提案要求智能手机制造商必须启用始终在线的位置服务，以加强监控能力。苹果(AAPL.O)、谷歌(GOOG.O)、三星致函印度，因隐私担忧要求其勿接受电信提案，并警告其监管过度干预。",
-          "url": "https://flash.jin10.com/detail/20251205161256990800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时48分 ~ 17时15分]"
         }
       ]
     }
