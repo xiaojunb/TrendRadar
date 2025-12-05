@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T15:17:11.040514+08:00",
-  "total_titles_processed": 932,
+  "generated_at": "2025-12-05T15:40:28.756856+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
@@ -84,17 +84,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "金十图示：2025年12月05日（周五）上海金午盘价为955.9元/克，较国际金价(960.01元/克)，低4.11元/克",
-          "url": "https://flash.jin10.com/detail/20251205150237767800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
           "title": "金十图示：2025年12月05日（周五）上海金早盘价为951.91元/克，较国际金价(954.56元/克)，低2.65元/克",
           "url": "https://flash.jin10.com/detail/20251205101748828800",
           "source": "金十数据",
@@ -104,6 +93,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时00分"
+        },
+        {
+          "title": "金十图示：2025年12月05日（周五）上海金午盘价为955.9元/克，较国际金价(960.01元/克)，低4.11元/克",
+          "url": "https://flash.jin10.com/detail/20251205150237767800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时40分]"
         },
         {
           "title": "2026金价或再涨30%",
@@ -133,11 +134,12 @@
             16,
             19,
             18,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时03分 ~ 15时17分]"
+          "appearance_count": 13,
+          "time_info": "[09时03分 ~ 15时40分]"
         },
         {
           "title": "摩根大通：DeepSeek V3.2为中国AI市场带来第二波冲击 利好多数相关方",
@@ -165,8 +167,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时03分 ~ 15时17分]"
+          "appearance_count": 13,
+          "time_info": "[09时03分 ~ 15时40分]"
         },
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
@@ -177,8 +179,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时03分 ~ 15时17分]"
+          "appearance_count": 13,
+          "time_info": "[09时03分 ~ 15时40分]"
         }
       ]
     },
@@ -207,8 +209,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时22分 ~ 15时17分]"
+          "appearance_count": 5,
+          "time_info": "[14时22分 ~ 15时40分]"
         }
       ]
     },
