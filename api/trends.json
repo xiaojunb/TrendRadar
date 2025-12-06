@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T22:12:34.592422+08:00",
-  "total_titles_processed": 1241,
+  "generated_at": "2025-12-06T22:39:09.325518+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普世界杯抽签搞抽象",
@@ -38,8 +38,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[15时13分 ~ 22时12分]"
+          "appearance_count": 19,
+          "time_info": "[15时13分 ~ 22时39分]"
         },
         {
           "title": "特朗普获得“国际足联和平奖”",
@@ -49,11 +49,12 @@
             16,
             18,
             26,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[17时13分 ~ 22时12分]"
+          "appearance_count": 14,
+          "time_info": "[17时13分 ~ 22时39分]"
         },
         {
           "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
@@ -65,8 +66,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时37分 ~ 22时12分]"
+          "appearance_count": 12,
+          "time_info": "[17时37分 ~ 22时39分]"
         },
         {
           "title": "特朗普签署法律，撤销阿拉斯加国家石油储备区钻探限制",
@@ -171,6 +172,17 @@
           "time_info": "[11时40分 ~ 15时13分]"
         },
         {
+          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
+          "url": "https://v.ifeng.com/c/8oreqqskdgg",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时35分 ~ 22时39分]"
+        },
+        {
           "title": "日媒：特朗普与高市通话措辞非常严厉",
           "url": "https://www.toutiao.com/trending/7579684143039381523/",
           "source": "今日头条",
@@ -217,17 +229,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时13分 ~ 18时41分]"
-        },
-        {
-          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
-          "url": "https://v.ifeng.com/c/8oreqqskdgg",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时35分 ~ 22时12分]"
         },
         {
           "title": "白宫：特朗普签署法案，废止土地管理局关于“阿拉斯加国家石油储备综合活动计划决策记录”的相关规定。",
@@ -277,6 +278,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时02分 ~ 21时42分]"
+        },
+        {
+          "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
+          "url": "https://news.ifeng.com/c/8os5vGpW9R1",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时38分 ~ 22时39分]"
         },
         {
           "title": "特朗普首次会见辛鲍姆",
@@ -348,7 +360,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
@@ -361,8 +373,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时37分 ~ 22时12分]"
+          "appearance_count": 12,
+          "time_info": "[17时37分 ~ 22时39分]"
         },
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -378,6 +390,17 @@
           "is_new": false,
           "appearance_count": 25,
           "time_info": "[11时39分 ~ 21时02分]"
+        },
+        {
+          "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
+          "url": "https://www.zhihu.com/question/1979858915077404344",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时38分 ~ 22时39分]"
         },
         {
           "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
@@ -450,8 +473,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[09时01分 ~ 22时12分]"
+          "appearance_count": 31,
+          "time_info": "[09时01分 ~ 22时39分]"
         },
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
@@ -480,8 +503,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[09时01分 ~ 22时12分]"
+          "appearance_count": 31,
+          "time_info": "[09时01分 ~ 22时39分]"
         },
         {
           "title": "周五（12月5日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘跌3.68%，报89425美元，本周累计下跌1.80%。 CME以太币期货DCR主力合约跌4.09%，报3023美元，本周累跌0.71%。 美股加密货币与加密货币关联指数跌3.99%，报69.08点，本周累跌3.12%。 最近24小时，MarketVector数字资产100小盘指数跌5.31%，暂报4051.02点。",
@@ -514,8 +537,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[11时39分 ~ 22时12分]"
+          "appearance_count": 29,
+          "time_info": "[11时39分 ~ 22时39分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
@@ -564,8 +587,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时25分 ~ 22时12分]"
+          "appearance_count": 6,
+          "time_info": "[20时25分 ~ 22时39分]"
         }
       ]
     },
