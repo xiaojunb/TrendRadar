@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T16:17:44.779406+08:00",
-  "total_titles_processed": 797,
+  "generated_at": "2025-12-06T16:44:56.790945+08:00",
+  "total_titles_processed": 836,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             5,
             22,
             15,
-            28
+            28,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时42分 ~ 16时17分]"
+          "appearance_count": 14,
+          "time_info": "[10时42分 ~ 16时44分]"
         },
         {
           "title": "特朗普签署法律，撤销阿拉斯加国家石油储备区钻探限制",
@@ -69,11 +70,12 @@
             6,
             8,
             16,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时14分 ~ 16时17分]"
+          "appearance_count": 8,
+          "time_info": "[13时14分 ~ 16时44分]"
         },
         {
           "title": "特朗普警告高市早苗别插手台海",
@@ -136,6 +138,19 @@
           "time_info": "[11时39分 ~ 11时40分]"
         },
         {
+          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979570545172423754",
+          "source": "知乎",
+          "ranks": [
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时13分 ~ 16时44分]"
+        },
+        {
           "title": "白宫：特朗普签署法案，废止土地管理局关于“阿拉斯加国家石油储备综合活动计划决策记录”的相关规定。",
           "url": "https://flash.jin10.com/detail/20251206085353161800",
           "source": "金十数据",
@@ -147,19 +162,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时01分 ~ 11时40分]"
-        },
-        {
-          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979570545172423754",
-          "source": "知乎",
-          "ranks": [
-            6,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时13分 ~ 16时17分]"
         },
         {
           "title": "特朗普：疾控中心叫停乙肝疫苗建议的决定是正确的。 已签署备忘录要求卫生与公众服务部评估疫苗接种时间表。",
@@ -268,8 +270,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时39分 ~ 16时17分]"
+          "appearance_count": 15,
+          "time_info": "[11时39分 ~ 16时44分]"
         },
         {
           "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
@@ -342,8 +344,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时01分 ~ 16时17分]"
+          "appearance_count": 17,
+          "time_info": "[09时01分 ~ 16时44分]"
         },
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
@@ -356,8 +358,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时01分 ~ 16时17分]"
+          "appearance_count": 17,
+          "time_info": "[09时01分 ~ 16时44分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -370,8 +372,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时01分 ~ 16时17分]"
+          "appearance_count": 17,
+          "time_info": "[09时01分 ~ 16时44分]"
         },
         {
           "title": "周五（12月5日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘跌3.68%，报89425美元，本周累计下跌1.80%。 CME以太币期货DCR主力合约跌4.09%，报3023美元，本周累跌0.71%。 美股加密货币与加密货币关联指数跌3.99%，报69.08点，本周累跌3.12%。 最近24小时，MarketVector数字资产100小盘指数跌5.31%，暂报4051.02点。",
@@ -400,8 +402,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时39分 ~ 16时17分]"
+          "appearance_count": 15,
+          "time_info": "[11时39分 ~ 16时44分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
