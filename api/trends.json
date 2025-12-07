@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T19:35:11.325257+08:00",
-  "total_titles_processed": 1014,
+  "generated_at": "2025-12-07T20:24:35.034016+08:00",
+  "total_titles_processed": 1060,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "美防长：特朗普政府将“把国家实际利益放在首位”",
@@ -71,8 +71,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时38分 ~ 19时35分]"
+          "appearance_count": 9,
+          "time_info": "[17时38分 ~ 20时24分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-07）",
@@ -81,11 +81,34 @@
           "ranks": [
             1,
             6,
-            11
+            11,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 19时35分]"
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 20时24分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
+          "url": "https://flash.jin10.com/detail/20251207194238247800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们已接近特朗普加沙计划的第二阶段。",
+          "url": "https://flash.jin10.com/detail/20251207193951591800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "年终总结特朗普重返白宫",
@@ -166,6 +189,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时09分 ~ 09时10分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我将于本月会晤美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20251207192532766800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         }
       ]
     },
