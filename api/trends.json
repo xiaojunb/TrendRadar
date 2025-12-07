@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T18:40:11.898074+08:00",
-  "total_titles_processed": 949,
+  "generated_at": "2025-12-07T19:11:27.438246+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
@@ -70,8 +70,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时38分 ~ 18时40分]"
+          "appearance_count": 6,
+          "time_info": "[17时38分 ~ 19时11分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-07）",
@@ -79,11 +79,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 18时40分]"
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 19时11分]"
         },
         {
           "title": "年终总结特朗普重返白宫",
@@ -108,6 +109,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时13分 ~ 13时40分]"
+        },
+        {
+          "title": "特朗普威胁封锁委领空 马杜罗咋办",
+          "url": "https://www.toutiao.com/trending/7581027611489340991/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时39分 ~ 19时11分]"
         },
         {
           "title": "特朗普政府对于中日外交争端保持沉默",
@@ -152,17 +165,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时09分 ~ 09时10分]"
-        },
-        {
-          "title": "特朗普威胁封锁委领空 马杜罗咋办",
-          "url": "https://www.toutiao.com/trending/7581027611489340991/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 18时40分]"
         }
       ]
     },
@@ -217,8 +219,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[13时39分 ~ 18时40分]"
+          "appearance_count": 17,
+          "time_info": "[13时39分 ~ 19时11分]"
         }
       ]
     },
@@ -252,11 +254,12 @@
           "ranks": [
             5,
             7,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时38分 ~ 18时40分]"
+          "appearance_count": 4,
+          "time_info": "[17时38分 ~ 19时11分]"
         }
       ]
     }
