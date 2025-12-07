@@ -1,12 +1,31 @@
 {
-  "generated_at": "2025-12-07T16:43:38.619104+08:00",
-  "total_titles_processed": 807,
+  "generated_at": "2025-12-07T17:13:58.458596+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 8,
       "titles": [
+        {
+          "title": "美防长：特朗普政府将“把国家实际利益放在首位”",
+          "url": "https://flash.jin10.com/detail/20251207122838853800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            4,
+            7,
+            9,
+            10,
+            14,
+            21,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时50分 ~ 17时13分]"
+        },
         {
           "title": "美国发生特大诈骗案 特朗普怒批",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%94%9F%E7%89%B9%E5%A4%A7%E8%AF%88%E9%AA%97%E6%A1%88+%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%89%B9",
@@ -25,24 +44,6 @@
           "time_info": "[11时10分 ~ 15时36分]"
         },
         {
-          "title": "美防长：特朗普政府将“把国家实际利益放在首位”",
-          "url": "https://flash.jin10.com/detail/20251207122838853800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            4,
-            7,
-            9,
-            10,
-            14,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时50分 ~ 16时43分]"
-        },
-        {
           "title": "特朗普签署行政令调查外资企业食品反竞争行为",
           "url": "https://flash.jin10.com/detail/20251207124750348800",
           "source": "金十数据",
@@ -53,11 +54,12 @@
             7,
             11,
             18,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时13分 ~ 16时43分]"
+          "appearance_count": 9,
+          "time_info": "[13时13分 ~ 17时13分]"
         },
         {
           "title": "年终总结特朗普重返白宫",
@@ -167,8 +169,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时39分 ~ 16时43分]"
+          "appearance_count": 11,
+          "time_info": "[13时39分 ~ 17时13分]"
         }
       ]
     },
