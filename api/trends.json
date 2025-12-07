@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T13:40:09.840164+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2025-12-07T14:19:48.454827+08:00",
+  "total_titles_processed": 631,
   "failed_sources": [],
   "trends": [
     {
@@ -15,23 +15,12 @@
             27,
             25,
             5,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时10分 ~ 13时40分]"
-        },
-        {
-          "title": "特朗普签署行政令调查外资企业食品反竞争行为",
-          "url": "https://flash.jin10.com/detail/20251207124750348800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时40分]"
+          "appearance_count": 9,
+          "time_info": "[11时10分 ~ 14时19分]"
         },
         {
           "title": "美防长：特朗普政府将“把国家实际利益放在首位”",
@@ -40,11 +29,25 @@
           "ranks": [
             1,
             4,
-            7
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 14时19分]"
+        },
+        {
+          "title": "特朗普签署行政令调查外资企业食品反竞争行为",
+          "url": "https://flash.jin10.com/detail/20251207124750348800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            4,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时50分 ~ 13时40分]"
+          "time_info": "[13时13分 ~ 14时19分]"
         },
         {
           "title": "特朗普称其主持典礼会比吉米做得更好",
@@ -107,8 +110,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时09分 ~ 13时40分]"
+          "appearance_count": 11,
+          "time_info": "[09时09分 ~ 14时19分]"
         }
       ]
     },
@@ -141,8 +144,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时39分 ~ 13时40分]"
+          "appearance_count": 3,
+          "time_info": "[13时39分 ~ 14时19分]"
         }
       ]
     },
@@ -160,8 +163,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时09分 ~ 13时40分]"
+          "appearance_count": 11,
+          "time_info": "[09时09分 ~ 14时19分]"
         }
       ]
     }
