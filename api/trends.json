@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T19:11:27.438246+08:00",
-  "total_titles_processed": 987,
+  "generated_at": "2025-12-07T19:35:11.325257+08:00",
+  "total_titles_processed": 1014,
   "failed_sources": [],
   "trends": [
     {
@@ -67,11 +67,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时38分 ~ 19时11分]"
+          "appearance_count": 8,
+          "time_info": "[17时38分 ~ 19时35分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-07）",
@@ -83,8 +84,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时13分 ~ 19时11分]"
+          "appearance_count": 4,
+          "time_info": "[18时13分 ~ 19时35分]"
         },
         {
           "title": "年终总结特朗普重返白宫",
@@ -258,8 +259,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时38分 ~ 19时11分]"
+          "appearance_count": 5,
+          "time_info": "[17时38分 ~ 19时35分]"
         }
       ]
     }
