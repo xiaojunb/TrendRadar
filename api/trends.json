@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T16:52:37.355401+08:00",
-  "total_titles_processed": 1043,
+  "generated_at": "2025-12-08T17:21:57.997765+08:00",
+  "total_titles_processed": 1098,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普称对泽连斯基感到失望",
@@ -17,11 +17,12 @@
             17,
             7,
             16,
-            22
+            22,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时06分 ~ 16时52分]"
+          "appearance_count": 13,
+          "time_info": "[12时06分 ~ 17时21分]"
         },
         {
           "title": "以总统拒绝特朗普“求情”",
@@ -101,6 +102,17 @@
           "time_info": "12时06分"
         },
         {
+          "title": "特朗普正考虑解雇美国土安全部长诺姆？白宫否认",
+          "url": "https://wallstreetcn.com/livenews/3016887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
           "title": "特朗普政府战略调整，赖清德当局战略冒进",
           "url": "https://news.ifeng.com/c/8ouw16T8NSP",
           "source": "凤凰网",
@@ -109,8 +121,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时42分 ~ 16时52分]"
+          "appearance_count": 5,
+          "time_info": "[15时42分 ~ 17时21分]"
         },
         {
           "title": "特朗普长子批乌政府“送穷人上前线，窃取西方资金”",
@@ -132,8 +144,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 16时52分]"
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 17时21分]"
         },
         {
           "title": "特朗普计划周一宣布一项120亿美元的农业援助计划。（彭博）",
@@ -251,8 +263,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时42分 ~ 16时52分]"
+          "appearance_count": 5,
+          "time_info": "[15时42分 ~ 17时21分]"
         },
         {
           "title": "伊朗外长：核设施虽遭美以摧毁 但伊朗和平核计划决心不变",
@@ -290,6 +302,59 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "欧莱雅将所持高德美股份增持至20%。",
+          "url": "https://wallstreetcn.com/livenews/3016758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时24分 ~ 15时43分]"
+        },
+        {
+          "title": "摩根士丹利重申看好美股前景，因美联储降息预期",
+          "url": "https://wallstreetcn.com/livenews/3016884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "美股盘前，美光科技涨超1.4%，博通涨超1.3%，台积电涨近1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3016879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "Yardeni建议低配美股科技七巨头 预测15年来的科技主线将生变",
+          "url": "https://wallstreetcn.com/livenews/3016623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -307,8 +372,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时52分 ~ 16时52分]"
+          "appearance_count": 12,
+          "time_info": "[12时52分 ~ 17时21分]"
         },
         {
           "title": "详谈谷歌TPU芯片：如何与博通博弈？能否和英伟达竞争？",
@@ -359,37 +424,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "欧莱雅将所持高德美股份增持至20%。",
-          "url": "https://wallstreetcn.com/livenews/3016758",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时24分 ~ 15时43分]"
-        },
-        {
-          "title": "Yardeni建议低配美股科技七巨头 预测15年来的科技主线将生变",
-          "url": "https://wallstreetcn.com/livenews/3016623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
         }
       ]
     },
