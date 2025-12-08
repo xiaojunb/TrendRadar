@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T16:22:49.339587+08:00",
-  "total_titles_processed": 987,
+  "generated_at": "2025-12-08T16:52:37.355401+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时06分 ~ 16时22分]"
+          "appearance_count": 12,
+          "time_info": "[12时06分 ~ 16时52分]"
         },
         {
           "title": "以总统拒绝特朗普“求情”",
@@ -34,6 +34,24 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时04分 ~ 15时19分]"
+        },
+        {
+          "title": "特朗普获国际足联和平奖",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            16,
+            22,
+            29,
+            18,
+            19,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时04分 ~ 16时52分]"
         },
         {
           "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
@@ -61,23 +79,6 @@
           "time_info": "[11时03分 ~ 15时19分]"
         },
         {
-          "title": "特朗普获国际足联和平奖",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            16,
-            22,
-            29,
-            18,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时04分 ~ 14时56分]"
-        },
-        {
           "title": "网飞与华纳达成收购协议，特朗普警告",
           "url": "https://news.ifeng.com/c/8oucdTKBlFd",
           "source": "凤凰网",
@@ -100,6 +101,18 @@
           "time_info": "12时06分"
         },
         {
+          "title": "特朗普政府战略调整，赖清德当局战略冒进",
+          "url": "https://news.ifeng.com/c/8ouw16T8NSP",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时42分 ~ 16时52分]"
+        },
+        {
           "title": "特朗普长子批乌政府“送穷人上前线，窃取西方资金”",
           "url": "https://news.ifeng.com/c/8ou4WvyPNGq",
           "source": "凤凰网",
@@ -112,16 +125,15 @@
           "time_info": "[09时04分 ~ 12时06分]"
         },
         {
-          "title": "特朗普政府战略调整，赖清德当局战略冒进",
-          "url": "https://news.ifeng.com/c/8ouw16T8NSP",
-          "source": "凤凰网",
+          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
+          "url": "https://wallstreetcn.com/articles/3760897",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            11
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时42分 ~ 16时22分]"
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时52分]"
         },
         {
           "title": "特朗普计划周一宣布一项120亿美元的农业援助计划。（彭博）",
@@ -180,17 +192,6 @@
           "time_info": "09时04分"
         },
         {
-          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
-          "url": "https://wallstreetcn.com/articles/3760897",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
           "title": "特朗普计划为遭受贸易战打击的农民提供120亿美元援助",
           "url": "https://flash.jin10.com/detail/20251208112858564800",
           "source": "金十数据",
@@ -219,7 +220,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         }
@@ -250,8 +251,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时42分 ~ 16时22分]"
+          "appearance_count": 4,
+          "time_info": "[15时42分 ~ 16时52分]"
         },
         {
           "title": "伊朗外长：核设施虽遭美以摧毁 但伊朗和平核计划决心不变",
@@ -302,11 +303,12 @@
             9,
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时52分 ~ 16时22分]"
+          "appearance_count": 11,
+          "time_info": "[12时52分 ~ 16时52分]"
         },
         {
           "title": "详谈谷歌TPU芯片：如何与博通博弈？能否和英伟达竞争？",
@@ -326,7 +328,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         }
