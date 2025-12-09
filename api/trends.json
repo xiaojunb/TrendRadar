@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T17:44:41.096145+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2025-12-09T18:17:54.738888+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
@@ -45,6 +45,19 @@
           "time_info": "[10时59分 ~ 13时43分]"
         },
         {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时17分 ~ 18时17分]"
+        },
+        {
           "title": "特朗普女婿，“杀回来了”",
           "url": "https://news.ifeng.com/c/8owSp96lgRc",
           "source": "凤凰网",
@@ -54,18 +67,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时42分 ~ 15时17分]"
-        },
-        {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时17分 ~ 17时44分]"
         },
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -189,7 +190,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -219,7 +220,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
@@ -322,6 +323,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时51分 ~ 17时18分]"
+        },
+        {
+          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
+          "url": "https://wallstreetcn.com/articles/3760956",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         }
       ]
     },
@@ -353,6 +365,18 @@
           "time_info": "[15时17分 ~ 15时41分]"
         },
         {
+          "title": "金价波动不大，市场关注鲍威尔讲话揭示后续路径",
+          "url": "https://flash.jin10.com/detail/20251209170958206800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 18时17分]"
+        },
+        {
           "title": "金十图示：2025年12月09日（周二）上海金午盘价为946.96元/克，较国际金价(950.39元/克)，低3.43元/克",
           "url": "https://flash.jin10.com/detail/20251209150248326800",
           "source": "金十数据",
@@ -362,17 +386,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
-        },
-        {
-          "title": "金价波动不大，市场关注鲍威尔讲话揭示后续路径",
-          "url": "https://flash.jin10.com/detail/20251209170958206800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时44分"
         }
       ]
     },
@@ -411,11 +424,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 17时44分]"
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 18时17分]"
         },
         {
           "title": "美股三大指数集体收跌 特斯拉跌超3%",
@@ -448,8 +462,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时42分 ~ 17时44分]"
+          "appearance_count": 13,
+          "time_info": "[13时42分 ~ 18时17分]"
         },
         {
           "title": "梁文锋、杜梦然上榜！《自然》公布2025年度十大科学人物",
@@ -508,8 +522,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时03分 ~ 17时44分]"
+          "appearance_count": 20,
+          "time_info": "[09时03分 ~ 18时17分]"
         }
       ]
     }
