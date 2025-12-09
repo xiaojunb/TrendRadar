@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T14:23:01.789690+08:00",
-  "total_titles_processed": 793,
+  "generated_at": "2025-12-09T14:53:49.175849+08:00",
+  "total_titles_processed": 849,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时59分 ~ 14时23分]"
+          "appearance_count": 11,
+          "time_info": "[10时59分 ~ 14时53分]"
         },
         {
           "title": "日媒更慌了，“特朗普还不说话，这下怎么搞”",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 14时23分]"
+          "appearance_count": 5,
+          "time_info": "[13时42分 ~ 14时53分]"
         },
         {
           "title": "美议员急了：特朗普你得拉一把日本啊",
@@ -55,6 +55,17 @@
           "time_info": "09时03分"
         },
         {
+          "title": "特朗普女婿，“杀回来了”",
+          "url": "https://news.ifeng.com/c/8owSp96lgRc",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时42分 ~ 14时53分]"
+        },
+        {
           "title": "美国法官驳回特朗普政府暂停风能许可的决定",
           "url": "https://flash.jin10.com/detail/20251209084650898800",
           "source": "金十数据",
@@ -64,17 +75,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
-        },
-        {
-          "title": "特朗普女婿，“杀回来了”",
-          "url": "https://news.ifeng.com/c/8owSp96lgRc",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 14时23分]"
         },
         {
           "title": "特朗普威胁墨西哥：如不“立即放水”，再加征5%关税",
@@ -117,11 +117,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%98%AF%E5%90%A6%E5%85%AC%E5%B8%83%E8%A7%86%E9%A2%91%E7%94%B1%E7%BE%8E%E9%98%B2%E9%95%BF%E5%86%B3%E5%AE%9A",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 14时23分]"
+          "appearance_count": 3,
+          "time_info": "[14时22分 ~ 14时53分]"
         },
         {
           "title": "甲骨文联合创始人埃里森向特朗普表示，华纳兄弟与奈飞的交易或将损害市场竞争。（华尔街日报）",
@@ -161,8 +162,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时03分 ~ 14时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时03分 ~ 14时53分]"
         },
         {
           "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
@@ -175,8 +176,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时03分 ~ 14时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时03分 ~ 14时53分]"
         },
         {
           "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
@@ -219,8 +220,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时03分 ~ 14时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时03分 ~ 14时53分]"
         },
         {
           "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
@@ -261,8 +262,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 14时23分]"
+          "appearance_count": 5,
+          "time_info": "[13时42分 ~ 14时53分]"
         },
         {
           "title": "梁文锋、杜梦然上榜！《自然》公布2025年度十大科学人物",
@@ -279,18 +280,30 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。德国电信将使用ChatGPT企业版。",
           "url": "https://wallstreetcn.com/livenews/3017432",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 14时53分]"
+        },
+        {
+          "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。",
+          "url": "https://flash.jin10.com/detail/20251209140918642800",
+          "source": "金十数据",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时23分"
+          "time_info": "14时53分"
         }
       ]
     },
@@ -324,8 +337,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时03分 ~ 14时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时03分 ~ 14时53分]"
         }
       ]
     }
