@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T19:14:28.593603+08:00",
-  "total_titles_processed": 1366,
+  "generated_at": "2025-12-09T19:39:06.611803+08:00",
+  "total_titles_processed": 1401,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -40,11 +40,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时17分 ~ 19时14分]"
+          "appearance_count": 11,
+          "time_info": "[15时17分 ~ 19时39分]"
         },
         {
           "title": "美议员急了：特朗普你得拉一把日本啊",
@@ -70,6 +71,39 @@
           "time_info": "[13时42分 ~ 15时17分]"
         },
         {
+          "title": "据Politico：美国总统特朗普表示，欧洲国家“正在走向衰败”，领导人“软弱”。",
+          "url": "https://flash.jin10.com/detail/20251209191036728800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 19时39分]"
+        },
+        {
+          "title": "匈牙利福林兑美元抹去涨幅，据报特朗普否认承诺救助匈牙利。",
+          "url": "https://flash.jin10.com/detail/20251209190828500800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 19时39分]"
+        },
+        {
+          "title": "据报道，特朗普称降息是美联储主席的试金石。",
+          "url": "https://wallstreetcn.com/livenews/3017651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
           "url": "https://wallstreetcn.com/livenews/3017241",
           "source": "华尔街见闻-快讯",
@@ -79,6 +113,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        },
+        {
+          "title": "特朗普可能会通过调整关税来降低部分商品价格。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3017647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "美国法官驳回特朗普政府暂停风能许可的决定",
@@ -101,28 +146,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
-        },
-        {
-          "title": "据Politico：美国总统特朗普表示，欧洲国家“正在走向衰败”，领导人“软弱”。",
-          "url": "https://flash.jin10.com/detail/20251209191036728800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "匈牙利福林兑美元抹去涨幅，据报特朗普否认承诺救助匈牙利。",
-          "url": "https://flash.jin10.com/detail/20251209190828500800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
         },
         {
           "title": "特朗普：是否公布视频由美防长决定",
@@ -174,6 +197,28 @@
           "time_info": "[10时59分 ~ 12时23分]"
         },
         {
+          "title": "据Politico：特朗普否认承诺救助匈牙利。",
+          "url": "https://flash.jin10.com/detail/20251209190736130800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 19时39分]"
+        },
+        {
+          "title": "路透社/益普索民意调查：随着共和党人支持美国总统特朗普应对生活成本问题的方式，对其工作方面的支持率从38%升至41%。",
+          "url": "https://flash.jin10.com/detail/20251209190617908800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 19时39分]"
+        },
+        {
           "title": "美国总统特朗普：本周将针对人工智能发布单一规则行政命令",
           "url": "https://wallstreetcn.com/articles/3760944",
           "source": "华尔街见闻",
@@ -183,6 +228,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时51分 ~ 17时18分]"
+        },
+        {
+          "title": "路透社/益普索民意调查：西语裔对美国总统特朗普的支持率微升至34%。",
+          "url": "https://flash.jin10.com/detail/20251209190541205800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 19时39分]"
+        },
+        {
+          "title": "路透社/益普索民意调查：美国总统特朗普在生活成本问题上的支持率从26%升至31%，其中共和党内的支持率大幅上涨10个百分点。",
+          "url": "https://flash.jin10.com/detail/20251209190527721800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 19时39分]"
         },
         {
           "title": "美国总统特朗普：正是因为关税的便捷与快速实施，我们的国家安全才得到极大增强，我们也成为了当今世界金融实力最强的国家。",
@@ -196,17 +263,6 @@
           "time_info": "16时21分"
         },
         {
-          "title": "据Politico：特朗普否认承诺救助匈牙利。",
-          "url": "https://flash.jin10.com/detail/20251209190736130800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
           "title": "美国总统特朗普：对美国国家安全最大的历史性威胁，将是美国最高法院就关税问题作出的不利裁决。届时，我们在经济上将毫无防御能力。",
           "url": "https://flash.jin10.com/detail/20251209154605581800",
           "source": "金十数据",
@@ -218,37 +274,15 @@
           "time_info": "16时21分"
         },
         {
-          "title": "路透社/益普索民意调查：随着共和党人支持美国总统特朗普应对生活成本问题的方式，对其工作方面的支持率从38%升至41%。",
-          "url": "https://flash.jin10.com/detail/20251209190617908800",
-          "source": "金十数据",
+          "title": "美国总统特朗普表示，欧洲国家“正在走向衰败”，领导人“软弱”。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3017639",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "路透社/益普索民意调查：西语裔对美国总统特朗普的支持率微升至34%。",
-          "url": "https://flash.jin10.com/detail/20251209190541205800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "路透社/益普索民意调查：美国总统特朗普在生活成本问题上的支持率从26%升至31%，其中共和党内的支持率大幅上涨10个百分点。",
-          "url": "https://flash.jin10.com/detail/20251209190527721800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "19时39分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-09）",
@@ -351,6 +385,18 @@
           "time_info": "[09时03分 ~ 13时43分]"
         },
         {
+          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
+          "url": "https://wallstreetcn.com/articles/3760956",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时17分 ~ 19时39分]"
+        },
+        {
           "title": "欧盟将调查谷歌是否违反竞争法",
           "url": "https://wallstreetcn.com/livenews/3017511",
           "source": "华尔街见闻-快讯",
@@ -376,18 +422,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时23分 ~ 13时43分]"
-        },
-        {
-          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
-          "url": "https://wallstreetcn.com/articles/3760956",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 19时14分]"
         },
         {
           "title": "欧盟就谷歌将在线内容用于AI相关用途一事发起反垄断调查",
@@ -474,11 +508,12 @@
           "url": "https://wallstreetcn.com/livenews/3017613",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 19时39分]"
         },
         {
           "title": "美股三大指数集体收跌 特斯拉跌超3%",
@@ -563,8 +598,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时42分 ~ 19时14分]"
+          "appearance_count": 17,
+          "time_info": "[13时42分 ~ 19时39分]"
         },
         {
           "title": "梁文锋、杜梦然上榜！《自然》公布2025年度十大科学人物",
@@ -623,8 +658,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[09时03分 ~ 19时14分]"
+          "appearance_count": 24,
+          "time_info": "[09时03分 ~ 19时39分]"
         }
       ]
     }
