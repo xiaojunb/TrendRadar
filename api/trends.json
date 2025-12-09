@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T16:51:47.057541+08:00",
-  "total_titles_processed": 1080,
+  "generated_at": "2025-12-09T17:18:24.860106+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时59分 ~ 16时51分]"
+          "appearance_count": 17,
+          "time_info": "[10时59分 ~ 17时18分]"
         },
         {
           "title": "日媒更慌了，“特朗普还不说话，这下怎么搞”",
@@ -89,6 +89,18 @@
           "time_info": "16时21分"
         },
         {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时17分 ~ 17时18分]"
+        },
+        {
           "title": "特朗普：是否公布视频由美防长决定",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%98%AF%E5%90%A6%E5%85%AC%E5%B8%83%E8%A7%86%E9%A2%91%E7%94%B1%E7%BE%8E%E9%98%B2%E9%95%BF%E5%86%B3%E5%AE%9A",
           "source": "百度热搜",
@@ -112,18 +124,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时59分 ~ 11时51分]"
-        },
-        {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时17分 ~ 16时51分]"
         },
         {
           "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
@@ -150,6 +150,17 @@
           "time_info": "[10时59分 ~ 12时23分]"
         },
         {
+          "title": "美国总统特朗普：本周将针对人工智能发布单一规则行政命令",
+          "url": "https://wallstreetcn.com/articles/3760944",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 17时18分]"
+        },
+        {
           "title": "美国总统特朗普：正是因为关税的便捷与快速实施，我们的国家安全才得到极大增强，我们也成为了当今世界金融实力最强的国家。",
           "url": "https://flash.jin10.com/detail/20251209154623905800",
           "source": "金十数据",
@@ -170,17 +181,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
-        },
-        {
-          "title": "美国总统特朗普：本周将针对人工智能发布单一规则行政命令",
-          "url": "https://wallstreetcn.com/articles/3760944",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
         },
         {
           "title": "甲骨文联合创始人埃里森向特朗普表示，华纳兄弟与奈飞的交易或将损害市场竞争。（华尔街日报）",
@@ -255,11 +255,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 16时51分]"
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 17时18分]"
         },
         {
           "title": "谷歌与XREAL联合发布Project Aura",
@@ -280,33 +281,89 @@
           "url": "https://flash.jin10.com/detail/20251209161413716800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 17时18分]"
         },
         {
           "title": "市场消息：欧洲监管机构将调查谷歌(GOOG.O)是否违反竞争法。",
           "url": "https://flash.jin10.com/detail/20251209161206794800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 17时18分]"
         },
         {
           "title": "市场消息：欧洲监管机构对谷歌(GOOG.O)人工智能使用在线内容展开调查。",
           "url": "https://flash.jin10.com/detail/20251209161139815800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 17时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
+          "url": "https://www.cls.cn/detail/2223379",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[09时03分 ~ 15时41分]"
+        },
+        {
+          "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2223257",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时03分 ~ 13时15分]"
+        },
+        {
+          "title": "美股盘前，英伟达延续昨日涨势，现涨超2%，英特尔涨超1%。热门中概股涨跌互现，阿里巴巴跌1%，百度跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3017543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时51分"
+          "time_info": "17时18分"
+        },
+        {
+          "title": "美股三大指数集体收跌 特斯拉跌超3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         }
       ]
     },
@@ -351,48 +408,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
-          "url": "https://www.cls.cn/detail/2223379",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时03分 ~ 15时41分]"
-        },
-        {
-          "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2223257",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时03分 ~ 13时15分]"
-        },
-        {
-          "title": "美股三大指数集体收跌 特斯拉跌超3%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%853%25",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -405,11 +420,12 @@
             15,
             16,
             12,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时42分 ~ 16时51分]"
+          "appearance_count": 11,
+          "time_info": "[13时42分 ~ 17时18分]"
         },
         {
           "title": "梁文锋、杜梦然上榜！《自然》公布2025年度十大科学人物",
@@ -468,8 +484,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时03分 ~ 16时51分]"
+          "appearance_count": 18,
+          "time_info": "[09时03分 ~ 17时18分]"
         }
       ]
     }
