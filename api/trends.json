@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T16:21:01.128833+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2025-12-10T16:51:16.538423+08:00",
+  "total_titles_processed": 1057,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时22分 ~ 16时21分]"
+          "appearance_count": 9,
+          "time_info": "[14时22分 ~ 16时51分]"
         },
         {
           "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
@@ -40,8 +40,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时05分 ~ 16时21分]"
+          "appearance_count": 16,
+          "time_info": "[09时05分 ~ 16时51分]"
+        },
+        {
+          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
+          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时42分 ~ 16时51分]"
         },
         {
           "title": "特朗普：泽连斯基拿了千亿却丢25%国土",
@@ -55,18 +67,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时44分 ~ 15时42分]"
-        },
-        {
-          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
-          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时42分 ~ 16时21分]"
         },
         {
           "title": "特朗普称泽连斯基赚走拜登3500亿美元",
@@ -125,6 +125,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
+          "url": "https://www.cls.cn/detail/2225037",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时42分 ~ 16时51分]"
         },
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -186,18 +199,6 @@
           "time_info": "[14时22分 ~ 15时18分]"
         },
         {
-          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
-          "url": "https://www.cls.cn/detail/2225037",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时42分 ~ 16时21分]"
-        },
-        {
           "title": "特朗普厕所门口受访被人推门撞到",
           "url": "https://www.toutiao.com/trending/7582097221663936046/",
           "source": "今日头条",
@@ -207,6 +208,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时22分 ~ 14时54分]"
+        },
+        {
+          "title": "特朗普谈泰柬冲突：我得打个电话",
+          "url": "https://www.toutiao.com/trending/7582060214204104755/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 16时51分]"
         },
         {
           "title": "特朗普发长文回击：自诩政绩空前，晒“满分”健康报告，斥责《纽约时报》为“人民公敌”",
@@ -240,17 +253,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时06分 ~ 12时07分]"
-        },
-        {
-          "title": "特朗普谈泰柬冲突：我得打个电话",
-          "url": "https://www.toutiao.com/trending/7582060214204104755/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 16时21分]"
         },
         {
           "title": "特朗普为何强推俄乌和平",
@@ -303,7 +305,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -465,8 +467,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时05分 ~ 16时21分]"
+          "appearance_count": 16,
+          "time_info": "[09时05分 ~ 16时51分]"
         }
       ]
     },
