@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-10T15:18:04.308118+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2025-12-10T15:42:25.709884+08:00",
+  "total_titles_processed": 923,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普现在很焦虑",
           "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时05分 ~ 15时18分]"
+          "appearance_count": 13,
+          "time_info": "[09时05分 ~ 15时42分]"
         },
         {
           "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
@@ -27,19 +28,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时05分 ~ 15时18分]"
+          "appearance_count": 13,
+          "time_info": "[09时05分 ~ 15时42分]"
         },
         {
           "title": "特朗普：泰柬又打起来了，我得打个电话",
           "url": "https://news.ifeng.com/c/8oyCMciyCox",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时22分 ~ 15时18分]"
+          "appearance_count": 6,
+          "time_info": "[14时22分 ~ 15时42分]"
         },
         {
           "title": "特朗普：泽连斯基拿了千亿却丢25%国土",
@@ -51,8 +53,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时44分 ~ 15时18分]"
+          "appearance_count": 7,
+          "time_info": "[13时44分 ~ 15时42分]"
+        },
+        {
+          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
+          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "特朗普称泽连斯基赚走拜登3500亿美元",
@@ -111,6 +124,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "俄罗斯外长拉夫罗夫：俄罗斯赞赏美国总统特朗普寻求就乌克兰问题开展对话的意愿。",
+          "url": "https://flash.jin10.com/detail/20251210152545435800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -281,6 +305,17 @@
           "time_info": "09时05分"
         },
         {
+          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
+          "url": "https://www.cls.cn/detail/2225037",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
           "title": "79岁特朗普回应年龄质疑 称认知能力测试“全优”通过",
           "url": "https://flash.jin10.com/detail/20251210111006441800",
           "source": "金十数据",
@@ -324,11 +359,12 @@
           "url": "https://flash.jin10.com/detail/20251210150354627800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 15时42分]"
         },
         {
           "title": "金十图示：2025年12月10日（周三）上海金早盘价为953.31元/克，较国际金价(956.52元/克)，低3.21元/克",
@@ -387,8 +423,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时05分 ~ 15时18分]"
+          "appearance_count": 13,
+          "time_info": "[09时05分 ~ 15时42分]"
         }
       ]
     },
@@ -404,8 +440,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时05分 ~ 15时18分]"
+          "appearance_count": 13,
+          "time_info": "[09时05分 ~ 15时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊总统重申伊朗与委内瑞拉站在一起",
+          "url": "https://flash.jin10.com/detail/20251210151717145800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         }
       ]
     }
