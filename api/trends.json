@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T18:17:05.845036+08:00",
-  "total_titles_processed": 1207,
+  "generated_at": "2025-12-10T18:48:57.719727+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普现在很焦虑",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时05分 ~ 18时17分]"
+          "appearance_count": 21,
+          "time_info": "[09时05分 ~ 18时48分]"
         },
         {
           "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
@@ -53,8 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时42分 ~ 18时17分]"
+          "appearance_count": 9,
+          "time_info": "[15时42分 ~ 18时48分]"
         },
         {
           "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
@@ -65,11 +65,12 @@
             6,
             5,
             3,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时42分 ~ 18时17分]"
+          "appearance_count": 9,
+          "time_info": "[15时42分 ~ 18时48分]"
         },
         {
           "title": "特朗普：泽连斯基拿了千亿却丢25%国土",
@@ -202,6 +203,17 @@
           "time_info": "[14时22分 ~ 15时18分]"
         },
         {
+          "title": "特朗普继续数落欧洲，默茨：要做好“欧美不同行”的准备",
+          "url": "https://news.ifeng.com/c/8oySvvFnvcj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 18时48分]"
+        },
+        {
           "title": "特朗普要搞“美联储主席最终面试”，哈塞特尚未“板上钉钉”，贝森特仍有望后续接任？",
           "url": "https://wallstreetcn.com/articles/3761053",
           "source": "华尔街见闻",
@@ -224,6 +236,17 @@
           "time_info": "[14时22分 ~ 14时54分]"
         },
         {
+          "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 18时48分]"
+        },
+        {
           "title": "特朗普谈泰柬冲突：我得打个电话",
           "url": "https://www.toutiao.com/trending/7582060214204104755/",
           "source": "今日头条",
@@ -236,17 +259,6 @@
           "time_info": "[16时20分 ~ 16时51分]"
         },
         {
-          "title": "特朗普继续数落欧洲，默茨：要做好“欧美不同行”的准备",
-          "url": "https://news.ifeng.com/c/8oySvvFnvcj",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 18时17分]"
-        },
-        {
           "title": "特朗普发长文回击：自诩政绩空前，晒“满分”健康报告，斥责《纽约时报》为“人民公敌”",
           "url": "https://flash.jin10.com/detail/20251210121528240800",
           "source": "金十数据",
@@ -256,17 +268,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时52分 ~ 13时16分]"
-        },
-        {
-          "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 18时17分]"
         },
         {
           "title": "特朗普再度抨击鲍威尔：他不喜欢我",
@@ -311,6 +312,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-10）",
+          "url": "https://flash.jin10.com/detail/20251210181323063800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "特朗普在宾夕法尼亚活动上称：我们有一个糟糕的美联储主席。将在美联储中进行大调整。",
@@ -410,6 +422,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "特朗普：柬泰又打起来了 我得打电话",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%9F%AC%E6%B3%B0%E5%8F%88%E6%89%93%E8%B5%B7%E6%9D%A5%E4%BA%86+%E6%88%91%E5%BE%97%E6%89%93%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "据黎巴嫩国家通讯社报道，黎巴嫩外交部长建议在第三国中立国与伊朗举行会谈。",
+          "url": "https://flash.jin10.com/detail/20251210182222746800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "黎巴嫩外交部长表示，婉拒伊朗的访问邀请并不意味着“拒绝讨论”，而是“当前尚不具备合适条件”。",
+          "url": "https://flash.jin10.com/detail/20251210181717842800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "据黎巴嫩国家通讯社报道，鉴于“当前形势”，黎巴嫩外交部长婉拒了伊朗访问德黑兰的邀请。",
+          "url": "https://flash.jin10.com/detail/20251210181615989800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "伊总统重申伊朗与委内瑞拉站在一起",
+          "url": "https://flash.jin10.com/detail/20251210151717145800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         }
       ]
     },
@@ -515,25 +588,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时05分 ~ 18时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊总统重申伊朗与委内瑞拉站在一起",
-          "url": "https://flash.jin10.com/detail/20251210151717145800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
+          "appearance_count": 21,
+          "time_info": "[09时05分 ~ 18时48分]"
         }
       ]
     }
