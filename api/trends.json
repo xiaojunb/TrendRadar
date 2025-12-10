@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T19:13:54.982364+08:00",
-  "total_titles_processed": 1313,
+  "generated_at": "2025-12-10T19:39:23.529153+08:00",
+  "total_titles_processed": 1358,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普现在很焦虑",
@@ -32,19 +32,6 @@
           "time_info": "[14时22分 ~ 17时18分]"
         },
         {
-          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
-          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时42分 ~ 19时13分]"
-        },
-        {
           "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
           "url": "https://www.cls.cn/detail/2225037",
           "source": "财联社热门",
@@ -57,8 +44,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时42分 ~ 19时13分]"
+          "appearance_count": 11,
+          "time_info": "[15时42分 ~ 19时39分]"
+        },
+        {
+          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
+          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时42分 ~ 19时39分]"
         },
         {
           "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
@@ -69,8 +70,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[09时05分 ~ 19时13分]"
+          "appearance_count": 23,
+          "time_info": "[09时05分 ~ 19时39分]"
         },
         {
           "title": "特朗普：泽连斯基拿了千亿却丢25%国土",
@@ -122,17 +123,6 @@
           "time_info": "09时05分"
         },
         {
-          "title": "特朗普政府官员称，美国要求国际刑事法院承诺不起诉美国总统特朗普及其高级官员，否则将对更多国际刑事法院官员实施制裁。",
-          "url": "https://flash.jin10.com/detail/20251210190033358800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
           "title": "美国就业数据呈现矛盾信号，特朗普称“立即降息”是美联储主席人选硬指标，支撑美联储降息预期。美联储利率决议今晚重磅来袭，黄金多空争夺激烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅",
           "url": "https://flash.jin10.com/detail/20251210104414511800",
           "source": "金十数据",
@@ -153,6 +143,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "特朗普继续数落欧洲，默茨：要做好“欧美不同行”的准备",
+          "url": "https://news.ifeng.com/c/8oySvvFnvcj",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时16分 ~ 19时39分]"
         },
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -190,15 +192,28 @@
           "time_info": "[13时16分 ~ 14时54分]"
         },
         {
-          "title": "特朗普继续数落欧洲，默茨：要做好“欧美不同行”的准备",
-          "url": "https://news.ifeng.com/c/8oySvvFnvcj",
-          "source": "凤凰网",
+          "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时16分 ~ 19时13分]"
+          "appearance_count": 5,
+          "time_info": "[18时16分 ~ 19时39分]"
+        },
+        {
+          "title": "特朗普政府官员称，美国要求国际刑事法院承诺不起诉美国总统特朗普及其高级官员，否则将对更多国际刑事法院官员实施制裁。",
+          "url": "https://flash.jin10.com/detail/20251210190033358800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时39分]"
         },
         {
           "title": "俄罗斯外长拉夫罗夫：俄罗斯赞赏美国总统特朗普寻求就乌克兰问题开展对话的意愿。",
@@ -211,17 +226,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时42分 ~ 16时21分]"
-        },
-        {
-          "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时16分 ~ 19时13分]"
         },
         {
           "title": "特朗普抱怨为什么收垃圾国家移民",
@@ -279,6 +283,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时52分 ~ 13时16分]"
+        },
+        {
+          "title": "特朗普继续数落欧洲 德总理：要做好“欧美不同行”的准备",
+          "url": "https://wallstreetcn.com/livenews/3018408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时39分]"
         },
         {
           "title": "特朗普再度抨击鲍威尔：他不喜欢我",
@@ -402,15 +417,15 @@
           "time_info": "09时05分"
         },
         {
-          "title": "特朗普继续数落欧洲 德总理：要做好“欧美不同行”的准备",
-          "url": "https://wallstreetcn.com/livenews/3018408",
-          "source": "华尔街见闻-快讯",
+          "title": "消息人士：随着美国总统特朗普调整打击犯罪的重点，税务诉讼大幅下降；美国联邦法院的诉讼记录显示，今年有160名司法部律师参与了税务诉讼，而去年是420名。",
+          "url": "https://flash.jin10.com/detail/20251210190245650800",
+          "source": "金十数据",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "19时39分"
         },
         {
           "title": "79岁特朗普回应年龄质疑 称认知能力测试“全优”通过",
@@ -422,6 +437,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "路透社/益普索民意调查发现，近一半的美国人反对特朗普政府在加勒比海和东太平洋对船只进行致命袭击，只有三分之一的人支持。",
+          "url": "https://flash.jin10.com/detail/20251210190210044800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "消息人士：由于特朗普政府削减了律师和代理人的人数，联邦税务起诉比2024年减少了27%以上。",
+          "url": "https://flash.jin10.com/detail/20251210190156712800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "美国总统特朗普：股票市场和401(k)正在上涨，但对物价水平存在误解；实际上，价格正在大幅下跌。",
@@ -455,6 +492,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
+        },
+        {
+          "title": "特朗普在厕所门前接受采访",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E5%8E%95%E6%89%80%E9%97%A8%E5%89%8D%E6%8E%A5%E5%8F%97%E9%87%87%E8%AE%BF",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         }
       ]
     },
@@ -577,7 +625,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         }
@@ -624,8 +672,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[09时05分 ~ 19时13分]"
+          "appearance_count": 23,
+          "time_info": "[09时05分 ~ 19时39分]"
         }
       ]
     }
