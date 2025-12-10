@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T11:06:31.466476+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2025-12-10T12:07:10.186293+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普现在很焦虑",
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时05分 ~ 11时06分]"
+          "appearance_count": 4,
+          "time_info": "[09时05分 ~ 12时07分]"
+        },
+        {
+          "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
+          "url": "https://wallstreetcn.com/articles/3761018",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时05分 ~ 12时07分]"
         },
         {
           "title": "特朗普：泽连斯基要开始接受现实了",
@@ -47,7 +59,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
         },
@@ -85,15 +97,26 @@
           "time_info": "09时05分"
         },
         {
-          "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
-          "url": "https://wallstreetcn.com/articles/3761018",
-          "source": "华尔街见闻",
+          "title": "特朗普再度抨击鲍威尔：他不喜欢我",
+          "url": "https://www.toutiao.com/trending/7582002774414622726/",
+          "source": "今日头条",
           "ranks": [
-            6
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时05分 ~ 11时06分]"
+          "time_info": "[12时06分 ~ 12时07分]"
+        },
+        {
+          "title": "美国企业界对特朗普执政表现评价不高",
+          "url": "https://www.toutiao.com/trending/7581666417361092614/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 12时07分]"
         },
         {
           "title": "美国总统特朗普：我们现在的石油开采量比以往任何时候都多。近期有报道称，四个州的油价已经降到每加仑1.99美元。",
@@ -162,6 +185,17 @@
           "time_info": "09时05分"
         },
         {
+          "title": "79岁特朗普回应年龄质疑 称认知能力测试“全优”通过",
+          "url": "https://flash.jin10.com/detail/20251210111006441800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
           "title": "美国总统特朗普：股票市场和401(k)正在上涨，但对物价水平存在误解；实际上，价格正在大幅下跌。",
           "url": "https://flash.jin10.com/detail/20251210083231703800",
           "source": "金十数据",
@@ -198,8 +232,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时05分 ~ 11时06分]"
+          "appearance_count": 4,
+          "time_info": "[09时05分 ~ 12时07分]"
         },
         {
           "title": "英伟达盘前冲高2%后回落 美股三大期指涨跌不一 | 今夜看点",
@@ -223,11 +257,29 @@
           "url": "https://wallstreetcn.com/articles/3760995",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时05分 ~ 11时06分]"
+          "appearance_count": 4,
+          "time_info": "[09时05分 ~ 12时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月10日（周三）上海金早盘价为953.31元/克，较国际金价(956.52元/克)，低3.21元/克",
+          "url": "https://flash.jin10.com/detail/20251210111107526800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         }
       ]
     },
@@ -243,8 +295,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时05分 ~ 11时06分]"
+          "appearance_count": 4,
+          "time_info": "[09时05分 ~ 12时07分]"
         }
       ]
     }
