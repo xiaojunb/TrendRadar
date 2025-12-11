@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-12-11T13:45:32.052392+08:00",
-  "total_titles_processed": 708,
+  "generated_at": "2025-12-11T14:23:58.894063+08:00",
+  "total_titles_processed": 776,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 13,
       "titles": [
-        {
-          "title": "高市早苗求见特朗普",
-          "url": "https://news.ifeng.com/c/8oz1gOzpqEt",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时05分 ~ 11时09分]"
-        },
         {
           "title": "特朗普威胁哥伦比亚总统：马杜罗之后，就是你",
           "url": "https://news.ifeng.com/c/8ozeTrd98oe",
@@ -28,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 13时45分]"
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 14时23分]"
         },
         {
           "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
@@ -41,8 +29,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时05分 ~ 13时45分]"
+          "appearance_count": 9,
+          "time_info": "[09时05分 ~ 14时23分]"
+        },
+        {
+          "title": "高市早苗求见特朗普",
+          "url": "https://news.ifeng.com/c/8oz1gOzpqEt",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时05分 ~ 11时09分]"
         },
         {
           "title": "特朗普回应美联储降息：幅度太小",
@@ -69,6 +69,19 @@
           "time_info": "[09时05分 ~ 11时09分]"
         },
         {
+          "title": "“这一点至关重要”，美贸易代表：特朗普非常重视与中国建立“建设性”关系",
+          "url": "https://wallstreetcn.com/livenews/3018939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 14时23分]"
+        },
+        {
           "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
           "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
           "source": "凤凰网",
@@ -78,18 +91,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时05分 ~ 09时06分]"
-        },
-        {
-          "title": "“这一点至关重要”，美贸易代表：特朗普非常重视与中国建立“建设性”关系",
-          "url": "https://wallstreetcn.com/livenews/3018939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 13时45分]"
         },
         {
           "title": "高市早苗求见特朗普",
@@ -142,7 +143,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -171,8 +172,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时05分 ~ 13时45分]"
+          "appearance_count": 9,
+          "time_info": "[09时05分 ~ 14时23分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -182,8 +183,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时05分 ~ 13时45分]"
+          "appearance_count": 9,
+          "time_info": "[09时05分 ~ 14时23分]"
         },
         {
           "title": "纳斯达克100指数期货跌1%，此前甲骨文美股盘后发布财报，股价大跌。",
