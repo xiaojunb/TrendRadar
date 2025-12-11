@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T17:20:08.064639+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2025-12-11T17:46:10.837549+08:00",
+  "total_titles_processed": 1264,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普威胁哥伦比亚总统：马杜罗之后，就是你",
@@ -37,6 +37,17 @@
           "time_info": "[09时05分 ~ 16时51分]"
         },
         {
+          "title": "指望特朗普出面给日本帮腔，中国就会让步？日学者：大错特错",
+          "url": "https://news.ifeng.com/c/8ozzAO4JqEe",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时51分 ~ 17时46分]"
+        },
+        {
           "title": "特朗普：被扣押油轮上的石油归美国了",
           "url": "https://www.toutiao.com/trending/7581744403334086710/",
           "source": "今日头条",
@@ -60,15 +71,16 @@
           "time_info": "[09时05分 ~ 11时09分]"
         },
         {
-          "title": "指望特朗普出面给日本帮腔，中国就会让步？日学者：大错特错",
-          "url": "https://news.ifeng.com/c/8ozzAO4JqEe",
+          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
+          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
           "source": "凤凰网",
           "ranks": [
-            5
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 17时20分]"
+          "appearance_count": 5,
+          "time_info": "[16时51分 ~ 17时46分]"
         },
         {
           "title": "美威胁国际刑事法院：不要调查特朗普",
@@ -118,18 +130,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时05分 ~ 11时09分]"
-        },
-        {
-          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
-          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 17时20分]"
         },
         {
           "title": "“这一点至关重要”，美贸易代表：特朗普非常重视与中国建立“建设性”关系",
@@ -200,6 +200,17 @@
           "time_info": "[09时05分 ~ 09时06分]"
         },
         {
+          "title": "特朗普金卡签证开始接受申请",
+          "url": "https://www.douyin.com/hot/2332949",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 17时46分]"
+        },
+        {
           "title": "俄罗斯外长拉夫罗夫：美国总统特朗普为解决乌克兰冲突做出了真诚努力。",
           "url": "https://flash.jin10.com/detail/20251211161659991800",
           "source": "金十数据",
@@ -246,8 +257,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时05分 ~ 17时20分]"
+          "appearance_count": 19,
+          "time_info": "[09时05分 ~ 17时46分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -274,6 +285,18 @@
           "time_info": "[11时09分 ~ 12时08分]"
         },
         {
+          "title": "甲骨文美股盘前跌超12%，公司业绩不及预期，资本开支比预期多约150亿美元。受此影响，美股明星科技股普跌，英伟达跌超1%，美光科技跌超2%，微软跌1%，AMD下跌1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3019120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时46分]"
+        },
+        {
           "title": "美股期货跌幅扩大，标普500指数期货跌1%，纳指期货跌1.5%。",
           "url": "https://wallstreetcn.com/livenews/3018895",
           "source": "华尔街见闻-快讯",
@@ -286,24 +309,13 @@
           "time_info": "[12时08分 ~ 12时53分]"
         },
         {
-          "title": "甲骨文美股盘前跌超12%，公司业绩不及预期，资本开支比预期多约150亿美元。受此影响，美股明星科技股普跌，英伟达跌超1%，美光科技跌超2%，微软跌1%，AMD下跌1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3019120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
           "title": "甲骨文(ORCL.N)带动美股AI股盘前走低，英伟达(NVDA.O)跌1.9%，美光科技(MU.O)跌2.1%，微软(MSFT.O)跌1.1%。",
           "url": "https://flash.jin10.com/detail/20251211170906953800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -415,7 +427,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
