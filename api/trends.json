@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T19:39:42.084130+08:00",
-  "total_titles_processed": 1447,
+  "generated_at": "2025-12-11T20:31:14.244377+08:00",
+  "total_titles_processed": 1526,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时51分 ~ 19时39分]"
+          "appearance_count": 12,
+          "time_info": "[16时51分 ~ 20时31分]"
         },
         {
           "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
@@ -56,8 +56,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时51分 ~ 19时39分]"
+          "appearance_count": 12,
+          "time_info": "[16时51分 ~ 20时31分]"
         },
         {
           "title": "特朗普：被扣押油轮上的石油归美国了",
@@ -94,6 +94,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时20分 ~ 16时51分]"
+        },
+        {
+          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时48分 ~ 20时31分]"
         },
         {
           "title": "俄罗斯外长拉夫罗夫表示，俄方希望达成一份关于乌克兰问题的长期可持续和平的一揽子文件。 各方都应获得安全保障。 特朗普为解决冲突作出过切实努力。",
@@ -191,18 +203,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时17分 ~ 19时14分]"
-        },
-        {
-          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时48分 ~ 19时39分]"
         },
         {
           "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
@@ -321,7 +321,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         }
@@ -339,8 +339,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[09时05分 ~ 19时39分]"
+          "appearance_count": 26,
+          "time_info": "[09时05分 ~ 20时31分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -493,11 +493,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时48分 ~ 19时39分]"
+          "appearance_count": 5,
+          "time_info": "[18时48分 ~ 20时31分]"
         },
         {
           "title": "报道：若不做出更多让步，谷歌或因Google Play涉嫌违规遭欧盟罚款",
@@ -525,8 +526,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "机构：高赤字削弱长期美债吸引力",
+          "url": "https://flash.jin10.com/detail/20251211200521105800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
         {
           "title": "法巴银行：在美联储降息后平仓10年期美债空头",
           "url": "https://flash.jin10.com/detail/20251211170943666800",
