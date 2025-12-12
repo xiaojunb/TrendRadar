@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T18:16:32.894537+08:00",
-  "total_titles_processed": 1316,
+  "generated_at": "2025-12-12T18:46:43.567030+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -29,11 +29,12 @@
             5,
             6,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时16分 ~ 18时16分]"
+          "appearance_count": 14,
+          "time_info": "[13时16分 ~ 18时46分]"
         },
         {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
@@ -46,8 +47,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时07分 ~ 18时16分]"
+          "appearance_count": 18,
+          "time_info": "[11时07分 ~ 18时46分]"
         },
         {
           "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
@@ -69,8 +70,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时21分 ~ 18时16分]"
+          "appearance_count": 7,
+          "time_info": "[16时21分 ~ 18时46分]"
+        },
+        {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时21分 ~ 18时46分]"
         },
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -85,16 +98,17 @@
           "time_info": "[09时05分 ~ 11时07分]"
         },
         {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
+          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
+          "url": "https://www.cls.cn/detail/2227581",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            9
+            13,
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时21分 ~ 18时16分]"
+          "time_info": "[16时51分 ~ 18时46分]"
         },
         {
           "title": "特朗普：只有泽连斯基不喜欢和平计划",
@@ -119,19 +133,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
-        },
-        {
-          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
-          "url": "https://www.cls.cn/detail/2227581",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时51分 ~ 18时16分]"
         },
         {
           "title": "特朗普废除拜登政府在阿拉斯加及其他州土地保护政策",
@@ -240,6 +241,17 @@
           "time_info": "09时05分"
         },
         {
+          "title": "据美国财经媒体Semafor：参议院民主党人很可能阻止特朗普青睐的Halligan获得检察官任命。",
+          "url": "https://flash.jin10.com/detail/20251212181225814800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
           "title": "特朗普称美对委行动“很快将从海上延伸至陆地”",
           "url": "https://flash.jin10.com/detail/20251212081011746800",
           "source": "金十数据",
@@ -260,6 +272,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-12）",
+          "url": "https://flash.jin10.com/detail/20251212180819181800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "美国总统特朗普：我将全面赦免蒂娜·彼得斯（因2020年大选相关罪行而被监禁的唯一一位特朗普盟友）。",
@@ -456,8 +479,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时52分 ~ 18时16分]"
+          "appearance_count": 16,
+          "time_info": "[12时52分 ~ 18时46分]"
         },
         {
           "title": "全面解析ChatGPT5.2",
@@ -509,7 +532,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -522,8 +545,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时07分 ~ 18时16分]"
+          "appearance_count": 18,
+          "time_info": "[11时07分 ~ 18时46分]"
         },
         {
           "title": "摩根大通：将谷歌母公司Alphabet目标价由340美元上调至385美元。",
@@ -543,7 +566,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -568,6 +591,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
+        },
+        {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         }
       ]
     },
