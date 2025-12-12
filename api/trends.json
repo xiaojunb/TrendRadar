@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T15:42:29.000968+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2025-12-12T16:21:26.027549+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -26,11 +26,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时16分 ~ 15时42分]"
+          "appearance_count": 8,
+          "time_info": "[13时16分 ~ 16时21分]"
         },
         {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
@@ -41,8 +42,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时07分 ~ 15时42分]"
+          "appearance_count": 12,
+          "time_info": "[11时07分 ~ 16时21分]"
         },
         {
           "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
@@ -77,6 +78,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "特朗普：只有泽连斯基不喜欢和平计划",
+          "url": "https://news.ifeng.com/c/8p1VFhun2fI",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 16时21分]"
         },
         {
           "title": "特朗普废除拜登政府在阿拉斯加及其他州土地保护政策",
@@ -115,6 +128,18 @@
           "time_info": "[11时07分 ~ 12时08分]"
         },
         {
+          "title": "学者：特朗普想在中日博弈中两头渔利",
+          "url": "https://www.toutiao.com/trending/7582834886818401855/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 16时21分]"
+        },
+        {
           "title": "泰国总理：与美国总统特朗普的通话定于泰国时间晚上9:20（北京时间22:20）举行。",
           "url": "https://flash.jin10.com/detail/20251212111451238800",
           "source": "金十数据",
@@ -150,15 +175,26 @@
           "time_info": "[12时52分 ~ 12时53分]"
         },
         {
-          "title": "特朗普：只有泽连斯基不喜欢和平计划",
-          "url": "https://news.ifeng.com/c/8p1VFhun2fI",
+          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
+          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
           "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时42分"
+          "time_info": "16时21分"
         },
         {
           "title": "特朗普：若和平协议达成 美愿参与欧洲安全安排",
@@ -326,17 +362,6 @@
           "time_info": "09时05分"
         },
         {
-          "title": "学者：特朗普想在中日博弈中两头渔利",
-          "url": "https://www.toutiao.com/trending/7582834886818401855/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
           "title": "美国总统特朗普：（谈委内瑞拉）行动很快就会在陆地上展开。",
           "url": "https://flash.jin10.com/detail/20251212071757771800",
           "source": "金十数据",
@@ -399,8 +424,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时52分 ~ 15时42分]"
+          "appearance_count": 10,
+          "time_info": "[12时52分 ~ 16时21分]"
         },
         {
           "title": "全面解析ChatGPT5.2",
@@ -463,8 +488,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时07分 ~ 15时42分]"
+          "appearance_count": 12,
+          "time_info": "[11时07分 ~ 16时21分]"
         },
         {
           "title": "软银集团股价上涨6.4%。稍早消息称其正考察包括数据中心运营商Switch在内的潜在收购。此外，OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报。",
@@ -484,7 +509,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         }
@@ -492,8 +517,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金十图示：2025年12月12日（周五）上海金午盘价为965.28元/克，较国际金价(972.09元/克)，低6.81元/克",
+          "url": "https://flash.jin10.com/detail/20251212154709689800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
         {
           "title": "金十图示：2025年12月12日（周五）上海金早盘价为963.64元/克，较国际金价(969.37元/克)，低5.73元/克",
           "url": "https://flash.jin10.com/detail/20251212102205776800",
