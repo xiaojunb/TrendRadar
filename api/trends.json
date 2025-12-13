@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T21:04:16.314788+08:00",
-  "total_titles_processed": 1113,
+  "generated_at": "2025-12-13T21:42:59.762061+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普称泰柬已同意停火，泰方否认",
@@ -97,8 +97,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[10时56分 ~ 21时04分]"
+          "appearance_count": 29,
+          "time_info": "[10时56分 ~ 21时42分]"
         },
         {
           "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
@@ -109,11 +109,12 @@
             15,
             13,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[15时38分 ~ 21时04分]"
+          "appearance_count": 17,
+          "time_info": "[15时38分 ~ 21时42分]"
         },
         {
           "title": "观察｜特朗普磨刀霍霍，马杜罗歌舞“公关”：别担心，要快乐",
@@ -127,8 +128,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[16时45分 ~ 21时04分]"
+          "appearance_count": 14,
+          "time_info": "[16时45分 ~ 21时42分]"
         },
         {
           "title": "特朗普拉小群,想拿C5替代G7",
@@ -143,11 +144,12 @@
             21,
             22,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[09时01分 ~ 21时04分]"
+          "appearance_count": 30,
+          "time_info": "[09时01分 ~ 21时42分]"
         },
         {
           "title": "特朗普称泰柬已同意停火，泰方否认：答案是不",
@@ -156,11 +158,12 @@
           "ranks": [
             20,
             19,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时38分 ~ 21时04分]"
+          "appearance_count": 11,
+          "time_info": "[17时38分 ~ 21时42分]"
         },
         {
           "title": "特朗普称泰柬已同意停火 泰方否认",
@@ -286,6 +289,17 @@
           "time_info": "[14时50分 ~ 16时18分]"
         },
         {
+          "title": "美国国务卿卢比奥：卢旺达在刚果（金）东部的行动明显违反了特朗普总统签署的《华盛顿协议》。",
+          "url": "https://flash.jin10.com/detail/20251213211438744800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "特朗普和爱泼斯坦照片公布",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E7%85%A7%E7%89%87%E5%85%AC%E5%B8%83%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -306,11 +320,24 @@
             7,
             12,
             17,
-            22
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时11分 ~ 21时42分]"
+        },
+        {
+          "title": "特朗普倾向于让沃什或哈塞特担任美联储主席，希望一年后利率1%或更低",
+          "url": "https://wallstreetcn.com/articles/3761314",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时11分 ~ 21时04分]"
+          "time_info": "[20时25分 ~ 21时42分]"
         },
         {
           "title": "特朗普称凯文·沃什位居美联储主席候选人名单首位 | 环球市场",
@@ -337,17 +364,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时01分 ~ 11时46分]"
-        },
-        {
-          "title": "特朗普倾向于让沃什或哈塞特担任美联储主席，希望一年后利率1%或更低",
-          "url": "https://wallstreetcn.com/articles/3761314",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时25分 ~ 21时04分]"
         },
         {
           "title": "特朗普：我应当在与美联储讨论利率方面发挥作用",
@@ -594,11 +610,12 @@
           "url": "https://www.cls.cn/detail/2228565",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[09时01分 ~ 21时04分]"
+          "appearance_count": 30,
+          "time_info": "[09时01分 ~ 21时42分]"
         },
         {
           "title": "（美股）费城金银指数收跌1.07%，报337.73点，本周累涨6.05%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.27%，报2404.74点，本周累涨5.24%。",
@@ -650,11 +667,12 @@
             7,
             8,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[09时01分 ~ 21时04分]"
+          "appearance_count": 30,
+          "time_info": "[09时01分 ~ 21时42分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
