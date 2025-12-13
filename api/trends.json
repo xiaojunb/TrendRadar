@@ -1,524 +1,221 @@
 {
-  "generated_at": "2025-12-12T22:40:34.375628+08:00",
-  "total_titles_processed": 1815,
+  "generated_at": "2025-12-13T09:01:53.473037+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 13,
       "titles": [
         {
-          "title": "白宫：特朗普对俄乌都很失望",
-          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
+          "title": "特朗普称泰柬同意全面停火",
+          "url": "https://news.ifeng.com/c/8p2IYwR0WoN",
           "source": "凤凰网",
           "ranks": [
-            1,
-            6
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时08分 ~ 15时42分]"
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
-          "title": "特朗普拉小群,想拿C5替代G7",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            5,
-            6,
-            8,
-            9,
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[13时16分 ~ 22时40分]"
-        },
-        {
-          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
-          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
+          "url": "https://news.ifeng.com/c/8p1vHCZebHh",
           "source": "凤凰网",
           "ranks": [
-            6,
-            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[16时21分 ~ 22时40分]"
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
           "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
           "source": "凤凰网",
           "ranks": [
-            7,
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[16时21分 ~ 22时40分]"
-        },
-        {
-          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1982382027627073644",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12,
-            14,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[11时07分 ~ 20时28分]"
-        },
-        {
-          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
-          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时07分 ~ 15时18分]"
-        },
-        {
-          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
-          "url": "https://www.cls.cn/detail/2227581",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时51分 ~ 20时28分]"
-        },
-        {
-          "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
-          "url": "https://news.ifeng.com/c/8p0EFlr6GTe",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时05分 ~ 11时07分]"
-        },
-        {
-          "title": "特朗普：只有泽连斯基不喜欢和平计划",
-          "url": "https://news.ifeng.com/c/8p1VFhun2fI",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时42分 ~ 16时52分]"
-        },
-        {
-          "title": "特朗普黄金卡签证开始接受申请，个人从 500 万美元降至 100 万美元可换美国居留权，如何看待此事？",
-          "url": "https://www.zhihu.com/question/1982382778923365984",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时05分"
+          "time_info": "09时01分"
         },
         {
-          "title": "美联储Hammack：美国总统特朗普推行的政策将在2026年带来“得体的”刺激。",
-          "url": "https://wallstreetcn.com/livenews/3020034",
+          "title": "美国总统特朗普谈论所谓的“顿巴斯自由经济区”构想，称：现在还不想要这个。 这不会起作用。",
+          "url": "https://wallstreetcn.com/livenews/3020166",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时40分"
+          "time_info": "09时01分"
         },
         {
-          "title": "特朗普废除拜登政府在阿拉斯加及其他州土地保护政策",
-          "url": "https://flash.jin10.com/detail/20251212124015260800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 14时23分]"
-        },
-        {
-          "title": "学者：特朗普想在中日博弈中两头渔利",
-          "url": "https://www.toutiao.com/trending/7582834886818401855/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时42分 ~ 16时52分]"
-        },
-        {
-          "title": "白宫：特朗普跟中日都能搞好关系",
-          "url": "https://www.toutiao.com/trending/7582430336525828123/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 14时23分]"
-        },
-        {
-          "title": "特朗普：只有泽连斯基不喜欢和平计划",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8F%AA%E6%9C%89%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%8D%E5%96%9C%E6%AC%A2%E5%92%8C%E5%B9%B3%E8%AE%A1%E5%88%92",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 17时45分]"
-        },
-        {
-          "title": "加州州长再批特朗普：最具破坏性总统",
-          "url": "https://news.ifeng.com/c/8p18mDHMrQq",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 12时08分]"
-        },
-        {
-          "title": "火速任命地方联储主席，特朗普不能随心所欲了？丨Hi，今天怎么看？",
-          "url": "https://flash.jin10.com/detail/20251212184015295800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 19时40分]"
-        },
-        {
-          "title": "泰国总理：与美国总统特朗普的通话定于泰国时间晚上9:20（北京时间22:20）举行。",
-          "url": "https://flash.jin10.com/detail/20251212111451238800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 12时53分]"
-        },
-        {
-          "title": "泰国外交部：与美国国务卿鲁比奥的通话为美国总统特朗普与泰国总理通话做准备。",
-          "url": "https://flash.jin10.com/detail/20251212132635026800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 14时54分]"
-        },
-        {
-          "title": "特朗普称美对委行动很快将延伸至陆地",
-          "url": "https://www.toutiao.com/trending/7582515717653315611/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 12时53分]"
-        },
-        {
-          "title": "特朗普：若和平协议达成 美愿参与欧洲安全安排",
-          "url": "https://wallstreetcn.com/livenews/3019493",
+          "title": "特朗普：我应当在与美联储讨论利率方面发挥作用",
+          "url": "https://wallstreetcn.com/livenews/3020165",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "据美国财经媒体Semafor：参议院民主党人很可能阻止特朗普青睐的Halligan获得检察官任命。",
-          "url": "https://flash.jin10.com/detail/20251212181225814800",
-          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "09时01分"
         },
         {
-          "title": "特朗普称美对委行动“很快将从海上延伸至陆地”",
-          "url": "https://flash.jin10.com/detail/20251212081011746800",
+          "title": "特朗普称凯文·沃什位居美联储主席候选人名单首位 | 环球市场",
+          "url": "https://www.cls.cn/detail/2228568",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "消息人士：特朗普政府今年不太可能敲定2026年的生物燃料配额",
+          "url": "https://flash.jin10.com/detail/20251213040502297800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时05分"
+          "time_info": "09时01分"
         },
         {
-          "title": "美国白宫：美国总统特朗普签署行政命令，加强对代理顾问行业的监管，并采取行动恢复公众对该行业的信心。",
-          "url": "https://flash.jin10.com/detail/20251212080825037800",
-          "source": "金十数据",
+          "title": "美国总统特朗普：在俄罗斯与乌克兰问题上取得了许多“进展”。",
+          "url": "https://wallstreetcn.com/livenews/3020161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "美国总统特朗普：泰国与柬埔寨处于不错的形势。",
+          "url": "https://wallstreetcn.com/livenews/3020160",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时05分"
+          "time_info": "09时01分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-12）",
-          "url": "https://flash.jin10.com/detail/20251212180819181800",
-          "source": "金十数据",
+          "title": "特朗普拉小群,想拿C5替代G7",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
+          "source": "贴吧",
           "ranks": [
-            13
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "09时01分"
         },
         {
-          "title": "美国总统特朗普：我将全面赦免蒂娜·彼得斯（因2020年大选相关罪行而被监禁的唯一一位特朗普盟友）。",
-          "url": "https://flash.jin10.com/detail/20251212075149040800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "特朗普：若俄乌达成和平协议，将为乌克兰安全提供协助",
-          "url": "https://flash.jin10.com/detail/20251212075136434800",
+          "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
+          "url": "https://flash.jin10.com/detail/20251213034901959800",
           "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时05分"
+          "time_info": "09时01分"
         },
         {
-          "title": "特朗普称美对委行动“很快将从海上延伸至陆地”",
-          "url": "https://wallstreetcn.com/livenews/3019480",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称泰柬双方同意停火",
+          "url": "https://www.toutiao.com/trending/7582909402869452342/",
+          "source": "今日头条",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时05分"
+          "time_info": "09时01分"
         },
         {
-          "title": "特朗普计划推动将大麻重新归类为危害较低的药物",
-          "url": "https://flash.jin10.com/detail/20251212102622267800",
+          "title": "白宫“加密和AI沙皇”为特朗普AI法规站场，称其旨在减轻企业合规负担",
+          "url": "https://flash.jin10.com/detail/20251213031516659800",
           "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
+          "url": "https://www.cls.cn/detail/2228565",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "（美股）费城金银指数收跌1.07%，报337.73点，本周累涨6.05%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.27%，报2404.74点，本周累涨5.24%。",
+          "url": "https://wallstreetcn.com/livenews/3020154",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时07分"
+          "time_info": "09时01分"
         },
         {
-          "title": "泰国政府官员：泰国代理总理定于周五晚些时候与美国总统特朗普通话。",
-          "url": "https://flash.jin10.com/detail/20251212110213966800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "特朗普：正在签署行政命令，阻止各州执行自己的人工智能法规",
-          "url": "https://flash.jin10.com/detail/20251212073753057800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "美国总统特朗普：汽油价格大幅下降，一旦能源价格下降，其他一切也会随之而落。物价正在下降，我们的经济形势令人难以置信。",
-          "url": "https://flash.jin10.com/detail/20251212073309770800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "学者：特朗普已对泽连斯基失去耐心",
-          "url": "https://www.toutiao.com/trending/7582926090503458323/",
-          "source": "今日头条",
+          "title": "半导体ETF收跌超4.5%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3020145",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
-        },
-        {
-          "title": "美国总统特朗普：在加沙地区的努力是强有力的。",
-          "url": "https://flash.jin10.com/detail/20251212072728186800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时05分"
+          "time_info": "09时01分"
         },
         {
-          "title": "美国总统特朗普：希望能够停止核武器的扩散。",
-          "url": "https://flash.jin10.com/detail/20251212072511529800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "美国总统特朗普：周六有个会议，我们看看要不要参加。如果我们认为有很好的机会（达成乌克兰和平协议），我们会参加。",
-          "url": "https://flash.jin10.com/detail/20251212072247164800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "美媒：特朗普国安战略是西方消亡蓝图",
-          "url": "https://www.toutiao.com/trending/7582918240574115370/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时51分"
-        },
-        {
-          "title": "美国总统特朗普：我们将协助乌克兰的安全事务。我曾经以为我们已经接近达成协议了。",
-          "url": "https://flash.jin10.com/detail/20251212072124421800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "提醒：特朗普结束在白宫的讲话。",
-          "url": "https://wallstreetcn.com/livenews/3019466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "美国总统特朗普：（谈委内瑞拉）行动很快就会在陆地上展开。",
-          "url": "https://flash.jin10.com/detail/20251212071757771800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "特朗普签署一项关于人工智能的行政命令，称美国需要一个中央层面的AI审批机制。",
-          "url": "https://wallstreetcn.com/livenews/3019465",
+          "title": "美股七巨头收盘播报｜英伟达收跌约3.3%，特斯拉则涨2.7%",
+          "url": "https://wallstreetcn.com/livenews/3020139",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时05分"
+          "time_info": "09时01分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 3,
       "titles": [
         {
-          "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
-          "url": "https://www.cls.cn/detail/2227243",
+          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
+          "url": "https://www.cls.cn/detail/2228537",
           "source": "财联社热门",
           "ranks": [
-            7,
-            4,
-            3
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时05分 ~ 15时18分]"
-        },
-        {
-          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
-          "url": "https://www.cls.cn/detail/2227268",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时07分 ~ 15时42分]"
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -528,277 +225,36 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[12时52分 ~ 22时40分]"
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
-          "title": "全面解析ChatGPT5.2",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90ChatGPT5.2",
-          "source": "bilibili 热搜",
+          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
+          "url": "https://flash.jin10.com/detail/20251213033638415800",
+          "source": "金十数据",
           "ranks": [
-            29,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 12时08分]"
-        },
-        {
-          "title": "GPT-5.2来了！OpenAI最新发布",
-          "url": "https://www.baidu.com/s?wd=GPT-5.2%E6%9D%A5%E4%BA%86%EF%BC%81OpenAI%E6%9C%80%E6%96%B0%E5%8F%91%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时05分 ~ 11时07分]"
-        },
-        {
-          "title": "GPT-5.2 正式发布，OpenAI 称其为「最强专业知识工作大模型」，有哪些技术亮点？",
-          "url": "https://www.zhihu.com/question/1982718694623768873",
-          "source": "知乎",
-          "ranks": [
-            6
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时07分"
-        },
-        {
-          "title": "实测ChatGPT5.2有多强",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BChatGPT5.2%E6%9C%89%E5%A4%9A%E5%BC%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时07分"
+          "time_info": "09时01分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
-          "url": "https://wallstreetcn.com/articles/3761213",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[11时07分 ~ 22时40分]"
-        },
         {
           "title": "UP主解读OpenAI和谷歌的AI大战",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
           "source": "bilibili 热搜",
           "ranks": [
-            15,
-            8,
-            22,
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时46分 ~ 22时40分]"
-        },
-        {
-          "title": "摩根大通：将谷歌母公司Alphabet目标价由340美元上调至385美元。",
-          "url": "https://flash.jin10.com/detail/20251212171210450800",
-          "source": "金十数据",
-          "ranks": [
-            4
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时45分"
-        },
-        {
-          "title": "TD Cowen：将谷歌母公司Alphabet目标股价从335美元上调至350美元。",
-          "url": "https://flash.jin10.com/detail/20251212174133299800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "软银集团股价上涨6.4%。稍早消息称其正考察包括数据中心运营商Switch在内的潜在收购。此外，OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报。",
-          "url": "https://wallstreetcn.com/livenews/3019491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：宣布与英国国家量子计算中心开展全新合作。",
-          "url": "https://flash.jin10.com/detail/20251212150720006800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美股收盘：道指、标普携手刷新收盘纪录 甲骨文拖累纳指走低",
-          "url": "https://www.cls.cn/detail/2227262",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时05分 ~ 15时42分]"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3020018",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时15分 ~ 22时40分]"
-        },
-        {
-          "title": "美股银矿股盘前普涨，赫克拉矿业上涨3.6%，科埃尔矿业上涨3.5%，恩迪沃银业上涨3.4%。",
-          "url": "https://wallstreetcn.com/livenews/3019902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时40分 ~ 20时28分]"
-        },
-        {
-          "title": "美股AI股盘前延续跌势 市场分化加剧",
-          "url": "https://flash.jin10.com/detail/20251212191431260800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "银价创下历史新高之际，美股银矿股盘前普涨，赫克拉矿业上涨3.6%，科埃尔矿业上涨3.5%，恩迪沃银业上涨3.4%，西尔弗科普金属上涨2.3%，iShares白银信托上涨1.4%，Global X白银矿业ETF上涨2.6%。",
-          "url": "https://flash.jin10.com/detail/20251212190620848800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-12-12）",
-          "url": "https://flash.jin10.com/detail/20251212214655733800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月12日（周五）上海金午盘价为965.28元/克，较国际金价(972.09元/克)，低6.81元/克",
-          "url": "https://flash.jin10.com/detail/20251212154709689800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "金价延续涨势 德商银行：预计美联储降息幅度将超过市场预期",
-          "url": "https://flash.jin10.com/detail/20251212212056056800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时51分"
-        },
-        {
-          "title": "金十图示：2025年12月12日（周五）上海金早盘价为963.64元/克，较国际金价(969.37元/克)，低5.73元/克",
-          "url": "https://flash.jin10.com/detail/20251212102205776800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗外交部谴责美国违背联合国东道国义务",
-          "url": "https://flash.jin10.com/detail/20251212141346689800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时23分 ~ 15时18分]"
-        },
-        {
-          "title": "俄罗斯与伊朗两国总统举行会谈 讨论伊核问题等议题",
-          "url": "https://wallstreetcn.com/livenews/3019890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 19时40分]"
+          "time_info": "09时01分"
         }
       ]
     },
@@ -807,15 +263,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "花旗：美债仍属可控，投资者仍具信心",
-          "url": "https://flash.jin10.com/detail/20251212164856635800",
-          "source": "金十数据",
+          "title": "10年期美债收益率在“美联储降息周”涨约5个基点，2/10年期收益率利差涨约9个基点",
+          "url": "https://wallstreetcn.com/livenews/3020159",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时19分"
+          "time_info": "09时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据伊朗国家媒体报道，伊朗在阿曼湾查获一艘载有600万升走私柴油的外国油轮。",
+          "url": "https://flash.jin10.com/detail/20251213035649501800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         }
       ]
     }
