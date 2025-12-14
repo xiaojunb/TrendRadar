@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T12:52:34.743719+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2025-12-14T13:14:55.850235+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时12分 ~ 12时52分]"
+          "appearance_count": 5,
+          "time_info": "[11时12分 ~ 13时14分]"
         },
         {
           "title": "详解特朗普金卡白金卡签证",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时10分 ~ 12时52分]"
+          "appearance_count": 6,
+          "time_info": "[09时10分 ~ 13时14分]"
         },
         {
           "title": "特朗普对其经济政策能否助力中期选举存疑",
@@ -50,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 12时52分]"
+          "appearance_count": 4,
+          "time_info": "[11时12分 ~ 13时14分]"
         },
         {
           "title": "美布朗大学枪击案已致2死8重伤，特朗普最新发声",
@@ -84,8 +84,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时12分 ~ 12时52分]"
+          "appearance_count": 5,
+          "time_info": "[11时12分 ~ 13时14分]"
         },
         {
           "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
@@ -96,8 +96,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 12时52分]"
+          "appearance_count": 4,
+          "time_info": "[11时12分 ~ 13时14分]"
         },
         {
           "title": "据AXIOS网站：以色列官员称，以色列未就试图暗杀加沙地带哈马斯领导人拉埃德·萨阿德一事事先通知特朗普政府。",
@@ -113,6 +113,18 @@
           "time_info": "[09时10分 ~ 12时12分]"
         },
         {
+          "title": "特朗普：不确定经济政策能否带来中期选举的胜利",
+          "url": "https://wallstreetcn.com/livenews/3020317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 13时14分]"
+        },
+        {
           "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
           "source": "澎湃新闻",
@@ -123,18 +135,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时10分 ~ 11时12分]"
-        },
-        {
-          "title": "特朗普：不确定经济政策能否带来中期选举的胜利",
-          "url": "https://wallstreetcn.com/livenews/3020317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 12时52分]"
         },
         {
           "title": "特朗普的“新五常”计划可行吗",
@@ -154,7 +154,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -253,7 +253,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -294,8 +294,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 12时52分]"
+          "appearance_count": 4,
+          "time_info": "[11时12分 ~ 13时14分]"
         },
         {
           "title": "迪士尼与OpenAI合作施压日本内容产业，本土企业面临AI转型抉择",
@@ -307,8 +307,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 12时52分]"
+          "appearance_count": 5,
+          "time_info": "[09时10分 ~ 13时14分]"
         }
       ]
     },
@@ -324,8 +324,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时10分 ~ 12时52分]"
+          "appearance_count": 6,
+          "time_info": "[09时10分 ~ 13时14分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -355,8 +355,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 12时52分]"
+          "appearance_count": 4,
+          "time_info": "[11时12分 ~ 13时14分]"
         }
       ]
     },
@@ -369,11 +369,12 @@
           "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 13时14分]"
         }
       ]
     }
