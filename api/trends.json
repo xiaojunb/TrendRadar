@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T14:20:57.067006+08:00",
-  "total_titles_processed": 648,
+  "generated_at": "2025-12-14T14:50:58.969962+08:00",
+  "total_titles_processed": 660,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时12分 ~ 14时20分]"
+          "appearance_count": 9,
+          "time_info": "[11时12分 ~ 14时50分]"
         },
         {
           "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时10分 ~ 14时20分]"
+          "appearance_count": 10,
+          "time_info": "[09时10分 ~ 14时50分]"
         },
         {
           "title": "3名美方人员遇袭死亡，特朗普誓言报复",
@@ -39,8 +39,21 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时12分 ~ 14时20分]"
+          "appearance_count": 9,
+          "time_info": "[11时12分 ~ 14时50分]"
+        },
+        {
+          "title": "特朗普对其经济政策能否助力中期选举存疑",
+          "url": "https://flash.jin10.com/detail/20251214101831272800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时12分 ~ 14时50分]"
         },
         {
           "title": "详解特朗普金卡白金卡签证",
@@ -55,19 +68,6 @@
           "time_info": "[12时11分 ~ 12时52分]"
         },
         {
-          "title": "特朗普对其经济政策能否助力中期选举存疑",
-          "url": "https://flash.jin10.com/detail/20251214101831272800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时12分 ~ 14时20分]"
-        },
-        {
           "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
           "url": "https://flash.jin10.com/detail/20251214100231761800",
           "source": "金十数据",
@@ -77,8 +77,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时12分 ~ 14时20分]"
+          "appearance_count": 7,
+          "time_info": "[11时12分 ~ 14时50分]"
         },
         {
           "title": "美布朗大学枪击案已致2死8重伤，特朗普最新发声",
@@ -299,8 +299,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时12分 ~ 14时20分]"
+          "appearance_count": 7,
+          "time_info": "[11时12分 ~ 14时50分]"
         },
         {
           "title": "迪士尼与OpenAI合作施压日本内容产业，本土企业面临AI转型抉择",
@@ -330,8 +330,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时10分 ~ 14时20分]"
+          "appearance_count": 10,
+          "time_info": "[09时10分 ~ 14时50分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -377,11 +377,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时52分 ~ 14时20分]"
+          "appearance_count": 6,
+          "time_info": "[12时52分 ~ 14时50分]"
         }
       ]
     }
