@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T21:04:08.836932+08:00",
-  "total_titles_processed": 1136,
+  "generated_at": "2025-12-14T21:43:24.248543+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
@@ -67,8 +67,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时12分 ~ 18时14分]"
+          "appearance_count": 18,
+          "time_info": "[11时12分 ~ 21时43分]"
         },
         {
           "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
@@ -78,8 +78,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时35分 ~ 21时04分]"
+          "appearance_count": 5,
+          "time_info": "[19时35分 ~ 21时43分]"
         },
         {
           "title": "详解特朗普金卡白金卡签证",
@@ -496,6 +496,23 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "10月净买入49吨！央行购金依然强劲，高盛：“代币化黄金”目前还非金价主力",
+          "url": "https://wallstreetcn.com/articles/3761367",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -510,8 +527,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[12时52分 ~ 21时04分]"
+          "appearance_count": 21,
+          "time_info": "[12时52分 ~ 21时43分]"
         }
       ]
     }
