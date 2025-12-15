@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T17:53:24.666793+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2025-12-15T18:19:29.246497+08:00",
+  "total_titles_processed": 1262,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时13分 ~ 17时53分]"
+          "appearance_count": 16,
+          "time_info": "[11时13分 ~ 18时19分]"
         },
         {
           "title": "连续表达“独立性”！哈塞特：若被选中领导美联储，特朗普可以提意见，但对美联储决策“毫无分量”",
@@ -44,8 +44,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时47分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[13时47分 ~ 18时19分]"
         },
         {
           "title": "日媒：特朗普曾警告高市早苗“别来添乱”",
@@ -55,8 +55,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 17时53分]"
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 18时19分]"
         },
         {
           "title": "悉尼水果店老板徒手夺枪获特朗普称赞",
@@ -73,17 +73,6 @@
           "time_info": "[13时22分 ~ 15时20分]"
         },
         {
-          "title": "欧盟官员表示，美国中东问题特使威特科夫和及特朗普高级顾问库什纳通过视频会议向欧盟各国外交部长简要通报加沙局势。",
-          "url": "https://flash.jin10.com/detail/20251215174214172800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
           "title": "拜登白送的无人机特朗普要收钱，台军：不要了",
           "url": "https://news.ifeng.com/c/8p6WipSN2un",
           "source": "凤凰网",
@@ -91,8 +80,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 17时53分]"
+          "appearance_count": 6,
+          "time_info": "[16时22分 ~ 18时19分]"
+        },
+        {
+          "title": "欧盟官员表示，美国中东问题特使威特科夫和及特朗普高级顾问库什纳通过视频会议向欧盟各国外交部长简要通报加沙局势。",
+          "url": "https://flash.jin10.com/detail/20251215174214172800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 18时19分]"
         },
         {
           "title": "悉尼水果店老板徒手夺枪获特朗普称赞",
@@ -105,6 +106,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时53分 ~ 17时25分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-15）",
+          "url": "https://flash.jin10.com/detail/20251215180602946800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         }
       ]
     },
@@ -138,8 +150,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时13分 ~ 17时53分]"
+          "appearance_count": 16,
+          "time_info": "[11时13分 ~ 18时19分]"
         },
         {
           "title": "华尔街的“2026美股主题”是轮动！“老登”胜过Mag 7，高盛高呼“周期股尚未被完全定价”",
@@ -166,8 +178,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时24分 ~ 17时53分]"
+          "appearance_count": 11,
+          "time_info": "[14时24分 ~ 18时19分]"
         },
         {
           "title": "美股期货小幅走高，标普500指数期货、道指期货涨0.3%，纳斯达克100指数期货涨近0.3%。",
@@ -187,11 +199,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 17时53分]"
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 18时19分]"
         },
         {
           "title": "iRobot股价美股盘前暴跌82.5%，至0.76美元，此前公司已申请破产，并寻求收购制造商。",
@@ -257,7 +270,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -276,7 +289,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "俄罗斯外长：伊朗外长将于12月17日访问莫斯科。",
@@ -300,6 +313,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长与白俄罗斯外长在明斯克会晤。",
+          "url": "https://flash.jin10.com/detail/20251215180713563800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "伊朗外交部：伊朗外长与白俄罗斯总统卢卡申科会面。",
