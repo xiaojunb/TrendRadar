@@ -1,8 +1,90 @@
 {
-  "generated_at": "2025-12-15T16:22:56.155717+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2025-12-15T16:54:08.029997+08:00",
+  "total_titles_processed": 1089,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "特朗普",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
+          "url": "https://www.cls.cn/detail/2229153",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时13分 ~ 16时22分]"
+        },
+        {
+          "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
+          "url": "https://wallstreetcn.com/articles/3761378",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时13分 ~ 16时54分]"
+        },
+        {
+          "title": "连续表达“独立性”！哈塞特：若被选中领导美联储，特朗普可以提意见，但对美联储决策“毫无分量”",
+          "url": "https://wallstreetcn.com/articles/3761377",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时47分 ~ 16时54分]"
+        },
+        {
+          "title": "悉尼水果店老板徒手夺枪获特朗普称赞",
+          "url": "https://www.toutiao.com/trending/7583736813425066020/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            10,
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时22分 ~ 15时20分]"
+        },
+        {
+          "title": "拜登白送的无人机特朗普要收钱，台军：不要了",
+          "url": "https://news.ifeng.com/c/8p6WipSN2un",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 16时54分]"
+        },
+        {
+          "title": "悉尼水果店老板徒手夺枪获特朗普称赞",
+          "url": "https://www.baidu.com/s?wd=%E6%82%89%E5%B0%BC%E6%B0%B4%E6%9E%9C%E5%BA%97%E8%80%81%E6%9D%BF%E5%BE%92%E6%89%8B%E5%A4%BA%E6%9E%AA%E8%8E%B7%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%B5%9E",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 16时54分]"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 5,
@@ -33,8 +115,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时13分 ~ 16时22分]"
+          "appearance_count": 13,
+          "time_info": "[11时13分 ~ 16时54分]"
         },
         {
           "title": "华尔街的“2026美股主题”是轮动！“老登”胜过Mag 7，高盛高呼“周期股尚未被完全定价”",
@@ -56,11 +138,12 @@
           "ranks": [
             12,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时24分 ~ 16时22分]"
+          "appearance_count": 8,
+          "time_info": "[14时24分 ~ 16时54分]"
         },
         {
           "title": "美股期货小幅走高，标普500指数期货、道指期货涨0.3%，纳斯达克100指数期货涨近0.3%。",
@@ -73,77 +156,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时47分 ~ 14时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
-          "url": "https://www.cls.cn/detail/2229153",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时13分 ~ 16时22分]"
-        },
-        {
-          "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
-          "url": "https://wallstreetcn.com/articles/3761378",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时13分 ~ 16时22分]"
-        },
-        {
-          "title": "连续表达“独立性”！哈塞特：若被选中领导美联储，特朗普可以提意见，但对美联储决策“毫无分量”",
-          "url": "https://wallstreetcn.com/articles/3761377",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时47分 ~ 16时22分]"
-        },
-        {
-          "title": "悉尼水果店老板徒手夺枪获特朗普称赞",
-          "url": "https://www.toutiao.com/trending/7583736813425066020/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            10,
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时22分 ~ 15时20分]"
-        },
-        {
-          "title": "拜登白送的无人机特朗普要收钱，台军：不要了",
-          "url": "https://news.ifeng.com/c/8p6WipSN2un",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
         }
       ]
     },
@@ -163,8 +175,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时07分 ~ 16时22分]"
+          "appearance_count": 15,
+          "time_info": "[09时07分 ~ 16时54分]"
         },
         {
           "title": "金十图示：2025年12月15日（周一）上海金午盘价为978.02元/克，较国际金价(983.71元/克)，低5.69元/克",
@@ -200,6 +212,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "俄罗斯外长：伊朗外长将于12月17日访问莫斯科。",
+          "url": "https://flash.jin10.com/detail/20251215164616035800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "伊朗外长抵达白俄罗斯总统府会见卢卡申科。",
+          "url": "https://flash.jin10.com/detail/20251215155631635800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         }
       ]
     },
@@ -251,23 +291,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗外长抵达白俄罗斯总统府会见卢卡申科。",
-          "url": "https://flash.jin10.com/detail/20251215155631635800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
         }
       ]
     }
