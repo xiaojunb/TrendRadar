@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T18:19:29.246497+08:00",
-  "total_titles_processed": 1262,
+  "generated_at": "2025-12-15T18:50:42.226915+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时13分 ~ 18时19分]"
+          "appearance_count": 17,
+          "time_info": "[11时13分 ~ 18时50分]"
         },
         {
           "title": "连续表达“独立性”！哈塞特：若被选中领导美联储，特朗普可以提意见，但对美联储决策“毫无分量”",
@@ -44,8 +44,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时47分 ~ 18时19分]"
+          "appearance_count": 12,
+          "time_info": "[13时47分 ~ 18时50分]"
         },
         {
           "title": "日媒：特朗普曾警告高市早苗“别来添乱”",
@@ -55,8 +55,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时25分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[17时25分 ~ 18时50分]"
         },
         {
           "title": "悉尼水果店老板徒手夺枪获特朗普称赞",
@@ -80,8 +80,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时22分 ~ 18时19分]"
+          "appearance_count": 7,
+          "time_info": "[16时22分 ~ 18时50分]"
         },
         {
           "title": "欧盟官员表示，美国中东问题特使威特科夫和及特朗普高级顾问库什纳通过视频会议向欧盟各国外交部长简要通报加沙局势。",
@@ -112,11 +112,12 @@
           "url": "https://flash.jin10.com/detail/20251215180602946800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时50分]"
         }
       ]
     },
@@ -150,8 +151,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时13分 ~ 18时19分]"
+          "appearance_count": 17,
+          "time_info": "[11时13分 ~ 18时50分]"
         },
         {
           "title": "华尔街的“2026美股主题”是轮动！“老登”胜过Mag 7，高盛高呼“周期股尚未被完全定价”",
@@ -178,8 +179,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时24分 ~ 18时19分]"
+          "appearance_count": 12,
+          "time_info": "[14时24分 ~ 18时50分]"
         },
         {
           "title": "美股期货小幅走高，标普500指数期货、道指期货涨0.3%，纳斯达克100指数期货涨近0.3%。",
@@ -200,11 +201,12 @@
           "ranks": [
             6,
             9,
-            13
+            13,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时25分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[17时25分 ~ 18时50分]"
         },
         {
           "title": "iRobot股价美股盘前暴跌82.5%，至0.76美元，此前公司已申请破产，并寻求收购制造商。",
@@ -304,6 +306,18 @@
           "time_info": "[16时54分 ~ 17时25分]"
         },
         {
+          "title": "伊朗外交部：伊朗外长与白俄罗斯外长在明斯克会晤。",
+          "url": "https://flash.jin10.com/detail/20251215180713563800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时50分]"
+        },
+        {
           "title": "伊朗外长抵达白俄罗斯总统府会见卢卡申科。",
           "url": "https://flash.jin10.com/detail/20251215155631635800",
           "source": "金十数据",
@@ -313,17 +327,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
-        },
-        {
-          "title": "伊朗外交部：伊朗外长与白俄罗斯外长在明斯克会晤。",
-          "url": "https://flash.jin10.com/detail/20251215180713563800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
         },
         {
           "title": "伊朗外交部：伊朗外长与白俄罗斯总统卢卡申科会面。",
