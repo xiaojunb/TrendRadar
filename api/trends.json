@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T14:25:01.605002+08:00",
-  "total_titles_processed": 780,
+  "generated_at": "2025-12-15T14:56:56.430035+08:00",
+  "total_titles_processed": 849,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时13分 ~ 14时25分]"
+          "appearance_count": 8,
+          "time_info": "[11时13分 ~ 14时56分]"
         },
         {
           "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
@@ -32,8 +33,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时13分 ~ 14时25分]"
+          "appearance_count": 8,
+          "time_info": "[11时13分 ~ 14时56分]"
         },
         {
           "title": "华尔街的“2026美股主题”是轮动！“老登”胜过Mag 7，高盛高呼“周期股尚未被完全定价”",
@@ -45,8 +46,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时13分 ~ 14时25分]"
+          "appearance_count": 8,
+          "time_info": "[11时13分 ~ 14时56分]"
         },
         {
           "title": "美股期货小幅走高，标普500指数期货、道指期货涨0.3%，纳斯达克100指数期货涨近0.3%。",
@@ -65,11 +66,12 @@
           "url": "https://www.cls.cn/detail/2229441",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
+          "appearance_count": 3,
+          "time_info": "[14时24分 ~ 14时56分]"
         }
       ]
     },
@@ -88,8 +90,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时13分 ~ 14时25分]"
+          "appearance_count": 8,
+          "time_info": "[11时13分 ~ 14时56分]"
         },
         {
           "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
@@ -101,8 +103,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时13分 ~ 14时25分]"
+          "appearance_count": 8,
+          "time_info": "[11时13分 ~ 14时56分]"
         },
         {
           "title": "悉尼水果店老板徒手夺枪获特朗普称赞",
@@ -114,8 +116,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时22分 ~ 14时25分]"
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 14时56分]"
         },
         {
           "title": "连续表达“独立性”！哈塞特：若被选中领导美联储，特朗普可以提意见，但对美联储决策“毫无分量”",
@@ -126,8 +128,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时47分 ~ 14时25分]"
+          "appearance_count": 4,
+          "time_info": "[13时47分 ~ 14时56分]"
         }
       ]
     },
@@ -147,8 +149,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时07分 ~ 14时25分]"
+          "appearance_count": 10,
+          "time_info": "[09时07分 ~ 14时56分]"
         },
         {
           "title": "金十图示：2025年12月15日（周一）上海金早盘价为974.55元/克，较国际金价(980.31元/克)，低5.76元/克",
@@ -177,6 +179,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "花旗：受短债推动，美债收益率曲线料将趋陡",
+          "url": "https://flash.jin10.com/detail/20251215142531268800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
         }
       ]
     }
