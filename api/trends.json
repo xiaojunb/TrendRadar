@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T19:14:30.802785+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2025-12-16T19:40:20.581923+08:00",
+  "total_titles_processed": 1375,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时06分 ~ 19时14分]"
+          "appearance_count": 21,
+          "time_info": "[09时06分 ~ 19时40分]"
         },
         {
           "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
@@ -47,6 +47,17 @@
           "time_info": "[11时08分 ~ 15时19分]"
         },
         {
+          "title": "“我的漂亮话呢？”特朗普对BBC提起100亿美元诉讼",
+          "url": "https://news.ifeng.com/c/8p8IOWOQWV5",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时46分 ~ 19时40分]"
+        },
+        {
           "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
           "source": "澎湃新闻",
@@ -60,8 +71,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[11时08分 ~ 19时14分]"
+          "appearance_count": 20,
+          "time_info": "[11时08分 ~ 19时40分]"
         },
         {
           "title": "特朗普正式起诉BBC 共索赔100亿美元",
@@ -78,17 +89,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[12时09分 ~ 16时21分]"
-        },
-        {
-          "title": "“我的漂亮话呢？”特朗普对BBC提起100亿美元诉讼",
-          "url": "https://news.ifeng.com/c/8p8IOWOQWV5",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时46分 ~ 19时14分]"
         },
         {
           "title": "日媒：高市被特朗普警告后情绪低落",
@@ -351,6 +351,45 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "“俄版谷歌”，正帮中国商人大赚",
+          "url": "https://news.ifeng.com/c/8p87L7ByRCW",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时23分 ~ 16时21分]"
+        },
+        {
+          "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
+          "url": "https://wallstreetcn.com/articles/3761453",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 18时48分]"
+        },
+        {
+          "title": "市场消息：道达尔能源与谷歌(GOOG.O)签署新的可再生能源协议，为谷歌数据中心供电。",
+          "url": "https://flash.jin10.com/detail/20251216185536926800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
@@ -414,34 +453,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "“俄版谷歌”，正帮中国商人大赚",
-          "url": "https://news.ifeng.com/c/8p87L7ByRCW",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时23分 ~ 16时21分]"
-        },
-        {
-          "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
-          "url": "https://wallstreetcn.com/articles/3761453",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 18时48分]"
         }
       ]
     },
