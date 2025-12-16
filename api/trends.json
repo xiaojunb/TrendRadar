@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T20:30:54.712903+08:00",
-  "total_titles_processed": 1450,
+  "generated_at": "2025-12-16T21:14:09.986231+08:00",
+  "total_titles_processed": 1521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普签署行政命令，将芬太尼列为大规模杀伤性武器",
@@ -20,6 +20,17 @@
           "time_info": "[11时08分 ~ 15时19分]"
         },
         {
+          "title": "“我的漂亮话呢？”特朗普对BBC提起100亿美元诉讼",
+          "url": "https://news.ifeng.com/c/8p8IOWOQWV5",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时46分 ~ 21时14分]"
+        },
+        {
           "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
           "url": "https://wallstreetcn.com/articles/3761439",
           "source": "华尔街见闻",
@@ -30,19 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[09时06分 ~ 20时30分]"
-        },
-        {
-          "title": "“我的漂亮话呢？”特朗普对BBC提起100亿美元诉讼",
-          "url": "https://news.ifeng.com/c/8p8IOWOQWV5",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时46分 ~ 20时30分]"
+          "appearance_count": 25,
+          "time_info": "[09时06分 ~ 21时14分]"
         },
         {
           "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
@@ -71,8 +71,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[11时08分 ~ 20时30分]"
+          "appearance_count": 24,
+          "time_info": "[11时08分 ~ 21时14分]"
         },
         {
           "title": "特朗普正式起诉BBC 共索赔100亿美元",
@@ -152,6 +152,17 @@
           "time_info": "[09时06分 ~ 11时08分]"
         },
         {
+          "title": "美国财长贝森特：猜测美联储主席人选将于1月初公布。 本周可能还有一到两次美联储的面试。 特朗普在面试中对政策相关问题一直非常直率。 沃什和哈塞特都非常非常有资格。 贝森特否认了“哈塞特无法在美联储拥有影响力”的说法。 贝森特否认了“新任美联储主席不会保持独立性”的说法。",
+          "url": "https://wallstreetcn.com/livenews/3021694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
           "title": "文件显示：美国总统特朗普向英国广播公司（BBC）索赔50亿美元。",
           "url": "https://flash.jin10.com/detail/20251216081629510800",
           "source": "金十数据",
@@ -172,6 +183,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "美国财长贝森特：总统特朗普在面试中对政策相关问题一直非常直率。",
+          "url": "https://flash.jin10.com/detail/20251216203835736800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "美乌柏林会谈传佳音 特朗普：从未如此接近达成“和平协议”",
@@ -366,6 +388,18 @@
           "time_info": "[09时06分 ~ 15时42分]"
         },
         {
+          "title": "辉瑞预计2026年营收595亿美元至625亿美元，市场预期为616.3亿美元。 预计2026年调整后每股收益2.80美元至3.00美元。 预计2026年全年调整后研发费用为105亿至115亿美元。 预计将再投资5亿美元，以提升研发生产力。 辉瑞美股盘前短线走低，一度跌超1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3021669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时30分 ~ 21时14分]"
+        },
+        {
           "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2230200",
           "source": "财联社热门",
@@ -383,18 +417,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时30分"
-        },
-        {
-          "title": "辉瑞预计2026年营收595亿美元至625亿美元，市场预期为616.3亿美元。 预计2026年调整后每股收益2.80美元至3.00美元。 预计2026年全年调整后研发费用为105亿至115亿美元。 预计将再投资5亿美元，以提升研发生产力。 辉瑞美股盘前短线走低，一度跌超1.7%。",
-          "url": "https://wallstreetcn.com/livenews/3021669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -405,7 +428,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -416,7 +439,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -466,7 +489,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
