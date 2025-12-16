@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T15:42:38.607530+08:00",
-  "total_titles_processed": 952,
+  "generated_at": "2025-12-16T16:21:30.264754+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普签署行政命令，将芬太尼列为大规模杀伤性武器",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时06分 ~ 15时42分]"
+          "appearance_count": 13,
+          "time_info": "[09时06分 ~ 16时21分]"
         },
         {
           "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
@@ -58,8 +58,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时08分 ~ 15时42分]"
+          "appearance_count": 12,
+          "time_info": "[11时08分 ~ 16时21分]"
         },
         {
           "title": "特朗普正式起诉BBC 共索赔100亿美元",
@@ -74,8 +74,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时09分 ~ 15时42分]"
+          "appearance_count": 11,
+          "time_info": "[12时09分 ~ 16时21分]"
         },
         {
           "title": "日媒：高市被特朗普警告后情绪低落",
@@ -172,6 +172,17 @@
           "time_info": "09时06分"
         },
         {
+          "title": "英国工党大臣金诺克：我认为BBC在特朗普诉讼案上坚持立场是正确的。",
+          "url": "https://flash.jin10.com/detail/20251216152842242800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "法庭文件显示，特朗普就2024年拼接纪录片一事起诉BBC诽谤，要求BBC赔偿50亿美元。",
           "url": "https://wallstreetcn.com/livenews/3021248",
           "source": "华尔街见闻-快讯",
@@ -242,7 +253,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -360,8 +371,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时23分 ~ 15时42分]"
+          "appearance_count": 6,
+          "time_info": "[14时23分 ~ 16时21分]"
         }
       ]
     },
@@ -379,6 +390,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "盛宝银行：美债收益率明年可能进一步趋陡",
+          "url": "https://flash.jin10.com/detail/20251216154958479800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         }
       ]
     }
