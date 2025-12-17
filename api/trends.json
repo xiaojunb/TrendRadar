@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T16:21:42.102882+08:00",
-  "total_titles_processed": 1089,
+  "generated_at": "2025-12-17T16:53:07.728105+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
@@ -59,6 +59,18 @@
           "time_info": "[09时01分 ~ 14时54分]"
         },
         {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时53分 ~ 16时53分]"
+        },
+        {
           "title": "特朗普下令封锁所有受制裁委油轮",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%B0%81%E9%94%81%E6%89%80%E6%9C%89%E5%8F%97%E5%88%B6%E8%A3%81%E5%A7%94%E6%B2%B9%E8%BD%AE",
           "source": "百度热搜",
@@ -71,18 +83,6 @@
           "time_info": "[09时01分 ~ 13时44分]"
         },
         {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时53分 ~ 16时21分]"
-        },
-        {
           "title": "“爱泼斯坦案”背后的正义、叙述与情绪：特朗普和美国政治的梦魇",
           "url": "https://m.thepaper.cn/newsDetail_forward_32158017",
           "source": "澎湃新闻",
@@ -93,6 +93,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时01分 ~ 12时28分]"
+        },
+        {
+          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
+          "url": "https://www.cls.cn/detail/2231712",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时22分 ~ 16时53分]"
         },
         {
           "title": "特朗普称已下令封锁进出委受制裁油轮",
@@ -145,19 +159,6 @@
           "time_info": "[13时17分 ~ 14时54分]"
         },
         {
-          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
-          "url": "https://www.cls.cn/detail/2231712",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时22分 ~ 16时21分]"
-        },
-        {
           "title": "评论员：特朗普越来越像拜登",
           "url": "https://www.toutiao.com/trending/7584323902441000490/",
           "source": "今日头条",
@@ -192,6 +193,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时51分 ~ 11时52分]"
+        },
+        {
+          "title": "白宫幕僚长尖锐点评特朗普、马斯克等人，却获白宫力挺",
+          "url": "https://news.ifeng.com/c/8p9nCXu9FDv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 16时53分]"
         },
         {
           "title": "金十整理：特朗普对委施压手段层层加码，委原油应声折价、马杜罗政权承压",
@@ -311,7 +323,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -473,8 +485,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "腾讯大模型团队架构调整，前OpenAI研究员姚顺雨任要职",
+          "url": "https://wallstreetcn.com/livenews/3022293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
         {
           "title": "OpenAI发布GPT Image1.5",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT%20Image1.5",
