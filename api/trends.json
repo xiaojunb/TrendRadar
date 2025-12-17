@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T21:51:05.418099+08:00",
-  "total_titles_processed": 1772,
+  "generated_at": "2025-12-17T22:16:06.326199+08:00",
+  "total_titles_processed": 1797,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
@@ -69,11 +69,12 @@
             10,
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[12时53分 ~ 21时51分]"
+          "appearance_count": 24,
+          "time_info": "[12时53分 ~ 22时16分]"
         },
         {
           "title": "特朗普下令封锁所有受制裁委油轮",
@@ -224,6 +225,17 @@
           "time_info": "[10时51分 ~ 11时52分]"
         },
         {
+          "title": "据ABC新闻：美国总统特朗普预计最快于今日签署大麻相关行政命令。",
+          "url": "https://flash.jin10.com/detail/20251217213540631800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时51分 ~ 22时16分]"
+        },
+        {
           "title": "金十整理：特朗普对委施压手段层层加码，委原油应声折价、马杜罗政权承压",
           "url": "https://flash.jin10.com/detail/20251217111048852800",
           "source": "金十数据",
@@ -236,6 +248,17 @@
           "time_info": "[11时52分 ~ 12时28分]"
         },
         {
+          "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32196119",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 22时16分]"
+        },
+        {
           "title": "白宫幕僚长称特朗普有酒鬼型人格",
           "url": "https://search.bilibili.com/all?keyword=%E7%99%BD%E5%AE%AB%E5%B9%95%E5%83%9A%E9%95%BF%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%89%E9%85%92%E9%AC%BC%E5%9E%8B%E4%BA%BA%E6%A0%BC",
           "source": "bilibili 热搜",
@@ -245,6 +268,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时39分 ~ 19时40分]"
+        },
+        {
+          "title": "美联储理事沃勒：将向美国总统特朗普强调美联储独立性的重要性。美联储仍对美国公众负责。",
+          "url": "https://flash.jin10.com/detail/20251217212751799800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时51分 ~ 22时16分]"
         },
         {
           "title": "特朗普：BBC把糟糕言论强加到我嘴里",
@@ -333,17 +367,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
-        },
-        {
-          "title": "据ABC新闻：美国总统特朗普预计最快于今日签署大麻相关行政命令。",
-          "url": "https://flash.jin10.com/detail/20251217213540631800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时51分"
         },
         {
           "title": "WTI盘中涨超1%，特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
@@ -489,17 +512,6 @@
           "time_info": "09时01分"
         },
         {
-          "title": "美联储理事沃勒：将向美国总统特朗普强调美联储独立性的重要性。美联储仍对美国公众负责。",
-          "url": "https://flash.jin10.com/detail/20251217212751799800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时51分"
-        },
-        {
           "title": "美国总统特朗普：（美军）包围委内瑞拉的海上舰队规模只会越来越大。",
           "url": "https://flash.jin10.com/detail/20251217074838037800",
           "source": "金十数据",
@@ -586,6 +598,18 @@
           "time_info": "[17时21分 ~ 18时47分]"
         },
         {
+          "title": "如何评价 OpenAI 刚推出的 GPT Image 1.5，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1984534689147531765",
+          "source": "知乎",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时50分 ~ 22时16分]"
+        },
+        {
           "title": "OpenAI发布GPT Image1.5",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT%20Image1.5",
           "source": "bilibili 热搜",
@@ -607,17 +631,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时52分 ~ 11时52分]"
-        },
-        {
-          "title": "如何评价 OpenAI 刚推出的 GPT Image 1.5，有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1984534689147531765",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 21时51分]"
         },
         {
           "title": "亚马逊(AMZN.O)美股盘前上涨1.2%，有报道称亚马逊正在商谈向OpenAI投资约100亿美元。",
@@ -688,9 +701,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时51分 ~ 22时16分]"
         },
         {
           "title": "美股期货短线走低，纳指期货日内涨幅收窄至0.12%，标普500指数期货涨幅收窄至0.16%。",
@@ -699,9 +712,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时51分 ~ 22时16分]"
         },
         {
           "title": "华纳兄弟探索公司(WBD.O)美股盘前下跌1.3%。",
