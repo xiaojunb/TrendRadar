@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T17:47:38.520424+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2025-12-17T18:17:32.323495+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
@@ -30,24 +30,6 @@
           "time_info": "[10时51分 ~ 15时42分]"
         },
         {
-          "title": "特朗普政府宣布对40国实施入境限制",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%AF%B940%E5%9B%BD%E5%AE%9E%E6%96%BD%E5%85%A5%E5%A2%83%E9%99%90%E5%88%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            4,
-            10,
-            9,
-            26,
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时52分 ~ 17时47分]"
-        },
-        {
           "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
           "url": "https://www.zhihu.com/question/1983941746871264912",
           "source": "知乎",
@@ -61,6 +43,25 @@
           "time_info": "[09时01分 ~ 14时54分]"
         },
         {
+          "title": "特朗普政府宣布对40国实施入境限制",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%AF%B940%E5%9B%BD%E5%AE%9E%E6%96%BD%E5%85%A5%E5%A2%83%E9%99%90%E5%88%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            4,
+            10,
+            9,
+            26,
+            30,
+            25,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[11时52分 ~ 18时17分]"
+        },
+        {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
           "url": "https://wallstreetcn.com/articles/3761525",
           "source": "华尔街见闻",
@@ -69,8 +70,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时53分 ~ 17时47分]"
+          "appearance_count": 14,
+          "time_info": "[12时53分 ~ 18时17分]"
         },
         {
           "title": "特朗普下令封锁所有受制裁委油轮",
@@ -135,6 +136,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-17）",
+          "url": "https://flash.jin10.com/detail/20251217180257725800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "报道：特朗普计划对逾期、超预算的国防承包商实施财务限制",
@@ -381,7 +393,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         },
@@ -529,11 +541,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 17时47分]"
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 18时17分]"
         },
         {
           "title": "OpenAI发布GPT Image1.5",
@@ -565,7 +578,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         },
@@ -616,7 +629,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         },
@@ -627,7 +640,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         }
@@ -678,7 +691,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         }
