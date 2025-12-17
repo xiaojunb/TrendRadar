@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T15:18:41.276862+08:00",
-  "total_titles_processed": 950,
+  "generated_at": "2025-12-17T15:42:45.221716+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时51分 ~ 15时18分]"
+          "appearance_count": 13,
+          "time_info": "[10时51分 ~ 15时42分]"
         },
         {
           "title": "特朗普签署公告，进一步限制外国公民入境美国",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时51分 ~ 15时18分]"
+          "appearance_count": 13,
+          "time_info": "[10时51分 ~ 15时42分]"
         },
         {
           "title": "特朗普政府宣布对40国实施入境限制",
@@ -41,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时52分 ~ 15时18分]"
+          "appearance_count": 11,
+          "time_info": "[11时52分 ~ 15时42分]"
         },
         {
           "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
@@ -77,8 +77,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时53分 ~ 15时18分]"
+          "appearance_count": 8,
+          "time_info": "[12时53分 ~ 15时42分]"
         },
         {
           "title": "“爱泼斯坦案”背后的正义、叙述与情绪：特朗普和美国政治的梦魇",
@@ -156,6 +156,18 @@
           "time_info": "[09时01分 ~ 11时52分]"
         },
         {
+          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
+          "url": "https://www.cls.cn/detail/2231712",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时22分 ~ 15时42分]"
+        },
+        {
           "title": "专家预测特朗普将为中选出什么招",
           "url": "https://www.toutiao.com/trending/7584654516868353579/",
           "source": "今日头条",
@@ -177,17 +189,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时51分 ~ 11时52分]"
-        },
-        {
-          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
-          "url": "https://www.cls.cn/detail/2231712",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 14时54分]"
         },
         {
           "title": "金十整理：特朗普对委施压手段层层加码，委原油应声折价、马杜罗政权承压",
@@ -539,6 +540,23 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[09时01分 ~ 15时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "印尼央行行长：美元指数仍偏高，限制资本向新兴市场流动。",
+          "url": "https://flash.jin10.com/detail/20251217150955842800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         }
       ]
     }
