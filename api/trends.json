@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T14:22:57.766717+08:00",
-  "total_titles_processed": 823,
+  "generated_at": "2025-12-17T14:54:53.589130+08:00",
+  "total_titles_processed": 870,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时51分 ~ 14时22分]"
+          "appearance_count": 11,
+          "time_info": "[10时51分 ~ 14时54分]"
         },
         {
           "title": "特朗普签署公告，进一步限制外国公民入境美国",
@@ -26,8 +26,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时51分 ~ 14时22分]"
+          "appearance_count": 11,
+          "time_info": "[10时51分 ~ 14时54分]"
+        },
+        {
+          "title": "特朗普政府宣布对40国实施入境限制",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%AF%B940%E5%9B%BD%E5%AE%9E%E6%96%BD%E5%85%A5%E5%A2%83%E9%99%90%E5%88%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            4,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时52分 ~ 14时54分]"
         },
         {
           "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
@@ -39,22 +54,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时01分 ~ 14时22分]"
-        },
-        {
-          "title": "特朗普政府宣布对40国实施入境限制",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%AF%B940%E5%9B%BD%E5%AE%9E%E6%96%BD%E5%85%A5%E5%A2%83%E9%99%90%E5%88%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时52分 ~ 14时22分]"
+          "appearance_count": 12,
+          "time_info": "[09时01分 ~ 14时54分]"
         },
         {
           "title": "特朗普下令封锁所有受制裁委油轮",
@@ -79,6 +80,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时01分 ~ 12时28分]"
+        },
+        {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时53分 ~ 14时54分]"
         },
         {
           "title": "特朗普称已下令封锁进出委受制裁油轮",
@@ -117,15 +129,18 @@
           "time_info": "09时01分"
         },
         {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
+          "title": "马斯克又要给特朗普花钱了",
+          "url": "https://www.toutiao.com/trending/7584667287097986610/",
+          "source": "今日头条",
           "ranks": [
-            10
+            23,
+            18,
+            24,
+            21
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时53分 ~ 14时22分]"
+          "time_info": "[13时17分 ~ 14时54分]"
         },
         {
           "title": "评论员：特朗普越来越像拜登",
@@ -139,19 +154,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时01分 ~ 11时52分]"
-        },
-        {
-          "title": "马斯克又要给特朗普花钱了",
-          "url": "https://www.toutiao.com/trending/7584667287097986610/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时17分 ~ 14时22分]"
         },
         {
           "title": "专家预测特朗普将为中选出什么招",
@@ -175,6 +177,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时51分 ~ 11时52分]"
+        },
+        {
+          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
+          "url": "https://www.cls.cn/detail/2231712",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 14时54分]"
         },
         {
           "title": "金十整理：特朗普对委施压手段层层加码，委原油应声折价、马杜罗政权承压",
@@ -288,17 +301,6 @@
           "time_info": "09时01分"
         },
         {
-          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
-          "url": "https://www.cls.cn/detail/2231712",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
           "title": "据NBC新闻：预计美国总统特朗普最早将于本周签署一项行政命令，以加快大麻的重新分类进程。",
           "url": "https://flash.jin10.com/detail/20251217080138619800",
           "source": "金十数据",
@@ -365,13 +367,24 @@
           "time_info": "11时52分"
         },
         {
+          "title": "特朗普长子订婚 女方是何许人",
+          "url": "https://www.toutiao.com/trending/7584611681938968083/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
           "title": "关税裁决将至特朗普频繁发声",
           "url": "https://www.toutiao.com/trending/7584652314854559238/",
           "source": "今日头条",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -524,8 +537,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时01分 ~ 14时22分]"
+          "appearance_count": 12,
+          "time_info": "[09时01分 ~ 14时54分]"
         }
       ]
     }
