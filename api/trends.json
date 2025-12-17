@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T14:54:53.589130+08:00",
-  "total_titles_processed": 870,
+  "generated_at": "2025-12-17T15:18:41.276862+08:00",
+  "total_titles_processed": 950,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时51分 ~ 14时54分]"
+          "appearance_count": 12,
+          "time_info": "[10时51分 ~ 15时18分]"
         },
         {
           "title": "特朗普签署公告，进一步限制外国公民入境美国",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时51分 ~ 14时54分]"
+          "appearance_count": 12,
+          "time_info": "[10时51分 ~ 15时18分]"
         },
         {
           "title": "特朗普政府宣布对40国实施入境限制",
@@ -41,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时52分 ~ 14时54分]"
+          "appearance_count": 10,
+          "time_info": "[11时52分 ~ 15时18分]"
         },
         {
           "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
@@ -70,6 +70,17 @@
           "time_info": "[09时01分 ~ 13时44分]"
         },
         {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时53分 ~ 15时18分]"
+        },
+        {
           "title": "“爱泼斯坦案”背后的正义、叙述与情绪：特朗普和美国政治的梦魇",
           "url": "https://m.thepaper.cn/newsDetail_forward_32158017",
           "source": "澎湃新闻",
@@ -80,17 +91,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时01分 ~ 12时28分]"
-        },
-        {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时53分 ~ 14时54分]"
         },
         {
           "title": "特朗普称已下令封锁进出委受制裁油轮",
@@ -373,7 +373,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -537,8 +537,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时01分 ~ 14时54分]"
+          "appearance_count": 13,
+          "time_info": "[09时01分 ~ 15时18分]"
         }
       ]
     }
