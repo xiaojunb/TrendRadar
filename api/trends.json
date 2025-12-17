@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T13:18:15.101445+08:00",
-  "total_titles_processed": 708,
+  "generated_at": "2025-12-17T13:44:59.245769+08:00",
+  "total_titles_processed": 760,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时51分 ~ 13时18分]"
+          "appearance_count": 9,
+          "time_info": "[10时51分 ~ 13时44分]"
         },
         {
           "title": "特朗普签署公告，进一步限制外国公民入境美国",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时51分 ~ 13时18分]"
+          "appearance_count": 9,
+          "time_info": "[10时51分 ~ 13时44分]"
         },
         {
           "title": "特朗普政府宣布对40国实施入境限制",
@@ -35,11 +35,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时52分 ~ 13时18分]"
+          "appearance_count": 7,
+          "time_info": "[11时52分 ~ 13时44分]"
         },
         {
           "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
@@ -51,19 +52,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时01分 ~ 13时18分]"
+          "appearance_count": 10,
+          "time_info": "[09时01分 ~ 13时44分]"
         },
         {
           "title": "特朗普下令封锁所有受制裁委油轮",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%B0%81%E9%94%81%E6%89%80%E6%9C%89%E5%8F%97%E5%88%B6%E8%A3%81%E5%A7%94%E6%B2%B9%E8%BD%AE",
           "source": "百度热搜",
           "ranks": [
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时01分 ~ 13时18分]"
+          "appearance_count": 10,
+          "time_info": "[09时01分 ~ 13时44分]"
         },
         {
           "title": "“爱泼斯坦案”背后的正义、叙述与情绪：特朗普和美国政治的梦魇",
@@ -114,6 +116,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时53分 ~ 13时44分]"
+        },
+        {
           "title": "评论员：特朗普越来越像拜登",
           "url": "https://www.toutiao.com/trending/7584323902441000490/",
           "source": "今日头条",
@@ -127,15 +140,16 @@
           "time_info": "[09时01分 ~ 11时52分]"
         },
         {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
+          "title": "马斯克又要给特朗普花钱了",
+          "url": "https://www.toutiao.com/trending/7584667287097986610/",
+          "source": "今日头条",
           "ranks": [
-            10
+            23,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时53分 ~ 13时18分]"
+          "time_info": "[13时17分 ~ 13时44分]"
         },
         {
           "title": "专家预测特朗普将为中选出什么招",
@@ -171,17 +185,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时52分 ~ 12时28分]"
-        },
-        {
-          "title": "马斯克又要给特朗普花钱了",
-          "url": "https://www.toutiao.com/trending/7584667287097986610/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 13时18分]"
         },
         {
           "title": "特朗普：BBC把糟糕言论强加到我嘴里",
@@ -497,8 +500,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时01分 ~ 13时18分]"
+          "appearance_count": 10,
+          "time_info": "[09时01分 ~ 13时44分]"
         }
       ]
     }
