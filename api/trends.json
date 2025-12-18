@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T20:29:25.688553+08:00",
-  "total_titles_processed": 1523,
+  "generated_at": "2025-12-18T21:12:19.828407+08:00",
+  "total_titles_processed": 1603,
   "failed_sources": [],
   "trends": [
     {
@@ -189,6 +189,17 @@
           "time_info": "[16时20分 ~ 17时47分]"
         },
         {
+          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
+          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 21时12分]"
+        },
+        {
           "title": "特朗普将发表全国讲话强调政绩",
           "url": "https://www.douyin.com/hot/2339868",
           "source": "抖音",
@@ -210,17 +221,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时02分 ~ 09时03分]"
-        },
-        {
-          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
-          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 20时29分]"
         },
         {
           "title": "特朗普说委内瑞拉抢了美国的石油",
@@ -540,7 +540,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -562,7 +562,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -639,7 +639,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -675,6 +675,17 @@
           "time_info": "[11时02分 ~ 15时41分]"
         },
         {
+          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
+          "url": "https://wallstreetcn.com/articles/3761592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 21时12分]"
+        },
+        {
           "title": "谷歌发布 Gemini 3 Flash，相比上一代 2.5 Flash 有哪些提升？使用体验如何？",
           "url": "https://www.zhihu.com/question/1984788546771517931",
           "source": "知乎",
@@ -685,17 +696,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时22分 ~ 15时41分]"
-        },
-        {
-          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
-          "url": "https://wallstreetcn.com/articles/3761592",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 20时29分]"
         },
         {
           "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
@@ -748,8 +748,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[14时22分 ~ 20时29分]"
+          "appearance_count": 18,
+          "time_info": "[14时22分 ~ 21时12分]"
         },
         {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
@@ -822,8 +822,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[09时02分 ~ 20时29分]"
+          "appearance_count": 27,
+          "time_info": "[09时02分 ~ 21时12分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -886,7 +886,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十图示：2025年12月18日（周四）上海金午盘价为974.99元/克，较国际金价(980.21元/克)，低5.22元/克",
@@ -898,6 +898,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时18分 ~ 15时41分]"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "金十图示：2025年12月18日（周四）上海金早盘价为975.26元/克，较国际金价(980.03元/克)，低4.77元/克",
@@ -924,8 +935,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时47分 ~ 20时29分]"
+          "appearance_count": 5,
+          "time_info": "[18时47分 ~ 21时12分]"
         }
       ]
     },
