@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T21:09:38.271939+08:00",
-  "total_titles_processed": 1720,
+  "generated_at": "2025-12-19T21:49:46.994966+08:00",
+  "total_titles_processed": 1792,
   "failed_sources": [],
   "trends": [
     {
@@ -56,8 +56,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[09时05分 ~ 21时09分]"
+          "appearance_count": 28,
+          "time_info": "[09时05分 ~ 21时49分]"
         },
         {
           "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
@@ -90,8 +90,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[09时05分 ~ 21时09分]"
+          "appearance_count": 28,
+          "time_info": "[09时05分 ~ 21时49分]"
         },
         {
           "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
@@ -118,8 +118,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[11时07分 ~ 21时09分]"
+          "appearance_count": 27,
+          "time_info": "[11时07分 ~ 21时49分]"
         },
         {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
@@ -146,11 +146,12 @@
             19,
             16,
             15,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时44分 ~ 21时09分]"
+          "appearance_count": 10,
+          "time_info": "[17时44分 ~ 21时49分]"
         },
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -242,6 +243,20 @@
           "time_info": "19时13分"
         },
         {
+          "title": "特朗普：不排除与委内瑞拉开战",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            25,
+            23,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时13分 ~ 21时49分]"
+        },
+        {
           "title": "特朗普将于美国东部时间周五晚上9点（北京时间周六上午10点）就经济问题发表讲话。",
           "url": "https://wallstreetcn.com/livenews/3023559",
           "source": "华尔街见闻-快讯",
@@ -304,17 +319,16 @@
           "time_info": "[19时13分 ~ 19时38分]"
         },
         {
-          "title": "特朗普：不排除与委内瑞拉开战",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
-          "source": "百度热搜",
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            25,
-            23
+            19,
+            17
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时13分 ~ 21时09分]"
+          "time_info": "[19时38分 ~ 21时49分]"
         },
         {
           "title": "特朗普商业帝国再扩张！DJT并购TAE转型为聚变能源公司",
@@ -329,17 +343,6 @@
           "time_info": "[11时07分 ~ 12时09分]"
         },
         {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时38分 ~ 21时09分]"
-        },
-        {
           "title": "美国国土安全部部长诺姆：应特朗普总统指示，已立即指示美国公民及移民服务局（USCIS）暂停DV-1计划（多元化移民签证）。",
           "url": "https://flash.jin10.com/detail/20251219123531783800",
           "source": "金十数据",
@@ -350,6 +353,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时17分 ~ 13时44分]"
+        },
+        {
+          "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
+          "url": "https://wallstreetcn.com/livenews/3023959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时49分]"
         },
         {
           "title": "特朗普喊话泽连斯基快点达成和平协议",
@@ -458,18 +473,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
-        },
-        {
-          "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
-          "url": "https://wallstreetcn.com/livenews/3023959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -491,7 +495,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -524,7 +528,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -535,7 +539,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -565,7 +569,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股收盘：11月CPI提振市场 三大指数集体收涨 纳指涨超1%",
@@ -589,19 +593,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[11时07分 ~ 21时09分]"
+          "appearance_count": 27,
+          "time_info": "[11时07分 ~ 21时49分]"
         },
         {
           "title": "拼多多美股盘前大涨，一度涨逾8%。今日召开年度股东大会，宣布实行联席董事长制度，任命赵佳臻为联席董事长，与陈磊共同担任联席董事长兼联席CEO。",
           "url": "https://wallstreetcn.com/livenews/3023976",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时49分]"
         },
         {
           "title": "甲骨文(ORCL.N)美股盘前上涨5.6%。",
@@ -626,6 +631,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时18分 ~ 17时44分]"
+        },
+        {
+          "title": "拼多多(PDD.O)美股盘前上涨7.1%。",
+          "url": "https://flash.jin10.com/detail/20251219205601503800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         }
       ]
     },
