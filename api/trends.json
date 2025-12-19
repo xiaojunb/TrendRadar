@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T15:17:58.968722+08:00",
-  "total_titles_processed": 934,
+  "generated_at": "2025-12-19T15:41:04.046273+08:00",
+  "total_titles_processed": 1005,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普再次向乌克兰施压",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时05分 ~ 15时17分]"
+          "appearance_count": 14,
+          "time_info": "[09时05分 ~ 15时41分]"
         },
         {
           "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时07分 ~ 15时17分]"
+          "appearance_count": 13,
+          "time_info": "[11时07分 ~ 15时41分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -56,8 +56,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时05分 ~ 15时17分]"
+          "appearance_count": 14,
+          "time_info": "[09时05分 ~ 15时41分]"
         },
         {
           "title": "特朗普，敢不敢动武？",
@@ -67,21 +67,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时07分 ~ 15时17分]"
-        },
-        {
-          "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32204359",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时05分 ~ 15时17分]"
+          "appearance_count": 13,
+          "time_info": "[11时07分 ~ 15时41分]"
         },
         {
           "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
@@ -92,11 +79,37 @@
             9,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时17分 ~ 15时17分]"
+          "appearance_count": 9,
+          "time_info": "[13时17分 ~ 15时41分]"
+        },
+        {
+          "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32204359",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[09时05分 ~ 15时41分]"
+        },
+        {
+          "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
+          "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时17分 ~ 15时41分]"
         },
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -111,6 +124,18 @@
           "time_info": "[09时05分 ~ 11时08分]"
         },
         {
+          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
+          "url": "https://www.cls.cn/detail/2234355",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时21分 ~ 15时41分]"
+        },
+        {
           "title": "特朗普：美国将在月球部署核反应堆",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%9C%A8%E6%9C%88%E7%90%83%E9%83%A8%E7%BD%B2%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86",
           "source": "百度热搜",
@@ -120,17 +145,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
-        },
-        {
-          "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
-          "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
         },
         {
           "title": "特朗普下令要求美国人2028年登月",
@@ -168,18 +182,6 @@
           "time_info": "[12时09分 ~ 13时17分]"
         },
         {
-          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
-          "url": "https://www.cls.cn/detail/2234355",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时21分 ~ 15时17分]"
-        },
-        {
           "title": "特朗普商业帝国再扩张！DJT并购TAE转型为聚变能源公司",
           "url": "https://www.cls.cn/detail/2233997",
           "source": "财联社热门",
@@ -202,6 +204,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时17分 ~ 13时44分]"
+        },
+        {
+          "title": "特朗普喊话泽连斯基快点达成和平协议",
+          "url": "https://www.toutiao.com/trending/7584303302322569225/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时40分 ~ 15时41分]"
         },
         {
           "title": "特朗普18分钟全国电视讲话说了什么",
@@ -273,37 +286,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
-          "url": "https://www.cls.cn/detail/2234101",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时09分 ~ 14时53分]"
-        },
-        {
-          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
-          "url": "https://wallstreetcn.com/articles/3761607",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十图示：2025年12月19日（周五）上海金早盘价为974.08元/克，较国际金价(976.41元/克)，低2.33元/克",
@@ -326,13 +310,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时07分 ~ 11时08分]"
+        },
+        {
+          "title": "金十图示：2025年12月19日（周五）上海金午盘价为974.76元/克，较国际金价(977.95元/克)，低3.19元/克",
+          "url": "https://flash.jin10.com/detail/20251219150209006800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "中日英三国美债持仓呈现分化",
+          "url": "https://www.toutiao.com/trending/7585415815059476018/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时40分 ~ 15时41分]"
+        },
         {
           "title": "中国10月美债持仓跌破7000亿美元大关",
           "url": "https://www.toutiao.com/trending/7585293619852673033/",
@@ -350,6 +356,35 @@
           "source": "华尔街见闻",
           "ranks": [
             7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
+          "url": "https://www.cls.cn/detail/2234101",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时09分 ~ 14时53分]"
+        },
+        {
+          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
+          "url": "https://wallstreetcn.com/articles/3761607",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -383,8 +418,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时07分 ~ 15时17分]"
+          "appearance_count": 13,
+          "time_info": "[11时07分 ~ 15时41分]"
         }
       ]
     },
@@ -416,9 +451,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时17分 ~ 15时41分]"
         }
       ]
     },
