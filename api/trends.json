@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T20:27:50.237527+08:00",
-  "total_titles_processed": 1649,
+  "generated_at": "2025-12-19T21:09:38.271939+08:00",
+  "total_titles_processed": 1720,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普再次向乌克兰施压",
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[15时17分 ~ 20时27分]"
+          "appearance_count": 16,
+          "time_info": "[15时17分 ~ 21时09分]"
         },
         {
           "title": "特朗普签署行政命令，重申2028年登月目标",
@@ -56,8 +56,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[09时05分 ~ 20时27分]"
+          "appearance_count": 27,
+          "time_info": "[09时05分 ~ 21时09分]"
         },
         {
           "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
@@ -86,11 +86,12 @@
             5,
             6,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[09时05分 ~ 20时27分]"
+          "appearance_count": 27,
+          "time_info": "[09时05分 ~ 21时09分]"
         },
         {
           "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
@@ -117,8 +118,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[11时07分 ~ 20时27分]"
+          "appearance_count": 26,
+          "time_info": "[11时07分 ~ 21时09分]"
         },
         {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
@@ -148,8 +149,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时44分 ~ 20时27分]"
+          "appearance_count": 9,
+          "time_info": "[17时44分 ~ 21时09分]"
         },
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -181,7 +182,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -303,6 +304,19 @@
           "time_info": "[19时13分 ~ 19时38分]"
         },
         {
+          "title": "特朗普：不排除与委内瑞拉开战",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时13分 ~ 21时09分]"
+        },
+        {
           "title": "特朗普商业帝国再扩张！DJT并购TAE转型为聚变能源公司",
           "url": "https://www.cls.cn/detail/2233997",
           "source": "财联社热门",
@@ -315,16 +329,15 @@
           "time_info": "[11时07分 ~ 12时09分]"
         },
         {
-          "title": "特朗普：不排除与委内瑞拉开战",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
-          "source": "百度热搜",
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            25
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时13分 ~ 20时27分]"
+          "time_info": "[19时38分 ~ 21时09分]"
         },
         {
           "title": "美国国土安全部部长诺姆：应特朗普总统指示，已立即指示美国公民及移民服务局（USCIS）暂停DV-1计划（多元化移民签证）。",
@@ -348,17 +361,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时40分 ~ 15时41分]"
-        },
-        {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时38分 ~ 20时27分]"
         },
         {
           "title": "特朗普18分钟全国电视讲话说了什么",
@@ -401,7 +403,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -450,6 +452,28 @@
           "time_info": "09时05分"
         },
         {
+          "title": "沃勒获特朗普面试 重点讨论就业市场 鲍曼疑似出局",
+          "url": "https://flash.jin10.com/detail/20251219201628845800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
+          "url": "https://wallstreetcn.com/livenews/3023959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "美总统特朗普签署2026财年国防授权法案",
           "url": "https://wallstreetcn.com/livenews/3023413",
           "source": "华尔街见闻-快讯",
@@ -459,6 +483,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "据CNBC：特朗普和美联储理事沃勒讨论了劳动力市场。",
+          "url": "https://flash.jin10.com/detail/20251219200708179800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "特朗普摊牌了：委内瑞拉夺走石油，美国必须要回来",
@@ -483,6 +518,28 @@
           "time_info": "17时18分"
         },
         {
+          "title": "据CNBC：美国总统特朗普似乎正将关注点转向就业市场。",
+          "url": "https://flash.jin10.com/detail/20251219200442362800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "据CNBC：美联储理事沃勒与美国总统特朗普进行了“一次强有力的美联储主席面试”。",
+          "url": "https://flash.jin10.com/detail/20251219200400455800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "特朗普版的“门罗主义”有何特点",
           "url": "https://www.toutiao.com/trending/7585453230520274468/",
           "source": "今日头条",
@@ -503,6 +560,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美股收盘：11月CPI提振市场 三大指数集体收涨 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2234084",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时05分 ~ 13时44分]"
+        },
+        {
+          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
+          "url": "https://wallstreetcn.com/articles/3761680",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 26,
+          "time_info": "[11时07分 ~ 21时09分]"
+        },
+        {
+          "title": "拼多多美股盘前大涨，一度涨逾8%。今日召开年度股东大会，宣布实行联席董事长制度，任命赵佳臻为联席董事长，与陈磊共同担任联席董事长兼联席CEO。",
+          "url": "https://wallstreetcn.com/livenews/3023976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "甲骨文(ORCL.N)美股盘前上涨5.6%。",
+          "url": "https://flash.jin10.com/detail/20251219170527123800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时44分]"
+        },
+        {
+          "title": "美股盘前，科技股多数走高，甲骨文涨近6%，美光科技涨2%，英伟达、AMD均涨超1%；阿里巴巴涨超1%。耐克大跌逾10%，此前公司表示第二季度毛利下滑。",
+          "url": "https://wallstreetcn.com/livenews/3023800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时44分]"
         }
       ]
     },
@@ -554,61 +677,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美股收盘：11月CPI提振市场 三大指数集体收涨 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2234084",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时05分 ~ 13时44分]"
-        },
-        {
-          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
-          "url": "https://wallstreetcn.com/articles/3761680",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[11时07分 ~ 20时27分]"
-        },
-        {
-          "title": "甲骨文(ORCL.N)美股盘前上涨5.6%。",
-          "url": "https://flash.jin10.com/detail/20251219170527123800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 17时44分]"
-        },
-        {
-          "title": "美股盘前，科技股多数走高，甲骨文涨近6%，美光科技涨2%，英伟达、AMD均涨超1%；阿里巴巴涨超1%。耐克大跌逾10%，此前公司表示第二季度毛利下滑。",
-          "url": "https://wallstreetcn.com/livenews/3023800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 17时44分]"
         }
       ]
     },
