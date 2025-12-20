@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T22:13:32.279198+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2025-12-20T22:40:13.873194+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
@@ -50,21 +50,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时36分 ~ 22时13分]"
-        },
-        {
-          "title": "Coinbase：特朗普的“大漂亮法案”或将赌客推向预测市场",
-          "url": "https://wallstreetcn.com/livenews/3024294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时03分 ~ 22时13分]"
+          "appearance_count": 6,
+          "time_info": "[19时36分 ~ 22时40分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -73,9 +60,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 22时40分]"
         },
         {
           "title": "以色列官员计划向特朗普通报可能对伊朗发动新一轮打击的计划",
@@ -84,20 +71,23 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 22时40分]"
         },
         {
-          "title": "特朗普提名特战副司令执掌南方司令部",
-          "url": "https://wallstreetcn.com/livenews/3024305",
+          "title": "Coinbase：特朗普的“大漂亮法案”或将赌客推向预测市场",
+          "url": "https://wallstreetcn.com/livenews/3024294",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1,
+            5,
+            9,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时03分 ~ 22时40分]"
         },
         {
           "title": "特朗普称美军正对叙利亚境内“伊斯兰国”进行猛烈打击",
@@ -115,6 +105,20 @@
           "time_info": "[09时02分 ~ 12时46分]"
         },
         {
+          "title": "特朗普为何推出史上最高金额对台军售",
+          "url": "https://www.toutiao.com/trending/7585013065943859238/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            20,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时03分 ~ 22时40分]"
+        },
+        {
           "title": "特朗普拟并购的核聚变初创公司TAE面临欠款指控",
           "url": "https://flash.jin10.com/detail/20251220082409385800",
           "source": "金十数据",
@@ -127,6 +131,18 @@
           "time_info": "[09时02分 ~ 10时55分]"
         },
         {
+          "title": "特朗普提名特战副司令执掌南方司令部",
+          "url": "https://wallstreetcn.com/livenews/3024305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 22时40分]"
+        },
+        {
           "title": "美国总统特朗普：我们正在对极端组织“伊斯兰国”在叙利亚的据点进行非常强烈的打击，叙利亚政府完全支持我们。",
           "url": "https://flash.jin10.com/detail/20251220081426145800",
           "source": "金十数据",
@@ -137,19 +153,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时02分 ~ 10时55分]"
-        },
-        {
-          "title": "特朗普为何推出史上最高金额对台军售",
-          "url": "https://www.toutiao.com/trending/7585013065943859238/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时03分 ~ 22时13分]"
         },
         {
           "title": "美国肯尼迪中心更名「特朗普 - 肯尼迪中心」，此举会对美国政治和文化产生哪些影响？",
@@ -254,8 +257,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[09时01分 ~ 22时13分]"
+          "appearance_count": 31,
+          "time_info": "[09时01分 ~ 22时40分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -268,8 +271,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[09时01分 ~ 22时13分]"
+          "appearance_count": 31,
+          "time_info": "[09时01分 ~ 22时40分]"
         },
         {
           "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
@@ -317,8 +320,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[12时20分 ~ 22时13分]"
+          "appearance_count": 27,
+          "time_info": "[12时20分 ~ 22时40分]"
         },
         {
           "title": "美股收盘：三大股指收涨 英伟达涨近4%",
@@ -403,8 +406,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时38分 ~ 22时13分]"
+          "appearance_count": 13,
+          "time_info": "[17时38分 ~ 22时40分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
@@ -416,6 +419,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时01分 ~ 11时45分]"
+        },
+        {
+          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
+          "url": "https://wallstreetcn.com/articles/3761763",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时25分 ~ 22时40分]"
         },
         {
           "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
@@ -433,19 +450,6 @@
           "time_info": "[09时02分 ~ 12时46分]"
         },
         {
-          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
-          "url": "https://wallstreetcn.com/articles/3761763",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时25分 ~ 22时13分]"
-        },
-        {
           "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
           "url": "https://wallstreetcn.com/articles/3761764",
           "source": "华尔街见闻",
@@ -454,8 +458,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时03分 ~ 22时13分]"
+          "appearance_count": 5,
+          "time_info": "[21时03分 ~ 22时40分]"
         }
       ]
     },
@@ -563,11 +567,12 @@
             7,
             12,
             16,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时42分 ~ 22时13分]"
+          "appearance_count": 8,
+          "time_info": "[18时42分 ~ 22时40分]"
         }
       ]
     }
