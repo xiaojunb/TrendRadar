@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T19:12:03.754177+08:00",
-  "total_titles_processed": 973,
+  "generated_at": "2025-12-20T19:36:43.106598+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
@@ -35,8 +35,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[09时01分 ~ 19时12分]"
+          "appearance_count": 25,
+          "time_info": "[09时01分 ~ 19时36分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
+          "url": "https://flash.jin10.com/detail/20251220184219205800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "特朗普称美军正对叙利亚境内“伊斯兰国”进行猛烈打击",
@@ -180,8 +191,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[09时01分 ~ 19时12分]"
+          "appearance_count": 25,
+          "time_info": "[09时01分 ~ 19时36分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -194,8 +205,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[09时01分 ~ 19时12分]"
+          "appearance_count": 25,
+          "time_info": "[09时01分 ~ 19时36分]"
         },
         {
           "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
@@ -225,8 +236,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[12时20分 ~ 19时12分]"
+          "appearance_count": 21,
+          "time_info": "[12时20分 ~ 19时36分]"
         },
         {
           "title": "浙商期货首席策略师、投资咨询部总经理徐涛：明年商品市场最大风险点在美股，但“大坑”是较好的买入时机",
@@ -239,8 +250,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时39分 ~ 19时12分]"
+          "appearance_count": 5,
+          "time_info": "[17时39分 ~ 19时36分]"
         },
         {
           "title": "美股收盘：三大股指收涨 英伟达涨近4%",
@@ -324,11 +335,12 @@
             3,
             7,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时18分 ~ 19时12分]"
+          "appearance_count": 8,
+          "time_info": "[16时18分 ~ 19时36分]"
         },
         {
           "title": "以色列暗杀伊朗核专家细节曝光",
@@ -401,8 +413,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时38分 ~ 19时12分]"
+          "appearance_count": 8,
+          "time_info": "[17时38分 ~ 19时36分]"
         },
         {
           "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
@@ -454,8 +466,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时12分]"
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 19时36分]"
         }
       ]
     }
