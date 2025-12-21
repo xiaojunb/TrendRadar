@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T14:21:22.378769+08:00",
-  "total_titles_processed": 652,
+  "generated_at": "2025-12-21T14:51:37.986505+08:00",
+  "total_titles_processed": 680,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时10分 ~ 14时21分]"
+          "appearance_count": 9,
+          "time_info": "[09时10分 ~ 14时51分]"
         },
         {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
           "url": "https://flash.jin10.com/detail/20251221140435040800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时51分]"
         },
         {
           "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -37,11 +38,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时52分 ~ 14时21分]"
+          "appearance_count": 6,
+          "time_info": "[12时52分 ~ 14时51分]"
         },
         {
           "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -51,11 +53,24 @@
             6,
             11,
             18,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时12分 ~ 14时21分]"
+          "appearance_count": 6,
+          "time_info": "[12时12分 ~ 14时51分]"
+        },
+        {
+          "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
+          "url": "https://wallstreetcn.com/livenews/3024384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时51分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -80,17 +95,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时10分 ~ 11时12分]"
-        },
-        {
-          "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
-          "url": "https://wallstreetcn.com/livenews/3024384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
         },
         {
           "title": "高市早苗着急早点见特朗普",
@@ -121,6 +125,21 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
+          "url": "https://wallstreetcn.com/articles/3761776",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时10分 ~ 14时51分]"
+        },
+        {
           "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
           "url": "https://wallstreetcn.com/articles/3761764",
           "source": "华尔街见闻",
@@ -129,20 +148,6 @@
             3,
             2,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时10分 ~ 14时21分]"
-        },
-        {
-          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
-          "url": "https://wallstreetcn.com/articles/3761776",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -187,8 +192,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时10分 ~ 14时21分]"
+          "appearance_count": 9,
+          "time_info": "[09时10分 ~ 14时51分]"
         },
         {
           "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
@@ -197,22 +202,24 @@
           "ranks": [
             1,
             4,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时53分 ~ 14时21分]"
+          "appearance_count": 5,
+          "time_info": "[12时53分 ~ 14时51分]"
         },
         {
           "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
           "url": "https://wallstreetcn.com/articles/3761788",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时51分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -249,22 +256,24 @@
           "ranks": [
             17,
             16,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时15分 ~ 14时21分]"
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 14时51分]"
         },
         {
           "title": "金价又涨了",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E5%8F%88%E6%B6%A8%E4%BA%86&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
-            27
+            27,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时51分]"
         }
       ]
     },
@@ -281,11 +290,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时12分 ~ 14时21分]"
+          "appearance_count": 8,
+          "time_info": "[11时12分 ~ 14时51分]"
         },
         {
           "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
@@ -293,11 +303,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时43分 ~ 14时21分]"
+          "appearance_count": 3,
+          "time_info": "[13时43分 ~ 14时51分]"
         }
       ]
     },
@@ -313,8 +324,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时52分 ~ 14时21分]"
+          "appearance_count": 6,
+          "time_info": "[12时52分 ~ 14时51分]"
         },
         {
           "title": "以色列拟告知美方或再次打击伊朗",
@@ -322,11 +333,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时15分 ~ 14时21分]"
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 14时51分]"
         }
       ]
     }
