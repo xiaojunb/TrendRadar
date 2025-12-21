@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T13:15:58.610307+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2025-12-21T13:43:18.823288+08:00",
+  "total_titles_processed": 610,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时10分 ~ 13时15分]"
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 13时43分]"
         },
         {
           "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -29,19 +29,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时12分 ~ 13时15分]"
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 13时43分]"
         },
         {
           "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
           "url": "https://wallstreetcn.com/articles/3761784",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 13时15分]"
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 13时43分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -105,8 +106,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时10分 ~ 13时15分]"
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 13时43分]"
         },
         {
           "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
@@ -118,8 +119,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时10分 ~ 13时15分]"
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 13时43分]"
         },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
@@ -160,8 +161,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 13时15分]"
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 13时43分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -172,8 +173,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时10分 ~ 13时15分]"
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 13时43分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -185,6 +186,37 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
+          "url": "https://wallstreetcn.com/articles/3761778",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时12分 ~ 13时43分]"
+        },
+        {
+          "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
+          "url": "https://wallstreetcn.com/articles/3761777",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         }
       ]
     },
@@ -208,11 +240,12 @@
           "url": "https://www.douyin.com/hot/2342947",
           "source": "抖音",
           "ranks": [
-            17
+            17,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时43分]"
         }
       ]
     },
@@ -228,8 +261,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 13时15分]"
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 13时43分]"
         },
         {
           "title": "以色列拟告知美方或再次打击伊朗",
@@ -238,28 +271,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
-          "url": "https://wallstreetcn.com/articles/3761778",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时12分 ~ 13时15分]"
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时43分]"
         }
       ]
     }
