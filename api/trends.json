@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T18:14:48.219312+08:00",
-  "total_titles_processed": 906,
+  "generated_at": "2025-12-21T18:42:52.760694+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
@@ -20,21 +20,6 @@
           "time_info": "[09时10分 ~ 15时14分]"
         },
         {
-          "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
-          "url": "https://wallstreetcn.com/articles/3761784",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时52分 ~ 18时14分]"
-        },
-        {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
           "url": "https://flash.jin10.com/detail/20251221140435040800",
           "source": "金十数据",
@@ -45,11 +30,28 @@
             9,
             10,
             12,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时21分 ~ 18时14分]"
+          "appearance_count": 10,
+          "time_info": "[14时21分 ~ 18时42分]"
+        },
+        {
+          "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
+          "url": "https://wallstreetcn.com/articles/3761784",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[12时52分 ~ 18时42分]"
         },
         {
           "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -239,11 +241,25 @@
             16,
             17,
             19,
-            21
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[12时53分 ~ 18时42分]"
+        },
+        {
+          "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
+          "url": "https://wallstreetcn.com/articles/3761788",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 12,
-          "time_info": "[12时53分 ~ 18时14分]"
+          "time_info": "[14时21分 ~ 18时42分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -256,20 +272,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时10分 ~ 18时14分]"
-        },
-        {
-          "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
-          "url": "https://wallstreetcn.com/articles/3761788",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时21分 ~ 18时14分]"
+          "appearance_count": 19,
+          "time_info": "[09时10分 ~ 18时42分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -343,8 +347,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时52分 ~ 18时14分]"
+          "appearance_count": 16,
+          "time_info": "[12时52分 ~ 18时42分]"
         },
         {
           "title": "以色列拟告知美方或再次打击伊朗",
