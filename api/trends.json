@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T22:15:41.878513+08:00",
-  "total_titles_processed": 1635,
+  "generated_at": "2025-12-22T22:44:15.976395+08:00",
+  "total_titles_processed": 1679,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[17时21分 ~ 22时15分]"
+          "appearance_count": 13,
+          "time_info": "[17时21分 ~ 22时44分]"
         },
         {
           "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
@@ -91,8 +91,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[17时21分 ~ 22时15分]"
+          "appearance_count": 13,
+          "time_info": "[17时21分 ~ 22时44分]"
         },
         {
           "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
@@ -109,8 +109,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[12时56分 ~ 22时15分]"
+          "appearance_count": 26,
+          "time_info": "[12时56分 ~ 22时44分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -162,11 +162,12 @@
             29,
             17,
             19,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时13分 ~ 22时15分]"
+          "appearance_count": 8,
+          "time_info": "[19时13分 ~ 22时44分]"
         },
         {
           "title": "研究显示：特朗普关税政策重创德国汽车出口",
@@ -286,7 +287,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "押注“圣诞行情”！全球股市普涨，美股期货走高，黄金站上4400，白银续刷新高，油价反弹超1%，日元小幅上涨",
@@ -341,8 +342,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时51分 ~ 22时15分]"
+          "appearance_count": 3,
+          "time_info": "[21时51分 ~ 22时44分]"
         },
         {
           "title": "押注“圣诞行情”！美股期货走高，英伟达盘前涨2%，黄金站上4400，白银续刷新高，油价反弹超1%",
@@ -356,15 +357,26 @@
           "time_info": "21时10分"
         },
         {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3025002",
+          "title": "华纳兄弟探索公司（WBD）美股盘初涨3.9%，Paramount SkyDance（派拉蒙天舞）涨3.3%。",
+          "url": "https://wallstreetcn.com/livenews/3025024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
+          "title": "行业ETF美股盘初普遍上涨，半导体ETF、能源业ETF至多涨1.53%，全球科技股指数ETF、银行业ETF、科技行业ETF至多涨0.89%，网络股指数ETF涨0.76%。",
+          "url": "https://wallstreetcn.com/livenews/3025022",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时15分"
+          "time_info": "22时44分"
         },
         {
           "title": "美股盘前，半导体股多数上涨，美光科技涨约3%，AMD、英伟达、台积电、英特尔涨约1%。",
@@ -391,6 +403,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时29分 ~ 21时10分]"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3025002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 22时44分]"
         },
         {
           "title": "英伟达美股盘前拉升， 现涨近2%",
@@ -565,8 +589,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时38分 ~ 22时15分]"
+          "appearance_count": 6,
+          "time_info": "[19时38分 ~ 22时44分]"
         },
         {
           "title": "伊朗军队司令：伊朗正在密切监视敌人动向",
