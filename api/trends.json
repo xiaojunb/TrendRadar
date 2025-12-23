@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-12-23T17:45:44.166470+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2025-12-23T18:16:34.626103+08:00",
+  "total_titles_processed": 1219,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
-        {
-          "title": "特朗普将建特朗普级新型战舰",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时10分 ~ 17时45分]"
-        },
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
           "url": "https://wallstreetcn.com/articles/3761868",
@@ -29,8 +17,21 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[09时06分 ~ 18时16分]"
+        },
+        {
+          "title": "特朗普将建特朗普级新型战舰",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            6,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 16,
-          "time_info": "[09时06分 ~ 17时45分]"
+          "time_info": "[11时10分 ~ 18时16分]"
         },
         {
           "title": "特朗普叫停美国最大海上风电项目",
@@ -65,11 +66,12 @@
             17,
             15,
             9,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时10分 ~ 17时45分]"
+          "appearance_count": 16,
+          "time_info": "[11时10分 ~ 18时16分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -101,8 +103,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时19分 ~ 17时45分]"
+          "appearance_count": 12,
+          "time_info": "[13时19分 ~ 18时16分]"
         },
         {
           "title": "特朗普提出中美G2概念 日本不安",
@@ -144,8 +146,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 17时45分]"
+          "appearance_count": 4,
+          "time_info": "[16时51分 ~ 18时16分]"
         },
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -182,6 +184,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时55分 ~ 15时43分]"
+        },
+        {
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 18时16分]"
         },
         {
           "title": "特朗普称其目标是迫使马杜罗下台",
@@ -230,6 +244,17 @@
           "time_info": "09时06分"
         },
         {
+          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
+          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "特朗普：美国还将增加航空母舰数量",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E8%BF%98%E5%B0%86%E5%A2%9E%E5%8A%A0%E8%88%AA%E7%A9%BA%E6%AF%8D%E8%88%B0%E6%95%B0%E9%87%8F",
           "source": "百度热搜",
@@ -274,17 +299,6 @@
           "time_info": "11时10分"
         },
         {
-          "title": "特朗普又自恋,新战舰用自己名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        },
-        {
           "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
           "url": "https://flash.jin10.com/detail/20251223072906047800",
           "source": "金十数据",
@@ -299,7 +313,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价突破1400元",
@@ -318,6 +332,17 @@
           "time_info": "[13时46分 ~ 17时19分]"
         },
         {
+          "title": "金价逐步朝4500美元迈进，分析师：市场逐渐适应金价高涨",
+          "url": "https://flash.jin10.com/detail/20251223175214274800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "金价银价同日创新高",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%90%8C%E6%97%A5%E5%88%9B%E6%96%B0%E9%AB%98",
           "source": "百度热搜",
@@ -331,6 +356,18 @@
           "time_info": "[15时43分 ~ 16时51分]"
         },
         {
+          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
+          "url": "https://www.cls.cn/detail/2237629",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 18时16分]"
+        },
+        {
           "title": "金价大涨的背后原因是什么",
           "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8%E7%9A%84%E8%83%8C%E5%90%8E%E5%8E%9F%E5%9B%A0%E6%98%AF%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -340,17 +377,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
-        },
-        {
-          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
-          "url": "https://www.cls.cn/detail/2237629",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
         },
         {
           "title": "金十图示：2025年12月23日（周二）上海金午盘价为1007.57元/克，较国际金价(1010.96元/克)，低3.39元/克",
@@ -398,11 +424,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时45分]"
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 18时16分]"
         },
         {
           "title": "诺和诺德(NVO.N)美股盘前涨超7%，FDA批准诺和诺德减肥药Wegovy口服片，将于明年1月上市。",
@@ -411,7 +438,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         }
@@ -427,11 +454,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时21分 ~ 17时45分]"
+          "appearance_count": 5,
+          "time_info": "[16时21分 ~ 18时16分]"
         },
         {
           "title": "伊朗军队司令：伊朗正在密切监视敌人动向",
@@ -471,8 +499,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时06分 ~ 17时45分]"
+          "appearance_count": 17,
+          "time_info": "[09时06分 ~ 18时16分]"
         },
         {
           "title": "尼日利亚与谷歌就新海底电缆进行深入谈判。（彭博）",
