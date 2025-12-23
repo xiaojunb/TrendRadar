@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T19:39:34.681156+08:00",
-  "total_titles_processed": 1376,
+  "generated_at": "2025-12-23T20:29:43.809201+08:00",
+  "total_titles_processed": 1447,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "如何看特朗普级战列舰计划",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[09时06分 ~ 19时39分]"
+          "appearance_count": 23,
+          "time_info": "[09时06分 ~ 20时29分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -39,11 +39,12 @@
           "ranks": [
             4,
             6,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[11时10分 ~ 19时39分]"
+          "appearance_count": 22,
+          "time_info": "[11时10分 ~ 20时29分]"
         },
         {
           "title": "特朗普叫停美国最大海上风电项目",
@@ -158,11 +159,12 @@
             27,
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时45分 ~ 19时39分]"
+          "appearance_count": 8,
+          "time_info": "[17时45分 ~ 20时29分]"
         },
         {
           "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
@@ -173,8 +175,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时16分 ~ 19时39分]"
+          "appearance_count": 7,
+          "time_info": "[18时16分 ~ 20时29分]"
         },
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -301,7 +303,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -350,6 +352,17 @@
           "time_info": "11时10分"
         },
         {
+          "title": "专家：特朗普战列舰政治意义大于实战",
+          "url": "https://www.toutiao.com/trending/7586991061680000531/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
           "url": "https://flash.jin10.com/detail/20251223072906047800",
           "source": "金十数据",
@@ -392,8 +405,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时45分 ~ 19时39分]"
+          "appearance_count": 8,
+          "time_info": "[17时45分 ~ 20时29分]"
         },
         {
           "title": "金价逐步朝4500美元迈进，分析师：市场逐渐适应金价高涨",
@@ -408,6 +421,18 @@
           "time_info": "[18时16分 ~ 18时47分]"
         },
         {
+          "title": "金价彻底爆了 有人拖行李箱抢购",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E7%88%86%E4%BA%86+%E6%9C%89%E4%BA%BA%E6%8B%96%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%8A%A2%E8%B4%AD",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 20时29分]"
+        },
+        {
           "title": "金价银价同日创新高",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%90%8C%E6%97%A5%E5%88%9B%E6%96%B0%E9%AB%98",
           "source": "百度热搜",
@@ -419,17 +444,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时43分 ~ 16时51分]"
-        },
-        {
-          "title": "金价彻底爆了 有人拖行李箱抢购",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E7%88%86%E4%BA%86+%E6%9C%89%E4%BA%BA%E6%8B%96%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%8A%A2%E8%B4%AD",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 19时39分]"
         },
         {
           "title": "金价大涨的背后原因是什么",
@@ -510,6 +524,49 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数跌破98，创5日新低，日内跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3025481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 17时45分]"
+        },
+        {
+          "title": "美元指数DXY跌破98，创5日新低。",
+          "url": "https://flash.jin10.com/detail/20251223161014189800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时51分]"
+        },
+        {
+          "title": "美元指数DXY日内下跌0.4%，跌至10月3日以来新低，报97.853。",
+          "url": "https://flash.jin10.com/detail/20251223192922576800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 3,
       "titles": [
@@ -564,8 +621,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[09时06分 ~ 19时39分]"
+          "appearance_count": 23,
+          "time_info": "[09时06分 ~ 20时29分]"
         },
         {
           "title": "尼日利亚与谷歌就新海底电缆进行深入谈判。（彭博）",
@@ -579,38 +636,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时23分 ~ 15时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数跌破98，创5日新低，日内跌0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3025481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时21分 ~ 17时45分]"
-        },
-        {
-          "title": "美元指数DXY跌破98，创5日新低。",
-          "url": "https://flash.jin10.com/detail/20251223161014189800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 16时51分]"
         }
       ]
     }
