@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T17:19:38.217206+08:00",
-  "total_titles_processed": 1133,
+  "generated_at": "2025-12-23T17:45:44.166470+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时10分 ~ 17时19分]"
+          "appearance_count": 15,
+          "time_info": "[11时10分 ~ 17时45分]"
         },
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时06分 ~ 17时19分]"
+          "appearance_count": 16,
+          "time_info": "[09时06分 ~ 17时45分]"
         },
         {
           "title": "特朗普叫停美国最大海上风电项目",
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时10分 ~ 17时19分]"
+          "appearance_count": 15,
+          "time_info": "[11时10分 ~ 17时45分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -68,8 +68,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时10分 ~ 17时19分]"
+          "appearance_count": 15,
+          "time_info": "[11时10分 ~ 17时45分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -101,8 +101,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时19分 ~ 17时19分]"
+          "appearance_count": 11,
+          "time_info": "[13时19分 ~ 17时45分]"
         },
         {
           "title": "特朗普提出中美G2概念 日本不安",
@@ -144,8 +144,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时51分 ~ 17时19分]"
+          "appearance_count": 3,
+          "time_info": "[16时51分 ~ 17时45分]"
         },
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -274,6 +274,17 @@
           "time_info": "11时10分"
         },
         {
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
           "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
           "url": "https://flash.jin10.com/detail/20251223072906047800",
           "source": "金十数据",
@@ -288,7 +299,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价突破1400元",
@@ -331,6 +342,17 @@
           "time_info": "13时19分"
         },
         {
+          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
+          "url": "https://www.cls.cn/detail/2237629",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
           "title": "金十图示：2025年12月23日（周二）上海金午盘价为1007.57元/克，较国际金价(1010.96元/克)，低3.39元/克",
           "url": "https://flash.jin10.com/detail/20251223150220834800",
           "source": "金十数据",
@@ -355,6 +377,47 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
+          "url": "https://www.cls.cn/detail/2237037",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时06分 ~ 15时19分]"
+        },
+        {
+          "title": "诺和诺德美股盘前涨约7%，美国食品药品监督管理局（FDA）已批准Wegovy®口服片，用于长期减轻及维持体重。",
+          "url": "https://wallstreetcn.com/livenews/3025508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 17时45分]"
+        },
+        {
+          "title": "诺和诺德(NVO.N)美股盘前涨超7%，FDA批准诺和诺德减肥药Wegovy口服片，将于明年1月上市。",
+          "url": "https://flash.jin10.com/detail/20251223170301806800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 3,
       "titles": [
@@ -367,8 +430,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 17时19分]"
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 17时45分]"
         },
         {
           "title": "伊朗军队司令：伊朗正在密切监视敌人动向",
@@ -408,8 +471,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时06分 ~ 17时19分]"
+          "appearance_count": 16,
+          "time_info": "[09时06分 ~ 17时45分]"
         },
         {
           "title": "尼日利亚与谷歌就新海底电缆进行深入谈判。（彭博）",
@@ -427,35 +490,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
-          "url": "https://www.cls.cn/detail/2237037",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时06分 ~ 15时19分]"
-        },
-        {
-          "title": "诺和诺德美股盘前涨约7%，美国食品药品监督管理局（FDA）已批准Wegovy®口服片，用于长期减轻及维持体重。",
-          "url": "https://wallstreetcn.com/livenews/3025508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -466,11 +500,12 @@
           "ranks": [
             2,
             10,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 17时19分]"
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 17时45分]"
         },
         {
           "title": "美元指数DXY跌破98，创5日新低。",
