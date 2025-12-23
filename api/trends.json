@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T20:29:43.809201+08:00",
-  "total_titles_processed": 1447,
+  "generated_at": "2025-12-23T21:12:41.759315+08:00",
+  "total_titles_processed": 1487,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "如何看特朗普级战列舰计划",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[09时06分 ~ 20时29分]"
+          "appearance_count": 24,
+          "time_info": "[09时06分 ~ 21时12分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -40,11 +40,12 @@
             4,
             6,
             11,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[11时10分 ~ 20时29分]"
+          "appearance_count": 23,
+          "time_info": "[11时10分 ~ 21时12分]"
         },
         {
           "title": "特朗普叫停美国最大海上风电项目",
@@ -163,8 +164,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时45分 ~ 20时29分]"
+          "appearance_count": 9,
+          "time_info": "[17时45分 ~ 21时12分]"
         },
         {
           "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
@@ -175,8 +176,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时16分 ~ 20时29分]"
+          "appearance_count": 8,
+          "time_info": "[18时16分 ~ 21时12分]"
+        },
+        {
+          "title": "美国司法部：爱泼斯坦案文件包含一些针对特朗普的不实指控。",
+          "url": "https://wallstreetcn.com/livenews/3025606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -319,6 +331,17 @@
           "time_info": "09时06分"
         },
         {
+          "title": "美国司法部：部分已发布的文件包含针对特朗普的不实指控，这些指控是在2020年大选前夕提交给美国联邦调查局（FBI）的。",
+          "url": "https://flash.jin10.com/detail/20251223203437979800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "马杜罗：特朗普最好把精力放在美国而不是委内瑞拉",
           "url": "https://wallstreetcn.com/livenews/3025215",
           "source": "华尔街见闻-快讯",
@@ -328,6 +351,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "美国司法部：爱泼斯坦文件包含一些针对美国总统特朗普的不实指控。",
+          "url": "https://flash.jin10.com/detail/20251223203329517800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "金银强势刷新历史新高！特朗普下周或任命新美联储主席；俄罗斯开始撤离驻委内瑞拉外交官家属，日本财相发出强烈干预警告……后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -358,7 +392,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -377,7 +411,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金价突破1400元",
@@ -405,8 +439,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时45分 ~ 20时29分]"
+          "appearance_count": 9,
+          "time_info": "[17时45分 ~ 21时12分]"
         },
         {
           "title": "金价逐步朝4500美元迈进，分析师：市场逐渐适应金价高涨",
@@ -429,8 +463,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时14分 ~ 20时29分]"
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 21时12分]"
         },
         {
           "title": "金价银价同日创新高",
@@ -455,6 +489,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "黄金再创新高, 现货黄金首次站上 4400 美元 / 盎司，今年以来累涨近 68%，金价后续怎么走？",
+          "url": "https://www.zhihu.com/question/1986492553160311276",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "金十图示：2025年12月23日（周二）上海金午盘价为1007.57元/克，较国际金价(1010.96元/克)，低3.39元/克",
@@ -560,7 +605,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         }
@@ -621,8 +666,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[09时06分 ~ 20时29分]"
+          "appearance_count": 24,
+          "time_info": "[09时06分 ~ 21时12分]"
         },
         {
           "title": "尼日利亚与谷歌就新海底电缆进行深入谈判。（彭博）",
