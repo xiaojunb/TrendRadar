@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T14:55:59.748638+08:00",
-  "total_titles_processed": 800,
+  "generated_at": "2025-12-24T15:19:22.257294+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
@@ -15,11 +15,29 @@
             10,
             8,
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时04分 ~ 14时55分]"
+          "appearance_count": 11,
+          "time_info": "[09时04分 ~ 15时19分]"
+        },
+        {
+          "title": "特朗普回应克林顿大尺度照被公布",
+          "url": "https://www.toutiao.com/trending/7586912730720947748/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            5,
+            15,
+            14,
+            23,
+            28,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时04分 ~ 15时19分]"
         },
         {
           "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
@@ -30,8 +48,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时04分 ~ 14时55分]"
+          "appearance_count": 11,
+          "time_info": "[09时04分 ~ 15时19分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -47,8 +65,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时04分 ~ 14时55分]"
+          "appearance_count": 11,
+          "time_info": "[09时04分 ~ 15时19分]"
         },
         {
           "title": "特朗普又自恋,新战舰用自己名",
@@ -63,24 +81,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时04分 ~ 14时55分]"
-        },
-        {
-          "title": "特朗普回应克林顿大尺度照被公布",
-          "url": "https://www.toutiao.com/trending/7586912730720947748/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            5,
-            15,
-            14,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时04分 ~ 14时23分]"
+          "appearance_count": 11,
+          "time_info": "[09时04分 ~ 15时19分]"
         },
         {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
@@ -91,8 +93,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时07分 ~ 14时55分]"
+          "appearance_count": 9,
+          "time_info": "[11时07分 ~ 15时19分]"
         },
         {
           "title": "特朗普再谈格陵兰问题 还提到中国",
@@ -146,6 +148,19 @@
           "time_info": "[11时07分 ~ 12时54分]"
         },
         {
+          "title": "克林顿大尺度照被公布 特朗普回应",
+          "url": "https://www.baidu.com/s?wd=%E5%85%8B%E6%9E%97%E9%A1%BF%E5%A4%A7%E5%B0%BA%E5%BA%A6%E7%85%A7%E8%A2%AB%E5%85%AC%E5%B8%83+%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时22分 ~ 15时19分]"
+        },
+        {
           "title": "特朗普再谈格陵兰问题 还提到中国",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E8%B0%88%E6%A0%BC%E9%99%B5%E5%85%B0%E9%97%AE%E9%A2%98+%E8%BF%98%E6%8F%90%E5%88%B0%E4%B8%AD%E5%9B%BD",
           "source": "百度热搜",
@@ -157,18 +172,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时07分 ~ 12时54分]"
-        },
-        {
-          "title": "克林顿大尺度照被公布 特朗普回应",
-          "url": "https://www.baidu.com/s?wd=%E5%85%8B%E6%9E%97%E9%A1%BF%E5%A4%A7%E5%B0%BA%E5%BA%A6%E7%85%A7%E8%A2%AB%E5%85%AC%E5%B8%83+%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时22分 ~ 14时55分]"
         },
         {
           "title": "解析美军制造特朗普级战舰",
@@ -237,6 +240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "特朗普新战舰计划将如何影响美海军",
+          "url": "https://www.toutiao.com/trending/7587290704624225838/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         }
       ]
     },
@@ -255,6 +269,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时04分 ~ 11时07分]"
+        },
+        {
+          "title": "赛诺菲(SNY.O)以每股15.50美元的现金价格收购Dynavax公司的所有流通股。交易预计于2026年第一季度完成。",
+          "url": "https://flash.jin10.com/detail/20251224141858552800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 15时19分]"
         },
         {
           "title": "黄金再创新高, 现货黄金首次站上 4400 美元 / 盎司，今年以来累涨近 68%，金价后续怎么走？",
@@ -277,17 +302,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
-        },
-        {
-          "title": "赛诺菲(SNY.O)以每股15.50美元的现金价格收购Dynavax公司的所有流通股。交易预计于2026年第一季度完成。",
-          "url": "https://flash.jin10.com/detail/20251224141858552800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时55分"
         }
       ]
     },
@@ -362,8 +376,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时04分 ~ 14时55分]"
+          "appearance_count": 11,
+          "time_info": "[09时04分 ~ 15时19分]"
         }
       ]
     },
