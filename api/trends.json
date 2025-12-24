@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T16:20:58.478826+08:00",
-  "total_titles_processed": 951,
+  "generated_at": "2025-12-24T16:51:15.395439+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
@@ -49,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时07分 ~ 16时20分]"
+          "appearance_count": 14,
+          "time_info": "[11时07分 ~ 16时51分]"
         },
         {
           "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
@@ -61,8 +61,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时04分 ~ 16时20分]"
+          "appearance_count": 16,
+          "time_info": "[09时04分 ~ 16时51分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -79,8 +79,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时04分 ~ 16时20分]"
+          "appearance_count": 16,
+          "time_info": "[09时04分 ~ 16时51分]"
         },
         {
           "title": "特朗普又自恋,新战舰用自己名",
@@ -97,8 +97,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时04分 ~ 16时20分]"
+          "appearance_count": 16,
+          "time_info": "[09时04分 ~ 16时51分]"
         },
         {
           "title": "特朗普再谈格陵兰问题 还提到中国",
@@ -260,7 +260,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价癫了",
@@ -295,6 +295,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时04分 ~ 09时05分]"
+        },
+        {
+          "title": "金价银价铜价均创历史新高",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E9%93%9C%E4%BB%B7%E5%9D%87%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 16时51分]"
         },
         {
           "title": "金十图示：2025年12月24日（周三）上海金早盘价为1012.73元/克，较国际金价(1017.6元/克)，低4.87元/克",
@@ -371,11 +382,12 @@
           "source": "今日头条",
           "ranks": [
             18,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时42分 ~ 16时20分]"
+          "appearance_count": 5,
+          "time_info": "[15时42分 ~ 16时51分]"
         },
         {
           "title": "伊朗在安理会感谢中国",
@@ -421,8 +433,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时04分 ~ 16时20分]"
+          "appearance_count": 16,
+          "time_info": "[09时04分 ~ 16时51分]"
         }
       ]
     },
