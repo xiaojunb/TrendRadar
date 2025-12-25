@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T17:17:26.951191+08:00",
-  "total_titles_processed": 1073,
+  "generated_at": "2025-12-25T17:43:10.108419+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 17时17分]"
+          "appearance_count": 4,
+          "time_info": "[16时49分 ~ 17时43分]"
         },
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -37,9 +37,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 17时43分]"
         },
         {
           "title": "高市早苗为何要赶在特朗普访华前访美",
@@ -101,7 +101,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
@@ -143,6 +143,17 @@
           "time_info": "[11时10分 ~ 13时19分]"
         },
         {
+          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
+          "url": "https://www.zhihu.com/question/1987171318681068732",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 17时43分]"
+        },
+        {
           "title": "金十图示：2025年12月25日（周四）上海金早盘价为1002.46元/克，较国际金价(1008.23元/克)，低5.77元/克",
           "url": "https://flash.jin10.com/detail/20251225102210297800",
           "source": "金十数据",
@@ -179,8 +190,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时05分 ~ 17时17分]"
+          "appearance_count": 19,
+          "time_info": "[09时05分 ~ 17时43分]"
+        },
+        {
+          "title": "英特尔美股盘前大跌5%，报道：英伟达暂缓推进测试英特尔18A工艺",
+          "url": "https://wallstreetcn.com/articles/3762016",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时10分 ~ 17时43分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -193,18 +217,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时05分 ~ 12时54分]"
-        },
-        {
-          "title": "英特尔美股盘前大跌5%，报道：英伟达暂缓推进测试英特尔18A工艺",
-          "url": "https://wallstreetcn.com/articles/3762016",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时10分 ~ 17时17分]"
         }
       ]
     },
