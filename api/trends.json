@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T16:49:40.117557+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2025-12-25T17:17:26.951191+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
@@ -26,9 +26,20 @@
           "ranks": [
             2
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 17时17分]"
+        },
+        {
+          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
+          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时49分"
+          "time_info": "17时17分"
         },
         {
           "title": "高市早苗为何要赶在特朗普访华前访美",
@@ -164,11 +175,12 @@
           "url": "https://wallstreetcn.com/articles/3761989",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时05分 ~ 16时49分]"
+          "appearance_count": 17,
+          "time_info": "[09时05分 ~ 17时17分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -187,11 +199,12 @@
           "url": "https://wallstreetcn.com/articles/3762016",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时10分 ~ 16时49分]"
+          "appearance_count": 9,
+          "time_info": "[11时10分 ~ 17时17分]"
         }
       ]
     },
