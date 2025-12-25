@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T21:09:22.299353+08:00",
-  "total_titles_processed": 1397,
+  "generated_at": "2025-12-25T21:48:24.168451+08:00",
+  "total_titles_processed": 1459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "高市早苗：想尽快与特朗普会晤",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时49分 ~ 21时09分]"
+          "appearance_count": 13,
+          "time_info": "[16时49分 ~ 21时48分]"
         },
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时17分 ~ 21时09分]"
+          "appearance_count": 12,
+          "time_info": "[17时17分 ~ 21时48分]"
         },
         {
           "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
@@ -56,17 +56,6 @@
           "time_info": "[18时16分 ~ 19时13分]"
         },
         {
-          "title": "俄罗斯外交部：我们希望美国总统特朗普的务实与理性有助于在国际法框架内找到解决方案。",
-          "url": "https://flash.jin10.com/detail/20251225202508685800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-25）",
           "url": "https://flash.jin10.com/detail/20251225173408748800",
           "source": "金十数据",
@@ -78,6 +67,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时16分 ~ 19时13分]"
+        },
+        {
+          "title": "俄罗斯外交部：我们希望美国总统特朗普的务实与理性有助于在国际法框架内找到解决方案。",
+          "url": "https://flash.jin10.com/detail/20251225202508685800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时48分]"
         },
         {
           "title": "高市早苗为何要赶在特朗普访华前访美",
@@ -134,6 +135,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
+        },
+        {
+          "title": "特朗普暴力改建白宫合法吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%B4%E5%8A%9B%E6%94%B9%E5%BB%BA%E7%99%BD%E5%AE%AB%E5%90%88%E6%B3%95%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         }
       ]
     },
@@ -141,6 +153,22 @@
       "keyword_group": "金价",
       "match_count": 6,
       "titles": [
+        {
+          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
+          "url": "https://www.zhihu.com/question/1987171318681068732",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14,
+            13,
+            6,
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时42分 ~ 21时48分]"
+        },
         {
           "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
           "url": "https://www.cls.cn/detail/2239423",
@@ -154,21 +182,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[11时10分 ~ 14时23分]"
-        },
-        {
-          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
-          "url": "https://www.zhihu.com/question/1987171318681068732",
-          "source": "知乎",
-          "ranks": [
-            17,
-            14,
-            13,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时42分 ~ 21时09分]"
         },
         {
           "title": "金十图示：2025年12月25日（周四）上海金午盘价为1002.83元/克，较国际金价(1008.17元/克)，低5.34元/克",
@@ -232,8 +245,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[09时05分 ~ 21时09分]"
+          "appearance_count": 28,
+          "time_info": "[09时05分 ~ 21时48分]"
         },
         {
           "title": "英特尔美股盘前大跌5%，报道：英伟达暂缓推进测试英特尔18A工艺",
@@ -308,8 +321,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时37分 ~ 21时09分]"
+          "appearance_count": 5,
+          "time_info": "[19时37分 ~ 21时48分]"
         }
       ]
     },
