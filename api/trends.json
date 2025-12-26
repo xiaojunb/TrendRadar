@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T21:09:33.119480+08:00",
-  "total_titles_processed": 1432,
+  "generated_at": "2025-12-26T21:49:47.079312+08:00",
+  "total_titles_processed": 1506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[11时08分 ~ 21时09分]"
+          "appearance_count": 27,
+          "time_info": "[11时08分 ~ 21时49分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时16分 ~ 21时09分]"
+          "appearance_count": 12,
+          "time_info": "[17时16分 ~ 21时49分]"
         },
         {
           "title": "金银亚盘暴力拉升，现货白银一度上破75美元/盎司；特朗普宣称美军打击尼日利亚ISIS恐怖分子，此前曾警告美国将“火力全开”进入尼日利亚……后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -60,7 +60,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -71,7 +71,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -157,6 +157,17 @@
           "time_info": "[09时05分 ~ 09时06分]"
         },
         {
+          "title": "泽连斯基：预计将于周日在佛罗里达与特朗普会面",
+          "url": "https://wallstreetcn.com/livenews/3027347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "俄外交部：希望特朗普在委内瑞拉局势问题上“务实和理性”",
           "url": "https://wallstreetcn.com/livenews/3026898",
           "source": "华尔街见闻-快讯",
@@ -190,6 +201,28 @@
           "time_info": "09时06分"
         },
         {
+          "title": "乌克兰总统泽连斯基：想与特朗普讨论对俄罗斯施加额外压力的问题。",
+          "url": "https://flash.jin10.com/detail/20251226205730248800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：无法确定周日与美国总统特朗普的会晤是否会促成任何协议的签署。",
+          "url": "https://flash.jin10.com/detail/20251226205149177800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "泽连斯基称近期将与美总统特朗普会面",
           "url": "https://wallstreetcn.com/livenews/3027103",
           "source": "华尔街见闻-快讯",
@@ -199,6 +232,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰将在与特朗普的会晤中提出那些缺乏妥协空间的问题。",
+          "url": "https://flash.jin10.com/detail/20251226204831614800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：预计将于周日在佛罗里达与美国总统特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20251226204630246800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：计划与美国总统特朗普讨论安全保障和重建问题。",
+          "url": "https://flash.jin10.com/detail/20251226204553454800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         }
       ]
     },
@@ -216,8 +282,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[11时08分 ~ 21时09分]"
+          "appearance_count": 27,
+          "time_info": "[11时08分 ~ 21时49分]"
         },
         {
           "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
@@ -259,6 +325,18 @@
           "time_info": "[15时17分 ~ 15时40分]"
         },
         {
+          "title": "金价暴涨还能买吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E8%BF%98%E8%83%BD%E4%B9%B0%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时28分 ~ 21时49分]"
+        },
+        {
           "title": "铂金价格创纪录新高，因欧盟拟撤销燃油车禁售令",
           "url": "https://flash.jin10.com/detail/20251226112935984800",
           "source": "金十数据",
@@ -270,18 +348,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时11分 ~ 13时17分]"
-        },
-        {
-          "title": "金价暴涨还能买吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E8%BF%98%E8%83%BD%E4%B9%B0%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时28分 ~ 21时09分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -331,7 +397,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股太空概念股Sidus Space盘前延续大涨，现涨超30%，前一交易日收涨33%。",
@@ -357,6 +423,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时11分 ~ 13时17分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-26）",
+          "url": "https://flash.jin10.com/detail/20251226211205705800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         }
       ]
     },
