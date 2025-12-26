@@ -1,321 +1,83 @@
 {
-  "generated_at": "2025-12-25T22:43:16.894562+08:00",
-  "total_titles_processed": 1515,
+  "generated_at": "2025-12-26T09:06:12.431472+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "高市早苗：想尽快与特朗普会晤",
-          "url": "https://news.ifeng.com/c/8pNHf17pGd9",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[16时49分 ~ 22时43分]"
-        },
-        {
-          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
-          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[17时17分 ~ 22时43分]"
-        },
-        {
-          "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
-          "url": "https://wallstreetcn.com/articles/3761983",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时05分 ~ 13时46分]"
-        },
-        {
-          "title": "特朗普这一年如何搅乱全球",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E4%B8%80%E5%B9%B4%E5%A6%82%E4%BD%95%E6%90%85%E4%B9%B1%E5%85%A8%E7%90%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时16分 ~ 19时13分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-25）",
-          "url": "https://flash.jin10.com/detail/20251225173408748800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 19时13分]"
-        },
-        {
-          "title": "俄罗斯外交部：我们希望美国总统特朗普的务实与理性有助于在国际法框架内找到解决方案。",
-          "url": "https://flash.jin10.com/detail/20251225202508685800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时09分 ~ 21时48分]"
-        },
-        {
-          "title": "高市早苗为何要赶在特朗普访华前访美",
-          "url": "https://www.toutiao.com/trending/7587680478346350143/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时41分 ~ 16时20分]"
-        },
-        {
-          "title": "特朗普暴力改建白宫合法吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%B4%E5%8A%9B%E6%94%B9%E5%BB%BA%E7%99%BD%E5%AE%AB%E5%90%88%E6%B3%95%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时48分 ~ 22时14分]"
-        },
-        {
-          "title": "帕劳与特朗普政府签署备忘录，从美国接收75名移民",
-          "url": "https://flash.jin10.com/detail/20251225121328471800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 13时19分]"
-        },
-        {
-          "title": "特朗普发表圣诞祝福 不忘自夸政绩",
-          "url": "https://flash.jin10.com/detail/20251225103018828800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "特朗普挑战纽约“绿灯法”受挫",
-          "url": "https://flash.jin10.com/detail/20251225101921805800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "“特朗普”级战列舰来了",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9D%E7%BA%A7%E6%88%98%E5%88%97%E8%88%B0%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
           "url": "https://www.zhihu.com/question/1987171318681068732",
           "source": "知乎",
           "ranks": [
-            17,
-            14,
-            13,
-            6,
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[17时42分 ~ 22时43分]"
-        },
-        {
-          "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2239423",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时10分 ~ 14时23分]"
-        },
-        {
-          "title": "金十图示：2025年12月25日（周四）上海金午盘价为1002.83元/克，较国际金价(1008.17元/克)，低5.34元/克",
-          "url": "https://flash.jin10.com/detail/20251225150449280800",
-          "source": "金十数据",
-          "ranks": [
-            3
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时17分 ~ 15时41分]"
+          "time_info": "[09时05分 ~ 09时06分]"
         },
         {
-          "title": "金价狂飙 千元内几乎买不到金饰",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99+%E5%8D%83%E5%85%83%E5%86%85%E5%87%A0%E4%B9%8E%E4%B9%B0%E4%B8%8D%E5%88%B0%E9%87%91%E9%A5%B0",
-          "source": "百度热搜",
+          "title": "中信证券：流动性宽松预期下金价有望延续涨势，2026年或冲击5000美元",
+          "url": "https://wallstreetcn.com/livenews/3026903",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24,
-            25,
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时10分 ~ 13时19分]"
-        },
-        {
-          "title": "金十图示：2025年12月25日（周四）上海金早盘价为1002.46元/克，较国际金价(1008.23元/克)，低5.77元/克",
-          "url": "https://flash.jin10.com/detail/20251225102210297800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "金价又创历史新高",
-          "url": "https://www.douyin.com/hot/2346801",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
-          "url": "https://wallstreetcn.com/articles/3761989",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[09时05分 ~ 22时43分]"
-        },
-        {
-          "title": "英特尔美股盘前大跌5%，报道：英伟达暂缓推进测试英特尔18A工艺",
-          "url": "https://wallstreetcn.com/articles/3762016",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[11时10分 ~ 21时09分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
-          "url": "https://www.cls.cn/detail/2239383",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时05分 ~ 12时54分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "以色列公民被控为伊朗间谍 曾侦察前总理住所",
-          "url": "https://flash.jin10.com/detail/20251225181314638800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时45分 ~ 19时38分]"
-        },
-        {
-          "title": "以色列国防军：今天早些时候，以色列国防军与辛贝特在黎巴嫩纳萨里耶地区击毙了“圣城旅”第840作战单位的关键分子哈辛·马哈茂德·马尔沙德·阿勒-乔哈利。过去数年，他一直参与推动在叙黎战区针对以色列国的恐怖行动。哈辛在伊朗革命卫队服役，参与了伊朗指挥的针对以色列国和安全部队的恐怖活动。",
-          "url": "https://flash.jin10.com/detail/20251225221002451800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时43分"
+          "time_info": "09时06分"
         },
         {
-          "title": "以色列防长称正密切关注伊朗局势",
-          "url": "https://wallstreetcn.com/livenews/3026401",
+          "title": "中金：建议淡化黄金价格点位预测 更关注资产趋势改变时点",
+          "url": "https://flash.jin10.com/detail/20251226074230487800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "专家：特朗普或在2026“压榨”美联储",
+          "url": "https://www.toutiao.com/trending/7587727738132270635/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
+          "title": "俄外交部：希望特朗普在委内瑞拉局势问题上“务实和理性”",
+          "url": "https://wallstreetcn.com/livenews/3026898",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时05分"
+          "time_info": "09时06分"
+        },
+        {
+          "title": "特朗普称美军对尼日利亚西北部“伊斯兰国”目标发动打击",
+          "url": "https://flash.jin10.com/detail/20251226075028232800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
         }
       ]
     },
@@ -324,51 +86,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "微软谷歌开启“抢芯”模式，派员工常驻韩国，拿不到三星、SK海力士芯片就会被解雇",
-          "url": "https://wallstreetcn.com/livenews/3026771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI的“广告模式”已初具雏形",
-          "url": "https://wallstreetcn.com/articles/3762036",
+          "title": "英伟达急了？或被谷歌TPU逼到墙角，黄仁勋不惜代价也要“收编”Groq",
+          "url": "https://wallstreetcn.com/articles/3762068",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时37分 ~ 22时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美债抛售潮背后的地缘金融信号",
-          "url": "https://www.toutiao.com/trending/7587662581184073257/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时20分"
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
         }
       ]
     }
