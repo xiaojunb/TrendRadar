@@ -1,22 +1,34 @@
 {
-  "generated_at": "2025-12-26T11:08:56.347623+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2025-12-26T12:11:09.380340+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
           "url": "https://wallstreetcn.com/livenews/3026999",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时08分 ~ 12时11分]"
+        },
+        {
+          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
+          "url": "https://wallstreetcn.com/articles/3762105",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时08分 ~ 12时11分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -30,17 +42,6 @@
           "time_info": "[09时05分 ~ 09时06分]"
         },
         {
-          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
-          "url": "https://wallstreetcn.com/articles/3762105",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时08分"
-        },
-        {
           "title": "中信证券：流动性宽松预期下金价有望延续涨势，2026年或冲击5000美元",
           "url": "https://wallstreetcn.com/livenews/3026903",
           "source": "华尔街见闻-快讯",
@@ -52,13 +53,24 @@
           "time_info": "09时06分"
         },
         {
+          "title": "铂金价格创纪录新高，因欧盟拟撤销燃油车禁售令",
+          "url": "https://flash.jin10.com/detail/20251226112935984800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
           "title": "金十图示：2025年12月26日（周五）上海金早盘价为1010.21元/克，较国际金价(1014.02元/克)，低3.81元/克",
           "url": "https://flash.jin10.com/detail/20251226101958346800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
         },
@@ -86,9 +98,32 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
+        },
+        {
+          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
+          "url": "https://wallstreetcn.com/articles/3762107",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时08分 ~ 12时11分]"
+        },
+        {
+          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
+          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时08分 ~ 12时11分]"
         },
         {
           "title": "专家：特朗普或在2026“压榨”美联储",
@@ -100,28 +135,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时05分 ~ 09时06分]"
-        },
-        {
-          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
-          "url": "https://wallstreetcn.com/articles/3762107",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时08分"
-        },
-        {
-          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
-          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时08分"
         },
         {
           "title": "俄外交部：希望特朗普在委内瑞拉局势问题上“务实和理性”",
@@ -160,8 +173,25 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时05分 ~ 11时08分]"
+          "appearance_count": 5,
+          "time_info": "[09时05分 ~ 12时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股今日正常开市，欧洲股市继续休市",
+          "url": "https://flash.jin10.com/detail/20251226112952955800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         }
       ]
     }
