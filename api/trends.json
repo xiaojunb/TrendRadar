@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T17:17:02.336662+08:00",
-  "total_titles_processed": 1074,
+  "generated_at": "2025-12-26T17:42:40.012625+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时08分 ~ 17时17分]"
+          "appearance_count": 18,
+          "time_info": "[11时08分 ~ 17时42分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -50,8 +50,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 17时17分]"
+          "appearance_count": 6,
+          "time_info": "[16时19分 ~ 17时42分]"
         },
         {
           "title": "泽连斯基：已同意在近期与特朗普会面。 很多事情可以在年底前决定。",
@@ -85,8 +85,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 17时17分]"
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 17时42分]"
         },
         {
           "title": "欧盟竞争事务专员Teresa Ribera表示，欧洲必须更加有力地捍卫其监管体系，才能保持全球竞争力。她呼吁抵制美国总统特朗普以及那些在欧盟内进行游说要求改革的人所施加的压力。",
@@ -182,8 +182,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时08分 ~ 17时17分]"
+          "appearance_count": 18,
+          "time_info": "[11时08分 ~ 17时42分]"
         },
         {
           "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
@@ -284,6 +284,36 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股太空概念股Sidus Space盘前延续大涨，现涨超30%，前一交易日收涨33%。",
+          "url": "https://flash.jin10.com/detail/20251226172626463800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "美股今日正常开市，欧洲股市继续休市",
+          "url": "https://flash.jin10.com/detail/20251226112952955800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 13时17分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 2,
       "titles": [
@@ -325,27 +355,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时05分 ~ 17时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股今日正常开市，欧洲股市继续休市",
-          "url": "https://flash.jin10.com/detail/20251226112952955800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 13时17分]"
+          "appearance_count": 20,
+          "time_info": "[09时05分 ~ 17时42分]"
         }
       ]
     },
