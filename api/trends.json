@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T19:36:16.704864+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2025-12-27T20:26:42.276286+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普回应泽连斯基：没我，你啥都不是",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时18分 ~ 19时36分]"
+          "appearance_count": 13,
+          "time_info": "[16时18分 ~ 20时26分]"
         },
         {
           "title": "美国总统特朗普将于当地时间周日下午3点在海湖庄园会见泽连斯基。",
@@ -50,8 +50,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时14分 ~ 19时36分]"
+          "appearance_count": 13,
+          "time_info": "[15时14分 ~ 20时26分]"
         },
         {
           "title": "特朗普：未经我批准 泽连斯基一无所有",
@@ -182,19 +182,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时42分 ~ 19时36分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：美国提供的安全保障将取决于美国总统特朗普准备提供什么。",
-          "url": "https://flash.jin10.com/detail/20251227191857626800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时36分"
+          "appearance_count": 6,
+          "time_info": "[18时42分 ~ 20时26分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-27）",
@@ -203,11 +192,12 @@
           "ranks": [
             4,
             12,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时42分 ~ 19时36分]"
+          "appearance_count": 4,
+          "time_info": "[18时42分 ~ 20时26分]"
         },
         {
           "title": "乌克兰总统泽连斯基：正乘飞机前往美国会见美国总统特朗普，途中将先在加拿大停留，会见加拿大总理卡尼。",
@@ -215,11 +205,24 @@
           "source": "金十数据",
           "ranks": [
             4,
-            12
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 20时26分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：美国提供的安全保障将取决于美国总统特朗普准备提供什么。",
+          "url": "https://flash.jin10.com/detail/20251227191857626800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时12分 ~ 19时36分]"
+          "time_info": "[19时36分 ~ 20时26分]"
         },
         {
           "title": "特朗普下令袭击尼日利亚，有人急了：万一跟中国打呢",
@@ -242,6 +245,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
+        },
+        {
+          "title": "特朗普为何又索要盟友的领土",
+          "url": "https://www.toutiao.com/trending/7588483119292878372/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "周五（12月26日），降息赢家指数涨0.03%，报100.38点，本周累计上涨0.45%。 “特朗普关税输家”指数涨0.48%，报112.72点，本周累跌0.18%。 散户抱团概念股指数/迷因股（meme stock）指数跌1.85%，报16.03点，本周累跌4.89%。",
@@ -268,8 +282,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[09时04分 ~ 19时36分]"
+          "appearance_count": 28,
+          "time_info": "[09时04分 ~ 20时26分]"
         },
         {
           "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
@@ -296,8 +310,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[09时04分 ~ 19时36分]"
+          "appearance_count": 28,
+          "time_info": "[09时04分 ~ 20时26分]"
         },
         {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
@@ -367,6 +381,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价上涨的受益者这里有一屋",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E5%8F%97%E7%9B%8A%E8%80%85%E8%BF%99%E9%87%8C%E6%9C%89%E4%B8%80%E5%B1%8B&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         }
       ]
     },
