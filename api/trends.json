@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T13:01:20.839768+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2025-12-28T13:28:35.964366+08:00",
+  "total_titles_processed": 579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普与泽连斯基会晤时间有所调整",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时21分 ~ 13时01分]"
+        },
+        {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时28分]"
         },
         {
           "title": "泽连斯基周日会晤特朗普讨论“敏感问题”，俄副外长：乌公布的“和平计划”草案与俄美商讨内容“根本不同”",
@@ -43,15 +54,15 @@
           "time_info": "09时13分"
         },
         {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
+          "title": "特朗普为美国带来了什么改变",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%B8%A6%E6%9D%A5%E4%BA%86%E4%BB%80%E4%B9%88%E6%94%B9%E5%8F%98",
+          "source": "bilibili 热搜",
           "ranks": [
-            10
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时01分"
+          "time_info": "13时28分"
         },
         {
           "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
@@ -98,6 +109,17 @@
           "time_info": "11时21分"
         },
         {
+          "title": "特朗普称爱泼斯坦案是政治迫害",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%98%AF%E6%94%BF%E6%B2%BB%E8%BF%AB%E5%AE%B3%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
           "title": "泽连斯基抵达美国，准备与特朗普会谈",
           "url": "https://flash.jin10.com/detail/20251228084239521800",
           "source": "金十数据",
@@ -112,7 +134,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊朗总统：我们正跟西方全面开战，战况比两伊战争更复杂严峻",
@@ -123,8 +145,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时30分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[12时30分 ~ 13时28分]"
+        },
+        {
+          "title": "佩泽希齐扬：伊朗正与美欧打“全面战争”",
+          "url": "https://flash.jin10.com/detail/20251228132149206800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "伊朗总统称，如今伊朗的军队和武器比以色列夏季发动袭击时更加强大。",
@@ -136,6 +169,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "伊朗总统：正与美欧打“全面战争”",
+          "url": "https://www.toutiao.com/trending/7588334047006834729/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "伊朗专家成功实现了战略材料沸石的本地化生产，沸石可用于天然气脱硫、医疗设备和氧气发生器。",
