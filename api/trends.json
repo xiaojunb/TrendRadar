@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T12:31:12.613930+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2025-12-28T13:01:20.839768+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普与泽连斯基会晤时间有所调整",
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             12,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时21分 ~ 12时31分]"
+          "appearance_count": 3,
+          "time_info": "[11时21分 ~ 13时01分]"
         },
         {
           "title": "泽连斯基周日会晤特朗普讨论“敏感问题”，俄副外长：乌公布的“和平计划”草案与俄美商讨内容“根本不同”",
@@ -40,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
@@ -107,11 +119,12 @@
           "url": "https://news.ifeng.com/c/8pRrVSRVRbc",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时30分 ~ 12时31分]"
+          "appearance_count": 3,
+          "time_info": "[12时30分 ~ 13时01分]"
         },
         {
           "title": "伊朗总统称，如今伊朗的军队和武器比以色列夏季发动袭击时更加强大。",
@@ -147,11 +160,12 @@
           "source": "金十数据",
           "ranks": [
             13,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时21分 ~ 12时31分]"
+          "appearance_count": 3,
+          "time_info": "[11时21分 ~ 13时01分]"
         }
       ]
     }
