@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T16:18:56.284206+08:00",
-  "total_titles_processed": 726,
+  "generated_at": "2025-12-28T16:47:16.071891+08:00",
+  "total_titles_processed": 762,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时01分 ~ 16时18分]"
+          "appearance_count": 10,
+          "time_info": "[13时01分 ~ 16时47分]"
         },
         {
           "title": "乌媒：泽连斯基概述想和特朗普讨论“和平计划”的5个问题",
@@ -26,11 +27,12 @@
           "ranks": [
             2,
             8,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时15分 ~ 16时18分]"
+          "appearance_count": 4,
+          "time_info": "[15时15分 ~ 16时47分]"
         },
         {
           "title": "特朗普秘密指令对24个“贩毒集团”实施海上打击",
@@ -39,11 +41,25 @@
           "ranks": [
             3,
             9,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时15分 ~ 16时18分]"
+          "appearance_count": 4,
+          "time_info": "[15时15分 ~ 16时47分]"
+        },
+        {
+          "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
+          "url": "https://www.toutiao.com/trending/7588795037148794414/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时39分 ~ 16时47分]"
         },
         {
           "title": "特朗普与泽连斯基会晤时间有所调整",
@@ -57,18 +73,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时21分 ~ 13时01分]"
-        },
-        {
-          "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
-          "url": "https://www.toutiao.com/trending/7588795037148794414/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 16时18分]"
         },
         {
           "title": "特朗普为美国带来了什么改变",
@@ -174,7 +178,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗总统：我们正跟西方全面开战，战况比两伊战争更复杂严峻",
@@ -185,8 +189,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时30分 ~ 16时18分]"
+          "appearance_count": 12,
+          "time_info": "[12时30分 ~ 16时47分]"
         },
         {
           "title": "佩泽希齐扬：伊朗正与美欧打“全面战争”",
@@ -225,11 +229,23 @@
           "ranks": [
             5,
             11,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时15分 ~ 16时18分]"
+          "appearance_count": 4,
+          "time_info": "[15时15分 ~ 16时47分]"
+        },
+        {
+          "title": "伊朗总统警告美以勿发动新攻击",
+          "url": "https://www.toutiao.com/trending/7588656998733365311/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时46分 ~ 16时47分]"
         },
         {
           "title": "伊朗总统：伊朗正跟西方全面开战",
@@ -271,6 +287,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
+          "url": "https://wallstreetcn.com/articles/3762200",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时15分 ~ 16时47分]"
+        },
+        {
           "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
           "url": "https://flash.jin10.com/detail/20251228100400527800",
           "source": "金十数据",
@@ -282,17 +309,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时21分 ~ 13时01分]"
-        },
-        {
-          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
-          "url": "https://wallstreetcn.com/articles/3762200",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 15时39分]"
         }
       ]
     }
