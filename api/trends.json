@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T19:14:03.638697+08:00",
-  "total_titles_processed": 1263,
+  "generated_at": "2025-12-29T19:39:52.375955+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
@@ -66,11 +66,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时57分 ~ 19时14分]"
+          "appearance_count": 15,
+          "time_info": "[14时57分 ~ 19时39分]"
         },
         {
           "title": "特朗普称美军对委内瑞拉一目标实施秘密打击",
@@ -132,6 +133,34 @@
           "time_info": "[16时53分 ~ 18时17分]"
         },
         {
+          "title": "俄罗斯总统新闻秘书佩斯科夫：普京和特朗普近期将再次通话，普京与泽连斯基通话目前不在议程之内。（IFX）",
+          "url": "https://wallstreetcn.com/livenews/3028074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 19时39分]"
+        },
+        {
+          "title": "克里姆林宫称同意特朗普有关乌克兰和平进程更进一步的说法。（塔斯社）",
+          "url": "https://wallstreetcn.com/livenews/3028086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 19时39分]"
+        },
+        {
           "title": "俄乌和平信号频现！特朗普：“进度条”已至95% 不排除三方会晤",
           "url": "https://www.cls.cn/detail/2242304",
           "source": "财联社热门",
@@ -170,32 +199,6 @@
           "time_info": "[16时53分 ~ 17时23分]"
         },
         {
-          "title": "俄罗斯总统新闻秘书佩斯科夫：普京和特朗普近期将再次通话，普京与泽连斯基通话目前不在议程之内。（IFX）",
-          "url": "https://wallstreetcn.com/livenews/3028074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 19时14分]"
-        },
-        {
-          "title": "克里姆林宫称同意特朗普有关乌克兰和平进程更进一步的说法。（塔斯社）",
-          "url": "https://wallstreetcn.com/livenews/3028086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 19时14分]"
-        },
-        {
           "title": "乌克兰总统泽连斯基：已告知美国总统特朗普，俄罗斯总统普京关于准备结束冲突的言论与其实际行动并不一致。",
           "url": "https://flash.jin10.com/detail/20251229173217920800",
           "source": "金十数据",
@@ -220,6 +223,18 @@
           "time_info": "[13时24分 ~ 13时50分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-29）",
+          "url": "https://flash.jin10.com/detail/20251229182839575800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时47分 ~ 19时39分]"
+        },
+        {
           "title": "克里姆林宫：预计俄罗斯总统普京与美国总统特朗普的通话很快就会举行。",
           "url": "https://flash.jin10.com/detail/20251229175227087800",
           "source": "金十数据",
@@ -232,16 +247,15 @@
           "time_info": "[18时17分 ~ 18时47分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-29）",
-          "url": "https://flash.jin10.com/detail/20251229182839575800",
+          "title": "德国政府发言人：我们欢迎美国总统特朗普为在乌克兰实现持久而公正的和平所作的努力。",
+          "url": "https://flash.jin10.com/detail/20251229185121695800",
           "source": "金十数据",
           "ranks": [
-            6,
-            18
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时47分 ~ 19时14分]"
+          "time_info": "[19时14分 ~ 19时39分]"
         },
         {
           "title": "克里姆林宫：重要的是要记住，美国总统特朗普曾表示，乌克兰正在失去领土，并可能失去更多领土。",
@@ -278,17 +292,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时23分 ~ 17时51分]"
-        },
-        {
-          "title": "德国政府发言人：我们欢迎美国总统特朗普为在乌克兰实现持久而公正的和平所作的努力。",
-          "url": "https://flash.jin10.com/detail/20251229185121695800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
         },
         {
           "title": "特朗普再次就泰柬停火邀功说了啥",
@@ -609,11 +612,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 19时14分]"
+          "appearance_count": 3,
+          "time_info": "[18时47分 ~ 19时39分]"
         },
         {
           "title": "美股三大股指期货走低，标普500指数期货下跌0.3%，纳斯达克100指数期货下跌0.5%，道琼斯指数期货下跌0.1%。",
@@ -682,8 +686,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时47分 ~ 19时14分]"
+          "appearance_count": 4,
+          "time_info": "[18时47分 ~ 19时39分]"
         }
       ]
     },
