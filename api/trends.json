@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T19:39:52.375955+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2025-12-29T20:31:24.594303+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
@@ -70,8 +70,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[14时57分 ~ 19时39分]"
+          "appearance_count": 16,
+          "time_info": "[14时57分 ~ 20时31分]"
         },
         {
           "title": "特朗普称美军对委内瑞拉一目标实施秘密打击",
@@ -564,6 +564,59 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股白银股盘前下跌，科尔矿业跌3.5%，赫克拉矿业跌3.3%，First Majestic白银跌3%，泛美白银跌2.4%，希尔威金属矿业跌2.3%，Endeavour Silver跌2.1%，此前白银从纪录高位回落。",
+          "url": "https://wallstreetcn.com/livenews/3028100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时47分 ~ 20时31分]"
+        },
+        {
+          "title": "受科技股拖累，美股指期货走低，贵金属全线回落，现货白银新高后跳水日内大跌6%，WTI原油涨逾2%",
+          "url": "https://wallstreetcn.com/articles/3762238",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "美股三大股指期货走低，标普500指数期货下跌0.3%，纳斯达克100指数期货下跌0.5%，道琼斯指数期货下跌0.1%。",
+          "url": "https://flash.jin10.com/detail/20251229170123670800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
+          "title": "韩国电商巨头Coupang美股盘前上涨3%，此前公司宣布向韩国用户支付11.8亿美元赔偿金，以弥补数据泄露事件造成的损失。",
+          "url": "https://flash.jin10.com/detail/20251229172401231800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 3,
       "titles": [
@@ -603,43 +656,31 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美股白银股盘前下跌，科尔矿业跌3.5%，赫克拉矿业跌3.3%，First Majestic白银跌3%，泛美白银跌2.4%，希尔威金属矿业跌2.3%，Endeavour Silver跌2.1%，此前白银从纪录高位回落。",
-          "url": "https://wallstreetcn.com/livenews/3028100",
-          "source": "华尔街见闻-快讯",
+          "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
+          "url": "https://www.cls.cn/detail/2242969",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时47分 ~ 19时39分]"
-        },
-        {
-          "title": "美股三大股指期货走低，标普500指数期货下跌0.3%，纳斯达克100指数期货下跌0.5%，道琼斯指数期货下跌0.1%。",
-          "url": "https://flash.jin10.com/detail/20251229170123670800",
-          "source": "金十数据",
-          "ranks": [
+            13,
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时23分"
+          "appearance_count": 5,
+          "time_info": "[18时47分 ~ 20时31分]"
         },
         {
-          "title": "韩国电商巨头Coupang美股盘前上涨3%，此前公司宣布向韩国用户支付11.8亿美元赔偿金，以弥补数据泄露事件造成的损失。",
-          "url": "https://flash.jin10.com/detail/20251229172401231800",
-          "source": "金十数据",
+          "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
+          "url": "https://wallstreetcn.com/articles/3762071",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时51分"
+          "time_info": "20时31分"
         }
       ]
     },
@@ -670,24 +711,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
-          "url": "https://www.cls.cn/detail/2242969",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时47分 ~ 19时39分]"
         }
       ]
     },
