@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T13:19:10.660205+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2025-12-30T13:46:08.547302+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "普京一个电话后，特朗普怒了",
@@ -15,8 +15,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时05分 ~ 13时19分]"
+          "appearance_count": 9,
+          "time_info": "[09时05分 ~ 13时46分]"
+        },
+        {
+          "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
+          "url": "https://wallstreetcn.com/articles/3762268",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时05分 ~ 13时46分]"
         },
         {
           "title": "得知普京官邸遭袭 特朗普：很生气",
@@ -32,17 +45,15 @@
           "time_info": "[09时05分 ~ 13时19分]"
         },
         {
-          "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
-          "url": "https://wallstreetcn.com/articles/3762268",
-          "source": "华尔街见闻",
+          "title": "特朗普回应解放军在台岛附近军演",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A7%A3%E6%94%BE%E5%86%9B%E5%9C%A8%E5%8F%B0%E5%B2%9B%E9%99%84%E8%BF%91%E5%86%9B%E6%BC%94%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
-            9,
-            7,
-            6
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时05分 ~ 13时19分]"
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 13时46分]"
         },
         {
           "title": "特朗普称得知普京官邸遭袭很生气",
@@ -56,6 +67,29 @@
           "time_info": "[09时05分 ~ 09时06分]"
         },
         {
+          "title": "普京称官邸遭袭 特朗普回应",
+          "url": "https://www.douyin.com/hot/2351475",
+          "source": "抖音",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 13时46分]"
+        },
+        {
+          "title": "解放军封岛军演，特朗普表态",
+          "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 13时46分]"
+        },
+        {
           "title": "特朗普：普京说他被袭击了 我很生气",
           "url": "https://www.toutiao.com/trending/7588848955197095963/",
           "source": "今日头条",
@@ -67,29 +101,6 @@
           "time_info": "[09时05分 ~ 09时06分]"
         },
         {
-          "title": "据悉特朗普及其高级顾问要求内塔尼亚胡调整约旦河西岸政策",
-          "url": "https://flash.jin10.com/detail/20251230114449386800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 13时19分]"
-        },
-        {
-          "title": "解放军封岛军演，特朗普表态",
-          "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 13时19分]"
-        },
-        {
           "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
           "url": "https://wallstreetcn.com/articles/3762270",
           "source": "华尔街见闻",
@@ -97,8 +108,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 13时46分]"
         },
         {
           "title": "特朗普称不担心解放军绕台军演",
@@ -110,8 +121,21 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 13时46分]"
+        },
+        {
+          "title": "据悉特朗普及其高级顾问要求内塔尼亚胡调整约旦河西岸政策",
+          "url": "https://flash.jin10.com/detail/20251230114449386800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时13分 ~ 13时19分]"
+          "time_info": "[12时13分 ~ 13时46分]"
         },
         {
           "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
@@ -138,17 +162,6 @@
           "time_info": "[12时13分 ~ 13时19分]"
         },
         {
-          "title": "普京称官邸遭袭 特朗普回应",
-          "url": "https://www.douyin.com/hot/2351475",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
-        },
-        {
           "title": "特朗普称不担心解放军绕台军演",
           "url": "https://www.toutiao.com/trending/7589288606792581163/",
           "source": "今日头条",
@@ -159,6 +172,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时11分 ~ 12时13分]"
+        },
+        {
+          "title": "得知普京官邸遭袭，特朗普：我很生气！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 13时46分]"
         },
         {
           "title": "特朗普级战列舰会是闹剧吗",
@@ -212,6 +236,32 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "金价跌至每盎司 4346 美元，白银跌幅一度逼近 9%，为何国际金、银价格会大幅下跌？",
+          "url": "https://www.zhihu.com/question/1989248950952288367",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 13时46分]"
+        },
+        {
+          "title": "金价暴跌店员称跌幅首次见",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%BA%97%E5%91%98%E7%A7%B0%E8%B7%8C%E5%B9%85%E9%A6%96%E6%AC%A1%E8%A7%81%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时56分 ~ 13时46分]"
+        },
+        {
           "title": "金十图示：2025年12月30日（周二）上海金早盘价为979.99元/克，较国际金价(980.18元/克)，低0.19元/克",
           "url": "https://flash.jin10.com/detail/20251230102321860800",
           "source": "金十数据",
@@ -221,30 +271,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时11分"
-        },
-        {
-          "title": "金价跌至每盎司 4346 美元，白银跌幅一度逼近 9%，为何国际金、银价格会大幅下跌？",
-          "url": "https://www.zhihu.com/question/1989248950952288367",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 13时19分]"
-        },
-        {
-          "title": "金价暴跌店员称跌幅首次见",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%BA%97%E5%91%98%E7%A7%B0%E8%B7%8C%E5%B9%85%E9%A6%96%E6%AC%A1%E8%A7%81%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 13时19分]"
         }
       ]
     },
@@ -260,8 +286,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时05分 ~ 13时19分]"
+          "appearance_count": 9,
+          "time_info": "[09时05分 ~ 13时46分]"
         },
         {
           "title": "美股收盘：贵金属风暴冲击市场情绪 三大指数集体收跌",
@@ -301,8 +327,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时05分 ~ 13时19分]"
+          "appearance_count": 9,
+          "time_info": "[09时05分 ~ 13时46分]"
         }
       ]
     },
@@ -315,11 +341,12 @@
           "url": "https://www.douyin.com/hot/2351661",
           "source": "抖音",
           "ranks": [
-            19
+            19,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 13时46分]"
         }
       ]
     }
