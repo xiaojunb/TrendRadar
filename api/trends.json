@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T19:14:26.855371+08:00",
-  "total_titles_processed": 1246,
+  "generated_at": "2025-12-31T19:38:22.089605+08:00",
+  "total_titles_processed": 1271,
   "failed_sources": [],
   "trends": [
     {
@@ -39,6 +39,17 @@
           "time_info": "[14时23分 ~ 16时50分]"
         },
         {
+          "title": "李在明展示特朗普送的白宫金钥匙(图)",
+          "url": "https://news.ifeng.com/c/8pWu87Onyz4",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时15分 ~ 19时38分]"
+        },
+        {
           "title": "外交部回应特朗普涉中国军演言论",
           "url": "https://news.ifeng.com/c/8pVVKejSSSi",
           "source": "凤凰网",
@@ -62,17 +73,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时24分 ~ 14时55分]"
-        },
-        {
-          "title": "李在明展示特朗普送的白宫金钥匙(图)",
-          "url": "https://news.ifeng.com/c/8pWu87Onyz4",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时15分 ~ 19时14分]"
         },
         {
           "title": "报道：特朗普移动推迟原定今年底交付智能手机的计划",
@@ -129,7 +129,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -191,8 +191,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时15分 ~ 19时14分]"
+          "appearance_count": 6,
+          "time_info": "[18时15分 ~ 19时38分]"
         },
         {
           "title": "伊朗称成功挫败针对其通信基础设施的大规模网络攻击",
@@ -207,6 +207,19 @@
           "time_info": "[18时45分 ~ 19时14分]"
         },
         {
+          "title": "伊朗称成功挫败针对其通信基础设施的大规模网络攻击",
+          "url": "https://wallstreetcn.com/livenews/3029277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 19时38分]"
+        },
+        {
           "title": "年末伊朗又起内忧：货币暴跌、三年来最大抗议",
           "url": "https://news.ifeng.com/c/8pXBVSUicd9",
           "source": "凤凰网",
@@ -216,18 +229,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时18分 ~ 17时45分]"
-        },
-        {
-          "title": "伊朗称成功挫败针对其通信基础设施的大规模网络攻击",
-          "url": "https://wallstreetcn.com/livenews/3029277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时14分]"
         }
       ]
     },
@@ -283,8 +284,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[09时07分 ~ 19时14分]"
+          "appearance_count": 25,
+          "time_info": "[09时07分 ~ 19时38分]"
         },
         {
           "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
