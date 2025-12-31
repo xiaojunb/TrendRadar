@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T17:45:06.732284+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2025-12-31T18:16:03.429983+08:00",
+  "total_titles_processed": 1145,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "中方回应特朗普涉东部战区军演言论",
@@ -112,6 +112,17 @@
           "time_info": "[11时09分 ~ 11时10分]"
         },
         {
+          "title": "李在明展示特朗普送的白宫金钥匙(图)",
+          "url": "https://news.ifeng.com/c/8pWu87Onyz4",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
+        },
+        {
           "title": "得知普京官邸遭袭，特朗普：我很生气！",
           "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
           "source": "澎湃新闻",
@@ -209,8 +220,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时07分 ~ 17时45分]"
+          "appearance_count": 21,
+          "time_info": "[09时07分 ~ 18时16分]"
         },
         {
           "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
@@ -301,7 +312,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "年末伊朗又起内忧：货币暴跌、三年来最大抗议",
@@ -313,6 +324,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时18分 ~ 17时45分]"
+        },
+        {
+          "title": "内塔尼亚胡喊话伊朗：不要犯这样的错误",
+          "url": "https://news.ifeng.com/c/8pXFMyQDXcJ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
         }
       ]
     }
