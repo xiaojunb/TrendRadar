@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T15:18:41.678729+08:00",
-  "total_titles_processed": 737,
+  "generated_at": "2026-01-01T15:42:13.794235+08:00",
+  "total_titles_processed": 762,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时13分 ~ 15时18分]"
+          "appearance_count": 11,
+          "time_info": "[09时13分 ~ 15时42分]"
         },
         {
           "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
@@ -91,8 +91,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时13分 ~ 15时18分]"
+          "appearance_count": 11,
+          "time_info": "[09时13分 ~ 15时42分]"
         },
         {
           "title": "（美股）费城金银指数收跌1.36%，报342.28点，12月份累计上涨5.45%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌1.07%，报2442.86点，12月份累涨5.40%。 （美股）原材料指数跌1.00%，报226.15点，12月份累涨2.65%。 （美股）金属与矿业指数跌0.96%，报215.32点，12月份累涨5.10%。",
@@ -122,8 +122,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时13分 ~ 15时18分]"
+          "appearance_count": 11,
+          "time_info": "[09时13分 ~ 15时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 15时42分]"
         }
       ]
     },
