@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T18:16:55.726338+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2026-01-01T18:45:45.037636+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
@@ -80,7 +80,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek发布梁文锋署名新论文 开启架构新篇章",
@@ -89,11 +89,12 @@
           "ranks": [
             1,
             3,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时51分 ~ 18时16分]"
+          "appearance_count": 5,
+          "time_info": "[16时51分 ~ 18时45分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文：提出mHC新架构 提升大模型训练稳定性",
@@ -101,11 +102,23 @@
           "source": "金十数据",
           "ranks": [
             3,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 18时16分]"
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 18时45分]"
+        },
+        {
+          "title": "梁文锋署名，DeepSeek元旦新论文要开启架构新篇章",
+          "url": "https://wallstreetcn.com/articles/3762429",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -114,9 +127,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 18时45分]"
         }
       ]
     },
@@ -166,8 +179,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时13分 ~ 18时16分]"
+          "appearance_count": 18,
+          "time_info": "[09时13分 ~ 18时45分]"
         },
         {
           "title": "（美股）费城金银指数收跌1.36%，报342.28点，12月份累计上涨5.45%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌1.07%，报2442.86点，12月份累涨5.40%。 （美股）原材料指数跌1.00%，报226.15点，12月份累涨2.65%。 （美股）金属与矿业指数跌0.96%，报215.32点，12月份累涨5.10%。",
@@ -197,8 +210,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时13分 ~ 18时16分]"
+          "appearance_count": 18,
+          "time_info": "[09时13分 ~ 18时45分]"
         }
       ]
     },
