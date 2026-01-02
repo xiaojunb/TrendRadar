@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-02T16:20:58.583998+08:00",
-  "total_titles_processed": 837,
+  "generated_at": "2026-01-02T16:51:05.206771+08:00",
+  "total_titles_processed": 895,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "特朗普承认服用阿司匹林",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%9C%8D%E7%94%A8%E9%98%BF%E5%8F%B8%E5%8C%B9%E6%9E%97%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时55分 ~ 16时51分]"
+        },
         {
           "title": "马杜罗证实曾与特朗普通话10分钟 重申“要和平不要战争”",
           "url": "https://flash.jin10.com/detail/20260102083147084800",
@@ -30,19 +43,6 @@
           "time_info": "09时07分"
         },
         {
-          "title": "特朗普承认服用阿司匹林",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%9C%8D%E7%94%A8%E9%98%BF%E5%8F%B8%E5%8C%B9%E6%9E%97%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时55分 ~ 16时20分]"
-        },
-        {
           "title": "特朗普承认手上瘀伤是服用药物造成",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%89%8B%E4%B8%8A%E7%98%80%E4%BC%A4%E6%98%AF%E6%9C%8D%E7%94%A8%E8%8D%AF%E7%89%A9%E9%80%A0%E6%88%90",
           "source": "百度热搜",
@@ -59,11 +59,23 @@
           "url": "https://flash.jin10.com/detail/20260102155924046800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时51分]"
+        },
+        {
+          "title": "特朗普的关税大棒挥不下去了吗",
+          "url": "https://www.toutiao.com/trending/7590646791305956874/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 16时51分]"
         },
         {
           "title": "特朗普宣布从芝加哥等三座城市撤军",
@@ -90,8 +102,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时07分 ~ 16时20分]"
+          "appearance_count": 15,
+          "time_info": "[09时07分 ~ 16时51分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
@@ -103,8 +115,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时13分 ~ 16时20分]"
+          "appearance_count": 14,
+          "time_info": "[11时13分 ~ 16时51分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
@@ -113,11 +125,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时13分 ~ 16时20分]"
+          "appearance_count": 14,
+          "time_info": "[11时13分 ~ 16时51分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -132,8 +145,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时07分 ~ 16时20分]"
+          "appearance_count": 15,
+          "time_info": "[09时07分 ~ 16时51分]"
         }
       ]
     },
@@ -151,8 +164,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时07分 ~ 16时20分]"
+          "appearance_count": 15,
+          "time_info": "[09时07分 ~ 16时51分]"
         },
         {
           "title": "美股期货上涨，纳斯达克指数期货上涨0.58%，标普500指数期货上涨0.39%。",
@@ -177,8 +190,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时42分 ~ 16时20分]"
+          "appearance_count": 4,
+          "time_info": "[15时42分 ~ 16时50分]"
         },
         {
           "title": "美股三大股指期货周五开盘微涨。",
@@ -204,9 +217,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时20分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 16时51分]"
         },
         {
           "title": "消息称OpenAI大力研发音频AI模型",
@@ -303,6 +316,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时55分 ~ 15时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "科技股引领全球股市开年上涨，纳指期货涨0.7%，金银领衔贵金属反弹，伦铝站上3000美元，美债收益率上行",
+          "url": "https://wallstreetcn.com/articles/3762449",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         }
       ]
     },
