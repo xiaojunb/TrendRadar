@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T14:55:37.856987+08:00",
-  "total_titles_processed": 725,
+  "generated_at": "2026-01-02T15:19:34.545853+08:00",
+  "total_titles_processed": 762,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,20 @@
             27
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 15时19分]"
+        },
+        {
+          "title": "特朗普承认服用阿司匹林",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%9C%8D%E7%94%A8%E9%98%BF%E5%8F%B8%E5%8C%B9%E6%9E%97%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时23分 ~ 14时55分]"
+          "time_info": "[14时55分 ~ 15时19分]"
         },
         {
           "title": "特朗普宣布从芝加哥等三座城市撤军",
@@ -51,17 +63,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
-        },
-        {
-          "title": "特朗普承认服用阿司匹林",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%9C%8D%E7%94%A8%E9%98%BF%E5%8F%B8%E5%8C%B9%E6%9E%97%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时55分"
         }
       ]
     },
@@ -77,8 +78,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时07分 ~ 14时55分]"
+          "appearance_count": 10,
+          "time_info": "[09时07分 ~ 15时19分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
@@ -90,8 +91,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时13分 ~ 14时55分]"
+          "appearance_count": 9,
+          "time_info": "[11时13分 ~ 15时19分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
@@ -103,8 +104,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时13分 ~ 14时55分]"
+          "appearance_count": 9,
+          "time_info": "[11时13分 ~ 15时19分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -113,11 +114,12 @@
           "ranks": [
             9,
             11,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时07分 ~ 14时55分]"
+          "appearance_count": 10,
+          "time_info": "[09时07分 ~ 15时19分]"
         }
       ]
     },
@@ -135,8 +137,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时07分 ~ 14时55分]"
+          "appearance_count": 10,
+          "time_info": "[09时07分 ~ 15时19分]"
         },
         {
           "title": "美股期货上涨，纳斯达克指数期货上涨0.58%，标普500指数期货上涨0.39%。",
@@ -192,11 +194,12 @@
             9,
             16,
             19,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时58分 ~ 14时55分]"
+          "appearance_count": 6,
+          "time_info": "[12时58分 ~ 15时19分]"
         }
       ]
     },
@@ -210,11 +213,12 @@
           "source": "凤凰网",
           "ranks": [
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时07分 ~ 14时55分]"
+          "appearance_count": 10,
+          "time_info": "[09时07分 ~ 15时19分]"
         },
         {
           "title": "伊朗两地发生骚乱 已致3死13伤",
@@ -242,9 +246,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 15时19分]"
         }
       ]
     },
