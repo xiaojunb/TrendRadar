@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T14:57:27.422672+08:00",
-  "total_titles_processed": 814,
+  "generated_at": "2026-01-06T15:23:09.850578+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时12分 ~ 14时57分]"
+          "appearance_count": 9,
+          "time_info": "[11时12分 ~ 15时23分]"
         },
         {
           "title": "特朗普想“一口闷”委石油，美巨头却“不给面子”",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时12分 ~ 14时57分]"
+          "appearance_count": 9,
+          "time_info": "[11时12分 ~ 15时23分]"
         },
         {
           "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
@@ -40,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 14时57分]"
+          "appearance_count": 11,
+          "time_info": "[09时06分 ~ 15时23分]"
         },
         {
           "title": "特朗普向多个国家发出威胁",
@@ -52,11 +52,12 @@
             13,
             12,
             15,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 14时57分]"
+          "appearance_count": 11,
+          "time_info": "[09时06分 ~ 15时23分]"
         },
         {
           "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
@@ -66,8 +67,35 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时12分 ~ 15时23分]"
+        },
+        {
+          "title": "中方回应特朗普威胁古巴等国",
+          "url": "https://www.douyin.com/hot/2358268",
+          "source": "抖音",
+          "ranks": [
+            14,
+            21,
+            29,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时12分 ~ 15时23分]"
+        },
+        {
+          "title": "特朗普：美国将深度介入委内瑞拉",
+          "url": "https://www.cls.cn/detail/2248692",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时12分 ~ 14时57分]"
+          "time_info": "[12时14分 ~ 15时23分]"
         },
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -81,18 +109,15 @@
           "time_info": "[09时06分 ~ 09时07分]"
         },
         {
-          "title": "中方回应特朗普威胁古巴等国",
-          "url": "https://www.douyin.com/hot/2358268",
-          "source": "抖音",
+          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
+          "url": "https://wallstreetcn.com/articles/3762615",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
-            21,
-            29,
-            20
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时12分 ~ 14时57分]"
+          "time_info": "[13时20分 ~ 15时23分]"
         },
         {
           "title": "美国众议院议长约翰逊：特朗普政府在委内瑞拉的所作所为符合法律规定。",
@@ -129,19 +154,6 @@
           "time_info": "[09时06分 ~ 11时12分]"
         },
         {
-          "title": "特朗普：美国将深度介入委内瑞拉",
-          "url": "https://www.cls.cn/detail/2248692",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时14分 ~ 14时57分]"
-        },
-        {
           "title": "格陵兰岛总理强硬表态：特朗普必须放弃“吞并幻想”",
           "url": "https://www.cls.cn/detail/2248515",
           "source": "财联社热门",
@@ -164,17 +176,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时23分 ~ 14时57分]"
-        },
-        {
-          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
-          "url": "https://wallstreetcn.com/articles/3762615",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 14时57分]"
         },
         {
           "title": "特朗普放话“我们绝对需要格陵兰岛”，丹麦强硬回击",
@@ -301,6 +302,70 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金十图示：2026年01月06日（周二）上海金午盘价为1002.84元/克，较国际金价(1001.81元/克)，高1.03元/克",
+          "url": "https://flash.jin10.com/detail/20260106150838647800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "工行开年上调积存金风险评级，下周起C3及以上客户才可买，金价走强更多银行不断入局",
+          "url": "https://www.cls.cn/detail/2248953",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时23分]"
+        },
+        {
+          "title": "分析师：降息预期与避险需求推升金价 本周关注关键非农数据",
+          "url": "https://flash.jin10.com/detail/20260106134723251800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 14时57分]"
+        },
+        {
+          "title": "银行家表示，土耳其央行上周的外汇储备预计减少了55亿美元至1885亿美元；土耳其央行上周出售了40亿美元，其中近20亿美元的降幅源于金价变动。",
+          "url": "https://flash.jin10.com/detail/20260106134420710800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 14时57分]"
+        },
+        {
+          "title": "瑞银上调金价目标至5000美元",
+          "url": "https://www.toutiao.com/trending/7592024699937230379/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时12分 ~ 12时14分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 4,
       "titles": [
@@ -312,8 +377,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 14时57分]"
+          "appearance_count": 11,
+          "time_info": "[09时06分 ~ 15时23分]"
         },
         {
           "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
@@ -324,8 +389,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 14时57分]"
+          "appearance_count": 11,
+          "time_info": "[09时06分 ~ 15时23分]"
         },
         {
           "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
@@ -363,11 +428,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 14时57分]"
+          "appearance_count": 4,
+          "time_info": "[14时23分 ~ 15时23分]"
         },
         {
           "title": "市场消息：一名以色列官员称伊朗进口用于离心机和弹道导弹的零部件。",
@@ -403,48 +469,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时06分 ~ 09时07分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "分析师：降息预期与避险需求推升金价 本周关注关键非农数据",
-          "url": "https://flash.jin10.com/detail/20260106134723251800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 14时57分]"
-        },
-        {
-          "title": "银行家表示，土耳其央行上周的外汇储备预计减少了55亿美元至1885亿美元；土耳其央行上周出售了40亿美元，其中近20亿美元的降幅源于金价变动。",
-          "url": "https://flash.jin10.com/detail/20260106134420710800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 14时57分]"
-        },
-        {
-          "title": "瑞银上调金价目标至5000美元",
-          "url": "https://www.toutiao.com/trending/7592024699937230379/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 12时14分]"
         }
       ]
     },
@@ -490,8 +514,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时12分 ~ 14时57分]"
+          "appearance_count": 9,
+          "time_info": "[11时12分 ~ 15时23分]"
         },
         {
           "title": "委内瑞拉副总统宣誓就任代总统 OpenAI支持的公司推出家务机器人 | 环球市场",
@@ -503,6 +527,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时06分 ~ 09时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美债收益率走高 分析师称曲线有趋陡的空间",
+          "url": "https://flash.jin10.com/detail/20260106144320434800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         }
       ]
     }
