@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T15:21:02.294852+08:00",
-  "total_titles_processed": 877,
+  "generated_at": "2026-01-07T15:45:11.647268+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时07分 ~ 14时56分]"
+        },
+        {
+          "title": "特朗普不满马杜罗：他学我跳舞",
+          "url": "https://v.ifeng.com/c/8piYm7L0u6z",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时57分 ~ 15时45分]"
         },
         {
           "title": "特朗普：委内瑞拉将向美国移交数千万桶石油",
@@ -45,18 +57,6 @@
           "time_info": "[09时07分 ~ 14时56分]"
         },
         {
-          "title": "特朗普不满马杜罗：他学我跳舞",
-          "url": "https://v.ifeng.com/c/8piYm7L0u6z",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时57分 ~ 15时21分]"
-        },
-        {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
           "url": "https://www.zhihu.com/question/1991388819304510504",
           "source": "知乎",
@@ -65,8 +65,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时07分 ~ 15时21分]"
+          "appearance_count": 14,
+          "time_info": "[09时07分 ~ 15时45分]"
         },
         {
           "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
@@ -80,8 +80,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时12分 ~ 15时21分]"
+          "appearance_count": 13,
+          "time_info": "[11时12分 ~ 15时45分]"
+        },
+        {
+          "title": "特朗普为何恨他入骨？",
+          "url": "https://news.ifeng.com/c/8piZCNfE8JZ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时24分 ~ 15时45分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -91,8 +102,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时12分 ~ 15时21分]"
+          "appearance_count": 13,
+          "time_info": "[11时12分 ~ 15时45分]"
         },
         {
           "title": "特朗普向印度发出新警告",
@@ -108,17 +119,6 @@
           "time_info": "[09时07分 ~ 14时56分]"
         },
         {
-          "title": "特朗普为何恨他入骨？",
-          "url": "https://news.ifeng.com/c/8piZCNfE8JZ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时24分 ~ 15时21分]"
-        },
-        {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%AD%A3%E8%AE%A8%E8%AE%BA%E8%8E%B7%E5%8F%96%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%96%B9%E6%A1%88",
           "source": "bilibili 热搜",
@@ -128,17 +128,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
-        },
-        {
-          "title": "特朗普：将从委内瑞拉运走数千万桶石油，哥伦比亚：美国践踏底线",
-          "url": "https://wallstreetcn.com/livenews/3032216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
         },
         {
           "title": "美参院民主党领袖批评：涉对委行动，特朗普政府“一问四不知”",
@@ -151,6 +140,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时56分 ~ 15时21分]"
+        },
+        {
+          "title": "特朗普：将从委内瑞拉运走数千万桶石油，哥伦比亚：美国践踏底线",
+          "url": "https://wallstreetcn.com/livenews/3032216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时45分]"
         },
         {
           "title": "研究：特朗普关税未明显推高美国通胀 关税收入已开始下滑",
@@ -189,6 +190,17 @@
           "time_info": "[13时47分 ~ 14时24分]"
         },
         {
+          "title": "泰勒·格林：相信特朗普怪我太天真",
+          "url": "https://www.toutiao.com/trending/7592463725844516379/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时44分 ~ 15时45分]"
+        },
+        {
           "title": "特朗普向印度发出新警告",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%8D%B0%E5%BA%A6%E5%8F%91%E5%87%BA%E6%96%B0%E8%AD%A6%E5%91%8A",
           "source": "百度热搜",
@@ -198,6 +210,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
+          "url": "https://wallstreetcn.com/livenews/3032232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "特朗普不到1年对7国动武",
@@ -217,7 +240,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -368,7 +391,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
@@ -402,8 +425,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 15时21分]"
+          "appearance_count": 4,
+          "time_info": "[15时20分 ~ 15时45分]"
         },
         {
           "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
@@ -426,6 +449,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
+        },
+        {
+          "title": "沙特阿美股价早盘股价上涨1.5%。",
+          "url": "https://flash.jin10.com/detail/20260107150533625800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         }
       ]
     },
@@ -438,11 +472,12 @@
           "url": "https://flash.jin10.com/detail/20260107150245540800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时45分]"
         },
         {
           "title": "泰国央行：泰铢的升值与美元走弱和金价上涨是相符的。",
@@ -471,7 +506,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "怕清算?伊朗领袖携950亿开溜",
@@ -482,11 +517,12 @@
             19,
             20,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时07分 ~ 15时21分]"
+          "appearance_count": 14,
+          "time_info": "[09时07分 ~ 15时45分]"
         },
         {
           "title": "据伊朗SNN通讯社：伊朗处决一名被指控为以色列从事间谍活动的男子。",
@@ -500,6 +536,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时57分 ~ 13时47分]"
+        },
+        {
+          "title": "美媒：伊朗人士担心美对伊采取类似委内瑞拉的行动",
+          "url": "https://flash.jin10.com/detail/20260107151639470800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         }
       ]
     },
@@ -533,7 +580,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         }
