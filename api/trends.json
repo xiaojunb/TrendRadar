@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T17:48:56.687575+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-01-07T18:17:54.810242+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
@@ -94,8 +94,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时07分 ~ 17时48分]"
+          "appearance_count": 21,
+          "time_info": "[09时07分 ~ 18时17分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -105,8 +105,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[11时12分 ~ 17时48分]"
+          "appearance_count": 20,
+          "time_info": "[11时12分 ~ 18时17分]"
         },
         {
           "title": "特朗普向印度发出新警告",
@@ -129,8 +129,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 17时48分]"
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 18时17分]"
         },
         {
           "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
@@ -141,8 +141,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时53分 ~ 17时48分]"
+          "appearance_count": 5,
+          "time_info": "[16时53分 ~ 18时17分]"
         },
         {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
@@ -176,6 +176,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
+        },
+        {
+          "title": "美参院民主党领袖批特朗普对委行动",
+          "url": "https://www.toutiao.com/trending/7591542867982614564/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时21分 ~ 18时17分]"
         },
         {
           "title": "哈马斯于加沙废墟中重塑统治 对特朗普和平计划构成挑战",
@@ -214,29 +227,30 @@
           "time_info": "[15时21分 ~ 15时45分]"
         },
         {
-          "title": "美参院民主党领袖批特朗普对委行动",
-          "url": "https://www.toutiao.com/trending/7591542867982614564/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时21分 ~ 17时48分]"
-        },
-        {
           "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
           "url": "https://wallstreetcn.com/articles/3762696",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 18时17分]"
+        },
+        {
+          "title": "特朗普说若输了中期选举可能被弹劾",
+          "url": "https://wallstreetcn.com/livenews/3032302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13,
+            29
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时22分 ~ 17时48分]"
+          "time_info": "[17时23分 ~ 18时17分]"
         },
         {
           "title": "研究：特朗普关税未明显推高美国通胀 关税收入已开始下滑",
@@ -275,16 +289,16 @@
           "time_info": "[13时47分 ~ 14时24分]"
         },
         {
-          "title": "特朗普说若输了中期选举可能被弹劾",
-          "url": "https://wallstreetcn.com/livenews/3032302",
-          "source": "华尔街见闻-快讯",
+          "title": "最高法院裁决在即 若限制特朗普关税权限美元或承压",
+          "url": "https://flash.jin10.com/detail/20260107172340828800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            13
+            8,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时48分]"
+          "time_info": "[17时48分 ~ 18时17分]"
         },
         {
           "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
@@ -330,17 +344,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
-        },
-        {
-          "title": "最高法院裁决在即 若限制特朗普关税权限美元或承压",
-          "url": "https://flash.jin10.com/detail/20260107172340828800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时48分"
         },
         {
           "title": "特朗普不到1年对7国动武",
@@ -396,6 +399,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        },
+        {
+          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "特朗普称委内瑞拉将向美国移交石油",
@@ -565,11 +579,24 @@
           "url": "https://wallstreetcn.com/livenews/3032318",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 18时17分]"
+        },
+        {
+          "title": "Ventyx(VTYX.O)美股盘前飙升65%，据悉礼来(LLY.N)接近达成以超10亿美元收购该公司的交易。",
+          "url": "https://flash.jin10.com/detail/20260107171807580800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 18时17分]"
         },
         {
           "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
@@ -581,17 +608,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
-        },
-        {
-          "title": "Ventyx(VTYX.O)美股盘前飙升65%，据悉礼来(LLY.N)接近达成以超10亿美元收购该公司的交易。",
-          "url": "https://flash.jin10.com/detail/20260107171807580800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时48分"
         },
         {
           "title": "美联储理事米兰再次呼吁激进降息，称今年需降息超100基点，而其同僚巴尔金则表示，2025年累计降息75个基点后，利率已进入中性利率的估计区间，凸显美联储内部分歧。当前美股三大股指多空信号分化，现货金银整体多头优势，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -646,6 +662,17 @@
           "time_info": "[12时14分 ~ 12时57分]"
         },
         {
+          "title": "现货金重新站上4500美元！桥水达里奥：金价暴涨释放警示信号",
+          "url": "https://www.cls.cn/detail/2250158",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 18时17分]"
+        },
+        {
           "title": "分析师：金价看涨动力犹存，非农与最高法院判决成关键变数",
           "url": "https://flash.jin10.com/detail/20260107165757917800",
           "source": "金十数据",
@@ -655,17 +682,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
-        },
-        {
-          "title": "现货金重新站上4500美元！桥水达里奥：金价暴涨释放警示信号",
-          "url": "https://www.cls.cn/detail/2250158",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时48分"
         },
         {
           "title": "投资者获利了结 金价微跌并关注美国经济数据",
@@ -707,22 +723,12 @@
             22,
             23,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时07分 ~ 17时48分]"
-        },
-        {
-          "title": "伊朗外交部长称正在寻求扩大与黎巴嫩的关系。",
-          "url": "https://flash.jin10.com/detail/20260107172832747800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时48分"
+          "appearance_count": 21,
+          "time_info": "[09时07分 ~ 18时17分]"
         },
         {
           "title": "据伊朗SNN通讯社：伊朗处决一名被指控为以色列从事间谍活动的男子。",
@@ -736,6 +742,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时57分 ~ 13时47分]"
+        },
+        {
+          "title": "伊朗外交部长称正在寻求扩大与黎巴嫩的关系。",
+          "url": "https://flash.jin10.com/detail/20260107172832747800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 18时17分]"
         },
         {
           "title": "以色列会否对伊朗发动军事打击",
@@ -766,6 +784,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "美债收益率曲线持续走陡 滞胀担忧推动长端利率走高",
+          "url": "https://flash.jin10.com/detail/20260107171642529800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 18时17分]"
+        },
+        {
           "title": "外媒：黄金或已超越美债，成官方储备第一大资产",
           "url": "https://flash.jin10.com/detail/20260107144926716800",
           "source": "金十数据",
@@ -775,17 +805,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
-        },
-        {
-          "title": "美债收益率曲线持续走陡 滞胀担忧推动长端利率走高",
-          "url": "https://flash.jin10.com/detail/20260107171642529800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时48分"
         }
       ]
     },
