@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T22:18:38.563677+08:00",
-  "total_titles_processed": 1704,
+  "generated_at": "2026-01-07T22:49:57.396909+08:00",
+  "total_titles_processed": 1771,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
@@ -122,19 +122,32 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[09时07分 ~ 22时18分]"
+          "appearance_count": 32,
+          "time_info": "[09时07分 ~ 22时49分]"
+        },
+        {
+          "title": "特朗普的下一步，难了",
+          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时31分 ~ 22时49分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
           "url": "https://www.zhihu.com/question/1992144765781840551",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[11时12分 ~ 22时18分]"
+          "appearance_count": 31,
+          "time_info": "[11时12分 ~ 22时49分]"
         },
         {
           "title": "特朗普向印度发出新警告",
@@ -159,8 +172,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[17时22分 ~ 22时18分]"
+          "appearance_count": 15,
+          "time_info": "[17时22分 ~ 22时49分]"
         },
         {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
@@ -173,20 +186,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时17分 ~ 22时18分]"
+          "appearance_count": 12,
+          "time_info": "[18时17分 ~ 22时49分]"
         },
         {
-          "title": "特朗普的下一步，难了",
-          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
-          "source": "凤凰网",
+          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
+          "source": "澎湃新闻",
           "ranks": [
-            5,
-            4
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时31分 ~ 22时18分]"
+          "appearance_count": 7,
+          "time_info": "[20时31分 ~ 22时49分]"
         },
         {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
@@ -198,6 +211,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "Critical Metals(CRML.O)一度涨15%，股价创下去年10月以来的最高水平。此前美国总统特朗普考虑收购格陵兰岛。",
+          "url": "https://flash.jin10.com/detail/20260107223834328800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "特朗普宣布委内瑞拉移交制裁原油 加元与克朗随油价走低",
@@ -244,18 +268,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时21分 ~ 18时17分]"
-        },
-        {
-          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时31分 ~ 22时18分]"
         },
         {
           "title": "哈马斯于加沙废墟中重塑统治 对特朗普和平计划构成挑战",
@@ -387,6 +399,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时55分 ~ 22时18分]"
+        },
+        {
+          "title": "外媒：特朗普正固化美国全球流氓形象",
+          "url": "https://www.toutiao.com/trending/7591748193269137471/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 22时49分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-07）",
@@ -612,7 +635,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
@@ -651,6 +674,17 @@
           "time_info": "[15时20分 ~ 16时22分]"
         },
         {
+          "title": "金十图示：2026年01月07日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260107223635049800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "闲置资金重回股市，美股1月份收涨概率超60%",
           "url": "https://flash.jin10.com/detail/20260107160316304800",
           "source": "金十数据",
@@ -672,6 +706,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时48分 ~ 18时17分]"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3032511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 22时49分]"
         },
         {
           "title": "Ventyx(VTYX.O)美股盘前飙升65%，据悉礼来(LLY.N)接近达成以超10亿美元收购该公司的交易。",
@@ -708,15 +754,26 @@
           "time_info": "09时07分"
         },
         {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3032511",
+          "title": "行业ETF美股盘初涨跌各异，生物科技指数ETF涨0.99%，可选消费ETF涨0.4%，网络股指数ETF涨0.18%，能源业ETF跌0.11%，科技行业ETF跌0.31%，半导体指数跌0.74%。",
+          "url": "https://wallstreetcn.com/livenews/3032535",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "美股开盘，道指涨0.1%，标普500指数涨0.03%，纳指涨0.02%。游戏驿站(GME.N)涨3.97%，公司宣布针对CEO瑞安·科恩的绩效薪酬计划。Ventyx(VTYX.O)飙升49%，据悉礼来(LLY.N)接近达成以超10亿美元收购该公司的交易。",
+          "url": "https://flash.jin10.com/detail/20260107223026847800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时18分"
+          "time_info": "22时49分"
         },
         {
           "title": "美联储理事米兰再次呼吁激进降息，称今年需降息超100基点，而其同僚巴尔金则表示，2025年累计降息75个基点后，利率已进入中性利率的估计区间，凸显美联储内部分歧。当前美股三大股指多空信号分化，现货金银整体多头优势，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -744,7 +801,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "怕清算?伊朗领袖携950亿开溜",
@@ -763,8 +820,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[09时07分 ~ 22时18分]"
+          "appearance_count": 32,
+          "time_info": "[09时07分 ~ 22时49分]"
         },
         {
           "title": "伊朗央行主管外汇的副行长辞职。（伊朗媒体Fars News）",
@@ -825,6 +882,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时48分 ~ 19时40分]"
+        },
+        {
+          "title": "英媒称伊朗抗议席卷全国一半省份，至少36人死亡",
+          "url": "https://news.ifeng.com/c/8pj8bQ0XmqB",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 22时49分]"
         },
         {
           "title": "伊朗外长：目前不具备与美国谈判的合适条件",
