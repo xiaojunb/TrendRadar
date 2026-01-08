@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T16:21:59.871642+08:00",
-  "total_titles_processed": 1057,
+  "generated_at": "2026-01-08T16:53:34.317898+08:00",
+  "total_titles_processed": 1133,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时13分 ~ 16时21分]"
+          "appearance_count": 11,
+          "time_info": "[11时13分 ~ 16时53分]"
         },
         {
           "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时13分 ~ 16时21分]"
+          "appearance_count": 10,
+          "time_info": "[12时13分 ~ 16时53分]"
         },
         {
           "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
@@ -43,8 +43,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时13分 ~ 16时21分]"
+          "appearance_count": 10,
+          "time_info": "[12时13分 ~ 16时53分]"
         },
         {
           "title": "特朗普提出将美军费提至1.5万亿美元",
@@ -85,8 +85,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时13分 ~ 16时21分]"
+          "appearance_count": 11,
+          "time_info": "[11时13分 ~ 16时53分]"
         },
         {
           "title": "特朗普退出联合国机构一览表",
@@ -137,11 +137,12 @@
             24,
             23,
             20,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时47分 ~ 16时21分]"
+          "appearance_count": 7,
+          "time_info": "[13时47分 ~ 16时53分]"
         },
         {
           "title": "据福克斯新闻：美国参议院将于美东时间上午11点进行程序性投票，谴责特朗普政府在委内瑞拉问题上的政策。",
@@ -161,7 +162,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -175,6 +176,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "美中期选举结果会如何影响特朗普",
+          "url": "https://www.toutiao.com/trending/7592759487010750506/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            18,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时56分 ~ 16时53分]"
         },
         {
           "title": "美国总统特朗普：我已经通过获取受制裁的石油为美国开始赚钱。",
@@ -199,20 +214,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时44分 ~ 16时21分]"
-        },
-        {
-          "title": "美中期选举结果会如何影响特朗普",
-          "url": "https://www.toutiao.com/trending/7592759487010750506/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            18,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时56分 ~ 16时21分]"
         },
         {
           "title": "美国总统特朗普：将于美东时间周四下午5:30参加政策会议。",
@@ -307,13 +308,24 @@
           "time_info": "11时13分"
         },
         {
+          "title": "特朗普急退66个国际组织为哪般",
+          "url": "https://www.toutiao.com/trending/7592878921817787954/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
           "title": "美媒：特朗普称美国对委内瑞拉的监管可能持续数年",
           "url": "https://flash.jin10.com/detail/20260108154136347800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -368,7 +380,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -468,6 +480,18 @@
           "time_info": "[09时07分 ~ 11时13分]"
         },
         {
+          "title": "金价暴涨年轻人改买“道具黄金”",
+          "url": "https://www.toutiao.com/trending/7592498286850998299/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时53分]"
+        },
+        {
           "title": "金十图示：2026年01月08日（周四）上海金早盘价为999.71元/克，较国际金价(999.06元/克)，高0.65元/克",
           "url": "https://flash.jin10.com/detail/20260108102327736800",
           "source": "金十数据",
@@ -488,17 +512,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
-        },
-        {
-          "title": "金价暴涨年轻人改买“道具黄金”",
-          "url": "https://www.toutiao.com/trending/7592498286850998299/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
         }
       ]
     },
@@ -590,7 +603,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         }
@@ -609,8 +622,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时56分 ~ 16时21分]"
+          "appearance_count": 5,
+          "time_info": "[14时56分 ~ 16时53分]"
         },
         {
           "title": "谷歌 2019 年以来首次市值超苹果公司，反映出怎样的市场逻辑？",
@@ -673,8 +686,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时07分 ~ 16时21分]"
+          "appearance_count": 12,
+          "time_info": "[09时07分 ~ 16时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "年度商品指数调仓周四启动 超百亿美元被动卖盘将冲击金银",
+          "url": "https://flash.jin10.com/detail/20260108162255143800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         }
       ]
     }
