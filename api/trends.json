@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T20:31:42.236801+08:00",
-  "total_titles_processed": 1585,
+  "generated_at": "2026-01-08T21:24:00.534159+08:00",
+  "total_titles_processed": 1662,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
@@ -31,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[12时13分 ~ 20时31分]"
+          "appearance_count": 22,
+          "time_info": "[12时13分 ~ 21时24分]"
         },
         {
           "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
@@ -56,8 +56,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时22分 ~ 20时31分]"
+          "appearance_count": 12,
+          "time_info": "[17时22分 ~ 21时24分]"
+        },
+        {
+          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            14,
+            15,
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[11时13分 ~ 21时24分]"
         },
         {
           "title": "特朗普提出将美军费提至1.5万亿美元",
@@ -74,22 +91,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时13分 ~ 16时21分]"
-        },
-        {
-          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            14,
-            15,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[11时13分 ~ 20时31分]"
         },
         {
           "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
@@ -188,6 +189,17 @@
           "time_info": "[13时47分 ~ 16时53分]"
         },
         {
+          "title": "美国最高法院即将裁决特朗普关税案 或引发进口商“讨钱大战”",
+          "url": "https://flash.jin10.com/detail/20260108211933533800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "据福克斯新闻：美国参议院将于美东时间上午11点进行程序性投票，谴责特朗普政府在委内瑞拉问题上的政策。",
           "url": "https://flash.jin10.com/detail/20260108084454388800",
           "source": "金十数据",
@@ -256,6 +268,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时13分 ~ 13时20分]"
+        },
+        {
+          "title": "特朗普“炮轰”美国军火商",
+          "url": "https://news.ifeng.com/c/8pkhjJcbtz4",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 21时24分]"
         },
         {
           "title": "特朗普称美将持续多年管理委内瑞拉",
@@ -362,17 +385,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
-        },
-        {
-          "title": "特朗普“炮轰”美国军火商",
-          "url": "https://news.ifeng.com/c/8pkhjJcbtz4",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
         },
         {
           "title": "“美联储传声筒”Nick Timiraos表示，大多数（美国）独栋住宅租赁物业由小型房东持有或管理。过去几年间，机构投资者仅占购房总量的约百分之一。此前特朗普称将禁止华尔街投资独栋住宅。",
@@ -554,7 +566,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "怕清算?伊朗领袖携950亿开溜",
@@ -581,6 +593,28 @@
           "time_info": "17时49分"
         },
         {
+          "title": "德国外交部长：谴责伊朗过度使用暴力镇压和平示威活动。呼吁伊朗当局遵守国际义务。",
+          "url": "https://flash.jin10.com/detail/20260108211625023800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "刘海星会见伊朗确定国家利益委员会考察团",
+          "url": "https://wallstreetcn.com/livenews/3033335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：真主党在伊朗支持下努力重整旗鼓并重建其恐怖主义基础设施，这已得到证实。",
           "url": "https://flash.jin10.com/detail/20260108182530377800",
           "source": "金十数据",
@@ -605,6 +639,28 @@
           "time_info": "[17时22分 ~ 17时49分]"
         },
         {
+          "title": "伊朗外长：伊朗已做好准备应对任何情况",
+          "url": "https://news.ifeng.com/c/8pkiRXgYNTC",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 21时24分]"
+        },
+        {
+          "title": "媒体称伊朗抗议席卷全国一半省份，至少 36 人死亡，一旦伊朗失控谁是背后赢家？谁失利？",
+          "url": "https://www.zhihu.com/question/1992559906939696772",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 21时24分]"
+        },
+        {
           "title": "伊朗外长称做好准备应对战争",
           "url": "https://wallstreetcn.com/livenews/3033233",
           "source": "华尔街见闻-快讯",
@@ -617,26 +673,15 @@
           "time_info": "[18时49分 ~ 19时16分]"
         },
         {
-          "title": "伊朗外长：伊朗已做好准备应对任何情况",
-          "url": "https://news.ifeng.com/c/8pkiRXgYNTC",
-          "source": "凤凰网",
+          "title": "伊朗外长称做好准备应对战争",
+          "url": "https://www.toutiao.com/trending/7592934897070227519/",
+          "source": "今日头条",
           "ranks": [
-            7
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "媒体称伊朗抗议席卷全国一半省份，至少 36 人死亡，一旦伊朗失控谁是背后赢家？谁失利？",
-          "url": "https://www.zhihu.com/question/1992559906939696772",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 21时24分]"
         },
         {
           "title": "伊朗德黑兰局势暂缓 大巴扎复市",
@@ -675,7 +720,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -712,6 +757,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时49分 ~ 19时16分]"
+        },
+        {
+          "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2252232",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 21时24分]"
         },
         {
           "title": "美股再现“马斯克式”天价薪酬包 游戏驿站抛出百亿美元CEO激励计划",
@@ -840,7 +896,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
@@ -867,6 +923,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时24分 ~ 15时44分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：在Gmail中引入新的AI功能。",
+          "url": "https://flash.jin10.com/detail/20260108210752777800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         }
       ]
     },
@@ -917,8 +984,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[09时07分 ~ 20时31分]"
+          "appearance_count": 24,
+          "time_info": "[09时07分 ~ 21时24分]"
         }
       ]
     },
