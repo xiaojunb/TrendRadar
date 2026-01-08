@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T22:20:37.591013+08:00",
-  "total_titles_processed": 1786,
+  "generated_at": "2026-01-08T22:51:40.435370+08:00",
+  "total_titles_processed": 1836,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
@@ -31,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[12时13分 ~ 22时20分]"
+          "appearance_count": 26,
+          "time_info": "[12时13分 ~ 22时51分]"
         },
         {
           "title": "特朗普退出联合国机构一览表",
@@ -46,8 +46,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时20分 ~ 22时20分]"
+          "appearance_count": 11,
+          "time_info": "[13时20分 ~ 22时51分]"
         },
         {
           "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
@@ -71,8 +71,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[17时22分 ~ 22时20分]"
+          "appearance_count": 16,
+          "time_info": "[17时22分 ~ 22时51分]"
         },
         {
           "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
@@ -89,8 +89,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[11时13分 ~ 22时20分]"
+          "appearance_count": 27,
+          "time_info": "[11时13分 ~ 22时51分]"
         },
         {
           "title": "特朗普提出将美军费提至1.5万亿美元",
@@ -146,6 +146,17 @@
           "time_info": "[09时07分 ~ 12时13分]"
         },
         {
+          "title": "特朗普“炮轰”美国军火商",
+          "url": "https://news.ifeng.com/c/8pkhjJcbtz4",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时31分 ~ 22时51分]"
+        },
+        {
           "title": "特朗普称2027年军费预算1.5万亿美元",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B02027%E5%B9%B4%E5%86%9B%E8%B4%B9%E9%A2%84%E7%AE%971.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
@@ -189,17 +200,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时47分 ~ 16时53分]"
-        },
-        {
-          "title": "特朗普“炮轰”美国军火商",
-          "url": "https://news.ifeng.com/c/8pkhjJcbtz4",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时31分 ~ 22时20分]"
         },
         {
           "title": "美国最高法院即将裁决特朗普关税案 或引发进口商“讨钱大战”",
@@ -400,6 +400,17 @@
           "time_info": "09时07分"
         },
         {
+          "title": "美国媒体人：特朗普增加军费表明美国可能正准备“世界大战”",
+          "url": "https://www.cls.cn/detail/2252295",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "美媒：特朗普筹划控制委国有石油公司 目标是将油价压低至50美元/桶",
           "url": "https://flash.jin10.com/detail/20260108101132148800",
           "source": "金十数据",
@@ -409,6 +420,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
+        },
+        {
+          "title": "共和党内部分歧显现 特朗普众议院控制力遭多重投票挑战",
+          "url": "https://flash.jin10.com/detail/20260108221155118800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "美媒：特朗普称美国对委内瑞拉的监管可能持续数年",
@@ -578,8 +600,21 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时31分 ~ 22时51分]"
+        },
+        {
+          "title": "伊朗外长称做好准备应对战争",
+          "url": "https://www.toutiao.com/trending/7592934897070227519/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            29,
+            27
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[20时31分 ~ 22时20分]"
+          "time_info": "[21时23分 ~ 22时51分]"
         },
         {
           "title": "怕清算?伊朗领袖携950亿开溜",
@@ -628,18 +663,6 @@
           "time_info": "21时24分"
         },
         {
-          "title": "伊朗外长称做好准备应对战争",
-          "url": "https://www.toutiao.com/trending/7592934897070227519/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时23分 ~ 22时20分]"
-        },
-        {
           "title": "以色列总理内塔尼亚胡：真主党在伊朗支持下努力重整旗鼓并重建其恐怖主义基础设施，这已得到证实。",
           "url": "https://flash.jin10.com/detail/20260108182530377800",
           "source": "金十数据",
@@ -680,11 +703,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 22时20分]"
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 22时51分]"
         },
         {
           "title": "伊朗外长称做好准备应对战争",
@@ -735,7 +759,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -751,6 +775,30 @@
           "time_info": "[09时07分 ~ 15时20分]"
         },
         {
+          "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2252232",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时23分 ~ 22时51分]"
+        },
+        {
+          "title": "美股开盘，道指跌0.3%，标普500指数跌0.05%，纳指跌0.12%。国防股普涨，洛克希德马丁(LMT.N)涨6.66%，雷神科技(RTX.N)涨2.55%，特朗普拟将2027年国防预算增加50%至1.5万亿美元。纳斯达克中国金龙指数跌0.37%。",
+          "url": "https://flash.jin10.com/detail/20260108223029436800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "雷神技术美股盘前涨超5%，现报196.7美元。",
           "url": "https://wallstreetcn.com/livenews/3033169",
           "source": "华尔街见闻-快讯",
@@ -762,51 +810,41 @@
           "time_info": "17时22分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-08）",
+          "url": "https://flash.jin10.com/detail/20260108214805611800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 22时51分]"
+        },
+        {
           "title": "派拉蒙天舞重申对华纳兄弟探索（WBD）美股30美元的现金收购要约。",
           "url": "https://wallstreetcn.com/livenews/3033382",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 22时51分]"
         },
         {
           "title": "周四美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3033381",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
-          "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2252232",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时23分 ~ 22时20分]"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-01-08）",
-          "url": "https://flash.jin10.com/detail/20260108214805611800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10
+            5,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时57分 ~ 22时20分]"
+          "time_info": "[22时20分 ~ 22时51分]"
         },
         {
           "title": "从“冷门”到“爆款” 美股存储巨头2026开年狂飙",
@@ -869,7 +907,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价暴涨年轻人改买“道具黄金”",
@@ -920,6 +958,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时22分 ~ 17时49分]"
+        },
+        {
+          "title": "世界黄金协会：央行购金、关税与贸易风险、活跃的期权市场活动以及美元走弱，均对金价上涨起到了推动作用。",
+          "url": "https://flash.jin10.com/detail/20260108222202460800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "金十图示：2026年01月08日（周四）上海金早盘价为999.71元/克，较国际金价(999.06元/克)，高0.65元/克",
@@ -1009,11 +1058,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 22时20分]"
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 22时51分]"
         },
         {
           "title": "智谱AI CEO张鹏谈梁文锋选择彻底开源：有技术上的理想，没想靠它挣钱",
@@ -1041,8 +1091,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[09时07分 ~ 22时20分]"
+          "appearance_count": 28,
+          "time_info": "[09时07分 ~ 22时51分]"
         },
         {
           "title": "特朗普要加军费，全球军工股大涨，纳指期货盘前跌0.5%，美债强势，金银继续回调，白银失守75美元",
@@ -1050,11 +1100,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时56分 ~ 22时20分]"
+          "appearance_count": 4,
+          "time_info": "[21时56分 ~ 22时51分]"
         }
       ]
     },
