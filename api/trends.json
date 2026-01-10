@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T17:15:04.827029+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2026-01-10T17:40:44.018991+08:00",
+  "total_titles_processed": 880,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时08分 ~ 17时15分]"
+          "appearance_count": 15,
+          "time_info": "[12时08分 ~ 17时40分]"
         },
         {
           "title": "美国最高法院暂未公布对特朗普关税的判决，市场紧盯下周三",
@@ -40,8 +40,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时05分 ~ 17时15分]"
+          "appearance_count": 17,
+          "time_info": "[09时05分 ~ 17时40分]"
+        },
+        {
+          "title": "特朗普放话：我可不要中俄当邻居",
+          "url": "https://news.ifeng.com/c/8pnjeKLWxbZ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时18分 ~ 17时40分]"
         },
         {
           "title": "特朗普执政不到一年打 7 国，第二任期以来已下令实施超 620 次空袭，下一个是谁？谁能给他踩下刹车？",
@@ -57,8 +70,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时06分 ~ 17时15分]"
+          "appearance_count": 16,
+          "time_info": "[11时06分 ~ 17时40分]"
         },
         {
           "title": "特朗普称美国必须「拥有」整个格陵兰，美国武力夺取格陵兰的可能性有多大？格陵兰岛的现状会发生改变吗？",
@@ -71,8 +84,25 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时06分 ~ 17时15分]"
+          "appearance_count": 16,
+          "time_info": "[11时06分 ~ 17时40分]"
+        },
+        {
+          "title": "印度否认莫迪未致电特朗普让印美贸易谈判停滞",
+          "url": "https://wallstreetcn.com/livenews/3034503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4,
+            5,
+            6,
+            10,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时21分 ~ 17时40分]"
         },
         {
           "title": "关税裁决交易指南：如果最高法院说“不”，特朗普还有什么牌？",
@@ -83,8 +113,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时06分 ~ 17时15分]"
+          "appearance_count": 15,
+          "time_info": "[11时06分 ~ 17时40分]"
         },
         {
           "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
@@ -97,8 +127,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时08分 ~ 17时15分]"
+          "appearance_count": 15,
+          "time_info": "[12时08分 ~ 17时40分]"
         },
         {
           "title": "俄方感谢特朗普释放俄船员",
@@ -115,33 +145,27 @@
           "time_info": "[12时52分 ~ 16时19分]"
         },
         {
-          "title": "特朗普放话：我可不要中俄当邻居",
-          "url": "https://news.ifeng.com/c/8pnjeKLWxbZ",
+          "title": "会下令“抓捕”普京吗？特朗普回应",
+          "url": "https://v.ifeng.com/c/8pngFh4oVip",
           "source": "凤凰网",
           "ranks": [
-            1,
-            2,
-            3
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时18分 ~ 17时15分]"
+          "appearance_count": 9,
+          "time_info": "[14时51分 ~ 17时40分]"
         },
         {
-          "title": "印度否认莫迪未致电特朗普让印美贸易谈判停滞",
-          "url": "https://wallstreetcn.com/livenews/3034503",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普“泄密”！提前12小时发帖曝光美非农就业数据",
+          "url": "https://wallstreetcn.com/articles/3762989",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            4,
-            5,
-            6,
-            10,
-            19
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时21分 ~ 17时15分]"
+          "appearance_count": 9,
+          "time_info": "[14时51分 ~ 17时40分]"
         },
         {
           "title": "知名对冲基金经理比尔·阿克曼：美国总统特朗普呼吁将信用卡利率上限设定为10%“是一个错误”。",
@@ -158,29 +182,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时06分 ~ 15时14分]"
-        },
-        {
-          "title": "会下令“抓捕”普京吗？特朗普回应",
-          "url": "https://v.ifeng.com/c/8pngFh4oVip",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时51分 ~ 17时15分]"
-        },
-        {
-          "title": "特朗普“泄密”！提前12小时发帖曝光美非农就业数据",
-          "url": "https://wallstreetcn.com/articles/3762989",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时51分 ~ 17时15分]"
         },
         {
           "title": "美国消费者银行家协会：美国银行业回应信用卡利率设限提案，表示认同美国总统特朗普帮助美国人获得更实惠信贷的目标。",
@@ -264,6 +265,20 @@
           "time_info": "[09时05分 ~ 11时06分]"
         },
         {
+          "title": "会去抓普京吗？特朗普：没必要 我们关系很好",
+          "url": "https://flash.jin10.com/detail/20260110152727783800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时38分 ~ 17时40分]"
+        },
+        {
           "title": "特朗普再发“夺岛”言论",
           "url": "https://www.toutiao.com/trending/7592721637930434566/",
           "source": "今日头条",
@@ -339,24 +354,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 17时15分]"
-        },
-        {
-          "title": "会去抓普京吗？特朗普：没必要 我们关系很好",
-          "url": "https://flash.jin10.com/detail/20260110152727783800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13,
-            19
+            8,
+            14
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时38分 ~ 17时15分]"
+          "time_info": "[16时19分 ~ 17时40分]"
         },
         {
           "title": "泽连斯基想让你抓普京？特朗普：没这必要，我跟普京关系很好",
@@ -364,11 +367,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 17时15分]"
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 17时40分]"
         },
         {
           "title": "外交部回应特朗普涉台言论",
@@ -444,11 +448,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32353506",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时47分 ~ 17时40分]"
+        },
+        {
+          "title": "北约担忧特朗普将以“艰难”方式得到格陵兰岛",
+          "url": "https://wallstreetcn.com/livenews/3034516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时47分 ~ 17时15分]"
+          "time_info": "[16时47分 ~ 17时40分]"
         },
         {
           "title": "特朗普戴“快乐特朗普”胸针",
@@ -475,17 +492,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时08分 ~ 13时43分]"
-        },
-        {
-          "title": "北约担忧特朗普将以“艰难”方式得到格陵兰岛",
-          "url": "https://wallstreetcn.com/livenews/3034516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 17时15分]"
         },
         {
           "title": "美国总统特朗普：我们已经与石油行业高管们达成了某种意义上的（投资委内瑞拉的）协议。",
@@ -727,6 +733,108 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "胡锡进：伊朗的骚乱离政权更迭似乎还远，但有个关键变量",
+          "url": "https://news.ifeng.com/c/8pnGCj1xreS",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时05分 ~ 14时21分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国支持勇敢的伊朗人民。",
+          "url": "https://flash.jin10.com/detail/20260110133457629800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10,
+            13,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时21分 ~ 17时15分]"
+        },
+        {
+          "title": "伊朗代表致信安理会 谴责美以干涉伊朗内政并煽动暴力",
+          "url": "https://flash.jin10.com/detail/20260110161115658800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 17时40分]"
+        },
+        {
+          "title": "伊朗军队表示，誓言捍卫国家利益、战略基础设施和公共财产。",
+          "url": "https://flash.jin10.com/detail/20260110164406406800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 17时40分]"
+        },
+        {
+          "title": "伊朗代表致信安理会 谴责美以干涉伊朗内政并煽动暴力",
+          "url": "https://wallstreetcn.com/livenews/3034520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 17时40分]"
+        },
+        {
+          "title": "伊朗军队呼吁公民保持警惕，以挫败敌人的阴谋。",
+          "url": "https://flash.jin10.com/detail/20260110164419679800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "伊朗指责美以策划动乱",
+          "url": "https://www.douyin.com/hot/2362541",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "伊朗大范围断网，澳大利亚曾发警告，要求其公民尽快离伊，大规模断网是什么原因？如何解读当前伊朗局势？",
+          "url": "https://www.zhihu.com/question/1992897642179552544",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 7,
       "titles": [
@@ -756,8 +864,21 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时06分 ~ 17时15分]"
+          "appearance_count": 16,
+          "time_info": "[11时06分 ~ 17时40分]"
+        },
+        {
+          "title": "DeepSeek能否第二次震惊全世界",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%83%BD%E5%90%A6%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%9C%87%E6%83%8A%E5%85%A8%E4%B8%96%E7%95%8C",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时21分 ~ 17时40分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -770,21 +891,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时05分 ~ 17时15分]"
-        },
-        {
-          "title": "DeepSeek能否第二次震惊全世界",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%83%BD%E5%90%A6%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%9C%87%E6%83%8A%E5%85%A8%E4%B8%96%E7%95%8C",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时21分 ~ 17时15分]"
+          "appearance_count": 17,
+          "time_info": "[09时05分 ~ 17时40分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -798,8 +906,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时21分 ~ 17时15分]"
+          "appearance_count": 10,
+          "time_info": "[14时21分 ~ 17时40分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -813,8 +921,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时51分 ~ 17时15分]"
+          "appearance_count": 9,
+          "time_info": "[14时51分 ~ 17时40分]"
         },
         {
           "title": "DeepSeek准备第二次震惊全世界",
@@ -826,94 +934,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时16分 ~ 13时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "胡锡进：伊朗的骚乱离政权更迭似乎还远，但有个关键变量",
-          "url": "https://news.ifeng.com/c/8pnGCj1xreS",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时05分 ~ 14时21分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥：美国支持勇敢的伊朗人民。",
-          "url": "https://flash.jin10.com/detail/20260110133457629800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            10,
-            13,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时21分 ~ 17时15分]"
-        },
-        {
-          "title": "伊朗军队表示，誓言捍卫国家利益、战略基础设施和公共财产。",
-          "url": "https://flash.jin10.com/detail/20260110164406406800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 17时15分]"
-        },
-        {
-          "title": "伊朗代表致信安理会 谴责美以干涉伊朗内政并煽动暴力",
-          "url": "https://wallstreetcn.com/livenews/3034520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 17时15分]"
-        },
-        {
-          "title": "伊朗代表致信安理会 谴责美以干涉伊朗内政并煽动暴力",
-          "url": "https://flash.jin10.com/detail/20260110161115658800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 17时15分]"
-        },
-        {
-          "title": "伊朗指责美以策划动乱",
-          "url": "https://www.douyin.com/hot/2362541",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "伊朗大范围断网，澳大利亚曾发警告，要求其公民尽快离伊，大规模断网是什么原因？如何解读当前伊朗局势？",
-          "url": "https://www.zhihu.com/question/1992897642179552544",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
         }
       ]
     },
@@ -1045,8 +1065,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时05分 ~ 17时15分]"
+          "appearance_count": 17,
+          "time_info": "[09时05分 ~ 17时40分]"
         }
       ]
     },
@@ -1063,8 +1083,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时05分 ~ 17时15分]"
+          "appearance_count": 17,
+          "time_info": "[09时05分 ~ 17时40分]"
         }
       ]
     }
