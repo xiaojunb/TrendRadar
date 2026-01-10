@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T20:26:54.654634+08:00",
-  "total_titles_processed": 1054,
+  "generated_at": "2026-01-10T21:06:42.886545+08:00",
+  "total_titles_processed": 1096,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 67,
       "titles": [
         {
           "title": "特朗普威胁石油巨头在委投资：你们不干有的是人干",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[16时18分 ~ 20时26分]"
+          "appearance_count": 15,
+          "time_info": "[16时18分 ~ 21时06分]"
         },
         {
           "title": "特朗普极力拉投资声称“委美加起来有全球55%石油”",
@@ -56,8 +56,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[09时05分 ~ 20时26分]"
+          "appearance_count": 26,
+          "time_info": "[09时05分 ~ 21时06分]"
         },
         {
           "title": "印度否认莫迪未致电特朗普让印美贸易谈判停滞",
@@ -92,8 +92,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[11时06分 ~ 20时26分]"
+          "appearance_count": 25,
+          "time_info": "[11时06分 ~ 21时06分]"
         },
         {
           "title": "会下令“抓捕”普京吗？特朗普回应",
@@ -116,8 +116,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[14时51分 ~ 20时26分]"
+          "appearance_count": 18,
+          "time_info": "[14时51分 ~ 21时06分]"
         },
         {
           "title": "特朗普称美国必须「拥有」整个格陵兰，美国武力夺取格陵兰的可能性有多大？格陵兰岛的现状会发生改变吗？",
@@ -145,8 +145,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[12时08分 ~ 20时26分]"
+          "appearance_count": 24,
+          "time_info": "[12时08分 ~ 21时06分]"
         },
         {
           "title": "关税裁决交易指南：如果最高法院说“不”，特朗普还有什么牌？",
@@ -277,11 +277,12 @@
             1,
             2,
             5,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时43分 ~ 20时26分]"
+          "appearance_count": 5,
+          "time_info": "[18时43分 ~ 21时06分]"
         },
         {
           "title": "特朗普到底退出了什么组织",
@@ -356,11 +357,12 @@
           "ranks": [
             1,
             3,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时12分 ~ 20时26分]"
+          "appearance_count": 4,
+          "time_info": "[19时12分 ~ 21时06分]"
         },
         {
           "title": "会去抓普京吗？特朗普：没必要 我们关系很好",
@@ -375,6 +377,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时38分 ~ 17时40分]"
+        },
+        {
+          "title": "特朗普宣称“不需要国际法” 联合国秘书长重申立场",
+          "url": "https://flash.jin10.com/detail/20260110180529633800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6,
+            8,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时43分 ~ 21时06分]"
         },
         {
           "title": "特朗普再发“夺岛”言论",
@@ -401,6 +418,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时06分 ~ 14时21分]"
+        },
+        {
+          "title": "消息人士：美国中央情报局（CIA）对古巴的经济和政治状况做出了悲观的描述，但这些评估并未为特朗普上周有关在邻国委内瑞拉发生军事行动后古巴“即将崩溃”的预测提供明确依据。中情局认为，古巴经济的关键领域，如农业和旅游业，因频繁停电、贸易制裁以及其他问题而承受着巨大压力。而来自委内瑞拉的石油进口及其他支持资源的潜在丧失，可能会使政府的治理工作变得更加困难。",
+          "url": "https://flash.jin10.com/detail/20260110180247697800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            7,
+            9,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时43分 ~ 21时06分]"
         },
         {
           "title": "印度否认莫迪未致电特朗普让印美贸易谈判停滞",
@@ -447,32 +479,26 @@
           "time_info": "[11时06分 ~ 14时21分]"
         },
         {
-          "title": "特朗普宣称“不需要国际法” 联合国秘书长重申立场",
-          "url": "https://flash.jin10.com/detail/20260110180529633800",
+          "title": "G7峰会据悉系为特朗普而改期",
+          "url": "https://flash.jin10.com/detail/20260110203044449800",
           "source": "金十数据",
           "ranks": [
-            3,
-            6,
-            8,
-            16
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时43分 ~ 20时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         },
         {
-          "title": "消息人士：美国中央情报局（CIA）对古巴的经济和政治状况做出了悲观的描述，但这些评估并未为特朗普上周有关在邻国委内瑞拉发生军事行动后古巴“即将崩溃”的预测提供明确依据。中情局认为，古巴经济的关键领域，如农业和旅游业，因频繁停电、贸易制裁以及其他问题而承受着巨大压力。而来自委内瑞拉的石油进口及其他支持资源的潜在丧失，可能会使政府的治理工作变得更加困难。",
-          "url": "https://flash.jin10.com/detail/20260110180247697800",
-          "source": "金十数据",
+          "title": "意大利总理说很多问题上不同意特朗普做法",
+          "url": "https://wallstreetcn.com/livenews/3034549",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            7,
-            9,
-            17
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时43分 ~ 20时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         },
         {
           "title": "外交部回应特朗普涉台言论",
@@ -536,11 +562,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时37分 ~ 20时26分]"
+          "appearance_count": 3,
+          "time_info": "[19时37分 ~ 21时06分]"
         },
         {
           "title": "美国财长贝森特：美国目前发现，关税以物价上涨的形式转嫁给消费者的比例“非常、非常小”。 如果最高法院做出不利于特朗普政府的裁决，财政部有充足的资金支付任何关税退款。 任何关税退款都将在数周、数月、甚至可能是一年的时间内陆续流出。",
@@ -602,6 +629,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时08分 ~ 13时43分]"
+        },
+        {
+          "title": "信号比规模重要--高盛解读“特朗普版QE”",
+          "url": "https://wallstreetcn.com/articles/3763012",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 21时06分]"
         },
         {
           "title": "美国总统特朗普：我们已经与石油行业高管们达成了某种意义上的（投资委内瑞拉的）协议。",
@@ -696,17 +734,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时18分 ~ 16时19分]"
-        },
-        {
-          "title": "信号比规模重要--高盛解读“特朗普版QE”",
-          "url": "https://wallstreetcn.com/articles/3763012",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
         },
         {
           "title": "美国农业部长（USDA）部长Rollins：特朗普政府暂停向明尼苏达州发放联邦资金，立即生效。 这包括当前激活的资金和未来可能会审批的资金。",
@@ -855,8 +882,26 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "伊朗代表致信安理会 谴责美以干涉伊朗内政并煽动暴力",
+          "url": "https://wallstreetcn.com/livenews/3034520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7,
+            11,
+            14,
+            15,
+            18,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时47分 ~ 21时06分]"
+        },
         {
           "title": "伊朗代表致信安理会 谴责美以干涉伊朗内政并煽动暴力",
           "url": "https://flash.jin10.com/detail/20260110161115658800",
@@ -873,23 +918,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[16时19分 ~ 19时37分]"
-        },
-        {
-          "title": "伊朗代表致信安理会 谴责美以干涉伊朗内政并煽动暴力",
-          "url": "https://wallstreetcn.com/livenews/3034520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            11,
-            14,
-            15,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时47分 ~ 20时26分]"
         },
         {
           "title": "胡锡进：伊朗的骚乱离政权更迭似乎还远，但有个关键变量",
@@ -934,6 +962,33 @@
           "time_info": "[16时47分 ~ 19时37分]"
         },
         {
+          "title": "伊朗革命卫队警告称，维护革命成果和国家安全是“红线”。",
+          "url": "https://flash.jin10.com/detail/20260110174816497800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8,
+            11,
+            13,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时15分 ~ 21时06分]"
+        },
+        {
+          "title": "为什么伊朗里亚尔汇率突然崩了？",
+          "url": "https://www.zhihu.com/question/1992998180908971473",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 21时06分]"
+        },
+        {
           "title": "伊朗军队呼吁公民保持警惕，以挫败敌人的阴谋。",
           "url": "https://flash.jin10.com/detail/20260110164419679800",
           "source": "金十数据",
@@ -950,30 +1005,26 @@
           "time_info": "[17时40分 ~ 20时26分]"
         },
         {
-          "title": "伊朗革命卫队警告称，维护革命成果和国家安全是“红线”。",
-          "url": "https://flash.jin10.com/detail/20260110174816497800",
+          "title": "伊朗军方表示将捍卫国家利益",
+          "url": "https://flash.jin10.com/detail/20260110205008555800",
           "source": "金十数据",
           "ranks": [
-            3,
-            8,
-            11,
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时15分 ~ 20时26分]"
-        },
-        {
-          "title": "为什么伊朗里亚尔汇率突然崩了？",
-          "url": "https://www.zhihu.com/question/1992998180908971473",
-          "source": "知乎",
-          "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时26分"
+          "time_info": "21时06分"
+        },
+        {
+          "title": "伊朗军方表示将捍卫国家利益",
+          "url": "https://wallstreetcn.com/livenews/3034551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         },
         {
           "title": "伊朗塔斯尼姆通讯社报道称，伊朗当局在德黑兰附近的巴赫雷斯坦镇逮捕了100名“武装暴乱分子”。",
@@ -981,11 +1032,24 @@
           "source": "金十数据",
           "ranks": [
             2,
-            10
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时37分 ~ 21时06分]"
+        },
+        {
+          "title": "伊拉克方面表示，没有迹象表明伊朗的天然气供应会很快恢复。",
+          "url": "https://flash.jin10.com/detail/20260110192253430800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时37分 ~ 20时26分]"
+          "time_info": "[20时26分 ~ 21时06分]"
         },
         {
           "title": "伊朗指责美以策划动乱",
@@ -999,15 +1063,15 @@
           "time_info": "09时05分"
         },
         {
-          "title": "伊拉克方面表示，没有迹象表明伊朗的天然气供应会很快恢复。",
-          "url": "https://flash.jin10.com/detail/20260110192253430800",
-          "source": "金十数据",
+          "title": "伊朗军方：将捍卫国家利益",
+          "url": "https://news.ifeng.com/c/8po8Gjrx0kc",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时26分"
+          "time_info": "21时06分"
         },
         {
           "title": "伊朗大范围断网，澳大利亚曾发警告，要求其公民尽快离伊，大规模断网是什么原因？如何解读当前伊朗局势？",
@@ -1052,8 +1116,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[11时06分 ~ 20时26分]"
+          "appearance_count": 25,
+          "time_info": "[11时06分 ~ 21时06分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -1067,8 +1131,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[09时05分 ~ 20时26分]"
+          "appearance_count": 26,
+          "time_info": "[09时05分 ~ 21时06分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -1081,8 +1145,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[14时21分 ~ 20时26分]"
+          "appearance_count": 19,
+          "time_info": "[14时21分 ~ 21时06分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -1098,8 +1162,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[14时51分 ~ 20时26分]"
+          "appearance_count": 18,
+          "time_info": "[14时51分 ~ 21时06分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -1133,11 +1197,12 @@
           "url": "https://www.zhihu.com/question/1993329446883651767",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 21时06分]"
         }
       ]
     },
@@ -1269,8 +1334,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[09时05分 ~ 20时26分]"
+          "appearance_count": 26,
+          "time_info": "[09时05分 ~ 21时06分]"
         }
       ]
     },
@@ -1287,8 +1352,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[09时05分 ~ 20时26分]"
+          "appearance_count": 26,
+          "time_info": "[09时05分 ~ 21时06分]"
         }
       ]
     }
