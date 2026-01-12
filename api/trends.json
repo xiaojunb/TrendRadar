@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-01-12T15:49:33.744280+08:00",
-  "total_titles_processed": 915,
+  "generated_at": "2026-01-12T16:23:13.575891+08:00",
+  "total_titles_processed": 967,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普发图自称“委内瑞拉代总统”",
           "url": "https://news.ifeng.com/c/8pqpIh8lxzW",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时34分 ~ 15时49分]"
+          "appearance_count": 12,
+          "time_info": "[12时34分 ~ 16时23分]"
         },
         {
           "title": "特朗普，又要“抢东西”？",
@@ -39,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时10分 ~ 15时49分]"
+          "appearance_count": 16,
+          "time_info": "[09时10分 ~ 16时23分]"
         },
         {
           "title": "特朗普最新涉台表态：台湾问题是中国自己的事",
@@ -63,8 +64,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时20分 ~ 15时49分]"
+          "appearance_count": 14,
+          "time_info": "[11时20分 ~ 16时23分]"
         },
         {
           "title": "特朗普威胁古巴尽快同美国“达成协议”",
@@ -87,11 +88,12 @@
           "ranks": [
             6,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时10分 ~ 15时49分]"
+          "appearance_count": 16,
+          "time_info": "[09时10分 ~ 16时23分]"
         },
         {
           "title": "特朗普对台问题表态引岛内热议",
@@ -104,8 +106,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时34分 ~ 15时49分]"
+          "appearance_count": 12,
+          "time_info": "[12时34分 ~ 16时23分]"
         },
         {
           "title": "又要动手了？美媒爆料：特朗普或向中东派航母战斗群",
@@ -128,17 +130,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时10分 ~ 09时11分]"
-        },
-        {
-          "title": "特朗普称中俄只能在美方控制下购买委内瑞拉石油，外交部回应",
-          "url": "https://wallstreetcn.com/livenews/3035089",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
         },
         {
           "title": "美媒爆：5名共和党议员“倒戈”后，特朗普“愤怒”向其打电话并发出威胁",
@@ -165,6 +156,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时01分 ~ 15时49分]"
+        },
+        {
+          "title": "特朗普称中俄只能在美方控制下购买委内瑞拉石油，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3035089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 16时23分]"
         },
         {
           "title": "分析师：特朗普攻击美联储动摇市场信心",
@@ -235,6 +238,17 @@
           "time_info": "[12时34分 ~ 12时35分]"
         },
         {
+          "title": "特朗普转发鲁比奥将成古巴总统贴文",
+          "url": "https://www.toutiao.com/trending/7594023533484408838/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
+        },
+        {
           "title": "如何看待特朗普“不需要国际法”言论",
           "url": "https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9B%BD%E9%99%85%E6%B3%95%E2%80%9D%E8%A8%80%E8%AE%BA",
           "source": "百度热搜",
@@ -246,6 +260,17 @@
           "time_info": "[13时51分 ~ 15时49分]"
         },
         {
+          "title": "巴克莱股价下跌，此前特朗普呼吁限制信用卡利率。",
+          "url": "https://flash.jin10.com/detail/20260112160633158800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "特朗普称伊朗提议谈判但美国或“先行动”",
           "url": "https://wallstreetcn.com/livenews/3034906",
           "source": "华尔街见闻-快讯",
@@ -255,6 +280,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "特朗普称接管格陵兰岛是为防中俄觊觎，外交部：谋私利别拿他国当借口",
+          "url": "https://wallstreetcn.com/livenews/3035096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "特朗普：可能否决延长医疗补贴的法案",
@@ -491,7 +527,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "伊朗警告美以：若遭攻击必将还击",
@@ -504,8 +540,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时10分 ~ 15时49分]"
+          "appearance_count": 16,
+          "time_info": "[09时10分 ~ 16时23分]"
         },
         {
           "title": "为什么近两年时间，以伊朗为首的势力突然不行了？",
@@ -516,8 +552,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时20分 ~ 15时49分]"
+          "appearance_count": 14,
+          "time_info": "[11时20分 ~ 16时23分]"
         },
         {
           "title": "伊朗政府宣布全国哀悼三天",
@@ -527,11 +563,12 @@
             10,
             13,
             12,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时34分 ~ 15时49分]"
+          "appearance_count": 12,
+          "time_info": "[12时34分 ~ 16时23分]"
         },
         {
           "title": "伊朗政府宣布全国哀悼三天",
@@ -542,8 +579,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时20分 ~ 15时49分]"
+          "appearance_count": 14,
+          "time_info": "[11时20分 ~ 16时23分]"
         },
         {
           "title": "伊朗哀悼3天",
@@ -555,8 +592,34 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时20分 ~ 15时49分]"
+          "appearance_count": 14,
+          "time_info": "[11时20分 ~ 16时23分]"
+        },
+        {
+          "title": "美国将讨论干涉伊朗方案",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%B0%86%E8%AE%A8%E8%AE%BA%E5%B9%B2%E6%B6%89%E4%BC%8A%E6%9C%97%E6%96%B9%E6%A1%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            8,
+            9,
+            30,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时51分 ~ 16时23分]"
+        },
+        {
+          "title": "伊朗外长：局势目前完全得到控制",
+          "url": "https://news.ifeng.com/c/8pr5wuKJ4Wo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
         },
         {
           "title": "以色列官员：应做好准备应对伊朗局势，但不应进行干预",
@@ -570,20 +633,6 @@
           "time_info": "[09时10分 ~ 09时11分]"
         },
         {
-          "title": "美国将讨论干涉伊朗方案",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%B0%86%E8%AE%A8%E8%AE%BA%E5%B9%B2%E6%B6%89%E4%BC%8A%E6%9C%97%E6%96%B9%E6%A1%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            8,
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时51分 ~ 15时49分]"
-        },
-        {
           "title": "伊朗外长：安全部队已完全控制伊朗全境。 待安全恢复后，将恢复互联网。",
           "url": "https://wallstreetcn.com/livenews/3035076",
           "source": "华尔街见闻-快讯",
@@ -595,26 +644,28 @@
           "time_info": "15时31分"
         },
         {
-          "title": "外交部：目前没有中国公民在伊朗伤亡的报告。（北京日报）",
-          "url": "https://wallstreetcn.com/livenews/3035092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
           "title": "伊朗外长说伊朗安全部队已控制全国局势",
           "url": "https://flash.jin10.com/detail/20260112153000383800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
+        },
+        {
+          "title": "伊朗已有超百名安全人员在骚乱中丧生，美国将讨论干涉方案，骚乱的根本原因是何？美国或将从哪些方面干涉？",
+          "url": "https://www.zhihu.com/question/1993995898699658333",
+          "source": "知乎",
+          "ranks": [
+            15,
+            19,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时01分 ~ 16时23分]"
         },
         {
           "title": "市场消息：伊朗外长对印度的访问已被推迟，原定于本周进行。",
@@ -627,6 +678,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时01分 ~ 15时31分]"
+        },
+        {
+          "title": "外交部：目前没有中国公民在伊朗伤亡的报告。（北京日报）",
+          "url": "https://wallstreetcn.com/livenews/3035092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 16时23分]"
         },
         {
           "title": "伊朗警告若遭攻击必将还击",
@@ -652,16 +715,15 @@
           "time_info": "[09时10分 ~ 11时21分]"
         },
         {
-          "title": "伊朗已有超百名安全人员在骚乱中丧生，美国将讨论干涉方案，骚乱的根本原因是何？美国或将从哪些方面干涉？",
-          "url": "https://www.zhihu.com/question/1993995898699658333",
-          "source": "知乎",
+          "title": "伊朗外长：局势完全可控",
+          "url": "https://www.douyin.com/hot/2365323",
+          "source": "抖音",
           "ranks": [
-            15,
-            19
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时01分 ~ 15时49分]"
+          "time_info": "[15时49分 ~ 16时23分]"
         },
         {
           "title": "伊朗外长：伊朗近期骚乱与以色列摩萨德有关",
@@ -669,11 +731,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            18
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时31分 ~ 16时23分]"
+        },
+        {
+          "title": "伊朗外长称已控制国内局势",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E7%A7%B0%E5%B7%B2%E6%8E%A7%E5%88%B6%E5%9B%BD%E5%86%85%E5%B1%80%E5%8A%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时49分]"
+          "time_info": "[16时22分 ~ 16时23分]"
         },
         {
           "title": "伊朗总统称美国与以色列指使「暴徒」在伊朗制造不稳定局势，透露出哪些信息？",
@@ -685,6 +759,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时10分 ~ 09时11分]"
+        },
+        {
+          "title": "伊朗外长：政府已与抗议者展开对话 局势目前完全得到控制",
+          "url": "https://wallstreetcn.com/livenews/3035076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 16时23分]"
         },
         {
           "title": "伊朗为骚乱中死难人员举行全国哀悼",
@@ -721,15 +807,26 @@
           "time_info": "[11时20分 ~ 11时21分]"
         },
         {
-          "title": "伊朗外长：局势完全可控",
-          "url": "https://www.douyin.com/hot/2365323",
-          "source": "抖音",
+          "title": "伊朗外长：局势完全得到控制",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%EF%BC%9A%E5%B1%80%E5%8A%BF%E5%AE%8C%E5%85%A8%E5%BE%97%E5%88%B0%E6%8E%A7%E5%88%B6",
+          "source": "百度热搜",
           "ranks": [
-            6
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
+        },
+        {
+          "title": "伊朗外长：互联网服务将在与安全部门协调后恢复",
+          "url": "https://wallstreetcn.com/livenews/3035101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "16时23分"
         },
         {
           "title": "伊朗外长：互联网服务将在与安全机构协调后恢复。",
@@ -738,18 +835,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "伊朗外长：政府已与抗议者展开对话 局势目前完全得到控制",
-          "url": "https://wallstreetcn.com/livenews/3035076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -776,11 +862,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时34分 ~ 15时49分]"
+          "appearance_count": 12,
+          "time_info": "[12时34分 ~ 16时23分]"
         },
         {
           "title": "金十图示：2026年01月12日（周一）上海金早盘价为1021.18元/克，较国际金价（1026.61元/克）低5.43元/克",
@@ -844,8 +931,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时10分 ~ 15时49分]"
+          "appearance_count": 16,
+          "time_info": "[09时10分 ~ 16时23分]"
         },
         {
           "title": "伊朗局势微妙，鲍威尔被诉，金银再创新高，油价连续走高、美股期货下跌",
@@ -858,8 +945,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时20分 ~ 15时49分]"
+          "appearance_count": 14,
+          "time_info": "[11时20分 ~ 16时23分]"
         },
         {
           "title": "美股期货走低，标普500指数期货跌0.6%，纳指期货跌0.9%。",
@@ -881,6 +968,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
+          "url": "https://wallstreetcn.com/articles/3763059",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时01分 ~ 16时23分]"
+        },
+        {
           "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
           "url": "https://flash.jin10.com/detail/20260112123727337800",
           "source": "金十数据",
@@ -892,18 +991,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时25分 ~ 14时27分]"
-        },
-        {
-          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
-          "url": "https://wallstreetcn.com/articles/3763059",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时01分 ~ 15时49分]"
         }
       ]
     },
