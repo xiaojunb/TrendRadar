@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T20:32:11.982747+08:00",
-  "total_titles_processed": 1450,
+  "generated_at": "2026-01-12T21:38:11.566801+08:00",
+  "total_titles_processed": 1558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普发图自称“委内瑞拉代总统”",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[12时34分 ~ 20时32分]"
+          "appearance_count": 25,
+          "time_info": "[12时34分 ~ 21时38分]"
         },
         {
           "title": "特朗普，又要“抢东西”？",
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时55分 ~ 20时32分]"
+          "appearance_count": 13,
+          "time_info": "[16时55分 ~ 21时38分]"
         },
         {
           "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
@@ -52,8 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时55分 ~ 20时32分]"
+          "appearance_count": 13,
+          "time_info": "[16时55分 ~ 21时38分]"
         },
         {
           "title": "2026最大的交易主题：输不起的特朗普，国际秩序的终结",
@@ -149,6 +149,19 @@
           "time_info": "[09时10分 ~ 11时21分]"
         },
         {
+          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时49分 ~ 21时38分]"
+        },
+        {
           "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
           "url": "https://wallstreetcn.com/articles/3763030",
           "source": "华尔街见闻",
@@ -175,16 +188,16 @@
           "time_info": "[17时53分 ~ 19时40分]"
         },
         {
-          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
-          "source": "澎湃新闻",
+          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
+          "url": "https://wallstreetcn.com/articles/3763089",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            20
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时49分 ~ 20时32分]"
+          "appearance_count": 5,
+          "time_info": "[19时40分 ~ 21时38分]"
         },
         {
           "title": "美媒爆：5名共和党议员“倒戈”后，特朗普“愤怒”向其打电话并发出威胁",
@@ -250,18 +263,6 @@
           "time_info": "[12时35分 ~ 13时25分]"
         },
         {
-          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
-          "url": "https://wallstreetcn.com/articles/3763089",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时40分 ~ 20时32分]"
-        },
-        {
           "title": "特朗普发图自称委内瑞拉代总统",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%9B%BE%E8%87%AA%E7%A7%B0%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%BB%A3%E6%80%BB%E7%BB%9F%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -282,6 +283,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时20分 ~ 11时21分]"
+        },
+        {
+          "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
+          "url": "https://wallstreetcn.com/articles/3763082",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 21时38分]"
         },
         {
           "title": "外交部回应特朗普委石油言论",
@@ -386,6 +398,17 @@
           "time_info": "17时53分"
         },
         {
+          "title": "特朗普将就美联储主席一职面试贝莱德分析师Rick Rieder，面试将于本周进行。（福克斯）",
+          "url": "https://wallstreetcn.com/livenews/3035370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "巴克莱股价下跌，此前特朗普呼吁限制信用卡利率。",
           "url": "https://flash.jin10.com/detail/20260112160633158800",
           "source": "金十数据",
@@ -461,6 +484,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "美国总统特朗普：是我拯救了北约。",
+          "url": "https://flash.jin10.com/detail/20260112205617931800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "特朗普否认参与司法部向美联储发出的传票。（NBC）",
@@ -584,6 +618,17 @@
           "time_info": "11时21分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：不知道美国总统特朗普是否批准了对美联储的调查。",
+          "url": "https://flash.jin10.com/detail/20260112204637863800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "特朗普：启动了购买抵押贷款支持证券（MBS）的程序。",
           "url": "https://wallstreetcn.com/livenews/3034882",
           "source": "华尔街见闻-快讯",
@@ -650,6 +695,17 @@
           "time_info": "09时11分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：估计美国总统特朗普尚未获悉司法部美联储案件的简报。",
+          "url": "https://flash.jin10.com/detail/20260112204030119800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "特朗普称在考虑干预伊朗局势的“强硬选项”",
           "url": "https://wallstreetcn.com/livenews/3034875",
           "source": "华尔街见闻-快讯",
@@ -697,8 +753,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[16时22分 ~ 20时32分]"
+          "appearance_count": 15,
+          "time_info": "[16时22分 ~ 21时38分]"
         },
         {
           "title": "伊朗媒体：“大量人员”在近期骚乱中死亡",
@@ -725,21 +781,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[09时10分 ~ 16时23分]"
-        },
-        {
-          "title": "伊朗已有超百名安全人员在骚乱中丧生，美国将讨论干涉方案，骚乱的根本原因是何？美国或将从哪些方面干涉？",
-          "url": "https://www.zhihu.com/question/1993995898699658333",
-          "source": "知乎",
-          "ranks": [
-            15,
-            19,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[15时01分 ~ 20时32分]"
         },
         {
           "title": "为什么近两年时间，以伊朗为首的势力突然不行了？",
@@ -775,6 +816,35 @@
           "time_info": "[13时51分 ~ 17时26分]"
         },
         {
+          "title": "伊朗已有超百名安全人员在骚乱中丧生，美国将讨论干涉方案，骚乱的根本原因是何？美国或将从哪些方面干涉？",
+          "url": "https://www.zhihu.com/question/1993995898699658333",
+          "source": "知乎",
+          "ranks": [
+            15,
+            19,
+            9,
+            8,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[15时01分 ~ 21时38分]"
+        },
+        {
+          "title": "伊朗外长：伊朗安全部队已控制全国局势",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32367578",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时53分 ~ 21时38分]"
+        },
+        {
           "title": "伊朗政府宣布全国哀悼三天",
           "url": "https://www.cls.cn/detail/2254259",
           "source": "财联社热门",
@@ -797,8 +867,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时25分 ~ 20时32分]"
+          "appearance_count": 12,
+          "time_info": "[17时25分 ~ 21时38分]"
         },
         {
           "title": "伊朗政府宣布全国哀悼三天",
@@ -824,23 +894,23 @@
             14,
             17,
             20,
-            26
+            26,
+            15
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[11时20分 ~ 20时32分]"
+          "appearance_count": 27,
+          "time_info": "[11时20分 ~ 21时38分]"
         },
         {
-          "title": "伊朗外长：伊朗安全部队已控制全国局势",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32367578",
-          "source": "澎湃新闻",
+          "title": "伊朗外长称安全部队已控制全国局势，并称美以应对伊朗发生的事件承担「直接责任」，如何理解这一表态？",
+          "url": "https://www.zhihu.com/question/1994070815289918935",
+          "source": "知乎",
           "ranks": [
-            15,
-            14
+            20
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[17时53分 ~ 20时32分]"
+          "time_info": "[18时49分 ~ 21时38分]"
         },
         {
           "title": "以色列官员：应做好准备应对伊朗局势，但不应进行干预",
@@ -877,17 +947,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[16时22分 ~ 17时53分]"
-        },
-        {
-          "title": "伊朗外长称安全部队已控制全国局势，并称美以应对伊朗发生的事件承担「直接责任」，如何理解这一表态？",
-          "url": "https://www.zhihu.com/question/1994070815289918935",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时49分 ~ 20时32分]"
         },
         {
           "title": "伊朗外长称已控制国内局势",
@@ -1097,7 +1156,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1160,7 +1219,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，金银新高后涨幅扩大，铜逼近新高，油价回调",
@@ -1186,8 +1245,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[09时10分 ~ 20时32分]"
+          "appearance_count": 29,
+          "time_info": "[09时10分 ~ 21时38分]"
         },
         {
           "title": "伊朗局势微妙，鲍威尔被诉，金银再创新高，油价连续走高、美股期货下跌",
@@ -1202,6 +1261,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[11时20分 ~ 16时23分]"
+        },
+        {
+          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4600美元，现货白银涨超6%，铜逼近新高，油价回调",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 21时38分]"
         },
         {
           "title": "美股盘前，明星科技股普跌，英伟达、甲骨文跌超1%、英特尔跌2%。热门中概股走强，金山云涨13%、阿里巴巴涨超4%、百度涨3%。美股银行股普跌，摩根大通下跌2.4%，花旗下跌3.6%，美国银行下跌1.5%，特朗普呼吁给信用卡利率设“10%上限”。",
@@ -1334,8 +1404,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[15时01分 ~ 20时32分]"
+          "appearance_count": 18,
+          "time_info": "[15时01分 ~ 21时38分]"
         },
         {
           "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
