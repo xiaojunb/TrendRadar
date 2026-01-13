@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T21:57:19.235592+08:00",
-  "total_titles_processed": 1588,
+  "generated_at": "2026-01-13T22:21:53.992310+08:00",
+  "total_titles_processed": 1649,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时48分 ~ 21时57分]"
+          "appearance_count": 11,
+          "time_info": "[18时48分 ~ 22时21分]"
         },
         {
           "title": "伊朗发动支持政府集会，民众：我们绝不会抛弃哈梅内伊",
@@ -110,11 +110,12 @@
             10,
             8,
             16,
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[15时44分 ~ 21时57分]"
+          "appearance_count": 18,
+          "time_info": "[15时44分 ~ 22时21分]"
         },
         {
           "title": "伊朗外长：伊朗安全部队已控制全国局势",
@@ -141,8 +142,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[11时12分 ~ 21时57分]"
+          "appearance_count": 28,
+          "time_info": "[11时12分 ~ 22时21分]"
         },
         {
           "title": "是否对伊朗采取军事打击？白宫回应",
@@ -175,8 +176,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[11时12分 ~ 21时57分]"
+          "appearance_count": 28,
+          "time_info": "[11时12分 ~ 22时21分]"
         },
         {
           "title": "中方回应美对伊朗商业伙伴加征关税",
@@ -228,7 +229,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
@@ -555,7 +556,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普：对伊朗的贸易伙伴征收25%关税",
@@ -603,8 +604,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[17时22分 ~ 21时57分]"
+          "appearance_count": 14,
+          "time_info": "[17时22分 ~ 22时21分]"
+        },
+        {
+          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
+          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[19时14分 ~ 22时21分]"
         },
         {
           "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
@@ -620,17 +632,6 @@
           "time_info": "[09时04分 ~ 16时21分]"
         },
         {
-          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
-          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时14分 ~ 21时57分]"
-        },
-        {
           "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
           "url": "https://wallstreetcn.com/articles/3763132",
           "source": "华尔街见闻",
@@ -642,8 +643,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[11时12分 ~ 21时57分]"
+          "appearance_count": 28,
+          "time_info": "[11时12分 ~ 22时21分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
@@ -656,8 +657,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[09时04分 ~ 21时57分]"
+          "appearance_count": 29,
+          "time_info": "[09时04分 ~ 22时21分]"
         },
         {
           "title": "美国两州把特朗普政府告了",
@@ -680,8 +681,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[11时12分 ~ 21时57分]"
+          "appearance_count": 28,
+          "time_info": "[11时12分 ~ 22时21分]"
         },
         {
           "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
@@ -694,8 +695,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[11时12分 ~ 21时57分]"
+          "appearance_count": 28,
+          "time_info": "[11时12分 ~ 22时21分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税",
@@ -803,7 +804,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
@@ -965,7 +966,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
@@ -979,6 +980,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "丹麦首相：（谈特朗普对格陵兰岛的兴趣）有大量证据表明，最艰难的部分还在后面。",
+          "url": "https://flash.jin10.com/detail/20260113220415069800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
@@ -1050,7 +1062,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
@@ -1075,6 +1087,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[16时53分 ~ 19时41分]"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3036218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "美股盘前，英特尔涨超2%，AMD涨超1%；部分热门中概股走低，百度跌超3%、小鹏汽车跌超2%。",
@@ -1102,6 +1125,18 @@
           "time_info": "[16时53分 ~ 17时22分]"
         },
         {
+          "title": "美国CPI数据公布后，美股股指期货短线拉升",
+          "url": "https://wallstreetcn.com/livenews/3036204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 22时21分]"
+        },
+        {
           "title": "美股收盘：百度涨超6%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%856%25",
           "source": "百度热搜",
@@ -1111,17 +1146,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
-        },
-        {
-          "title": "美国CPI数据公布后，美股股指期货短线拉升",
-          "url": "https://wallstreetcn.com/livenews/3036204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
         },
         {
           "title": "美股三大股指小幅收涨，几乎摆脱了美联储遭调查事件的影响。今晚将公布美国12月CPI报告，黄金、白银早盘小幅走低，当前市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -1215,8 +1239,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[09时04分 ~ 21时57分]"
+          "appearance_count": 29,
+          "time_info": "[09时04分 ~ 22时21分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -1230,8 +1254,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[09时04分 ~ 21时57分]"
+          "appearance_count": 29,
+          "time_info": "[09时04分 ~ 22时21分]"
         },
         {
           "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
@@ -1274,6 +1298,18 @@
           "time_info": "[11时12分 ~ 14时56分]"
         },
         {
+          "title": "UP主锐评苹果谷歌合作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时24分 ~ 22时21分]"
+        },
+        {
           "title": "苹果接入Gemini模型想做啥",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8E%A5%E5%85%A5Gemini%E6%A8%A1%E5%9E%8B%E6%83%B3%E5%81%9A%E5%95%A5",
           "source": "bilibili 热搜",
@@ -1284,17 +1320,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时56分 ~ 15时44分]"
-        },
-        {
-          "title": "UP主锐评苹果谷歌合作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时24分 ~ 21时57分]"
         },
         {
           "title": "谷歌今年将在越南研发并生产高端手机。",
@@ -1322,59 +1347,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "梁文锋新论文剧透下一代模型",
-          "url": "https://search.bilibili.com/all?keyword=%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87%E5%89%A7%E9%80%8F%E4%B8%8B%E4%B8%80%E4%BB%A3%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            4,
-            1,
-            5,
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[12时14分 ~ 21时57分]"
-        },
-        {
-          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
-          "url": "https://wallstreetcn.com/articles/3763151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[16时21分 ~ 21时57分]"
-        },
-        {
-          "title": "DeepSeek发布梁文锋署名新论文",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%91%E5%B8%83%E6%A2%81%E6%96%87%E9%94%8B%E7%BD%B2%E5%90%8D%E6%96%B0%E8%AE%BA%E6%96%87",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            17,
-            22,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时12分 ~ 15时21分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "摩根大通美债客户调查显示净多头比例降至2024年10月以来最低。",
@@ -1408,6 +1382,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
+        },
+        {
+          "title": "美债收益率、美元因通胀数据温和而走弱",
+          "url": "https://flash.jin10.com/detail/20260113215529222800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "梁文锋新论文剧透下一代模型",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87%E5%89%A7%E9%80%8F%E4%B8%8B%E4%B8%80%E4%BB%A3%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            4,
+            1,
+            5,
+            7,
+            8,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 26,
+          "time_info": "[12时14分 ~ 22时21分]"
+        },
+        {
+          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
+          "url": "https://wallstreetcn.com/articles/3763151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[16时21分 ~ 22时21分]"
+        },
+        {
+          "title": "DeepSeek发布梁文锋署名新论文",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%91%E5%B8%83%E6%A2%81%E6%96%87%E9%94%8B%E7%BD%B2%E5%90%8D%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            17,
+            22,
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时12分 ~ 15时21分]"
         }
       ]
     },
@@ -1479,7 +1516,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         }
