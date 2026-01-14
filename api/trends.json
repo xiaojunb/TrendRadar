@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T19:16:08.711583+08:00",
-  "total_titles_processed": 1350,
+  "generated_at": "2026-01-14T19:42:23.447768+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 41,
       "titles": [
         {
           "title": "关系高度紧张，美军在伊朗附近集结多少兵力？",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时22分 ~ 19时16分]"
+          "appearance_count": 9,
+          "time_info": "[17时22分 ~ 19时42分]"
         },
         {
           "title": "美法两国开始从伊朗撤人，如何看待这一举动？",
@@ -116,39 +116,6 @@
           "time_info": "[13时18分 ~ 16时21分]"
         },
         {
-          "title": "伊朗骚乱与美伊对峙推高油价 布伦特原油价格或冲击70美元",
-          "url": "https://flash.jin10.com/detail/20260114185515462800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "俄罗斯外长拉夫罗夫：任何第三方都无法改变我们与伊朗的关系。",
-          "url": "https://flash.jin10.com/detail/20260114185003110800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "伊朗军方：近期系列恐袭是敌方精心策划的颠覆活动",
-          "url": "https://wallstreetcn.com/livenews/3036974",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
           "title": "伊朗高级官员：已呼吁包括土耳其在内的地区领导人阻止美国采取军事升级行动。",
           "url": "https://flash.jin10.com/detail/20260114163912320800",
           "source": "金十数据",
@@ -160,6 +127,17 @@
           "time_info": "16时53分"
         },
         {
+          "title": "美军机沿伊朗边界飞行",
+          "url": "https://flash.jin10.com/detail/20260114191657758800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "伊朗高级官员：伊朗已警告该地区国家，如果遭到美国的攻击，伊朗将打击该地区的美国基地。",
           "url": "https://flash.jin10.com/detail/20260114163902002800",
           "source": "金十数据",
@@ -169,6 +147,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
+        },
+        {
+          "title": "伊朗过去14个月石油出口实现“创纪录增长”",
+          "url": "https://flash.jin10.com/detail/20260114191311201800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "外交部回应伊朗局势",
@@ -205,6 +194,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时19分 ~ 13时47分]"
+        },
+        {
+          "title": "伊朗骚乱与美伊对峙推高油价 布伦特原油价格或冲击70美元",
+          "url": "https://flash.jin10.com/detail/20260114185515462800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时42分]"
+        },
+        {
+          "title": "俄罗斯外长拉夫罗夫：任何第三方都无法改变我们与伊朗的关系。",
+          "url": "https://flash.jin10.com/detail/20260114185003110800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时42分]"
+        },
+        {
+          "title": "伊朗军方：近期系列恐袭是敌方精心策划的颠覆活动",
+          "url": "https://wallstreetcn.com/livenews/3036974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时42分]"
         },
         {
           "title": "伊朗驻荷兰大使馆遭袭 多人被捕",
@@ -301,6 +326,17 @@
           "time_info": "[13时47分 ~ 14时24分]"
         },
         {
+          "title": "美军机沿伊朗边界飞行",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E6%9C%BA%E6%B2%BF%E4%BC%8A%E6%9C%97%E8%BE%B9%E7%95%8C%E9%A3%9E%E8%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "伊朗外交部：美国对伊朗的新制裁是对伊朗人民坚定捍卫祖国道路的报复。",
           "url": "https://flash.jin10.com/detail/20260114163719120800",
           "source": "金十数据",
@@ -334,6 +370,17 @@
           "time_info": "18时50分"
         },
         {
+          "title": "美军机沿伊朗边界飞行",
+          "url": "https://www.douyin.com/hot/2367771",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "印度驻德黑兰大使馆呼吁在伊朗的印度公民尽快离开。",
           "url": "https://flash.jin10.com/detail/20260114181543364800",
           "source": "金十数据",
@@ -343,6 +390,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
+        },
+        {
+          "title": "美军机沿伊朗边界飞行 伊朗寻求外交支持",
+          "url": "https://wallstreetcn.com/livenews/3036991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "如何评价伊朗的星链干扰器？",
@@ -362,9 +420,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
+        },
+        {
+          "title": "伊朗过去14个月石油出口实现“创纪录增长”",
+          "url": "https://wallstreetcn.com/livenews/3036980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "中信证券：伊朗骚乱事件下，中东局势将走向何方？",
@@ -395,7 +464,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -414,7 +483,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普特使秘密见了伊朗末代王储",
@@ -424,8 +493,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时53分 ~ 19时16分]"
+          "appearance_count": 10,
+          "time_info": "[16时53分 ~ 19时42分]"
         },
         {
           "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
@@ -452,8 +521,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时21分 ~ 19时16分]"
+          "appearance_count": 11,
+          "time_info": "[16时21分 ~ 19时42分]"
         },
         {
           "title": "特朗普建议盟友“撤离”伊朗",
@@ -478,8 +547,22 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[12时32分 ~ 19时16分]"
+          "appearance_count": 21,
+          "time_info": "[12时32分 ~ 19时42分]"
+        },
+        {
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时53分 ~ 19时42分]"
         },
         {
           "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
@@ -507,19 +590,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时19分 ~ 15时21分]"
-        },
-        {
-          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时53分 ~ 19时16分]"
         },
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
@@ -587,6 +657,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时24分 ~ 14时56分]"
+        },
+        {
+          "title": "刘和平：特朗普抛弃“台独”是算计",
+          "url": "https://www.toutiao.com/trending/7595056380969812031/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 19时42分]"
         },
         {
           "title": "特朗普参观汽车工厂遭工人辱骂",
@@ -671,15 +753,15 @@
           "time_info": "[14时56分 ~ 15时21分]"
         },
         {
-          "title": "刘和平：特朗普抛弃“台独”是算计",
-          "url": "https://www.toutiao.com/trending/7595056380969812031/",
-          "source": "今日头条",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-14）",
+          "url": "https://flash.jin10.com/detail/20260114190924167800",
+          "source": "金十数据",
           "ranks": [
-            27
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 19时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "特朗普与工人起言语冲突并竖中指 白宫：恰当且正确",
@@ -702,6 +784,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
+        },
+        {
+          "title": "斯伦贝谢(SLB.N)有望从特朗普利用委内瑞拉石油的计划中获益。",
+          "url": "https://flash.jin10.com/detail/20260114190234512800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "特朗普建议美国盟友撤离伊朗",
@@ -805,8 +898,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[09时10分 ~ 19时16分]"
+          "appearance_count": 23,
+          "time_info": "[09时10分 ~ 19时42分]"
         },
         {
           "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
@@ -919,11 +1012,12 @@
             20,
             19,
             18,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时44分 ~ 19时16分]"
+          "appearance_count": 13,
+          "time_info": "[15时44分 ~ 19时42分]"
         },
         {
           "title": "Apple 芯片设计全球领先，为何大模型训练却认输外包给 Google？",
