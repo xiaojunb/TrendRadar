@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T13:19:14.947886+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-01-14T13:47:57.815267+08:00",
+  "total_titles_processed": 685,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时10分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 13时47分]"
         },
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
@@ -32,6 +32,32 @@
           "time_info": "[09时10分 ~ 12时33分]"
         },
         {
+          "title": "特朗普建议盟友“撤离”伊朗",
+          "url": "https://www.cls.cn/detail/2256898",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时19分 ~ 13时47分]"
+        },
+        {
+          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
+          "url": "https://www.cls.cn/detail/2256871",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时19分 ~ 13时47分]"
+        },
+        {
           "title": "据AXIOS网站：特朗普称他知道可能对伊朗采取的应对措施，但他强调尚未做出决定。他说他需要今天晚些时候了解伊朗局势和死亡人数的准确情况。",
           "url": "https://flash.jin10.com/detail/20260114090134298800",
           "source": "金十数据",
@@ -41,18 +67,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
-        },
-        {
-          "title": "特朗普建议盟友“撤离”伊朗",
-          "url": "https://www.cls.cn/detail/2256898",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 13时19分]"
         },
         {
           "title": "据AXIOS网站：特朗普今晚从底特律返回后，参加了由副总统万斯主持、国家安全核心团队出席的伊朗问题会议。知情人士透露，特朗普听取了有关伊朗局势的简报。",
@@ -66,28 +80,16 @@
           "time_info": "09时10分"
         },
         {
-          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
-          "url": "https://www.cls.cn/detail/2256871",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 13时19分]"
-        },
-        {
           "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
           "url": "https://wallstreetcn.com/articles/3763222",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时32分 ~ 13时19分]"
+          "appearance_count": 5,
+          "time_info": "[12时32分 ~ 13时47分]"
         },
         {
           "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
@@ -98,8 +100,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时32分 ~ 13时19分]"
+          "appearance_count": 5,
+          "time_info": "[12时32分 ~ 13时47分]"
         },
         {
           "title": "特朗普回应格陵兰岛总理选择丹麦而非美国：我不同意，他会有大麻烦",
@@ -123,6 +125,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        },
+        {
+          "title": "特朗普参观汽车工厂遭工人辱骂",
+          "url": "https://www.douyin.com/hot/2367043",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "特朗普建议美国盟友撤离伊朗",
@@ -194,18 +207,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "关系高度紧张，美军在伊朗附近集结多少兵力？",
           "url": "https://news.ifeng.com/c/8psTbSveNse",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时10分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 13时47分]"
         },
         {
           "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
@@ -219,17 +233,6 @@
           "time_info": "[09时10分 ~ 12时33分]"
         },
         {
-          "title": "美国人权活动组织HRANA：伊朗抗议活动的经核实死亡人数已上升至2571人。",
-          "url": "https://flash.jin10.com/detail/20260114130612270800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
           "title": "美国会对伊朗动武吗",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
           "source": "百度热搜",
@@ -237,11 +240,12 @@
             22,
             19,
             15,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时10分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 13时47分]"
         },
         {
           "title": "美法两国开始从伊朗撤人，如何看待这一举动？",
@@ -251,8 +255,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[11时19分 ~ 13时47分]"
         },
         {
           "title": "中方回应“是否建议公民去伊朗”",
@@ -262,8 +266,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[11时19分 ~ 13时47分]"
         },
         {
           "title": "外交部回应伊朗局势",
@@ -279,6 +283,18 @@
           "time_info": "[09时10分 ~ 12时33分]"
         },
         {
+          "title": "美国人权活动组织HRANA：伊朗抗议活动的经核实死亡人数已上升至2571人。",
+          "url": "https://flash.jin10.com/detail/20260114130612270800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 13时47分]"
+        },
+        {
           "title": "中方是否仍然建议中国公民前往伊朗旅游？外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32374637",
           "source": "澎湃新闻",
@@ -286,8 +302,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 13时47分]"
         },
         {
           "title": "如何评价伊朗的星链干扰器？",
@@ -321,6 +337,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        },
+        {
+          "title": "白宫：空袭只是对付伊朗的选项之一",
+          "url": "https://www.toutiao.com/trending/7594215539677888548/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         }
       ]
     },
@@ -339,8 +366,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时10分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 13时47分]"
         },
         {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
@@ -356,6 +383,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "澳新银行预计2026年下半年黄金价格将高于5000美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3036683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
+          "title": "金十图示：2026年01月14日（周三）上海金早盘价为1033.73元/克，较国际金价（1036.81元/克）低3.08元/克",
+          "url": "https://flash.jin10.com/detail/20260114110243081800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -367,8 +422,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时10分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 13时47分]"
         },
         {
           "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
@@ -379,8 +434,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时10分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 13时47分]"
         }
       ]
     },
@@ -396,25 +451,25 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时10分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 13时47分]"
         }
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
         {
-          "title": "金十图示：2026年01月14日（周三）上海金早盘价为1033.73元/克，较国际金价（1036.81元/克）低3.08元/克",
-          "url": "https://flash.jin10.com/detail/20260114110243081800",
+          "title": "澳新银行预计，2026年下半年黄金交易价格将高于5000美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260114133123697800",
           "source": "金十数据",
           "ranks": [
-            6
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时19分"
+          "time_info": "13时47分"
         }
       ]
     },
