@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T15:21:10.042963+08:00",
-  "total_titles_processed": 942,
+  "generated_at": "2026-01-15T15:45:27.329165+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "美媒：美国已制定多套方案，或直接针对伊朗最高领导层",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时58分 ~ 15时21分]"
+          "appearance_count": 8,
+          "time_info": "[12时58分 ~ 15时45分]"
         },
         {
           "title": "伊朗宣布暂时关闭领空，美国一航母打击群正被调往中东地区，意味着什么？目前伊朗局势如何？",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时15分 ~ 15时21分]"
+          "appearance_count": 10,
+          "time_info": "[12时15分 ~ 15时45分]"
         },
         {
           "title": "聚焦中东局势：美军从乌代德空军基地撤人 伊朗警告若发动打击将实施报复",
@@ -54,11 +54,12 @@
           "source": "抖音",
           "ranks": [
             16,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时15分 ~ 15时21分]"
+          "appearance_count": 11,
+          "time_info": "[11时15分 ~ 15时45分]"
         },
         {
           "title": "“星链”在伊朗免费部署，已有约5万台终端，伊方公布缴获设备",
@@ -79,8 +80,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时23分 ~ 15时21分]"
+          "appearance_count": 5,
+          "time_info": "[14时23分 ~ 15时45分]"
         },
         {
           "title": "伊朗：骚乱事件主要幕后人员落网",
@@ -103,17 +104,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时15分 ~ 12时16分]"
-        },
-        {
-          "title": "伊朗密切监视地区美军动向",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%AF%86%E5%88%87%E7%9B%91%E8%A7%86%E5%9C%B0%E5%8C%BA%E7%BE%8E%E5%86%9B%E5%8A%A8%E5%90%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 15时21分]"
         },
         {
           "title": "金十提示：伊朗两个小时前关闭领空的航行通告现已失效，目前民航客机仍选择绕道而行。",
@@ -167,6 +157,18 @@
           "time_info": "[12时16分 ~ 13时48分]"
         },
         {
+          "title": "伊朗密切监视地区美军动向",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%AF%86%E5%88%87%E7%9B%91%E8%A7%86%E5%9C%B0%E5%8C%BA%E7%BE%8E%E5%86%9B%E5%8A%A8%E5%90%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 15时45分]"
+        },
+        {
           "title": "伊朗重新开放领空",
           "url": "https://wallstreetcn.com/livenews/3037518",
           "source": "华尔街见闻-快讯",
@@ -179,6 +181,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时16分 ~ 13时48分]"
+        },
+        {
+          "title": "伊朗重新开放领空",
+          "url": "https://www.toutiao.com/trending/7595433484718719002/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时56分 ~ 15时45分]"
         },
         {
           "title": "FLIGHTRADAR24：随着关闭伊朗空域的航行通告到期，部分航班正前往德黑兰。",
@@ -203,19 +218,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时23分 ~ 15时21分]"
-        },
-        {
-          "title": "伊朗重新开放领空",
-          "url": "https://www.toutiao.com/trending/7595433484718719002/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时56分 ~ 15时21分]"
         },
         {
           "title": "美国会对伊朗动武吗",
@@ -285,6 +287,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
+          "title": "沙特外交大臣与伊朗外长通电话讨论地区局势发展。",
+          "url": "https://flash.jin10.com/detail/20260115152830905800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "伊朗宣布暂时关闭领空",
@@ -388,8 +401,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时58分 ~ 15时21分]"
+          "appearance_count": 8,
+          "time_info": "[12时58分 ~ 15时45分]"
+        },
+        {
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时15分 ~ 15时45分]"
         },
         {
           "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
@@ -402,8 +429,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时05分 ~ 15时21分]"
+          "appearance_count": 13,
+          "time_info": "[09时05分 ~ 15时45分]"
         },
         {
           "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
@@ -414,21 +441,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时05分 ~ 15时21分]"
-        },
-        {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时15分 ~ 15时21分]"
+          "appearance_count": 13,
+          "time_info": "[09时05分 ~ 15时45分]"
         },
         {
           "title": "特朗普称取消与伊朗官员所有会面，美国到底会不会对伊朗发动军事行动？目前局势如何？美国为何「死盯」伊朗？",
@@ -618,7 +632,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -637,6 +651,17 @@
           "time_info": "[12时58分 ~ 14时23分]"
         },
         {
+          "title": "金价再创历史新高 牛市还能走多远",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98+%E7%89%9B%E5%B8%82%E8%BF%98%E8%83%BD%E8%B5%B0%E5%A4%9A%E8%BF%9C",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 15时45分]"
+        },
+        {
           "title": "金十图示：2026年01月15日（周四）上海金早盘价为1033.61元/克，较国际金价（1031.08元/克）高2.53元/克",
           "url": "https://flash.jin10.com/detail/20260115110344751800",
           "source": "金十数据",
@@ -647,17 +672,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时15分 ~ 12时16分]"
-        },
-        {
-          "title": "金价再创历史新高 牛市还能走多远",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98+%E7%89%9B%E5%B8%82%E8%BF%98%E8%83%BD%E8%B5%B0%E5%A4%9A%E8%BF%9C",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 15时21分]"
         }
       ]
     },
@@ -673,8 +687,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时05分 ~ 15时21分]"
+          "appearance_count": 13,
+          "time_info": "[09时05分 ~ 15时45分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
@@ -757,8 +771,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时15分 ~ 15时21分]"
+          "appearance_count": 10,
+          "time_info": "[12时15分 ~ 15时45分]"
         }
       ]
     },
