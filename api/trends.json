@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T16:21:24.767532+08:00",
-  "total_titles_processed": 992,
+  "generated_at": "2026-01-16T16:52:21.061697+08:00",
+  "total_titles_processed": 1044,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时14分 ~ 16时21分]"
+          "appearance_count": 13,
+          "time_info": "[11时14分 ~ 16时52分]"
         },
         {
           "title": "欧洲多国向格陵兰岛派遣军事人员，白宫：影响不了特朗普",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时08分 ~ 16时21分]"
+          "appearance_count": 14,
+          "time_info": "[09时08分 ~ 16时52分]"
         },
         {
           "title": "她给特朗普献了份大礼，诺奖气坏了",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时08分 ~ 16时21分]"
+          "appearance_count": 14,
+          "time_info": "[09时08分 ~ 16时52分]"
         },
         {
           "title": "梦想成真!特朗普喜提二手诺奖",
@@ -48,11 +48,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时24分 ~ 16时21分]"
+          "appearance_count": 8,
+          "time_info": "[14时24分 ~ 16时52分]"
         },
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -75,8 +76,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时08分 ~ 16时21分]"
+          "appearance_count": 14,
+          "time_info": "[09时08分 ~ 16时52分]"
         },
         {
           "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
@@ -88,8 +89,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时14分 ~ 16时21分]"
+          "appearance_count": 9,
+          "time_info": "[11时14分 ~ 16时52分]"
         },
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -125,6 +126,17 @@
           "time_info": "09时08分"
         },
         {
+          "title": "特朗普称“阻挠达成俄乌和平协议的人是泽连斯基”，泽连斯基表态",
+          "url": "https://wallstreetcn.com/livenews/3038633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
           "title": "“特朗普级”军舰造价或创美历史新高，高达220亿美元",
           "url": "https://wallstreetcn.com/livenews/3038447",
           "source": "华尔街见闻-快讯",
@@ -145,8 +157,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时43分 ~ 16时21分]"
+          "appearance_count": 4,
+          "time_info": "[15时43分 ~ 16时52分]"
         },
         {
           "title": "报道称内塔尼亚胡在通话中请求特朗普推迟可能对伊朗发动的军事打击，白宫未透露通话细节",
@@ -309,11 +321,12 @@
             6,
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时08分 ~ 16时21分]"
+          "appearance_count": 14,
+          "time_info": "[09时08分 ~ 16时52分]"
         },
         {
           "title": "王毅同伊朗外长阿拉格齐通电话",
@@ -326,8 +339,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时08分 ~ 16时21分]"
+          "appearance_count": 14,
+          "time_info": "[09时08分 ~ 16时52分]"
         },
         {
           "title": "伊朗民众据报抢购物资，卫星天线疑被拆走",
@@ -571,8 +584,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时08分 ~ 16时21分]"
+          "appearance_count": 14,
+          "time_info": "[09时08分 ~ 16时52分]"
         },
         {
           "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
@@ -585,8 +598,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时56分 ~ 16时21分]"
+          "appearance_count": 11,
+          "time_info": "[12时56分 ~ 16时52分]"
         },
         {
           "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
@@ -627,8 +640,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时14分 ~ 16时21分]"
+          "appearance_count": 12,
+          "time_info": "[11时14分 ~ 16时52分]"
         },
         {
           "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
