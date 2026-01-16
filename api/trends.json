@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T16:52:21.061697+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2026-01-16T17:21:46.852736+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -13,11 +13,25 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时14分 ~ 16时52分]"
+          "appearance_count": 15,
+          "time_info": "[11时14分 ~ 17时21分]"
+        },
+        {
+          "title": "梦想成真!特朗普喜提二手诺奖",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349232&amp;topic_name=%E6%A2%A6%E6%83%B3%E6%88%90%E7%9C%9F%21%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%8F%90%E4%BA%8C%E6%89%8B%E8%AF%BA%E5%A5%96",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时24分 ~ 17时21分]"
         },
         {
           "title": "欧洲多国向格陵兰岛派遣军事人员，白宫：影响不了特朗普",
@@ -43,19 +57,6 @@
           "time_info": "[09时08分 ~ 16时52分]"
         },
         {
-          "title": "梦想成真!特朗普喜提二手诺奖",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349232&amp;topic_name=%E6%A2%A6%E6%83%B3%E6%88%90%E7%9C%9F%21%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%8F%90%E4%BA%8C%E6%89%8B%E8%AF%BA%E5%A5%96",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时24分 ~ 16时52分]"
-        },
-        {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
           "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
           "source": "凤凰网",
@@ -67,30 +68,43 @@
           "time_info": "[09时08分 ~ 13时47分]"
         },
         {
-          "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
-          "url": "https://wallstreetcn.com/articles/3763392",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时08分 ~ 16时52分]"
-        },
-        {
           "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
           "url": "https://wallstreetcn.com/articles/3763411",
           "source": "华尔街见闻",
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时14分 ~ 16时52分]"
+          "appearance_count": 11,
+          "time_info": "[11时14分 ~ 17时21分]"
+        },
+        {
+          "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
+          "url": "https://wallstreetcn.com/articles/3763392",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[09时08分 ~ 17时21分]"
+        },
+        {
+          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
+          "url": "https://www.zhihu.com/question/1995430633518944539",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时43分 ~ 17时21分]"
         },
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -126,17 +140,6 @@
           "time_info": "09时08分"
         },
         {
-          "title": "特朗普称“阻挠达成俄乌和平协议的人是泽连斯基”，泽连斯基表态",
-          "url": "https://wallstreetcn.com/livenews/3038633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        },
-        {
           "title": "“特朗普级”军舰造价或创美历史新高，高达220亿美元",
           "url": "https://wallstreetcn.com/livenews/3038447",
           "source": "华尔街见闻-快讯",
@@ -150,15 +153,16 @@
           "time_info": "[12时14分 ~ 13时20分]"
         },
         {
-          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
-          "url": "https://www.zhihu.com/question/1995430633518944539",
-          "source": "知乎",
+          "title": "特朗普称“阻挠达成俄乌和平协议的人是泽连斯基”，泽连斯基表态",
+          "url": "https://wallstreetcn.com/livenews/3038633",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时43分 ~ 16时52分]"
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 17时21分]"
         },
         {
           "title": "报道称内塔尼亚胡在通话中请求特朗普推迟可能对伊朗发动的军事打击，白宫未透露通话细节",
@@ -274,6 +278,17 @@
           "time_info": "11时14分"
         },
         {
+          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
           "title": "俄回应特朗普对伊朗贸易伙伴加税",
           "url": "https://wallstreetcn.com/livenews/3038398",
           "source": "华尔街见闻-快讯",
@@ -310,7 +325,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "火药味拉满,美国酝酿搞伊朗",
@@ -325,8 +340,23 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时08分 ~ 16时52分]"
+          "appearance_count": 16,
+          "time_info": "[09时08分 ~ 17时21分]"
+        },
+        {
+          "title": "王毅同伊朗外长通电话",
+          "url": "https://www.douyin.com/hot/2368882",
+          "source": "抖音",
+          "ranks": [
+            5,
+            7,
+            13,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时08分 ~ 17时21分]"
         },
         {
           "title": "王毅同伊朗外长阿拉格齐通电话",
@@ -339,8 +369,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时08分 ~ 16时52分]"
+          "appearance_count": 16,
+          "time_info": "[09时08分 ~ 17时21分]"
         },
         {
           "title": "伊朗民众据报抢购物资，卫星天线疑被拆走",
@@ -372,19 +402,15 @@
           "time_info": "[11时14分 ~ 15时44分]"
         },
         {
-          "title": "王毅同伊朗外长通电话",
-          "url": "https://www.douyin.com/hot/2368882",
-          "source": "抖音",
+          "title": "中方代表就伊朗局势发声：呼吁美方放下武力执念",
+          "url": "https://news.ifeng.com/c/8pxoIN8xmXt",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            7,
-            13,
-            17,
-            15
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时08分 ~ 16时21分]"
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
         },
         {
           "title": "美国财政部对伊朗实施新制裁 马士基宣布将恢复红海航线 | 环球市场",
@@ -573,7 +599,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
@@ -584,8 +610,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时08分 ~ 16时52分]"
+          "appearance_count": 16,
+          "time_info": "[09时08分 ~ 17时21分]"
         },
         {
           "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
@@ -598,8 +624,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时56分 ~ 16时52分]"
+          "appearance_count": 13,
+          "time_info": "[12时56分 ~ 17时21分]"
         },
         {
           "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
@@ -623,6 +649,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时08分 ~ 11时14分]"
+        },
+        {
+          "title": "美股盘前，明星科技股走强，美光科技(MU.O)涨超3%、AMD(AMD.O)涨超2%、台积电(TSM.N)涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260116170410342800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "美股盘前，半导体股上涨，美光科技涨近4%，美光科技董事780万美元增持股票；AMD涨超2%，台积电涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3038653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         }
       ]
     },
@@ -637,11 +685,12 @@
           "ranks": [
             19,
             9,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时14分 ~ 16时52分]"
+          "appearance_count": 14,
+          "time_info": "[11时14分 ~ 17时21分]"
         },
         {
           "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
