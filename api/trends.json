@@ -1,22 +1,36 @@
 {
-  "generated_at": "2026-01-17T12:07:07.242518+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2026-01-17T12:51:10.518642+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普：这是卡尼该做的事，签协议是好事",
           "url": "https://news.ifeng.com/c/8pyqg7dqBOh",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时03分 ~ 12时07分]"
+          "appearance_count": 6,
+          "time_info": "[11时03分 ~ 12时51分]"
+        },
+        {
+          "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32403340",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时03分 ~ 12时51分]"
         },
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
@@ -26,20 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时03分 ~ 12时07分]"
-        },
-        {
-          "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32403340",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时03分 ~ 12时07分]"
+          "appearance_count": 6,
+          "time_info": "[11时03分 ~ 12时51分]"
         },
         {
           "title": "特朗普为夺岛发出关税威胁，美议员组队唱反调",
@@ -50,8 +52,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时03分 ~ 12时07分]"
+          "appearance_count": 6,
+          "time_info": "[11时03分 ~ 12时51分]"
+        },
+        {
+          "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
+          "url": "https://wallstreetcn.com/articles/3763493",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时03分 ~ 12时51分]"
         },
         {
           "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
@@ -62,19 +76,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时03分 ~ 12时07分]"
-        },
-        {
-          "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
-          "url": "https://wallstreetcn.com/articles/3763493",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时03分 ~ 12时07分]"
+          "appearance_count": 6,
+          "time_info": "[11时03分 ~ 12时51分]"
         },
         {
           "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
@@ -85,8 +88,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时03分 ~ 12时07分]"
+          "appearance_count": 6,
+          "time_info": "[11时03分 ~ 12时51分]"
         },
         {
           "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
@@ -97,8 +100,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时03分 ~ 12时07分]"
+          "appearance_count": 6,
+          "time_info": "[11时03分 ~ 12时51分]"
         },
         {
           "title": "美国总统特朗普购买100万美元奈飞和华纳兄弟探索公司的债券。 此举是在宣布两家公司有望合并的消息之后。（华盛顿邮报）",
@@ -106,11 +109,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             20,
-            25
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时04分 ~ 12时51分]"
+        },
+        {
+          "title": "特朗普称明尼苏达州已完全失控",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%98%8E%E5%B0%BC%E8%8B%8F%E8%BE%BE%E5%B7%9E%E5%B7%B2%E5%AE%8C%E5%85%A8%E5%A4%B1%E6%8E%A7%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时04分 ~ 12时07分]"
+          "time_info": "[12时50分 ~ 12时51分]"
         },
         {
           "title": "媒体调查：民众对美国总统特朗普的经济管理不满",
@@ -138,8 +153,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时03分 ~ 12时07分]"
+          "appearance_count": 6,
+          "time_info": "[11时03分 ~ 12时51分]"
         },
         {
           "title": "伊朗政府向市民发放“电子补贴券”，凤凰记者走访德黑兰连锁超市",
@@ -149,8 +164,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 12时07分]"
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 12时51分]"
         },
         {
           "title": "伊朗手机用户发送短信功能恢复",
@@ -158,11 +173,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             16,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时04分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[11时04分 ~ 12时51分]"
+        },
+        {
+          "title": "伊朗手机用户发送短信功能恢复",
+          "url": "https://flash.jin10.com/detail/20260117080650894800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时04分 ~ 12时51分]"
         },
         {
           "title": "火药味拉满,美国酝酿搞伊朗",
@@ -174,18 +203,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时03分 ~ 11时04分]"
-        },
-        {
-          "title": "伊朗手机用户发送短信功能恢复",
-          "url": "https://flash.jin10.com/detail/20260117080650894800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时04分 ~ 12时07分]"
         },
         {
           "title": "伊朗谴责七国集团发表干涉伊朗内政言论",
@@ -210,11 +227,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时03分 ~ 12时07分]"
+          "appearance_count": 6,
+          "time_info": "[11时03分 ~ 12时51分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -251,11 +269,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             22,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时04分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[11时04分 ~ 12时51分]"
         },
         {
           "title": "谷歌提交通知，就司法部搜索裁决提起上诉。",
@@ -272,7 +291,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
@@ -280,11 +299,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            13
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时04分 ~ 12时51分]"
+        },
+        {
+          "title": "ChatGPT将加入广告",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT%E5%B0%86%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时04分 ~ 12时07分]"
+          "time_info": "[12时50分 ~ 12时51分]"
         }
       ]
     },
@@ -298,11 +329,12 @@
           "source": "微博",
           "ranks": [
             8,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时03分 ~ 12时07分]"
+          "appearance_count": 6,
+          "time_info": "[11时03分 ~ 12时51分]"
         }
       ]
     }
