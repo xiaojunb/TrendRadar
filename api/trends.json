@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T14:22:00.184782+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-01-17T14:52:22.033433+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时03分 ~ 14时22分]"
+          "appearance_count": 12,
+          "time_info": "[11时03分 ~ 14时52分]"
         },
         {
           "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时03分 ~ 14时22分]"
+          "appearance_count": 12,
+          "time_info": "[11时03分 ~ 14时52分]"
         },
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时03分 ~ 14时22分]"
+          "appearance_count": 12,
+          "time_info": "[11时03分 ~ 14时52分]"
         },
         {
           "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
@@ -61,11 +61,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时03分 ~ 14时22分]"
+          "appearance_count": 12,
+          "time_info": "[11时03分 ~ 14时52分]"
         },
         {
           "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
@@ -78,8 +79,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时03分 ~ 14时22分]"
+          "appearance_count": 12,
+          "time_info": "[11时03分 ~ 14时52分]"
         },
         {
           "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
@@ -106,6 +107,19 @@
           "time_info": "[11时03分 ~ 13时15分]"
         },
         {
+          "title": "特朗普自曝暂缓打伊朗原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%AA%E6%9B%9D%E6%9A%82%E7%BC%93%E6%89%93%E4%BC%8A%E6%9C%97%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时42分 ~ 14时52分]"
+        },
+        {
           "title": "特朗普称明尼苏达州已完全失控",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%98%8E%E5%B0%BC%E8%8B%8F%E8%BE%BE%E5%B7%9E%E5%B7%B2%E5%AE%8C%E5%85%A8%E5%A4%B1%E6%8E%A7%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -119,16 +133,15 @@
           "time_info": "[12时50分 ~ 13时43分]"
         },
         {
-          "title": "特朗普自曝暂缓打伊朗原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%AA%E6%9B%9D%E6%9A%82%E7%BC%93%E6%89%93%E4%BC%8A%E6%9C%97%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "美商务部长：台湾必须哄特朗普高兴",
+          "url": "https://www.toutiao.com/trending/7595989916463923263/",
+          "source": "今日头条",
           "ranks": [
-            19,
-            9
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 14时22分]"
+          "appearance_count": 5,
+          "time_info": "[13时42分 ~ 14时52分]"
         },
         {
           "title": "美国总统特朗普购买100万美元奈飞和华纳兄弟探索公司的债券。 此举是在宣布两家公司有望合并的消息之后。（华盛顿邮报）",
@@ -143,17 +156,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时04分 ~ 13时15分]"
-        },
-        {
-          "title": "美商务部长：台湾必须哄特朗普高兴",
-          "url": "https://www.toutiao.com/trending/7595989916463923263/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 14时22分]"
         },
         {
           "title": "媒体调查：民众对美国总统特朗普的经济管理不满",
@@ -171,19 +173,8 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "美以领导人被曝再次通话，讨论伊朗局势",
-          "url": "https://news.ifeng.com/c/8pyPkswTcS4",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时03分 ~ 14时22分]"
-        },
         {
           "title": "伊朗政府向市民发放“电子补贴券”，凤凰记者走访德黑兰连锁超市",
           "url": "https://news.ifeng.com/c/8pz2QNtwV6g",
@@ -192,19 +183,42 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时06分 ~ 14时22分]"
+          "appearance_count": 10,
+          "time_info": "[12时06分 ~ 14时52分]"
+        },
+        {
+          "title": "美以领导人被曝再次通话，讨论伊朗局势",
+          "url": "https://news.ifeng.com/c/8pyPkswTcS4",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[11时03分 ~ 14时52分]"
         },
         {
           "title": "伊朗全境已恢复互联网服务。（央视新闻）",
           "url": "https://wallstreetcn.com/livenews/3039091",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 14时52分]"
+        },
+        {
+          "title": "伊朗全境已恢复互联网服务。",
+          "url": "https://flash.jin10.com/detail/20260117135223968800",
+          "source": "金十数据",
+          "ranks": [
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时22分"
+          "time_info": "14时52分"
         },
         {
           "title": "伊朗手机用户发送短信功能恢复",
@@ -240,11 +254,12 @@
           "url": "https://www.douyin.com/hot/2370647",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 14时22分]"
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 14时52分]"
         },
         {
           "title": "火药味拉满,美国酝酿搞伊朗",
@@ -256,6 +271,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时03分 ~ 11时04分]"
+        },
+        {
+          "title": "伊朗全境已恢复互联网服务",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%85%A8%E5%A2%83%E5%B7%B2%E6%81%A2%E5%A4%8D%E4%BA%92%E8%81%94%E7%BD%91%E6%9C%8D%E5%8A%A1%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "伊朗谴责七国集团发表干涉伊朗内政言论",
@@ -285,8 +311,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时03分 ~ 14时22分]"
+          "appearance_count": 12,
+          "time_info": "[11时03分 ~ 14时52分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -354,11 +380,12 @@
           "ranks": [
             10,
             13,
-            11
+            11,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时50分 ~ 14时22分]"
+          "appearance_count": 8,
+          "time_info": "[12时50分 ~ 14时52分]"
         },
         {
           "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
@@ -370,17 +397,18 @@
             14,
             18,
             20,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时04分 ~ 14时22分]"
+          "appearance_count": 7,
+          "time_info": "[11时04分 ~ 14时52分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价波动",
@@ -394,6 +422,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时03分 ~ 12时51分]"
+        },
+        {
+          "title": "分析师：贵金属失去部分地缘政治溢价，仍认为金价有机会触及5000美元",
+          "url": "https://flash.jin10.com/detail/20260117140618013800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         }
       ]
     },
@@ -407,11 +446,12 @@
           "source": "今日头条",
           "ranks": [
             13,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时15分 ~ 14时22分]"
+          "appearance_count": 6,
+          "time_info": "[13时15分 ~ 14时52分]"
         }
       ]
     }
