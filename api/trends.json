@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T13:21:39.681001+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2026-01-18T13:46:07.161425+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             20,
             19,
             18,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时13分 ~ 13时21分]"
+          "appearance_count": 9,
+          "time_info": "[09时13分 ~ 13时46分]"
         },
         {
           "title": "特朗普因格陵兰岛向欧洲8国加税",
@@ -27,11 +28,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时20分 ~ 13时21分]"
+          "appearance_count": 8,
+          "time_info": "[11时20分 ~ 13时46分]"
         },
         {
           "title": "特朗普：对欧洲8国加征关税，直至完全收购格陵兰岛",
@@ -60,6 +62,34 @@
           "time_info": "[09时13分 ~ 13时21分]"
         },
         {
+          "title": "特朗普称将对欧洲8国加征关税，直至“完全收购格陵兰岛”",
+          "url": "https://wallstreetcn.com/livenews/3039150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时13分 ~ 13时46分]"
+        },
+        {
+          "title": "目前仍不清楚特朗普是否会兑现格陵兰岛关税威胁",
+          "url": "https://flash.jin10.com/detail/20260118101323623800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            8,
+            11,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 13时46分]"
+        },
+        {
           "title": "完全错误！不可接受！欧洲多国强烈回应特朗普加税",
           "url": "https://news.ifeng.com/c/8q0J15WIf0r",
           "source": "凤凰网",
@@ -69,6 +99,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "特朗普发黑白照：我是关税之王(图)",
+          "url": "https://news.ifeng.com/c/8q0nQjJB7h7",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时57分 ~ 13时46分]"
         },
         {
           "title": "欧洲极右翼忙“割席”：特朗普过分了",
@@ -93,68 +134,18 @@
           "time_info": "09时13分"
         },
         {
-          "title": "目前仍不清楚特朗普是否会兑现格陵兰岛关税威胁",
-          "url": "https://flash.jin10.com/detail/20260118101323623800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            8,
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 13时21分]"
-        },
-        {
-          "title": "特朗普称将对欧洲8国加征关税，直至“完全收购格陵兰岛”",
-          "url": "https://wallstreetcn.com/livenews/3039150",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时13分 ~ 13时21分]"
-        },
-        {
           "title": "大西洋理事会：欧洲将统一抵制特朗普的关税",
           "url": "https://flash.jin10.com/detail/20260118113241771800",
           "source": "金十数据",
           "ranks": [
             3,
             6,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 13时21分]"
-        },
-        {
-          "title": "特朗普关税美遭议员批评，民主党将阻止其征税",
-          "url": "https://flash.jin10.com/detail/20260118121713560800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 13时21分]"
-        },
-        {
-          "title": "在对欧洲征税前，特朗普发个人照“关税之王”",
-          "url": "https://flash.jin10.com/detail/20260118120008739800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 13时21分]"
+          "appearance_count": 4,
+          "time_info": "[12时28分 ~ 13时46分]"
         },
         {
           "title": "特朗普未明确说明依据何种法律依据对欧洲八国关税",
@@ -164,11 +155,92 @@
             6,
             9,
             12,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 13时21分]"
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 13时46分]"
+        },
+        {
+          "title": "特朗普威胁起诉摩根大通，指控其对其进行“去银行化”",
+          "url": "https://wallstreetcn.com/livenews/3039177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 13时46分]"
+        },
+        {
+          "title": "特朗普拟对加沙和平委员会常任席位收取逾十亿美元会费",
+          "url": "https://flash.jin10.com/detail/20260118093517443800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            17,
+            20,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 13时46分]"
+        },
+        {
+          "title": "摩根大通证实，美国总统特朗普的说法属实，即特朗普未提供CEO戴蒙美联储主席职位。",
+          "url": "https://flash.jin10.com/detail/20260118093035859800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            18,
+            21,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 13时46分]"
+        },
+        {
+          "title": "特朗普竞选团队前顾问也怕被ICE抓：我随身携带护照和身份证",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32408146",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时57分 ~ 13时46分]"
+        },
+        {
+          "title": "特朗普关税美遭议员批评，民主党将阻止其征税",
+          "url": "https://flash.jin10.com/detail/20260118121713560800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 13时46分]"
+        },
+        {
+          "title": "在对欧洲征税前，特朗普发个人照“关税之王”",
+          "url": "https://flash.jin10.com/detail/20260118120008739800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 13时46分]"
         },
         {
           "title": "美国总统特朗普表示，他从未向摩根大通CEO戴蒙提供美联储主席职位。",
@@ -185,55 +257,16 @@
           "time_info": "[09时13分 ~ 12时58分]"
         },
         {
-          "title": "特朗普威胁起诉摩根大通，指控其对其进行“去银行化”",
-          "url": "https://wallstreetcn.com/livenews/3039177",
-          "source": "华尔街见闻-快讯",
+          "title": "异军突起！周四与特朗普会面顺利，贝莱德的里德尔竞选美联储主席呼声渐起",
+          "url": "https://wallstreetcn.com/articles/3763532",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 13时21分]"
-        },
-        {
-          "title": "特朗普拟对加沙和平委员会常任席位收取逾十亿美元会费",
-          "url": "https://flash.jin10.com/detail/20260118093517443800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            17,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 13时21分]"
-        },
-        {
-          "title": "摩根大通证实，美国总统特朗普的说法属实，即特朗普未提供CEO戴蒙美联储主席职位。",
-          "url": "https://flash.jin10.com/detail/20260118093035859800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            18,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 13时21分]"
-        },
-        {
-          "title": "特朗普发黑白照：我是关税之王(图)",
-          "url": "https://news.ifeng.com/c/8q0nQjJB7h7",
-          "source": "凤凰网",
-          "ranks": [
-            6
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时57分 ~ 13时21分]"
+          "time_info": "[13时21分 ~ 13时46分]"
         },
         {
           "title": "美国总统特朗普表示，接下来两周内他将起诉摩根大通银行，原因是该银行在1月6日抗议活动后“剥夺”了他的银行业务。",
@@ -261,17 +294,6 @@
           "time_info": "[11时20分 ~ 12时28分]"
         },
         {
-          "title": "特朗普竞选团队前顾问也怕被ICE抓：我随身携带护照和身份证",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32408146",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 13时21分]"
-        },
-        {
           "title": "法国总统马克龙：将对特朗普的格陵兰岛关税作出回应",
           "url": "https://flash.jin10.com/detail/20260118081050241800",
           "source": "金十数据",
@@ -293,17 +315,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
-        },
-        {
-          "title": "异军突起！周四与特朗普会面顺利，贝莱德的里德尔竞选美联储主席呼声渐起",
-          "url": "https://wallstreetcn.com/articles/3763532",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
         },
         {
           "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
@@ -385,8 +396,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时20分 ~ 13时21分]"
+          "appearance_count": 8,
+          "time_info": "[11时20分 ~ 13时46分]"
         },
         {
           "title": "哈梅内伊：美国煽动策划了伊朗国内骚乱",
@@ -398,8 +409,34 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时13分 ~ 13时21分]"
+          "appearance_count": 6,
+          "time_info": "[09时13分 ~ 13时46分]"
+        },
+        {
+          "title": "伊朗一间谍组织被瓦解，其主要成员曾多次前往以色列",
+          "url": "https://wallstreetcn.com/livenews/3039164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时13分 ~ 13时46分]"
+        },
+        {
+          "title": "伊朗短信发送功能已恢复，将逐步恢复互联网连接",
+          "url": "https://wallstreetcn.com/livenews/3039145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时13分 ~ 13时46分]"
         },
         {
           "title": "伊朗瓦解一间谍组织 指其参与骚乱并纵火袭警",
@@ -414,32 +451,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时13分 ~ 12时58分]"
-        },
-        {
-          "title": "伊朗一间谍组织被瓦解，其主要成员曾多次前往以色列",
-          "url": "https://wallstreetcn.com/livenews/3039164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时13分 ~ 13时21分]"
-        },
-        {
-          "title": "伊朗短信发送功能已恢复，将逐步恢复互联网连接",
-          "url": "https://wallstreetcn.com/livenews/3039145",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时13分 ~ 13时21分]"
         },
         {
           "title": "哈梅内伊：美国煽动策划了伊朗国内骚乱",
@@ -492,23 +503,23 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
-          "url": "https://wallstreetcn.com/articles/3763519",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时27分 ~ 13时21分]"
-        },
-        {
           "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
           "url": "https://www.zhihu.com/question/1995914466735388213",
           "source": "知乎",
           "ranks": [
             17,
             15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时27分 ~ 13时46分]"
+        },
+        {
+          "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
+          "url": "https://wallstreetcn.com/articles/3763519",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -555,16 +566,29 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "中国大规模抛售美债意味着什么",
+          "url": "https://www.toutiao.com/trending/7596539083501866505/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 13时46分]"
+        },
+        {
           "title": "全球狂买美债 中国为何“大甩卖”",
           "url": "https://www.toutiao.com/trending/7596537658717785642/",
           "source": "今日头条",
           "ranks": [
             24,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 13时21分]"
+          "appearance_count": 5,
+          "time_info": "[12时57分 ~ 13时46分]"
         },
         {
           "title": "哈塞特“出局”，但美债为何“不涨反跌”？",
@@ -576,17 +600,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
-        },
-        {
-          "title": "中国大规模抛售美债意味着什么",
-          "url": "https://www.toutiao.com/trending/7596539083501866505/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
         }
       ]
     },
