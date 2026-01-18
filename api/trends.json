@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T16:19:36.037566+08:00",
-  "total_titles_processed": 757,
+  "generated_at": "2026-01-18T16:47:29.965865+08:00",
+  "total_titles_processed": 789,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普发黑白照：我是关税之王(图)",
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时57分 ~ 16时19分]"
+          "appearance_count": 13,
+          "time_info": "[12时57分 ~ 16时47分]"
         },
         {
           "title": "异军突起！周四与特朗普会面顺利，贝莱德的里德尔竞选美联储主席呼声渐起",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时21分 ~ 16时19分]"
+          "appearance_count": 11,
+          "time_info": "[13时21分 ~ 16时47分]"
         },
         {
           "title": "特朗普因格陵兰岛向欧洲8国加税",
@@ -40,11 +40,12 @@
             6,
             7,
             9,
-            16
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时20分 ~ 16时19分]"
+          "appearance_count": 16,
+          "time_info": "[11时20分 ~ 16时47分]"
         },
         {
           "title": "特朗普威胁起诉摩根大通，指控其对其进行“去银行化”",
@@ -56,11 +57,12 @@
             16,
             17,
             18,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时20分 ~ 16时19分]"
+          "appearance_count": 11,
+          "time_info": "[11时20分 ~ 16时47分]"
         },
         {
           "title": "加拿大总理赴华求合作，特朗普回应：是好事，应该做",
@@ -75,8 +77,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时13分 ~ 16时19分]"
+          "appearance_count": 17,
+          "time_info": "[09时13分 ~ 16时47分]"
         },
         {
           "title": "特朗普称将对欧洲8国加征关税，直至“完全收购格陵兰岛”",
@@ -214,6 +216,17 @@
           "time_info": "09时13分"
         },
         {
+          "title": "约旦表示，阿卜杜拉国王收到了美国总统特朗普发出的加入加沙和平委员会的邀请。",
+          "url": "https://flash.jin10.com/detail/20260118162133517800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
           "title": "荷兰国际银行：欧洲国家不应对特朗普的关税威胁做出仓促反应",
           "url": "https://flash.jin10.com/detail/20260118085528695800",
           "source": "金十数据",
@@ -227,6 +240,31 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时13分 ~ 13时21分]"
+        },
+        {
+          "title": "美媒：特朗普为所谓“和平委员会”永久席位开价10亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32410157",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时52分 ~ 16时47分]"
+        },
+        {
+          "title": "特朗普称将对部分国家加征关税，直至“完全收购格陵兰岛”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32408980",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时52分 ~ 16时47分]"
         },
         {
           "title": "完全错误！不可接受！欧洲多国强烈回应特朗普加税",
@@ -292,29 +330,6 @@
           "time_info": "[11时20分 ~ 13时46分]"
         },
         {
-          "title": "美媒：特朗普为所谓“和平委员会”永久席位开价10亿美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32410157",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时52分 ~ 16时19分]"
-        },
-        {
-          "title": "特朗普称将对部分国家加征关税，直至“完全收购格陵兰岛”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32408980",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时52分 ~ 16时19分]"
-        },
-        {
           "title": "美国总统特朗普表示，他从未向摩根大通CEO戴蒙提供美联储主席职位。",
           "url": "https://flash.jin10.com/detail/20260118081338309800",
           "source": "金十数据",
@@ -365,6 +380,29 @@
           "time_info": "[11时20分 ~ 12时28分]"
         },
         {
+          "title": "特朗普欲将加沙“和平委员会”模式全球复制，视为“联合国的可能替代机构”",
+          "url": "https://wallstreetcn.com/articles/3763529",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时47分]"
+        },
+        {
+          "title": "特朗普和平委员会是什么机构",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A%E6%98%AF%E4%BB%80%E4%B9%88%E6%9C%BA%E6%9E%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时47分]"
+        },
+        {
           "title": "法国总统马克龙：将对特朗普的格陵兰岛关税作出回应",
           "url": "https://flash.jin10.com/detail/20260118081050241800",
           "source": "金十数据",
@@ -386,28 +424,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
-        },
-        {
-          "title": "特朗普欲将加沙“和平委员会”模式全球复制，视为“联合国的可能替代机构”",
-          "url": "https://wallstreetcn.com/articles/3763529",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "特朗普和平委员会是什么机构",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A%E6%98%AF%E4%BB%80%E4%B9%88%E6%9C%BA%E6%9E%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
         },
         {
           "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
@@ -489,8 +505,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时20分 ~ 16时19分]"
+          "appearance_count": 16,
+          "time_info": "[11时20分 ~ 16时47分]"
         },
         {
           "title": "哈梅内伊：美国煽动策划了伊朗国内骚乱",
@@ -503,11 +519,12 @@
             9,
             10,
             11,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时13分 ~ 16时19分]"
+          "appearance_count": 12,
+          "time_info": "[09时13分 ~ 16时47分]"
         },
         {
           "title": "伊朗一间谍组织被瓦解，其主要成员曾多次前往以色列",
@@ -549,11 +566,12 @@
             4,
             7,
             8,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时22分 ~ 16时19分]"
+          "appearance_count": 6,
+          "time_info": "[14时22分 ~ 16时47分]"
         },
         {
           "title": "伊朗瓦解一间谍组织 指其参与骚乱并纵火袭警",
@@ -629,8 +647,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时21分 ~ 16时19分]"
+          "appearance_count": 8,
+          "time_info": "[14时21分 ~ 16时47分]"
         },
         {
           "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
@@ -642,8 +660,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时27分 ~ 16时19分]"
+          "appearance_count": 15,
+          "time_info": "[12时27分 ~ 16时47分]"
         },
         {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
@@ -708,11 +726,12 @@
             8,
             10,
             18,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时57分 ~ 15时39分]"
+          "appearance_count": 12,
+          "time_info": "[12时57分 ~ 16时47分]"
         },
         {
           "title": "中国大规模抛售美债意味着什么",
