@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T22:13:34.608192+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2026-01-18T22:41:31.008420+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 60,
       "titles": [
         {
           "title": "异军突起！周四与特朗普会面顺利，贝莱德的里德尔竞选美联储主席呼声渐起",
@@ -19,8 +19,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[13时21分 ~ 22时13分]"
+          "appearance_count": 25,
+          "time_info": "[13时21分 ~ 22时41分]"
         },
         {
           "title": "特朗普发黑白照：我是关税之王(图)",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[12时57分 ~ 22时13分]"
+          "appearance_count": 27,
+          "time_info": "[12时57分 ~ 22时41分]"
         },
         {
           "title": "特朗普因格陵兰岛向欧洲8国加税",
@@ -62,8 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[17时41分 ~ 22时13分]"
+          "appearance_count": 13,
+          "time_info": "[17时41分 ~ 22时41分]"
         },
         {
           "title": "特朗普欲将加沙“和平委员会”模式全球复制，视为“联合国的可能替代机构”",
@@ -269,6 +269,19 @@
           "time_info": "[12时58分 ~ 15时39分]"
         },
         {
+          "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
+          "url": "https://www.cls.cn/detail/2261399",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时26分 ~ 22时41分]"
+        },
+        {
           "title": "消息人士：（就特朗普的关税威胁）法国总统马克龙将请求启动欧盟反胁迫机制。",
           "url": "https://flash.jin10.com/detail/20260118185426337800",
           "source": "金十数据",
@@ -293,19 +306,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[17时41分 ~ 20时26分]"
-        },
-        {
-          "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
-          "url": "https://www.cls.cn/detail/2261399",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时26分 ~ 22时13分]"
         },
         {
           "title": "特朗普开价：永久席位10亿美元",
@@ -358,6 +358,21 @@
           "time_info": "[18时43分 ~ 21时06分]"
         },
         {
+          "title": "特朗普发布个人黑白照",
+          "url": "https://wallstreetcn.com/livenews/3039253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8,
+            14,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时26分 ~ 22时41分]"
+        },
+        {
           "title": "荷兰国际银行：欧洲国家不应对特朗普的关税威胁做出仓促反应",
           "url": "https://flash.jin10.com/detail/20260118085528695800",
           "source": "金十数据",
@@ -384,15 +399,37 @@
           "time_info": "09时13分"
         },
         {
-          "title": "英国右翼政党罕见公开批评特朗普政府",
-          "url": "https://flash.jin10.com/detail/20260118213302399800",
+          "title": "美国财长贝森特：特朗普致力于保障美联储的独立性。我们有四位出色的美联储主席候选人。认为参议院会对这四位候选人的任何一位当选感到满意。",
+          "url": "https://flash.jin10.com/detail/20260118222345424800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "研究员：若吞并格陵兰岛 特朗普将载入史册",
+          "url": "https://flash.jin10.com/detail/20260118221815496800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时13分"
+          "time_info": "22时41分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普致力于保障美联储的独立性。 美联储拥有神奇的资金，为何不进行一些监管呢？ 或许市场希望从美联储获得一些政策透明度。 我们有四位出色的美联储主席候选人。 认为参议院会满意于这四位候选人的任何一位当选。 参议院银行委员会即将就美联储人选发表意见。 市场对司法部调查美联储事件未予过度关注。",
+          "url": "https://wallstreetcn.com/livenews/3039277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "欧洲极右翼忙“割席”：特朗普过分了",
@@ -406,6 +443,28 @@
           "time_info": "09时13分"
         },
         {
+          "title": "美国财长贝森特：最高法院推翻特朗普关税的可能性不大。",
+          "url": "https://flash.jin10.com/detail/20260118221440040800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "美国财长贝森特：欧美贸易协议尚未达成最终协议。 特朗普拥有使用关税的紧急权力。 特朗普在处理格陵兰问题时采取了“策略性”的做法。 我们将继续留在北约内。 最高法院不大可能推翻特朗普的关税政策。",
+          "url": "https://wallstreetcn.com/livenews/3039276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "特朗普因格陵兰岛向欧洲8国加税",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%90%91%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%8A%A0%E7%A8%8E%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -417,18 +476,18 @@
           "time_info": "09时13分"
         },
         {
-          "title": "特朗普发布个人黑白照",
-          "url": "https://wallstreetcn.com/livenews/3039253",
+          "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”，我已跟他通电话",
+          "url": "https://wallstreetcn.com/livenews/3039260",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
             8,
-            14,
-            17
+            11,
+            16
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[20时26分 ~ 22时13分]"
+          "time_info": "[21时06分 ~ 22时41分]"
         },
         {
           "title": "德国财政部长谈特朗普关税威胁：这一点我们无法认同，不会接受胁迫。我们始终愿向美国伸出合作之手，期待共同寻求解决方案。",
@@ -443,6 +502,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[20时26分 ~ 22时13分]"
+        },
+        {
+          "title": "加拿大总理卡尼：（当被问及为何接受特朗普的邀请加入加沙和平委员会时）加拿大将尽一切努力解决加沙的苦难。",
+          "url": "https://flash.jin10.com/detail/20260118210000996800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时06分 ~ 22时41分]"
         },
         {
           "title": "文件显示，特朗普的和平委员会章程规定，成员任期为三年，但那些捐赠10亿美元资金的成员除外。",
@@ -489,42 +562,17 @@
           "time_info": "[11时20分 ~ 13时46分]"
         },
         {
-          "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”，我已跟他通电话",
-          "url": "https://wallstreetcn.com/livenews/3039260",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时06分 ~ 22时13分]"
-        },
-        {
           "title": "德国财政部长：德国不会屈服于特朗普的威胁",
           "url": "https://flash.jin10.com/detail/20260118211330324800",
           "source": "金十数据",
           "ranks": [
             3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时46分 ~ 22时13分]"
-        },
-        {
-          "title": "加拿大总理卡尼：（当被问及为何接受特朗普的邀请加入加沙和平委员会时）加拿大将尽一切努力解决加沙的苦难。",
-          "url": "https://flash.jin10.com/detail/20260118210000996800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            11,
+            6,
             14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时06分 ~ 22时13分]"
+          "time_info": "[21时46分 ~ 22时41分]"
         },
         {
           "title": "特朗普称加拿大需要增加国防开支。（NBC）",
@@ -532,11 +580,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            7
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时46分 ~ 22时41分]"
+        },
+        {
+          "title": "英国右翼政党罕见公开批评特朗普政府",
+          "url": "https://flash.jin10.com/detail/20260118213302399800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时46分 ~ 22时13分]"
+          "time_info": "[22时13分 ~ 22时41分]"
         },
         {
           "title": "美国总统特朗普表示，他从未向摩根大通CEO戴蒙提供美联储主席职位。",
@@ -626,6 +687,17 @@
           "time_info": "[17时15分 ~ 17时41分]"
         },
         {
+          "title": "美国财长贝森特：与欧盟的贸易协定尚未敲定。特朗普拥有动用关税的紧急权力。",
+          "url": "https://flash.jin10.com/detail/20260118221318669800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "英媒刊文：特朗普羡慕中国",
           "url": "https://news.ifeng.com/c/8pzKiGJBBlF",
           "source": "凤凰网",
@@ -635,6 +707,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "美国财长贝森特：格陵兰岛对美国国家安全至关重要。美国必须控制该岛。特朗普在这一问题上的做法具有战略考量。",
+          "url": "https://flash.jin10.com/detail/20260118221242167800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
@@ -727,8 +810,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[11时20分 ~ 22时13分]"
+          "appearance_count": 30,
+          "time_info": "[11时20分 ~ 22时41分]"
         },
         {
           "title": "哈梅内伊：美国煽动策划了伊朗国内骚乱",
@@ -784,6 +867,23 @@
           "time_info": "[09时13分 ~ 15时15分]"
         },
         {
+          "title": "土耳其外长称以色列摩萨德正在介入伊朗局势",
+          "url": "https://wallstreetcn.com/livenews/3039223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10,
+            16,
+            30,
+            6,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时15分 ~ 22时41分]"
+        },
+        {
           "title": "伊朗西南部省份抓捕多名骚乱组织者",
           "url": "https://flash.jin10.com/detail/20260118134258519800",
           "source": "金十数据",
@@ -798,22 +898,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时22分 ~ 17时15分]"
-        },
-        {
-          "title": "土耳其外长称以色列摩萨德正在介入伊朗局势",
-          "url": "https://wallstreetcn.com/livenews/3039223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            10,
-            16,
-            30,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时15分 ~ 22时13分]"
         },
         {
           "title": "一名伊朗地区官员透露，伊朗抗议活动中至少有5000人死亡，其中包括约500名安全人员。部分最激烈的冲突发生在伊朗西北部的库尔德地区。",
@@ -945,8 +1029,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[14时21分 ~ 22时13分]"
+          "appearance_count": 22,
+          "time_info": "[14时21分 ~ 22时41分]"
         },
         {
           "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
@@ -958,8 +1042,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[12时27分 ~ 22时13分]"
+          "appearance_count": 29,
+          "time_info": "[12时27分 ~ 22时41分]"
         },
         {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
@@ -1070,8 +1154,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时12分 ~ 22时13分]"
+          "appearance_count": 9,
+          "time_info": "[19时12分 ~ 22时41分]"
         }
       ]
     },
