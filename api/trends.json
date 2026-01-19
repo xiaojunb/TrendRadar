@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T22:21:51.425661+08:00",
-  "total_titles_processed": 1607,
+  "generated_at": "2026-01-19T22:53:04.295638+08:00",
+  "total_titles_processed": 1656,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 78,
+      "match_count": 79,
       "titles": [
         {
           "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[09时12分 ~ 22时21分]"
+          "appearance_count": 27,
+          "time_info": "[09时12分 ~ 22时53分]"
         },
         {
           "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
@@ -43,8 +43,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[12时35分 ~ 22时21分]"
+          "appearance_count": 25,
+          "time_info": "[12时35分 ~ 22时53分]"
         },
         {
           "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
@@ -57,8 +57,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[17时28分 ~ 22时21分]"
+          "appearance_count": 14,
+          "time_info": "[17时28分 ~ 22时53分]"
         },
         {
           "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
@@ -204,15 +204,15 @@
           "time_info": "[16时56分 ~ 18时23分]"
         },
         {
-          "title": "欧洲官员：特朗普希望在周四签署加沙协议。",
-          "url": "https://wallstreetcn.com/livenews/3039809",
+          "title": "分析师：若特朗普任命过于听话的美联储主席，债市将迅速惩罚美国",
+          "url": "https://wallstreetcn.com/livenews/3039827",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时21分"
+          "time_info": "22时53分"
         },
         {
           "title": "欧洲被特朗普打脸了",
@@ -300,6 +300,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时53分 ~ 19时43分]"
+        },
+        {
+          "title": "欧洲官员：特朗普希望在周四签署加沙协议。",
+          "url": "https://wallstreetcn.com/livenews/3039809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时53分]"
         },
         {
           "title": "英国首相斯塔默：毫无疑问，未来几天将再次与美国总统特朗普通话。",
@@ -484,6 +496,18 @@
           "time_info": "[20时33分 ~ 21时41分]"
         },
         {
+          "title": "欧盟将召开紧急峰会应对特朗普“夺岛”关税",
+          "url": "https://wallstreetcn.com/livenews/3039803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时53分]"
+        },
+        {
           "title": "德总理称特朗普关税威胁损害跨大西洋关系",
           "url": "https://wallstreetcn.com/livenews/3039709",
           "source": "华尔街见闻-快讯",
@@ -494,6 +518,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时17分 ~ 19时43分]"
+        },
+        {
+          "title": "欧洲官员：美国总统特朗普希望加沙在周四签署协议。",
+          "url": "https://flash.jin10.com/detail/20260119215503570800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时53分]"
+        },
+        {
+          "title": "荷兰经济大臣：特朗普在格陵兰岛问题上的表现不负责任。",
+          "url": "https://flash.jin10.com/detail/20260119215216307800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时53分]"
+        },
+        {
+          "title": "德国经济研究所IW：美国总统特朗普第二任期第一年，德国对美国的投资几乎腰斩。",
+          "url": "https://flash.jin10.com/detail/20260119215002234800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时53分]"
         },
         {
           "title": "民调发现特朗普提升了中国全球影响力",
@@ -630,17 +690,6 @@
           "time_info": "19时43分"
         },
         {
-          "title": "欧盟将召开紧急峰会应对特朗普“夺岛”关税",
-          "url": "https://wallstreetcn.com/livenews/3039803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
           "title": "挪威首相：特朗普总统的回信是为了回复我当天早些时候代表我自己以及芬兰总统亚历山大·斯图布发送的一条简短短信。",
           "url": "https://flash.jin10.com/detail/20260119174837961800",
           "source": "金十数据",
@@ -694,17 +743,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
-        },
-        {
-          "title": "欧洲官员：美国总统特朗普希望加沙在周四签署协议。",
-          "url": "https://flash.jin10.com/detail/20260119215503570800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
         },
         {
           "title": "欧盟委员会发言人：欧盟委员会主席冯德莱恩受邀加入美国总统特朗普的加沙“和平委员会”。",
@@ -784,17 +822,6 @@
           "time_info": "15时03分"
         },
         {
-          "title": "荷兰经济大臣：特朗普在格陵兰岛问题上的表现不负责任。",
-          "url": "https://flash.jin10.com/detail/20260119215216307800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
           "title": "专家：若特朗普对欧关税威胁落实，欧盟将集体反击美国",
           "url": "https://flash.jin10.com/detail/20260119155228340800",
           "source": "金十数据",
@@ -815,17 +842,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
-        },
-        {
-          "title": "德国经济研究所IW：美国总统特朗普第二任期第一年，德国对美国的投资几乎腰斩。",
-          "url": "https://flash.jin10.com/detail/20260119215002234800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
         },
         {
           "title": "据媒体报道，哈萨克斯坦表示，美国总统特朗普邀请哈萨克斯坦总统托卡耶夫加入“和平委员会”，托卡耶夫已同意。",
@@ -919,7 +935,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "一图看懂｜从中产跌落到空难激增：美国制裁如何重创伊朗？",
@@ -1011,6 +1027,17 @@
           "time_info": "[21时41分 ~ 22时21分]"
         },
         {
+          "title": "伊朗媒体说骚乱已致3700余人受伤",
+          "url": "https://wallstreetcn.com/livenews/3039822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "伊拉克外长访问伊朗 强调需就地区安全保持沟通",
           "url": "https://wallstreetcn.com/livenews/3039371",
           "source": "华尔街见闻-快讯",
@@ -1083,6 +1110,18 @@
           "time_info": "[17时28分 ~ 20时33分]"
         },
         {
+          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时41分 ~ 22时53分]"
+        },
+        {
           "title": "格陵兰引发美欧关税战风险，欧美股指期货齐跌，金银再创新高，铜价逼近13000",
           "url": "https://wallstreetcn.com/articles/3763546",
           "source": "华尔街见闻",
@@ -1092,17 +1131,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时48分 ~ 16时23分]"
-        },
-        {
-          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 22时21分]"
         },
         {
           "title": "格陵兰引发美欧关税战风险，欧股大幅低开、美股期货下跌，金银再创新高，铜价逼近13000",
@@ -1179,6 +1207,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时12分 ~ 11时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "报道：过去一年谷歌Gemini模型授权业务规模实现爆发式增长",
+          "url": "https://wallstreetcn.com/livenews/3039830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
+          "title": "谷歌的Gemini业务销售额预计将飙升",
+          "url": "https://flash.jin10.com/detail/20260119221021907800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         }
       ]
     },
