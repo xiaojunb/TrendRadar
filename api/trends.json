@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T13:27:17.791714+08:00",
-  "total_titles_processed": 643,
+  "generated_at": "2026-01-19T13:54:15.452870+08:00",
+  "total_titles_processed": 684,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时12分 ~ 13时27分]"
+          "appearance_count": 8,
+          "time_info": "[09时12分 ~ 13时54分]"
         },
         {
           "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
@@ -27,8 +27,33 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时12分 ~ 13时27分]"
+          "appearance_count": 8,
+          "time_info": "[09时12分 ~ 13时54分]"
+        },
+        {
+          "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32410190",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时12分 ~ 13时54分]"
+        },
+        {
+          "title": "特朗普称将对欧洲 8 国加征关税，直至「完全收购格陵兰岛」，对国际秩序有哪些影响？",
+          "url": "https://www.zhihu.com/question/1996211344383435054",
+          "source": "知乎",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时21分 ~ 13时54分]"
         },
         {
           "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
@@ -43,17 +68,16 @@
           "time_info": "[09时12分 ~ 11时21分]"
         },
         {
-          "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32410190",
-          "source": "澎湃新闻",
+          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
+          "url": "https://wallstreetcn.com/articles/3763548",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
             7,
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时12分 ~ 13时27分]"
+          "time_info": "[12时35分 ~ 13时54分]"
         },
         {
           "title": "异军突起！周四与特朗普会面顺利，贝莱德的里德尔竞选美联储主席呼声渐起",
@@ -79,6 +103,17 @@
           "time_info": "[09时12分 ~ 13时27分]"
         },
         {
+          "title": "从抢油到夺岛：解析特朗普的“唐罗主义”",
+          "url": "https://wallstreetcn.com/articles/3763551",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时35分 ~ 13时54分]"
+        },
+        {
           "title": "欧洲被特朗普打脸了",
           "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A7%E6%B4%B2%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%93%E8%84%B8%E4%BA%86%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -90,39 +125,29 @@
           "time_info": "09时12分"
         },
         {
-          "title": "特朗普称将对欧洲 8 国加征关税，直至「完全收购格陵兰岛」，对国际秩序有哪些影响？",
-          "url": "https://www.zhihu.com/question/1996211344383435054",
-          "source": "知乎",
+          "title": "内塔尼亚胡罕见公开“叫板”特朗普",
+          "url": "https://www.toutiao.com/trending/7596220832478363654/",
+          "source": "今日头条",
           "ranks": [
-            9,
-            12
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时21分 ~ 13时27分]"
+          "appearance_count": 4,
+          "time_info": "[13时26分 ~ 13时54分]"
         },
         {
-          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
-          "url": "https://wallstreetcn.com/articles/3763548",
-          "source": "华尔街见闻",
+          "title": "特朗普称，在达拉斯建造一个“纽约证券交易所”对纽约来说是一件糟糕透顶的事。",
+          "url": "https://wallstreetcn.com/livenews/3039516",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            8
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时35分 ~ 13时27分]"
-        },
-        {
-          "title": "从抢油到夺岛：解析特朗普的“唐罗主义”",
-          "url": "https://wallstreetcn.com/articles/3763551",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时35分 ~ 13时27分]"
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 13时54分]"
         },
         {
           "title": "美国总统特朗普：在达拉斯建立“纽约证券交易所”对纽约来说是难以置信的坏事。",
@@ -131,18 +156,6 @@
           "ranks": [
             7,
             22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 13时27分]"
-        },
-        {
-          "title": "特朗普称，在达拉斯建造一个“纽约证券交易所”对纽约来说是一件糟糕透顶的事。",
-          "url": "https://wallstreetcn.com/livenews/3039516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -171,17 +184,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时36分 ~ 13时27分]"
-        },
-        {
-          "title": "内塔尼亚胡罕见公开“叫板”特朗普",
-          "url": "https://www.toutiao.com/trending/7596220832478363654/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 13时27分]"
         },
         {
           "title": "美财长声援特朗普加税夺岛",
@@ -285,11 +287,12 @@
             27,
             19,
             18,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时12分 ~ 13时27分]"
+          "appearance_count": 8,
+          "time_info": "[09时12分 ~ 13时54分]"
         },
         {
           "title": "世界周刊之伊朗危机",
@@ -297,22 +300,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             24,
-            4
+            4,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 13时27分]"
+          "appearance_count": 5,
+          "time_info": "[09时12分 ~ 13时54分]"
         },
         {
           "title": "一图看懂｜从中产跌落到空难激增：美国制裁如何重创伊朗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32411977",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时35分 ~ 13时27分]"
+          "appearance_count": 6,
+          "time_info": "[12时35分 ~ 13时54分]"
         },
         {
           "title": "伊拉克外长访问伊朗 强调需就地区安全保持沟通",
@@ -371,8 +376,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时12分 ~ 13时27分]"
+          "appearance_count": 8,
+          "time_info": "[09时12分 ~ 13时54分]"
         }
       ]
     },
@@ -391,6 +396,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时12分 ~ 11时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股制冷剂概念股震荡拉升，昊华科技涨停，永和股份、三美股份、巨化股份、金石资源跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3039552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         }
       ]
     }
