@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T13:52:03.928557+08:00",
-  "total_titles_processed": 705,
+  "generated_at": "2026-01-20T14:26:30.664602+08:00",
+  "total_titles_processed": 754,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普“私信”震惊欧洲：“因未获诺贝尔和平奖，我不再只考虑“和平”，美国必须完全控制格陵兰”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时07分 ~ 13时52分]"
+          "appearance_count": 8,
+          "time_info": "[09时07分 ~ 14时26分]"
         },
         {
           "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时07分 ~ 13时52分]"
+          "appearance_count": 8,
+          "time_info": "[09时07分 ~ 14时26分]"
         },
         {
           "title": "特朗普写了一封信，杀气腾腾，槽点满满",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时07分 ~ 13时52分]"
+          "appearance_count": 8,
+          "time_info": "[09时07分 ~ 14时26分]"
         },
         {
           "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
@@ -53,21 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时17分 ~ 13时52分]"
-        },
-        {
-          "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
-          "url": "https://wallstreetcn.com/articles/3763591",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时07分 ~ 13时52分]"
+          "time_info": "[11时17分 ~ 14时26分]"
         },
         {
           "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
@@ -78,8 +65,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时07分 ~ 13时52分]"
+          "appearance_count": 8,
+          "time_info": "[09时07分 ~ 14时26分]"
+        },
+        {
+          "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
+          "url": "https://wallstreetcn.com/articles/3763591",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时07分 ~ 14时26分]"
         },
         {
           "title": "特朗普继续威胁，“100%加税，欧洲等着吧”",
@@ -89,8 +90,44 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 13时52分]"
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 14时26分]"
+        },
+        {
+          "title": "手握“10万亿美元武器”！分析师热议：欧洲是否会祭出“资本战”反击特朗普？",
+          "url": "https://www.cls.cn/detail/2263060",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时30分 ~ 14时26分]"
+        },
+        {
+          "title": "美国总统特朗普在其社交平台“真实社交”上发图，暗示吞并丹麦自治领地格陵兰岛。（CCTV国际时讯）",
+          "url": "https://wallstreetcn.com/livenews/3040187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "特朗普关税威胁引发欧股抛售 奢侈品股全线大跌",
+          "url": "https://www.cls.cn/detail/2262836",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时30分 ~ 14时26分]"
         },
         {
           "title": "会武力夺岛？特朗普：无可奉告",
@@ -126,52 +163,43 @@
           "time_info": "09时07分"
         },
         {
-          "title": "美国总统特朗普：我已同意在瑞士达沃斯举行多方会议。",
-          "url": "https://flash.jin10.com/detail/20260120132801977800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
-          "title": "手握“10万亿美元武器”！分析师热议：欧洲是否会祭出“资本战”反击特朗普？",
-          "url": "https://www.cls.cn/detail/2263060",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时30分 ~ 13时52分]"
-        },
-        {
-          "title": "特朗普关税威胁引发欧股抛售 奢侈品股全线大跌",
-          "url": "https://www.cls.cn/detail/2262836",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时30分 ~ 13时52分]"
-        },
-        {
           "title": "特朗普：我将对法国葡萄酒和香槟征收200%的关税，届时马克龙将加入 “和平委员会”。",
           "url": "https://wallstreetcn.com/livenews/3040147",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时03分 ~ 13时52分]"
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 14时26分]"
+        },
+        {
+          "title": "关于美联储主席人选，特朗普表示，知道自己想要的是谁。",
+          "url": "https://wallstreetcn.com/livenews/3040144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 14时26分]"
+        },
+        {
+          "title": "美国总统特朗普：我们必须拥有格陵兰岛。 我们将在达沃斯讨论格陵兰岛问题。 在达沃斯我们安排了很多次会议。 不认为欧盟会在格陵兰岛问题上过度抵制。 不关心诺贝尔和平奖。我关心的是拯救生命。 已经邀请普京加入和平理事会。 达沃斯之行会非常有趣。 20年来北约一直在警告丹麦来自俄罗斯的威胁。",
+          "url": "https://wallstreetcn.com/livenews/3040143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 14时26分]"
         },
         {
           "title": "特朗普将于周三欧洲中部时间下午2:30在达沃斯论坛发表特别讲话。",
@@ -186,28 +214,16 @@
           "time_info": "[11时17分 ~ 12时31分]"
         },
         {
-          "title": "关于美联储主席人选，特朗普表示，知道自己想要的是谁。",
-          "url": "https://wallstreetcn.com/livenews/3040144",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：我已同意在瑞士达沃斯举行多方会议。",
+          "url": "https://flash.jin10.com/detail/20260120132801977800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            18
+            5,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时03分 ~ 13时52分]"
-        },
-        {
-          "title": "美国总统特朗普：我们必须拥有格陵兰岛。 我们将在达沃斯讨论格陵兰岛问题。 在达沃斯我们安排了很多次会议。 不认为欧盟会在格陵兰岛问题上过度抵制。 不关心诺贝尔和平奖。我关心的是拯救生命。 已经邀请普京加入和平理事会。 达沃斯之行会非常有趣。 20年来北约一直在警告丹麦来自俄罗斯的威胁。",
-          "url": "https://wallstreetcn.com/livenews/3040143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时03分 ~ 13时52分]"
+          "time_info": "[13时52分 ~ 14时26分]"
         },
         {
           "title": "普京被邀请加入特朗普“和平委员会”",
@@ -220,6 +236,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时07分 ~ 11时17分]"
+        },
+        {
+          "title": "特朗普称，我与北约秘书长吕特就格陵兰问题进行了非常好的电话交谈。 将在达沃斯就格陵兰问题与“各方”会面。",
+          "url": "https://wallstreetcn.com/livenews/3040165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时26分]"
+        },
+        {
+          "title": "美国总统特朗普：没有回头路可走。 格陵兰对国家和世界安全至关重要。 我同意在达沃斯与各方举行会议。 与北约秘书长马克·吕特进行了非常愉快的电话交谈。",
+          "url": "https://wallstreetcn.com/livenews/3040163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时26分]"
         },
         {
           "title": "特朗普重返白宫1周年",
@@ -250,20 +290,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
         {
-          "title": "特朗普称，我与北约秘书长吕特就格陵兰问题进行了非常好的电话交谈。 将在达沃斯就格陵兰问题与“各方”会面。",
-          "url": "https://wallstreetcn.com/livenews/3040165",
+          "title": "特朗普展示马克龙短信截图",
+          "url": "https://wallstreetcn.com/livenews/3040178",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时52分"
+          "time_info": "14时26分"
         },
         {
           "title": "美国总统特朗普：我与北约秘书长吕特就格陵兰岛进行了非常愉快的电话交谈。",
@@ -272,20 +312,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
         {
-          "title": "美国总统特朗普：没有回头路可走。 格陵兰对国家和世界安全至关重要。 我同意在达沃斯与各方举行会议。 与北约秘书长马克·吕特进行了非常愉快的电话交谈。",
-          "url": "https://wallstreetcn.com/livenews/3040163",
-          "source": "华尔街见闻-快讯",
+          "title": "“星条旗插在格陵兰土地上” 特朗普用AI描绘自己的领土野心",
+          "url": "https://flash.jin10.com/detail/20260120140732774800",
+          "source": "金十数据",
           "ranks": [
-            7
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时52分"
+          "time_info": "14时26分"
+        },
+        {
+          "title": "特朗普想打造新版联合国吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E6%89%93%E9%80%A0%E6%96%B0%E7%89%88%E8%81%94%E5%90%88%E5%9B%BD%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
         },
         {
           "title": "特朗普嫉妒中国已是公开秘密",
@@ -316,9 +367,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
+        },
+        {
+          "title": "特朗普公布马克龙短信 后者称“无法理解”特朗普格陵兰岛立场",
+          "url": "https://flash.jin10.com/detail/20260120135740697800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
         },
         {
           "title": "美国总统特朗普：我将对法国葡萄酒和香槟征收200%的关税，法国总统马克龙将加入和平委员会。",
@@ -327,7 +389,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -338,9 +400,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
+        },
+        {
+          "title": "特朗普霸凌欧洲引发反弹 “让美国滚开”棒球帽在欧美走红",
+          "url": "https://flash.jin10.com/detail/20260120134838323800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
         },
         {
           "title": "美国总统特朗普：北约20年来一直在就俄罗斯威胁向丹麦发出警告。",
@@ -349,7 +422,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         }
@@ -368,8 +441,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时17分 ~ 13时52分]"
+          "appearance_count": 7,
+          "time_info": "[11时17分 ~ 14时26分]"
         },
         {
           "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
@@ -381,8 +454,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时07分 ~ 13时52分]"
+          "appearance_count": 8,
+          "time_info": "[09时07分 ~ 14时26分]"
         },
         {
           "title": "OpenAI首席财务官：2025年年化营收突破200亿美元",
@@ -409,8 +482,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时07分 ~ 13时52分]"
+          "appearance_count": 8,
+          "time_info": "[09时07分 ~ 14时26分]"
         }
       ]
     },
@@ -426,8 +499,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时07分 ~ 13时52分]"
+          "appearance_count": 8,
+          "time_info": "[09时07分 ~ 14时26分]"
         }
       ]
     },
