@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T09:07:27.965481+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-01-20T11:17:28.564220+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普“私信”震惊欧洲：“因未获诺贝尔和平奖，我不再只考虑“和平”，美国必须完全控制格陵兰”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 11时17分]"
         },
         {
           "title": "特朗普写了一封信，杀气腾腾，槽点满满",
@@ -26,8 +26,31 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 11时17分]"
+        },
+        {
+          "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
+          "url": "https://www.cls.cn/detail/2262874",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 11时17分]"
+        },
+        {
+          "title": "特朗普将于周三欧洲中部时间下午2:30在达沃斯论坛发表特别讲话。",
+          "url": "https://wallstreetcn.com/livenews/3040101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "11时17分"
         },
         {
           "title": "会武力夺岛？特朗普：无可奉告",
@@ -41,15 +64,15 @@
           "time_info": "09时07分"
         },
         {
-          "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
-          "url": "https://www.cls.cn/detail/2262874",
-          "source": "财联社热门",
+          "title": "特朗普拒绝表明他是否会动用武力来夺取格陵兰岛，现货黄金多头占比达66%，现货白银多头占比达76%。后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260120103856281800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "11时17分"
         },
         {
           "title": "反制特朗普，马克龙冲最猛，默茨想拉住他",
@@ -63,6 +86,42 @@
           "time_info": "09时07分"
         },
         {
+          "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
+          "url": "https://wallstreetcn.com/articles/3763591",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 11时17分]"
+        },
+        {
+          "title": "普京被邀请加入特朗普“和平委员会”",
+          "url": "https://news.ifeng.com/c/8q2yFHRzsKV",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 11时17分]"
+        },
+        {
+          "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
+          "url": "https://www.zhihu.com/question/1995879633401374340",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 11时17分]"
+        },
+        {
           "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
           "url": "https://wallstreetcn.com/articles/3763556",
           "source": "华尔街见闻",
@@ -74,54 +133,66 @@
           "time_info": "09时07分"
         },
         {
-          "title": "普京被邀请加入特朗普“和平委员会”",
-          "url": "https://news.ifeng.com/c/8q2yFHRzsKV",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
-          "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
-          "url": "https://wallstreetcn.com/articles/3763591",
+          "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
+          "url": "https://wallstreetcn.com/articles/3763642",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "11时17分"
         },
         {
-          "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
-          "url": "https://www.zhihu.com/question/1995879633401374340",
-          "source": "知乎",
+          "title": "特朗普嫉妒中国已是公开秘密",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AB%89%E5%A6%92%E4%B8%AD%E5%9B%BD%E5%B7%B2%E6%98%AF%E5%85%AC%E5%BC%80%E7%A7%98%E5%AF%86%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
-            8
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "11时17分"
+        },
+        {
+          "title": "美贸易代表：若最高法院作出不利裁决 特朗普可以立即祭出替代关税",
+          "url": "https://flash.jin10.com/detail/20260120102026796800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
           "url": "https://www.cls.cn/detail/2262848",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 11时17分]"
+        },
+        {
+          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
+          "url": "https://www.cls.cn/detail/2262946",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "11时17分"
         },
         {
           "title": "OpenAI首席财务官：2025年年化营收突破200亿美元",
@@ -148,8 +219,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 11时17分]"
         }
       ]
     },
@@ -165,8 +236,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 11时17分]"
         }
       ]
     }
