@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T22:23:50.067980+08:00",
-  "total_titles_processed": 1705,
+  "generated_at": "2026-01-21T22:56:30.115875+08:00",
+  "total_titles_processed": 1791,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 119,
+      "match_count": 165,
       "titles": [
         {
           "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
@@ -50,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时55分 ~ 22时23分]"
+          "appearance_count": 12,
+          "time_info": "[16时55分 ~ 22时56分]"
         },
         {
           "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
@@ -149,8 +149,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[11时15分 ~ 22时23分]"
+          "appearance_count": 24,
+          "time_info": "[11时15分 ~ 22时56分]"
         },
         {
           "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
@@ -181,8 +181,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时51分 ~ 20时33分]"
+          "appearance_count": 13,
+          "time_info": "[13时51分 ~ 22时56分]"
+        },
+        {
+          "title": "特朗普刚喊完中俄威胁，转头就否了",
+          "url": "https://news.ifeng.com/c/8q61Pub3oAS",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时20分 ~ 22时56分]"
         },
         {
           "title": "冯德莱恩回应特朗普：你错了，无论政治还是商业，协议就是协议",
@@ -237,26 +248,37 @@
           "time_info": "[17时26分 ~ 17时54分]"
         },
         {
-          "title": "特朗普刚喊完中俄威胁，转头就否了",
-          "url": "https://news.ifeng.com/c/8q61Pub3oAS",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时20分 ~ 22时23分]"
-        },
-        {
           "title": "美国总统特朗普：上周我们从委内瑞拉获取了5000万桶原油。",
           "url": "https://flash.jin10.com/detail/20260121220752711800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "美国总统特朗普：意识到许多地方正从美国赚取财富。",
+          "url": "https://flash.jin10.com/detail/20260121223737490800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "美国总统特朗普重申，他企图通过地面（军事）行动打击贩毒。",
+          "url": "https://wallstreetcn.com/livenews/3041364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "市场消息：美国总统特朗普在“空军一号”出现故障后抵达瑞士参加达沃斯。",
@@ -276,9 +298,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "美国总统特朗普：瑞士真的让我感到很不爽。但我还是降低了瑞士关税，因为不想伤害瑞士民众。",
+          "url": "https://flash.jin10.com/detail/20260121223711278800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "（丹麦）维斯塔斯风力技术集团跌幅扩大至约3%，美国总统特朗普正谈及美国对风电的需求。",
@@ -287,7 +320,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -331,9 +364,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "美国总统特朗普：对瑞士加征关税，结果引发轩然大波。",
+          "url": "https://flash.jin10.com/detail/20260121223626241800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "英国首相斯塔默：美国总统特朗普想让我在立场上让步，但我不会。",
@@ -353,9 +397,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "特朗普：美国从北约中一无所得",
+          "url": "https://flash.jin10.com/detail/20260121223512854800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "挪威财相斯托尔滕贝格：格陵兰危机是“严重的”。 将诺贝尔奖与政府挂钩是不公平的。 特朗普的目的是在格陵兰立场方面向我施压。 乌克兰不能被遗忘，这是极其重要的。 不认为俄罗斯经济会崩溃。 北极的战略重要性日益增强。 现在没有理由撤回对美国的投资。 NBIM在美国的存在就反映了美国市场的规模。",
@@ -375,9 +430,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "特朗普再次呼吁将信用卡利率上限设为10%",
+          "url": "https://wallstreetcn.com/livenews/3041361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "特朗普刚喊完中俄威胁转头就否了",
@@ -397,9 +463,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "美国总统特朗普：在关税制度实施前，美国对瑞士存在巨额贸易逆差。",
+          "url": "https://flash.jin10.com/detail/20260121223448480800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "美国财长贝森特：特朗普到达沃斯会迟到大约三个小时。",
@@ -648,9 +725,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "美国总统特朗普：我们本应支付低得多的利率。",
+          "url": "https://flash.jin10.com/detail/20260121223407153800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "特朗普：德国总理默茨工作做得非常出色。 德国能源问题并非现任总理的过错。 我希望欧洲和英国“表现出色”。 默茨正在德国处理电力故障问题。 美国关心欧洲人民，我本人也源自欧洲。 能源、贸易、移民、经济增长是美国西部发展的关键因素。 我们想要的是实力强大的盟友，而不是实力严重削弱的盟友。 格陵兰岛的情况让这个问题更加清晰明了。 除了美国之外，没有哪个国家有能力掌控格陵兰岛。",
@@ -659,9 +747,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "美国总统特朗普：（经济）增长并不意味着通胀，它能对抗通胀。 合理的增长能抗击通胀。",
+          "url": "https://wallstreetcn.com/livenews/3041359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "特朗普未软化格陵兰岛威胁引发担忧，标普500指数现卖出信号，现货黄金多头占优。后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -703,9 +802,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "美国总统特朗普：美国财长贝森特、美国商务部长卢特尼克干得真棒。",
+          "url": "https://flash.jin10.com/detail/20260121223356110800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "特朗普再次抨击风力发电厂。 特朗普批评欧洲能源成本，并将矛头指向风力发电。",
@@ -714,9 +824,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "美国总统特朗普：对瑞典“和所有与美国存在冲突的（All hell broke loose）”都加征关税。",
+          "url": "https://wallstreetcn.com/livenews/3041358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "雪佛龙在纠结：如何能迎合特朗普，又避免在委内瑞拉亏钱",
@@ -758,9 +879,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "美国总统特朗普：不想伤害拥有住房的人所持资产的价值。",
+          "url": "https://flash.jin10.com/detail/20260121223319473800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "特朗普：美国正在“大力发展”核能。 现在能够以合理的价格获得核能，并且使用起来也很安全。 汽油价格很快就会低于每加仑2美元。",
@@ -769,9 +901,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "美国总统特朗普：不久就会宣布新任美联储主席（是谁）。 下一任美联储主席将是一名男性。 他将是一位备受尊敬的人。 与每一位美联储主席候选人的面试情况都很棒。",
+          "url": "https://wallstreetcn.com/livenews/3041357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "这是在打货币战争？特朗普打击美元，高市早苗削弱日元",
@@ -813,9 +956,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "美国总统特朗普：我非常保护那些已经拥有住房的人。",
+          "url": "https://flash.jin10.com/detail/20260121223251342800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "特朗普：将月度贸易逆差削减了77%。 欧洲各国、日本、韩国都是我们的合作伙伴。 美国天然气产量创历史新高。 美国石油日产量增加73万桶。 工厂建设量增长了 41%。",
@@ -824,9 +978,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "格陵兰危机缓和？特朗普表态“软化”：将达成一个让北约“非常开心”的方案",
+          "url": "https://wallstreetcn.com/articles/3763814",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "特朗普未软化格陵兰岛威胁引担忧，其达沃斯“秀场”或造成更大波动",
@@ -857,9 +1022,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "美国总统特朗普：美联储主席鲍威尔在利率问题上行动太迟了。",
+          "url": "https://flash.jin10.com/detail/20260121223242392800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "特朗普提到解雇政府雇员，削减联邦开支。 特朗普鼓吹美国出口和国内钢铁产量增长。",
@@ -868,9 +1044,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "美国总统特朗普：财长贝森特和商务部长卢特尼克工作表现不错。",
+          "url": "https://wallstreetcn.com/livenews/3041355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "特朗普再提收购格陵兰岛 奈飞绩后大跌超7% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2265606",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "美国总统特朗普：希望新任美联储主席做好本职工作。",
+          "url": "https://flash.jin10.com/detail/20260121223215061800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "特朗普：美国通胀已被战胜，第四季度经济增长率预计为5.4%",
@@ -879,7 +1088,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -901,9 +1110,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "美国总统特朗普：将在不久的将来宣布新的美联储主席，我选定的美联储主席将是一位“男性”。新任美联储主席将是一位备受尊敬的人，问题在于美联储主席一旦上任就会改变立场。",
+          "url": "https://flash.jin10.com/detail/20260121223116097800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "不同于特朗普的直言不讳 摩根大通CEO戴蒙称批评欧洲时他会“更委婉”",
@@ -912,7 +1132,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -934,9 +1154,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "美国总统特朗普：将呼吁国会将信用卡利率上限设定为10%，为期一年。",
+          "url": "https://flash.jin10.com/detail/20260121223052849800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "以色列总理办公室：总理内塔尼亚胡已接受邀请，将加入特朗普的和平委员会。",
@@ -956,7 +1187,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -967,7 +1198,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -981,6 +1212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
+        },
+        {
+          "title": "美国总统特朗普攻击企业购买住房的做法。",
+          "url": "https://wallstreetcn.com/livenews/3041349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "美国总统特朗普：美国将在达沃斯得到充分代表——由我亲自代表。",
@@ -1011,9 +1253,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "美国总统特朗普：房屋是为人民建造的，而不是为企业，美国不会成为租客之国。已经签署命令，严禁机构买家购买住房。",
+          "url": "https://flash.jin10.com/detail/20260121222922488800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "美国总统特朗普：药品价格将大幅下降90%。",
+          "url": "https://wallstreetcn.com/livenews/3041348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "日本内阁官房长官木原稔：日本首相高市早苗已受邀加入特朗普就加沙问题成立的和平委员会。",
@@ -1033,7 +1297,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -1047,6 +1311,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
+        },
+        {
+          "title": "特朗普称无意用武力获取格陵兰岛",
+          "url": "https://www.douyin.com/hot/2375599",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "城堡基金CEO格里芬：美国总统特朗普试图鼓励美联储推行的宽松货币政策加大了通胀风险。",
@@ -1066,9 +1341,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "美国总统特朗普抨击企业购房行为。",
+          "url": "https://flash.jin10.com/detail/20260121222822927800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "美国总统特朗普嘲笑法国总统马克龙佩戴太阳镜。",
+          "url": "https://wallstreetcn.com/livenews/3041346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "美国总统特朗普：不知道达沃斯此行会如何进行。将很快听取简报。",
@@ -1110,9 +1407,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "美国总统特朗普：药品价格将惊人地下降90%。",
+          "url": "https://flash.jin10.com/detail/20260121222715982800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "特朗普：美国受到北约不公平对待",
+          "url": "https://wallstreetcn.com/livenews/3041345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "埃及外交部：埃及接受美国总统特朗普的邀请，加入“和平委员会”。",
@@ -1143,9 +1462,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "美国总统特朗普：他曾以加征额外关税威胁马克龙，以应对药品价格问题。",
+          "url": "https://flash.jin10.com/detail/20260121222648075800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "特朗普：丹麦若在格陵兰去留上违抗美国，“我们会记着”",
+          "url": "https://wallstreetcn.com/livenews/3041343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日特朗普将在世界经济论坛年发表讲话，美国最高法院将就库克案听取辩论。",
@@ -1176,9 +1517,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "美国总统特朗普：我昨天看到了马克龙态度强硬，我其实挺喜欢马克龙的。",
+          "url": "https://flash.jin10.com/detail/20260121222444724800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "特朗普：不会武力夺取格陵兰岛，正寻求立即就收购格陵兰岛事宜展开谈判",
+          "url": "https://wallstreetcn.com/livenews/3041342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "特朗普重塑美国 支持者为何仍力挺他",
@@ -1209,9 +1572,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "瑞银：美国总统特朗普在达沃斯论坛上表示，他“不会动用武力”来夺取格陵兰岛。这应该会让市场松一口气，因为它似乎消除了与格陵兰岛局势以及北约相关的一些极端风险。",
+          "url": "https://flash.jin10.com/detail/20260121222410108800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "特朗普：格陵兰岛是美国的“核心国家安全利益”",
+          "url": "https://wallstreetcn.com/livenews/3041341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "纽森怒批特朗普：他就是个破坏王",
@@ -1253,9 +1638,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "美国总统特朗普嘲笑法国总统马克龙戴太阳镜。",
+          "url": "https://flash.jin10.com/detail/20260121222336344800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "美国总统特朗普：允许人工智能公司自行发电。 用关税收入取代所得税是一个选项。",
@@ -1267,6 +1663,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
+        },
+        {
+          "title": "美国总统特朗普：出台新版防务制度之后，美国将按照超前的速度生产武器。 不会再允许国防公司回购股票。",
+          "url": "https://wallstreetcn.com/livenews/3041340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "美媒：特朗普寻求对伊朗的“决定性”军事方案 选项包含政权更迭",
@@ -1297,7 +1704,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -1308,9 +1715,53 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "美国总统特朗普：通过关税手段实现了“最惠国待遇”药品政策。",
+          "url": "https://flash.jin10.com/detail/20260121222249779800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "美国总统特朗普：今天会见乌克兰总统泽连斯基。",
+          "url": "https://wallstreetcn.com/livenews/3041338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "美国核裂变公司OKLO盘前涨超7%，此前特朗普称美国正“大力”发展核能，已签署行政命令，批准新建多家核工厂。",
+          "url": "https://flash.jin10.com/detail/20260121222247039800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "现货黄金十五分钟内走低约40美元，现报4842.42美元/盎司。此前特朗普称，不会武力夺取格陵兰岛。",
+          "url": "https://wallstreetcn.com/livenews/3041337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "美国总统特朗普：我们深信我们与欧洲作为文明共同体所共享的纽带。",
@@ -1319,9 +1770,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "特朗普表态：不会动用武力来获取格陵兰岛",
+          "url": "https://flash.jin10.com/detail/20260121222236675800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "美国总统特朗普：美国关心欧洲人民，我源自欧洲。",
@@ -1330,9 +1792,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "美国总统特朗普：抵押贷款价格、租金、汽车贷款正在下降。",
+          "url": "https://flash.jin10.com/detail/20260121222211222800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "美国总统特朗普：格陵兰将大大提高“金穹”系统的效能。 在达沃斯期间可能会与欧洲达成某种解决方案。",
@@ -1346,15 +1819,37 @@
           "time_info": "12时31分"
         },
         {
+          "title": "美国总统特朗普：加拿大因为美国而存在，（总理）卡尼你记住这点。",
+          "url": "https://wallstreetcn.com/livenews/3041335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "美国总统特朗普：德国总理默茨正在解决德国的电力问题。",
           "url": "https://flash.jin10.com/detail/20260121215654203800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及收购格陵兰岛）如果你们说不，我会记住你们的。",
+          "url": "https://flash.jin10.com/detail/20260121222122465800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "据华尔街日报：美国官员表示，尽管上周已撤回对伊朗的打击计划，但特朗普仍在要求幕僚提供他所谓的“决定性”军事选项。",
@@ -1374,15 +1869,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "美国总统特朗普：在新的国防规则出台后，美国制造武器的速度将进一步提升，将不再允许国防公司进行股票回购。",
+          "url": "https://flash.jin10.com/detail/20260121222004460800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -1392,8 +1898,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[09时09分 ~ 22时23分]"
+          "appearance_count": 25,
+          "time_info": "[09时09分 ~ 22时56分]"
         },
         {
           "title": "【早报】欧美股市齐跌，英伟达、特斯拉跌逾4%；近期多家银行卫星上天",
@@ -1458,9 +1964,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，纳指期货涨0.4%，黄金新高后回落，日债大幅反弹",
+          "url": "https://wallstreetcn.com/articles/3763768",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "行业ETF美股盘初普遍上涨，标普能源板块有望打破去年所创收盘历史最高位",
+          "url": "https://wallstreetcn.com/livenews/3041360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
@@ -1547,6 +2075,17 @@
           "time_info": "21时40分"
         },
         {
+          "title": "美股开盘，道指开涨0.12%，标普500指数涨0.2%，纳指涨0.25%。奈飞(NFLX.O)跌超5%，公司Q1业绩指引逊于预期，暂停股票回购。强生(JNJ.N)跌2.9%，公司业绩展望低于预期。",
+          "url": "https://flash.jin10.com/detail/20260121223021772800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "美股存储板块盘前普涨，闪迪(SNDK.O)涨超3%，西部数据(WDC.O)、美光科技(MU.O)涨超2%。",
           "url": "https://flash.jin10.com/detail/20260121171634449800",
           "source": "金十数据",
@@ -1567,6 +2106,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
+        },
+        {
+          "title": "特朗普称美股的下跌“微不足道”，未来市场将翻番",
+          "url": "https://wallstreetcn.com/livenews/3041339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "纳斯达克100股指期货涨0.3%，标普股指期货涨0.4%，在美股盘前刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3041336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "美股核电股盘前拉升，Oklo涨超8%，NANO Nuclear Energy涨超5%，NuScale Power涨超6%，此前特朗普称美国正在“大力发展”核能。",
+          "url": "https://wallstreetcn.com/livenews/3041334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         }
       ]
     },
@@ -1587,8 +2159,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[15时01分 ~ 22时23分]"
+          "appearance_count": 17,
+          "time_info": "[15时01分 ~ 22时56分]"
         },
         {
           "title": "如何看待深圳水贝市场开始炒 999.9 铜条？为什么金价一涨，其他贵金属都跟着受追捧？",
@@ -1708,8 +2280,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[09时09分 ~ 22时23分]"
+          "appearance_count": 25,
+          "time_info": "[09时09分 ~ 22时56分]"
         },
         {
           "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
@@ -1965,8 +2537,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[11时15分 ~ 22时23分]"
+          "appearance_count": 24,
+          "time_info": "[11时15分 ~ 22时56分]"
         },
         {
           "title": "DeepSeek新模型MODEL1曝光 代码预示新架构",
