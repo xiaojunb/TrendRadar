@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T15:35:02.154854+08:00",
-  "total_titles_processed": 946,
+  "generated_at": "2026-01-21T16:23:21.963924+08:00",
+  "total_titles_processed": 1046,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时09分 ~ 15时35分]"
+          "appearance_count": 13,
+          "time_info": "[09时09分 ~ 16时23分]"
         },
         {
           "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
@@ -50,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时15分 ~ 15时35分]"
+          "appearance_count": 12,
+          "time_info": "[11时15分 ~ 16时23分]"
         },
         {
           "title": "“拿地”的诱惑：格陵兰岛替代方案全否定，特朗普想要的是产权",
@@ -102,8 +102,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时15分 ~ 15时35分]"
+          "appearance_count": 12,
+          "time_info": "[11时15分 ~ 16时23分]"
         },
         {
           "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
@@ -113,11 +113,25 @@
             19,
             16,
             15,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时15分 ~ 15时35分]"
+          "appearance_count": 12,
+          "time_info": "[11时15分 ~ 16时23分]"
+        },
+        {
+          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时02分 ~ 16时23分]"
         },
         {
           "title": "冯德莱恩回应特朗普：你错了，无论政治还是商业，协议就是协议",
@@ -160,18 +174,6 @@
           "time_info": "[11时15分 ~ 15时35分]"
         },
         {
-          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时02分 ~ 15时35分]"
-        },
-        {
           "title": "特朗普称和平委员会或取代联合国",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A%E6%88%96%E5%8F%96%E4%BB%A3%E8%81%94%E5%90%88%E5%9B%BD",
           "source": "bilibili 热搜",
@@ -189,7 +191,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
         },
@@ -245,6 +247,17 @@
           "time_info": "[11时15分 ~ 12时31分]"
         },
         {
+          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
+          "url": "https://www.zhihu.com/question/1996540321803301777",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 16时23分]"
+        },
+        {
           "title": "空军一号因电路故障返航 导致特朗普的达沃斯之行延迟",
           "url": "https://wallstreetcn.com/livenews/3041004",
           "source": "华尔街见闻-快讯",
@@ -281,17 +294,6 @@
           "time_info": "[14时26分 ~ 15时02分]"
         },
         {
-          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
-          "url": "https://www.zhihu.com/question/1996540321803301777",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 13时52分]"
-        },
-        {
           "title": "特朗普未软化格陵兰岛威胁引发担忧，标普500指数现卖出信号，现货黄金多头占优。后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20260121103712089800",
           "source": "金十数据",
@@ -301,6 +303,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
+        },
+        {
+          "title": "西门子能源董事长：如果美国最高法院推翻特朗普的部分关税，我很可能会鼓励管理层申请退税。",
+          "url": "https://flash.jin10.com/detail/20260121161610375800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "雪佛龙在纠结：如何能迎合特朗普，又避免在委内瑞拉亏钱",
@@ -358,6 +371,17 @@
           "time_info": "11时15分"
         },
         {
+          "title": "西门子能源董事长：公司首席执行官将于今天晚些时候出席美国总统特朗普与高管的会议。",
+          "url": "https://flash.jin10.com/detail/20260121161147233800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "美国白宫：特朗普总统签署公告，宣布今天（2026年1月20日）为“国家爱国奉献日”。",
           "url": "https://flash.jin10.com/detail/20260121082033953800",
           "source": "金十数据",
@@ -386,7 +410,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
         },
@@ -581,11 +605,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            13
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时01分 ~ 15时35分]"
+          "appearance_count": 5,
+          "time_info": "[15时01分 ~ 16时23分]"
         },
         {
           "title": "金店店员对金价飙涨已麻木",
@@ -605,7 +630,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
         },
@@ -634,85 +659,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
-          "url": "https://wallstreetcn.com/articles/3763688",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时09分 ~ 15时35分]"
-        },
-        {
-          "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
-          "url": "https://wallstreetcn.com/articles/3763734",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时09分 ~ 15时35分]"
-        },
-        {
-          "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
-          "url": "https://wallstreetcn.com/articles/3763671",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时09分 ~ 14时26分]"
-        },
-        {
-          "title": "法兴银行：三大因素塑造推动美债走势的 “完美风暴”",
-          "url": "https://flash.jin10.com/detail/20260121105513963800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
-          "title": "贝森特称丹麦在美债中的投资地位“无关紧要”",
-          "url": "https://wallstreetcn.com/livenews/3041067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时35分"
-        },
-        {
-          "title": "市场分析：投资者正在抛售美元、美债 转而买入黄金",
-          "url": "https://flash.jin10.com/detail/20260121111537191800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -722,8 +670,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时09分 ~ 15时35分]"
+          "appearance_count": 13,
+          "time_info": "[09时09分 ~ 16时23分]"
         },
         {
           "title": "【早报】欧美股市齐跌，英伟达、特斯拉跌逾4%；近期多家银行卫星上天",
@@ -762,8 +710,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时30分 ~ 15时35分]"
+          "appearance_count": 11,
+          "time_info": "[12时30分 ~ 16时23分]"
+        },
+        {
+          "title": "拼多多美股夜盘一度涨超9%。",
+          "url": "https://wallstreetcn.com/livenews/3041116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
@@ -787,6 +746,95 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
+        },
+        {
+          "title": "拼多多美股夜盘涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3041102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
+          "url": "https://wallstreetcn.com/articles/3763688",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时09分 ~ 16时23分]"
+        },
+        {
+          "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
+          "url": "https://wallstreetcn.com/articles/3763734",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时09分 ~ 16时23分]"
+        },
+        {
+          "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
+          "url": "https://wallstreetcn.com/articles/3763671",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时09分 ~ 14时26分]"
+        },
+        {
+          "title": "法兴银行：三大因素塑造推动美债走势的 “完美风暴”",
+          "url": "https://flash.jin10.com/detail/20260121105513963800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "贝森特称丹麦在美债中的投资地位“无关紧要”",
+          "url": "https://wallstreetcn.com/livenews/3041067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
+          "title": "市场分析：投资者正在抛售美元、美债 转而买入黄金",
+          "url": "https://flash.jin10.com/detail/20260121111537191800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     },
@@ -856,8 +904,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时15分 ~ 15时35分]"
+          "appearance_count": 12,
+          "time_info": "[11时15分 ~ 16时23分]"
         },
         {
           "title": "DeepSeek新模型MODEL1曝光 代码预示新架构",
