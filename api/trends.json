@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T17:26:37.614140+08:00",
-  "total_titles_processed": 1165,
+  "generated_at": "2026-01-21T17:54:00.413531+08:00",
+  "total_titles_processed": 1227,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
@@ -103,8 +103,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时15分 ~ 17时26分]"
+          "appearance_count": 16,
+          "time_info": "[11时15分 ~ 17时54分]"
         },
         {
           "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
@@ -119,8 +119,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时15分 ~ 17时26分]"
+          "appearance_count": 16,
+          "time_info": "[11时15分 ~ 17时54分]"
         },
         {
           "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
@@ -133,8 +133,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时02分 ~ 17时26分]"
+          "appearance_count": 13,
+          "time_info": "[13时02分 ~ 17时54分]"
         },
         {
           "title": "冯德莱恩回应特朗普：你错了，无论政治还是商业，协议就是协议",
@@ -146,6 +146,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时09分 ~ 12时31分]"
+        },
+        {
+          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
+          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时55分 ~ 17时54分]"
         },
         {
           "title": "特朗普晒马克龙私信",
@@ -177,26 +188,54 @@
           "time_info": "[11时15分 ~ 15时35分]"
         },
         {
-          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
-          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 17时26分]"
-        },
-        {
           "title": "特朗普回应不去G7峰会",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%8D%E5%8E%BBG7%E5%B3%B0%E4%BC%9A",
           "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 17时54分]"
+        },
+        {
+          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
+          "url": "https://www.cls.cn/detail/2264936",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时55分 ~ 17时54分]"
+        },
+        {
+          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
+          "url": "https://www.zhihu.com/question/1996540321803301777",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时51分 ~ 17时54分]"
+        },
+        {
+          "title": "瑞典表示不会签署特朗普和平委员会计划的现行版本",
+          "url": "https://wallstreetcn.com/livenews/3041184",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时26分"
+          "time_info": "17时54分"
         },
         {
           "title": "特朗普称和平委员会或取代联合国",
@@ -246,31 +285,6 @@
           "time_info": "[09时09分 ~ 13时02分]"
         },
         {
-          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
-          "url": "https://www.zhihu.com/question/1996540321803301777",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时51分 ~ 17时26分]"
-        },
-        {
-          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
-          "url": "https://www.cls.cn/detail/2264936",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 17时26分]"
-        },
-        {
           "title": "特朗普发插旗图有何目的",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%8F%92%E6%97%97%E5%9B%BE%E6%9C%89%E4%BD%95%E7%9B%AE%E7%9A%84",
           "source": "bilibili 热搜",
@@ -306,6 +320,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时15分 ~ 12时31分]"
+        },
+        {
+          "title": "以色列罕见与特朗普公开叫板",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E7%BD%95%E8%A7%81%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E5%8F%AB%E6%9D%BF%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 17时54分]"
         },
         {
           "title": "空军一号因电路故障返航 导致特朗普的达沃斯之行延迟",
@@ -509,6 +535,17 @@
           "time_info": "12时31分"
         },
         {
+          "title": "继挪威和法国之后，瑞典拒绝加入特朗普的“加沙和平委员会”",
+          "url": "https://flash.jin10.com/detail/20260121171832769800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日特朗普将在世界经济论坛年发表讲话，美国最高法院将就库克案听取辩论。",
           "url": "https://flash.jin10.com/detail/20260121080456103800",
           "source": "金十数据",
@@ -586,17 +623,6 @@
           "time_info": "12时31分"
         },
         {
-          "title": "以色列罕见与特朗普公开叫板",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E7%BD%95%E8%A7%81%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E5%8F%AB%E6%9D%BF%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
           "title": "据华尔街日报：美国官员表示，尽管上周已撤回对伊朗的打击计划，但特朗普仍在要求幕僚提供他所谓的“决定性”军事选项。",
           "url": "https://flash.jin10.com/detail/20260121074757891800",
           "source": "金十数据",
@@ -611,8 +637,23 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
+          "url": "https://www.zhihu.com/question/1997239169450260384",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时01分 ~ 17时54分]"
+        },
         {
           "title": "如何看待深圳水贝市场开始炒 999.9 铜条？为什么金价一涨，其他贵金属都跟着受追捧？",
           "url": "https://www.zhihu.com/question/1996636704929502107",
@@ -626,21 +667,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时15分 ~ 15时02分]"
-        },
-        {
-          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
-          "url": "https://www.zhihu.com/question/1997239169450260384",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时01分 ~ 17时26分]"
         },
         {
           "title": "瑞银：金价上半年或冲击5000美元",
@@ -674,6 +700,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "金价大涨3.71%",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A83.71%25%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 17时54分]"
         },
         {
           "title": "金店店员对金价飙涨已麻木",
@@ -723,7 +760,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -733,8 +770,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时09分 ~ 17时26分]"
+          "appearance_count": 17,
+          "time_info": "[09时09分 ~ 17时54分]"
         },
         {
           "title": "【早报】欧美股市齐跌，英伟达、特斯拉跌逾4%；近期多家银行卫星上天",
@@ -803,6 +840,18 @@
           "time_info": "[16时23分 ~ 17时26分]"
         },
         {
+          "title": "拼多多美股盘前涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3041149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时54分]"
+        },
+        {
           "title": "拼多多美股夜盘涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3041102",
           "source": "华尔街见闻-快讯",
@@ -826,15 +875,15 @@
           "time_info": "11时15分"
         },
         {
-          "title": "拼多多美股盘前涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3041149",
-          "source": "华尔街见闻-快讯",
+          "title": "美股存储板块盘前普涨，闪迪(SNDK.O)涨超3%，西部数据(WDC.O)、美光科技(MU.O)涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260121171634449800",
+          "source": "金十数据",
           "ranks": [
-            10
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时26分"
+          "time_info": "17时54分"
         }
       ]
     },
@@ -852,8 +901,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时09分 ~ 17时26分]"
+          "appearance_count": 17,
+          "time_info": "[09时09分 ~ 17时54分]"
         },
         {
           "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
@@ -865,8 +914,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时09分 ~ 17时26分]"
+          "appearance_count": 17,
+          "time_info": "[09时09分 ~ 17时54分]"
         },
         {
           "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
@@ -1000,7 +1049,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         }
@@ -1020,11 +1069,12 @@
             6,
             9,
             2,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时15分 ~ 17时26分]"
+          "appearance_count": 16,
+          "time_info": "[11时15分 ~ 17时54分]"
         },
         {
           "title": "DeepSeek新模型MODEL1曝光 代码预示新架构",
