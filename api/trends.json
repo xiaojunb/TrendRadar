@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T18:18:57.541487+08:00",
-  "total_titles_processed": 1311,
+  "generated_at": "2026-01-23T18:50:37.542900+08:00",
+  "total_titles_processed": 1401,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普称加拿大因美国而存在，加总理回应",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时57分 ~ 18时18分]"
+          "appearance_count": 12,
+          "time_info": "[14时57分 ~ 18时50分]"
         },
         {
           "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
@@ -78,8 +78,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[11时15分 ~ 18时18分]"
+          "appearance_count": 21,
+          "time_info": "[11时15分 ~ 18时50分]"
         },
         {
           "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
@@ -107,6 +107,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[15时45分 ~ 18时18分]"
+        },
+        {
+          "title": "特朗普称将于4月访问中国，外交部回应",
+          "url": "https://www.cls.cn/detail/2267695",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时21分 ~ 18时50分]"
         },
         {
           "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
@@ -144,16 +158,15 @@
         },
         {
           "title": "特朗普称将于4月访问中国，外交部回应",
-          "url": "https://www.cls.cn/detail/2267695",
-          "source": "财联社热门",
+          "url": "https://news.ifeng.com/c/8q9KkztYYLL",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            4,
-            3
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时21分 ~ 18时18分]"
+          "appearance_count": 5,
+          "time_info": "[17时23分 ~ 18时50分]"
         },
         {
           "title": "可“全面进入”格陵兰岛？特朗普透露协议细节，又被“光速打脸”！",
@@ -183,18 +196,6 @@
           "time_info": "[09时09分 ~ 13时33分]"
         },
         {
-          "title": "特朗普称将于4月访问中国，外交部回应",
-          "url": "https://news.ifeng.com/c/8q9KkztYYLL",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时23分 ~ 18时18分]"
-        },
-        {
           "title": "特朗普称将于4月访华 中方回应",
           "url": "https://www.douyin.com/hot/2377206",
           "source": "抖音",
@@ -204,6 +205,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[15时45分 ~ 18时18分]"
+        },
+        {
+          "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
+          "url": "https://news.ifeng.com/c/8q9NkvGZCR6",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 18时50分]"
         },
         {
           "title": "特朗普起诉摩根大通及其CEO戴蒙 索赔至少50亿美元",
@@ -218,28 +230,18 @@
           "time_info": "[13时01分 ~ 14时58分]"
         },
         {
-          "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
-          "url": "https://news.ifeng.com/c/8q9NkvGZCR6",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 18时18分]"
-        },
-        {
           "title": "外交部回应特朗普称将于4月访问中国",
           "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
           "source": "百度热搜",
           "ranks": [
             19,
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时21分 ~ 18时18分]"
+          "appearance_count": 7,
+          "time_info": "[16时21分 ~ 18时50分]"
         },
         {
           "title": "外交部回应特朗普称将于4月访问中国",
@@ -276,6 +278,18 @@
           "time_info": "[12时27分 ~ 13时02分]"
         },
         {
+          "title": "马克龙戴着墨镜警告特朗普",
+          "url": "https://www.toutiao.com/trending/7597330066661703723/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 18时50分]"
+        },
+        {
           "title": "如何看特朗普被曝过去1年海量捞金",
           "url": "https://www.toutiao.com/trending/7598420122063080979/",
           "source": "今日头条",
@@ -310,17 +324,6 @@
           "time_info": "[15时45分 ~ 15时46分]"
         },
         {
-          "title": "马克龙戴着墨镜警告特朗普",
-          "url": "https://www.toutiao.com/trending/7597330066661703723/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 18时18分]"
-        },
-        {
           "title": "分析师：黄金越来越像是对冲特朗普政策不确定性的工具",
           "url": "https://flash.jin10.com/detail/20260123154520032800",
           "source": "金十数据",
@@ -330,6 +333,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "中方回应特朗普称将于4月访华",
+          "url": "https://www.douyin.com/hot/2377206",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
+          "title": "外交部回应特朗普称将于4月访华",
+          "url": "https://www.toutiao.com/trending/7597610597631033407/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -374,6 +399,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "中方回应特朗普称将于4月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         },
         {
           "title": "特朗普称将于4月访问中国，外交部回应",
@@ -510,11 +546,12 @@
             6,
             5,
             3,
-            2
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时24分 ~ 18时18分]"
+          "appearance_count": 13,
+          "time_info": "[14时24分 ~ 18时50分]"
         },
         {
           "title": "中方回应美国调重兵前往伊朗",
@@ -522,11 +559,12 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时45分 ~ 18时18分]"
+          "appearance_count": 9,
+          "time_info": "[15时45分 ~ 18时50分]"
         },
         {
           "title": "以媒称美近日或袭伊朗",
@@ -549,11 +587,12 @@
           "source": "抖音",
           "ranks": [
             15,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时45分 ~ 18时18分]"
+          "appearance_count": 9,
+          "time_info": "[15时45分 ~ 18时50分]"
         },
         {
           "title": "外交部回应美调重兵前往伊朗：希望各方珍惜和平",
@@ -561,11 +600,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时23分 ~ 18时18分]"
+          "appearance_count": 5,
+          "time_info": "[17时23分 ~ 18时50分]"
         },
         {
           "title": "外交部回应美调重兵前往伊朗",
@@ -576,8 +616,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 18时18分]"
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 18时50分]"
         },
         {
           "title": "外交部：中方希望伊朗保持国家稳定",
@@ -672,6 +712,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
+          "url": "https://www.zhihu.com/question/1997802145714569913",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 18时50分]"
+        },
+        {
           "title": "谷歌投资Sakana AI 旨在提升Gemini在日本的业务",
           "url": "https://flash.jin10.com/detail/20260123151617900800",
           "source": "金十数据",
@@ -682,18 +734,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时24分 ~ 15时46分]"
-        },
-        {
-          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
-          "url": "https://www.zhihu.com/question/1997802145714569913",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 18时18分]"
         },
         {
           "title": "市场消息：谷歌投资Sakana AI，旨在提升Gemini在日本的业务。",
@@ -743,7 +783,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         }
@@ -764,8 +804,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[11时15分 ~ 18时18分]"
+          "appearance_count": 21,
+          "time_info": "[11时15分 ~ 18时50分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",
