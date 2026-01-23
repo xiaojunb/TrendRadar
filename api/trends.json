@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T14:58:17.163005+08:00",
-  "total_titles_processed": 872,
+  "generated_at": "2026-01-23T15:24:39.646334+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时09分 ~ 14时58分]"
+          "appearance_count": 13,
+          "time_info": "[09时09分 ~ 15时24分]"
         },
         {
           "title": "特朗普180度转折，欧洲懵了",
@@ -51,8 +51,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时15分 ~ 14时58分]"
+          "appearance_count": 12,
+          "time_info": "[11时15分 ~ 15时24分]"
         },
         {
           "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
@@ -63,8 +63,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时15分 ~ 14时58分]"
+          "appearance_count": 12,
+          "time_info": "[11时15分 ~ 15时24分]"
         },
         {
           "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
@@ -75,8 +75,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时09分 ~ 14时58分]"
+          "appearance_count": 13,
+          "time_info": "[09时09分 ~ 15时24分]"
         },
         {
           "title": "1小时闭门会谈后，特朗普称与泽连斯基会晤非常好",
@@ -122,8 +122,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时24分 ~ 15时24分]"
+        },
+        {
+          "title": "达沃斯后，特朗普狂发80条帖子…",
+          "url": "https://news.ifeng.com/c/8q9DLsy9hjV",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时24分 ~ 14时58分]"
+          "time_info": "[14时57分 ~ 15时24分]"
         },
         {
           "title": "特朗普起诉摩根大通及其CEO戴蒙 索赔至少50亿美元",
@@ -136,17 +147,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时01分 ~ 14时58分]"
-        },
-        {
-          "title": "达沃斯后，特朗普狂发80条帖子…",
-          "url": "https://news.ifeng.com/c/8q9DLsy9hjV",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 14时58分]"
         },
         {
           "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
@@ -172,6 +172,18 @@
           "time_info": "[12时27分 ~ 13时02分]"
         },
         {
+          "title": "可“全面进入”格陵兰岛？特朗普透露协议细节，又被“光速打脸”！",
+          "url": "https://www.cls.cn/detail/2267216",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时57分 ~ 15时24分]"
+        },
+        {
           "title": "特朗普起诉美国最大银行",
           "url": "https://www.douyin.com/hot/2376663",
           "source": "抖音",
@@ -181,17 +193,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时27分 ~ 12时28分]"
-        },
-        {
-          "title": "可“全面进入”格陵兰岛？特朗普透露协议细节，又被“光速打脸”！",
-          "url": "https://www.cls.cn/detail/2267216",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 14时58分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -356,11 +357,12 @@
           "ranks": [
             16,
             9,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时09分 ~ 14时58分]"
+          "appearance_count": 11,
+          "time_info": "[09时09分 ~ 15时24分]"
         },
         {
           "title": "美国正调集重兵前往伊朗",
@@ -368,11 +370,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时24分 ~ 14时58分]"
+          "appearance_count": 4,
+          "time_info": "[14时24分 ~ 15时24分]"
         },
         {
           "title": "美军对伊朗开战进入倒计时了吗",
@@ -384,6 +387,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌投资Sakana AI 旨在提升Gemini在日本的业务",
+          "url": "https://flash.jin10.com/detail/20260123151617900800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "市场消息：谷歌投资Sakana AI，旨在提升Gemini在日本的业务。",
+          "url": "https://flash.jin10.com/detail/20260123150451290800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     },
@@ -401,8 +432,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时15分 ~ 14时58分]"
+          "appearance_count": 12,
+          "time_info": "[11时15分 ~ 15时24分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",
@@ -437,6 +468,23 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "北欧养老基金加速离场：丹麦清仓美债，瑞典跟卖，格陵兰考虑抛售美国股票",
+          "url": "https://wallstreetcn.com/articles/3763920",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 1,
       "titles": [
@@ -449,8 +497,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时09分 ~ 14时58分]"
+          "appearance_count": 13,
+          "time_info": "[09时09分 ~ 15时24分]"
         }
       ]
     }
