@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T15:46:11.917533+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-01-23T16:21:49.050959+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普称加拿大因美国而存在，加总理回应",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时09分 ~ 15时46分]"
+          "appearance_count": 16,
+          "time_info": "[09时09分 ~ 16时21分]"
         },
         {
           "title": "特朗普180度转折，欧洲懵了",
@@ -51,8 +51,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时15分 ~ 15时46分]"
+          "appearance_count": 15,
+          "time_info": "[11时15分 ~ 16时21分]"
         },
         {
           "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
@@ -63,20 +63,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时15分 ~ 15时46分]"
-        },
-        {
-          "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
-          "url": "https://news.ifeng.com/c/8q7nDFVG9w6",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
           "appearance_count": 15,
-          "time_info": "[09时09分 ~ 15时46分]"
+          "time_info": "[11时15分 ~ 16时21分]"
         },
         {
           "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
@@ -87,8 +75,31 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时24分 ~ 16时21分]"
+        },
+        {
+          "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
+          "url": "https://news.ifeng.com/c/8q7nDFVG9w6",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[09时09分 ~ 16时21分]"
+        },
+        {
+          "title": "达沃斯后，特朗普狂发80条帖子…",
+          "url": "https://news.ifeng.com/c/8q9DLsy9hjV",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[14时24分 ~ 15时46分]"
+          "time_info": "[14时57分 ~ 16时21分]"
         },
         {
           "title": "1小时闭门会谈后，特朗普称与泽连斯基会晤非常好",
@@ -111,17 +122,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时09分 ~ 13时33分]"
-        },
-        {
-          "title": "达沃斯后，特朗普狂发80条帖子…",
-          "url": "https://news.ifeng.com/c/8q9DLsy9hjV",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时57分 ~ 15时46分]"
         },
         {
           "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
@@ -149,6 +149,32 @@
           "time_info": "[13时01分 ~ 14时58分]"
         },
         {
+          "title": "可“全面进入”格陵兰岛？特朗普透露协议细节，又被“光速打脸”！",
+          "url": "https://www.cls.cn/detail/2267216",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时57分 ~ 16时21分]"
+        },
+        {
+          "title": "特朗普称将于4月访华 中方回应",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E%20%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时45分 ~ 16时21分]"
+        },
+        {
           "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
           "url": "https://wallstreetcn.com/articles/3763883",
           "source": "华尔街见闻",
@@ -158,19 +184,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
-        },
-        {
-          "title": "可“全面进入”格陵兰岛？特朗普透露协议细节，又被“光速打脸”！",
-          "url": "https://www.cls.cn/detail/2267216",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时57分 ~ 15时46分]"
         },
         {
           "title": "特朗普启程返回华盛顿",
@@ -186,14 +199,14 @@
         },
         {
           "title": "特朗普称将于4月访华 中方回应",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E%20%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94",
-          "source": "bilibili 热搜",
+          "url": "https://www.douyin.com/hot/2377206",
+          "source": "抖音",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时45分 ~ 15时46分]"
+          "appearance_count": 3,
+          "time_info": "[15时45分 ~ 16时21分]"
         },
         {
           "title": "特朗普起诉美国最大银行",
@@ -207,17 +220,6 @@
           "time_info": "[12时27分 ~ 12时28分]"
         },
         {
-          "title": "特朗普称将于4月访华 中方回应",
-          "url": "https://www.douyin.com/hot/2377206",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时45分 ~ 15时46分]"
-        },
-        {
           "title": "特朗普：将对所有与伊朗进行贸易往来国家加征25%关税",
           "url": "https://www.cls.cn/detail/2267185",
           "source": "财联社热门",
@@ -227,6 +229,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时45分 ~ 15时46分]"
+        },
+        {
+          "title": "分析师：黄金越来越像是对冲特朗普政策不确定性的工具",
+          "url": "https://flash.jin10.com/detail/20260123154520032800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "特朗普称将于4月访问中国，外交部回应",
+          "url": "https://www.cls.cn/detail/2267695",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -268,9 +292,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
+        },
+        {
+          "title": "法国外交部长：目前尚无北约秘书长与美国总统特朗普就格陵兰岛达成协议的细节。",
+          "url": "https://flash.jin10.com/detail/20260123153716040800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "特朗普态度大转弯：与北约就格陵兰达成“框架协议”，取消对欧关税",
@@ -293,6 +328,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "外交部回应特朗普称将于4月访问中国",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "外交部回应特朗普称将于4月访问中国",
+          "url": "https://www.toutiao.com/trending/7597610597631033407/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "特朗普：和平委员会撤回对加拿大的邀请。",
@@ -356,6 +413,20 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "美国正调集重兵前往伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E8%B0%83%E9%9B%86%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时24分 ~ 16时21分]"
+        },
+        {
           "title": "以媒称美近日或袭伊朗",
           "url": "https://www.douyin.com/hot/2376219",
           "source": "抖音",
@@ -367,32 +438,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时09分 ~ 15时46分]"
-        },
-        {
-          "title": "美国正调集重兵前往伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E8%B0%83%E9%9B%86%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时24分 ~ 15时46分]"
+          "appearance_count": 14,
+          "time_info": "[09时09分 ~ 16时21分]"
         },
         {
           "title": "中方回应美国调重兵前往伊朗",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E8%B0%83%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时45分 ~ 15时46分]"
+          "appearance_count": 3,
+          "time_info": "[15时45分 ~ 16时21分]"
         },
         {
           "title": "外交部回应美调重兵前往伊朗",
@@ -402,8 +461,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时45分 ~ 15时46分]"
+          "appearance_count": 3,
+          "time_info": "[15时45分 ~ 16时21分]"
         },
         {
           "title": "外交部：中方希望伊朗保持国家稳定",
@@ -412,7 +471,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -431,8 +490,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "分析师：黄金牛市由“非投机性”资金驱动，金价可能进一步大幅上行",
+          "url": "https://flash.jin10.com/detail/20260123155346150800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
         {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
@@ -455,6 +525,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "金价疯涨原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%96%AF%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "金十图示：2026年01月23日（周五）上海金早盘价为1109.42元/克，较国际金价(1109.87元/克)，低0.45元/克",
@@ -512,8 +593,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时15分 ~ 15时46分]"
+          "appearance_count": 15,
+          "time_info": "[11时15分 ~ 16时21分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",
@@ -579,6 +660,23 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[09时09分 ~ 15时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY短线下跌25点，现报98.27。",
+          "url": "https://flash.jin10.com/detail/20260123154510389800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         }
       ]
     }
