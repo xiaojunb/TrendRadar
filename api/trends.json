@@ -1,22 +1,35 @@
 {
-  "generated_at": "2026-01-23T13:33:08.179334+08:00",
-  "total_titles_processed": 692,
+  "generated_at": "2026-01-23T14:24:37.601909+08:00",
+  "total_titles_processed": 785,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普称加拿大因美国而存在，加总理回应",
           "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时09分 ~ 13时33分]"
+          "appearance_count": 10,
+          "time_info": "[09时09分 ~ 14时24分]"
+        },
+        {
+          "title": "特朗普180度转折，欧洲懵了",
+          "url": "https://wallstreetcn.com/articles/3763911",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时09分 ~ 14时24分]"
         },
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -30,18 +43,6 @@
           "time_info": "[09时09分 ~ 13时33分]"
         },
         {
-          "title": "特朗普180度转折，欧洲懵了",
-          "url": "https://wallstreetcn.com/articles/3763911",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时09分 ~ 13时33分]"
-        },
-        {
           "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
           "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
           "source": "凤凰网",
@@ -49,30 +50,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时15分 ~ 13时33分]"
+          "appearance_count": 9,
+          "time_info": "[11时15分 ~ 14时24分]"
         },
         {
           "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
           "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
           "source": "凤凰网",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时15分 ~ 13时33分]"
-        },
-        {
-          "title": "特朗普达沃斯演讲，被群嘲了",
-          "url": "https://news.ifeng.com/c/8q7oOaAst69",
-          "source": "凤凰网",
-          "ranks": [
+            5,
             6
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[09时09分 ~ 13时33分]"
+          "time_info": "[11时15分 ~ 14时24分]"
         },
         {
           "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
@@ -81,6 +72,28 @@
           "ranks": [
             7,
             8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时09分 ~ 14时24分]"
+        },
+        {
+          "title": "1小时闭门会谈后，特朗普称与泽连斯基会晤非常好",
+          "url": "https://news.ifeng.com/c/8q88cGpXCla",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时09分 ~ 14时24分]"
+        },
+        {
+          "title": "特朗普达沃斯演讲，被群嘲了",
+          "url": "https://news.ifeng.com/c/8q7oOaAst69",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -100,17 +113,6 @@
           "time_info": "[09时09分 ~ 13时33分]"
         },
         {
-          "title": "1小时闭门会谈后，特朗普称与泽连斯基会晤非常好",
-          "url": "https://news.ifeng.com/c/8q88cGpXCla",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时09分 ~ 13时33分]"
-        },
-        {
           "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
           "url": "https://wallstreetcn.com/articles/3763883",
           "source": "华尔街见闻",
@@ -122,6 +124,17 @@
           "time_info": "09时09分"
         },
         {
+          "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
+          "url": "https://news.ifeng.com/c/8q96HMKxd1u",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
           "title": "特朗普起诉摩根大通及其CEO戴蒙 索赔至少50亿美元",
           "url": "https://www.cls.cn/detail/2267102",
           "source": "财联社热门",
@@ -129,8 +142,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时01分 ~ 13时33分]"
+          "appearance_count": 5,
+          "time_info": "[13时01分 ~ 14时24分]"
         },
         {
           "title": "特朗普启程返回华盛顿",
@@ -308,6 +321,47 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "以媒称美近日或袭伊朗",
+          "url": "https://www.douyin.com/hot/2376219",
+          "source": "抖音",
+          "ranks": [
+            16,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时09分 ~ 14时24分]"
+        },
+        {
+          "title": "美国正调集重兵前往伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E8%B0%83%E9%9B%86%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
+          "title": "美军对伊朗开战进入倒计时了吗",
+          "url": "https://www.toutiao.com/trending/7598386191951466003/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 2,
       "titles": [
@@ -317,11 +371,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时15分 ~ 13时33分]"
+          "appearance_count": 9,
+          "time_info": "[11时15分 ~ 14时24分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",
@@ -368,27 +423,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时09分 ~ 13时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "以媒称美近日或袭伊朗",
-          "url": "https://www.douyin.com/hot/2376219",
-          "source": "抖音",
-          "ranks": [
-            16,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时09分 ~ 13时33分]"
+          "appearance_count": 10,
+          "time_info": "[09时09分 ~ 14时24分]"
         }
       ]
     }
