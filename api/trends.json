@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T11:16:15.791739+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-01-23T12:28:08.189723+08:00",
+  "total_titles_processed": 584,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普称加拿大因美国而存在，加总理回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 11时16分]"
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 12时28分]"
         },
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 11时16分]"
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 12时28分]"
         },
         {
           "title": "特朗普180度转折，欧洲懵了",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 11时16分]"
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 12时28分]"
         },
         {
           "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 12时28分]"
         },
         {
           "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
@@ -60,8 +60,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 12时28分]"
+        },
+        {
+          "title": "特朗普达沃斯演讲，被群嘲了",
+          "url": "https://news.ifeng.com/c/8q7oOaAst69",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 12时28分]"
         },
         {
           "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
@@ -75,17 +86,6 @@
           "time_info": "09时09分"
         },
         {
-          "title": "特朗普达沃斯演讲，被群嘲了",
-          "url": "https://news.ifeng.com/c/8q7oOaAst69",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 11时16分]"
-        },
-        {
           "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
           "url": "https://news.ifeng.com/c/8q7nDFVG9w6",
           "source": "凤凰网",
@@ -94,8 +94,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 11时16分]"
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 12时28分]"
         },
         {
           "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
@@ -103,11 +103,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 11时16分]"
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 12时28分]"
         },
         {
           "title": "1小时闭门会谈后，特朗普称与泽连斯基会晤非常好",
@@ -117,8 +118,30 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 11时16分]"
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 12时28分]"
+        },
+        {
+          "title": "特朗普起诉美国最大银行",
+          "url": "https://www.douyin.com/hot/2376663",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 12时28分]"
+        },
+        {
+          "title": "特朗普启程返回华盛顿",
+          "url": "https://www.toutiao.com/trending/7597622481931337770/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 12时28分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -138,7 +161,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -182,7 +205,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -215,7 +238,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -254,9 +277,38 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",
+          "url": "https://flash.jin10.com/detail/20260123120453959800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
+        },
+        {
+          "title": "开年已涨超11%！高盛：上调黄金年末价格预期至5400美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32442551",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 12时28分]"
         }
       ]
     },
@@ -278,23 +330,6 @@
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "开年已涨超11%！高盛：上调黄金年末价格预期至5400美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32442551",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 1,
       "titles": [
@@ -307,8 +342,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 11时16分]"
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 12时28分]"
         }
       ]
     },
@@ -322,11 +357,12 @@
           "source": "抖音",
           "ranks": [
             16,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 11时16分]"
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 12时28分]"
         }
       ]
     }
