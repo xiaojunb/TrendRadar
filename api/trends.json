@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T15:15:54.089946+08:00",
-  "total_titles_processed": 716,
+  "generated_at": "2026-01-24T15:39:30.380901+08:00",
+  "total_titles_processed": 748,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "没想到特朗普这样侮辱人，英国气炸了",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时09分 ~ 15时15分]"
+          "appearance_count": 13,
+          "time_info": "[11时09分 ~ 15时39分]"
         },
         {
           "title": "斯塔默要求特朗普道歉，白宫回应",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时09分 ~ 15时15分]"
+          "appearance_count": 13,
+          "time_info": "[11时09分 ~ 15时39分]"
         },
         {
           "title": "特朗普变卦",
@@ -37,20 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时09分 ~ 15时15分]"
-        },
-        {
-          "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
-          "url": "https://wallstreetcn.com/articles/3764066",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时10分 ~ 15时15分]"
+          "appearance_count": 13,
+          "time_info": "[11时09分 ~ 15时39分]"
         },
         {
           "title": "白宫晒特朗普格陵兰牵企鹅照翻车",
@@ -63,8 +51,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时52分 ~ 15时15分]"
+          "appearance_count": 9,
+          "time_info": "[12时52分 ~ 15时39分]"
+        },
+        {
+          "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
+          "url": "https://wallstreetcn.com/articles/3764066",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时10分 ~ 15时39分]"
         },
         {
           "title": "达沃斯论坛受挫后，特朗普狂发80条帖子，一度每4分钟发一条",
@@ -74,8 +74,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时09分 ~ 15时15分]"
+          "appearance_count": 13,
+          "time_info": "[11时09分 ~ 15时39分]"
+        },
+        {
+          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
+          "url": "https://flash.jin10.com/detail/20260124113127622800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            3,
+            4,
+            8,
+            9,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时11分 ~ 15时39分]"
         },
         {
           "title": "报道：特朗普要求格陵兰全面放开军事限制",
@@ -103,22 +120,6 @@
           "time_info": "[09时06分 ~ 15时15分]"
         },
         {
-          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
-          "url": "https://flash.jin10.com/detail/20260124113127622800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            3,
-            4,
-            8,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时11分 ~ 15时15分]"
-        },
-        {
           "title": "英国首相要求特朗普为相关言论道歉",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E8%A6%81%E6%B1%82%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E7%9B%B8%E5%85%B3%E8%A8%80%E8%AE%BA%E9%81%93%E6%AD%89",
           "source": "百度热搜",
@@ -129,8 +130,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时10分 ~ 14时53分]"
+          "appearance_count": 10,
+          "time_info": "[12时10分 ~ 15时39分]"
         },
         {
           "title": "巴西总统卢拉：特朗普试图以“和平委员会”取代联合国",
@@ -241,6 +242,17 @@
           "time_info": "09时06分"
         },
         {
+          "title": "乌克兰总统泽连斯基：俄罗斯对能源设施的打击证明，防空物资供应绝不能拖延，与美国总统特朗普在达沃斯达成的防空协议必须得到全面落实。",
+          "url": "https://flash.jin10.com/detail/20260124152358340800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友“惊呆”：格陵兰岛没有企鹅啊……",
           "url": "https://wallstreetcn.com/livenews/3043204",
           "source": "华尔街见闻-快讯",
@@ -284,7 +296,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -312,6 +324,17 @@
           "time_info": "[09时06分 ~ 12时11分]"
         },
         {
+          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
+          "url": "https://wallstreetcn.com/articles/3764068",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时22分 ~ 15时39分]"
+        },
+        {
           "title": "特朗普称联邦紧急事务管理局已做好充分准备应对冬季风暴",
           "url": "https://wallstreetcn.com/livenews/3043186",
           "source": "华尔街见闻-快讯",
@@ -324,15 +347,16 @@
           "time_info": "[09时06分 ~ 11时10分]"
         },
         {
-          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
-          "url": "https://wallstreetcn.com/articles/3764068",
-          "source": "华尔街见闻",
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            20,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时22分 ~ 15时15分]"
+          "time_info": "[14时53分 ~ 15时39分]"
         },
         {
           "title": "卢拉批评特朗普：试图组建所谓“和平委员会”取代联合国",
@@ -370,17 +394,6 @@
           "time_info": "[13时43分 ~ 14时22分]"
         },
         {
-          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 15时15分]"
-        },
-        {
           "title": "4人争夺美联储主席，谁能讨好特朗普又不毁美元信用？专家解读",
           "url": "https://news.ifeng.com/c/8q9ns1tf1Fj",
           "source": "凤凰网",
@@ -401,6 +414,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
+          "url": "https://www.cls.cn/detail/2268566",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "美媒：特朗普政府考虑对古巴石油进口实施海上封锁",
@@ -461,7 +485,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "外交部回应美调重兵前往伊朗",
@@ -472,11 +496,12 @@
             2,
             8,
             9,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时06分 ~ 14时53分]"
+          "appearance_count": 12,
+          "time_info": "[09时06分 ~ 15时39分]"
         },
         {
           "title": "外交部回应美调重兵前往伊朗：希望各方珍惜和平",
@@ -487,8 +512,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时06分 ~ 15时15分]"
+          "appearance_count": 14,
+          "time_info": "[09时06分 ~ 15时39分]"
         },
         {
           "title": "伊朗官员：伊朗军队已做好应对最坏情况的准备",
@@ -498,8 +523,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时09分 ~ 15时15分]"
+          "appearance_count": 13,
+          "time_info": "[11时09分 ~ 15时39分]"
         },
         {
           "title": "伊朗官员：伊朗军队已做好应对最坏情况的准备",
@@ -511,11 +536,30 @@
             5,
             9,
             10,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时11分 ~ 15时15分]"
+          "appearance_count": 8,
+          "time_info": "[12时11分 ~ 15时39分]"
+        },
+        {
+          "title": "伊朗：任何形式的攻击都将被视作对伊“全面战争”",
+          "url": "https://wallstreetcn.com/livenews/3043214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            13,
+            16,
+            17,
+            21,
+            24,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时11分 ~ 15时39分]"
         },
         {
           "title": "伊朗官员：伊朗军队已做好应对最坏情况的准备",
@@ -535,45 +579,29 @@
           "time_info": "[11时10分 ~ 14时53分]"
         },
         {
-          "title": "伊朗：任何形式的攻击都将被视作对伊“全面战争”",
-          "url": "https://wallstreetcn.com/livenews/3043214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            13,
-            16,
-            17,
-            21,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时11分 ~ 15时15分]"
-        },
-        {
           "title": "伊朗方面称，两名与“伊斯兰国”有关联的男子因2023年载有朝圣者的巴士的爆炸案被处决。",
           "url": "https://flash.jin10.com/detail/20260124141207928800",
           "source": "金十数据",
           "ranks": [
             1,
             2,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时22分 ~ 15时15分]"
+          "appearance_count": 4,
+          "time_info": "[14时22分 ~ 15时39分]"
         },
         {
-          "title": "巴基斯坦外交部：副总理伊沙克·达尔今日接到伊朗外交部长阿拉格希的电话。",
-          "url": "https://flash.jin10.com/detail/20260124150018774800",
-          "source": "金十数据",
+          "title": "伊朗对两名ISIS成员处以绞刑",
+          "url": "https://wallstreetcn.com/livenews/3043242",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时15分"
+          "time_info": "15时39分"
         },
         {
           "title": "多名美官员访问以色列 将讨论加沙和伊朗问题",
@@ -590,6 +618,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时11分 ~ 14时53分]"
+        },
+        {
+          "title": "巴基斯坦外交部：副总理伊沙克·达尔今日接到伊朗外交部长阿拉格希的电话。",
+          "url": "https://flash.jin10.com/detail/20260124150018774800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时15分 ~ 15时39分]"
         },
         {
           "title": "伊朗电视台现场展示自产无人机 曾在以伊冲突中投入使用",
@@ -673,8 +713,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时06分 ~ 15时15分]"
+          "appearance_count": 14,
+          "time_info": "[09时06分 ~ 15时39分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -685,8 +725,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时06分 ~ 15时15分]"
+          "appearance_count": 14,
+          "time_info": "[09时06分 ~ 15时39分]"
         },
         {
           "title": "明晟公司（MSCI）新兴市场股票指数涨0.4%，创历史新高，连续第五个交易日上涨，创2025年5月份以来最长连涨天数。 阿里巴巴、台积电、MediaTek Inc.等亚洲科技股贡献突出。 2025年迄今，指数累计上涨大约7.0%，同期标普500指数累涨约1%。 拉美股市周五上涨，地区指数涨约1.3%，今年迄今累计上涨将近14%，MSCI新兴市场拉美股票指数创2018年以来收盘新高。巴西基准股指周五领涨，本周涨约8.7%。",
