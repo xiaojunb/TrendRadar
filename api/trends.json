@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T22:14:33.816842+08:00",
-  "total_titles_processed": 1253,
+  "generated_at": "2026-01-24T22:42:38.707559+08:00",
+  "total_titles_processed": 1283,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "没想到特朗普这样侮辱人，英国气炸了",
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[12时10分 ~ 22时14分]"
+          "appearance_count": 29,
+          "time_info": "[12时10分 ~ 22时42分]"
         },
         {
           "title": "白宫晒特朗普格陵兰牵企鹅照翻车",
@@ -76,8 +76,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[14时22分 ~ 22时14分]"
+          "appearance_count": 22,
+          "time_info": "[14时22分 ~ 22时42分]"
         },
         {
           "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
@@ -151,8 +151,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[14时53分 ~ 22时14分]"
+          "appearance_count": 21,
+          "time_info": "[14时53分 ~ 22时42分]"
         },
         {
           "title": "特朗普调重兵赴中东，伊朗：手指已放扳机上",
@@ -280,6 +280,21 @@
           "time_info": "[12时52分 ~ 14时53分]"
         },
         {
+          "title": "深度解析特朗普365天赢学",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE365%E5%A4%A9%E8%B5%A2%E5%AD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            30,
+            28,
+            19,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时19分 ~ 22时42分]"
+        },
+        {
           "title": "特朗普称联邦紧急事务管理局已做好充分准备应对冬季风暴",
           "url": "https://flash.jin10.com/detail/20260124082538327800",
           "source": "金十数据",
@@ -323,20 +338,6 @@
           "time_info": "[11时09分 ~ 12时11分]"
         },
         {
-          "title": "深度解析特朗普365天赢学",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE365%E5%A4%A9%E8%B5%A2%E5%AD%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            30,
-            28,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 22时14分]"
-        },
-        {
           "title": "特朗普称将于4月访问中国，外交部回应",
           "url": "https://news.ifeng.com/c/8q9KkztYYLL",
           "source": "凤凰网",
@@ -346,6 +347,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "美国财政部：特朗普将出席特朗普账户峰会",
+          "url": "https://wallstreetcn.com/livenews/3043301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "欧洲央行管委内格尔：特朗普关税政策的最大受害者是美国消费者。",
@@ -362,6 +374,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[17时15分 ~ 19时37分]"
+        },
+        {
+          "title": "丹麦首相表示无法接受特朗普对盟国的质疑",
+          "url": "https://wallstreetcn.com/livenews/3043300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友“惊呆”：格陵兰岛没有企鹅啊……",
@@ -401,28 +424,6 @@
           "time_info": "09时06分"
         },
         {
-          "title": "据AXIOS：特朗普将于当地时间下周三出席有关“特朗普账户”的峰会。",
-          "url": "https://flash.jin10.com/detail/20260124214240253800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "特朗普告诉《纽约邮报》，委内瑞拉石油将运往休斯敦炼油厂。",
-          "url": "https://wallstreetcn.com/livenews/3043293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
           "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
           "url": "https://news.ifeng.com/c/8q9NkvGZCR6",
           "source": "凤凰网",
@@ -432,17 +433,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
-        },
-        {
-          "title": "美国总统特朗普：美国已从被扣押的委内瑞拉油轮上获取了石油。委内瑞拉石油将运往休斯顿炼油厂。",
-          "url": "https://flash.jin10.com/detail/20260124214134476800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
         },
         {
           "title": "乌克兰总统泽连斯基：俄罗斯对能源设施的打击证明，防空物资供应绝不能拖延，与美国总统特朗普在达沃斯达成的防空协议必须得到全面落实。",
@@ -476,11 +466,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            7
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时47分 ~ 22时42分]"
+        },
+        {
+          "title": "据AXIOS：特朗普将于当地时间下周三出席有关“特朗普账户”的峰会。",
+          "url": "https://flash.jin10.com/detail/20260124214240253800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时47分 ~ 22时14分]"
+          "time_info": "[22时14分 ~ 22时42分]"
         },
         {
           "title": "特朗普炫耀美军“秘密声波武器”俄方要求美方做出澄清",
@@ -508,6 +511,55 @@
           "time_info": "[09时06分 ~ 11时10分]"
         },
         {
+          "title": "特朗普告诉《纽约邮报》，委内瑞拉石油将运往休斯敦炼油厂。",
+          "url": "https://wallstreetcn.com/livenews/3043293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时14分 ~ 22时42分]"
+        },
+        {
+          "title": "美国总统特朗普：美国已从被扣押的委内瑞拉油轮上获取了石油。委内瑞拉石油将运往休斯顿炼油厂。",
+          "url": "https://flash.jin10.com/detail/20260124214134476800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时14分 ~ 22时42分]"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格斯表现非常出色。",
+          "url": "https://flash.jin10.com/detail/20260124211543155800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时47分 ~ 22时42分]"
+        },
+        {
+          "title": "大外交｜格陵兰岛、和平委员会与摇摆盟友：特朗普的达沃斯“个人秀”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32456708",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时47分 ~ 22时42分]"
+        },
+        {
           "title": "意总理私下劝欧盟别和特朗普对抗",
           "url": "https://www.toutiao.com/trending/7598077409648820287/",
           "source": "今日头条",
@@ -518,18 +570,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时14分 ~ 18时44分]"
-        },
-        {
-          "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格斯表现非常出色。",
-          "url": "https://flash.jin10.com/detail/20260124211543155800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 22时14分]"
         },
         {
           "title": "卢拉批评特朗普：试图组建所谓“和平委员会”取代联合国",
@@ -565,17 +605,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时43分 ~ 14时22分]"
-        },
-        {
-          "title": "大外交｜格陵兰岛、和平委员会与摇摆盟友：特朗普的达沃斯“个人秀”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32456708",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 22时14分]"
         },
         {
           "title": "4人争夺美联储主席，谁能讨好特朗普又不毁美元信用？专家解读",
@@ -642,6 +671,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "媒体：特朗普的胜利清单写满“抢钱”",
+          "url": "https://www.toutiao.com/trending/7598842591137792038/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "加州司法部长将就Sable Offshore输油管道重启一事起诉特朗普政府。",
@@ -833,17 +873,6 @@
           "time_info": "[12时11分 ~ 14时53分]"
         },
         {
-          "title": "伊朗国防部：伊朗的导弹防御能力得到加强",
-          "url": "https://wallstreetcn.com/livenews/3043294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
           "title": "消息人士：美国正在向玻利维亚施压，要求其驱逐疑似伊朗间谍，并将伊朗伊斯兰革命卫队（IRGC）列为恐怖组织。美国官员也在讨论在智利、秘鲁、巴拿马采取类似举措。",
           "url": "https://flash.jin10.com/detail/20260124190033665800",
           "source": "金十数据",
@@ -858,6 +887,31 @@
           "time_info": "[19时37分 ~ 21时47分]"
         },
         {
+          "title": "伊朗国防部：伊朗的导弹防御能力得到加强",
+          "url": "https://wallstreetcn.com/livenews/3043294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时14分 ~ 22时42分]"
+        },
+        {
+          "title": "伊朗国防部：伊朗的导弹防御能力得到加强",
+          "url": "https://flash.jin10.com/detail/20260124213101931800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时47分 ~ 22时42分]"
+        },
+        {
           "title": "伊朗电视台现场展示自产无人机 曾在以伊冲突中投入使用",
           "url": "https://wallstreetcn.com/livenews/3043187",
           "source": "华尔街见闻-快讯",
@@ -868,18 +922,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时06分 ~ 11时10分]"
-        },
-        {
-          "title": "伊朗国防部：伊朗的导弹防御能力得到加强",
-          "url": "https://flash.jin10.com/detail/20260124213101931800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 22时14分]"
         },
         {
           "title": "美国正调遣重兵前往伊朗，伊朗军方警告：“随时准备扣动扳机”",
@@ -899,11 +941,12 @@
           "source": "金十数据",
           "ranks": [
             17,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 22时14分]"
+          "appearance_count": 3,
+          "time_info": "[21时47分 ~ 22时42分]"
         },
         {
           "title": "中方回应美国调重兵前往伊朗",
@@ -974,8 +1017,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[09时06分 ~ 22时14分]"
+          "appearance_count": 32,
+          "time_info": "[09时06分 ~ 22时42分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -988,8 +1031,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[09时06分 ~ 22时14分]"
+          "appearance_count": 32,
+          "time_info": "[09时06分 ~ 22时42分]"
         },
         {
           "title": "明晟公司（MSCI）新兴市场股票指数涨0.4%，创历史新高，连续第五个交易日上涨，创2025年5月份以来最长连涨天数。 阿里巴巴、台积电、MediaTek Inc.等亚洲科技股贡献突出。 2025年迄今，指数累计上涨大约7.0%，同期标普500指数累涨约1%。 拉美股市周五上涨，地区指数涨约1.3%，今年迄今累计上涨将近14%，MSCI新兴市场拉美股票指数创2018年以来收盘新高。巴西基准股指周五领涨，本周涨约8.7%。",
@@ -1031,8 +1074,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时44分 ~ 22时14分]"
+          "appearance_count": 10,
+          "time_info": "[18时44分 ~ 22时42分]"
         },
         {
           "title": "金价疯涨的底层逻辑",
@@ -1043,8 +1086,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 22时14分]"
+          "appearance_count": 3,
+          "time_info": "[21时47分 ~ 22时42分]"
         }
       ]
     },
