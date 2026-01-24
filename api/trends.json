@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T16:19:18.385376+08:00",
-  "total_titles_processed": 802,
+  "generated_at": "2026-01-24T16:48:13.824575+08:00",
+  "total_titles_processed": 847,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时09分 ~ 16时19分]"
+          "appearance_count": 16,
+          "time_info": "[11时09分 ~ 16时48分]"
         },
         {
           "title": "特朗普变卦",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时09分 ~ 16时19分]"
+          "appearance_count": 16,
+          "time_info": "[11时09分 ~ 16时48分]"
         },
         {
           "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时10分 ~ 16时19分]"
+          "appearance_count": 14,
+          "time_info": "[12时10分 ~ 16时48分]"
         },
         {
           "title": "白宫晒特朗普格陵兰牵企鹅照翻车",
@@ -93,8 +93,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时09分 ~ 16时19分]"
+          "appearance_count": 16,
+          "time_info": "[11时09分 ~ 16时48分]"
         },
         {
           "title": "报道：特朗普要求格陵兰全面放开军事限制",
@@ -105,8 +105,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时06分 ~ 16时19分]"
+          "appearance_count": 13,
+          "time_info": "[09时06分 ~ 16时48分]"
         },
         {
           "title": "特朗普调重兵赴中东，伊朗：手指已放扳机上",
@@ -134,6 +134,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[12时10分 ~ 15时39分]"
+        },
+        {
+          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
+          "url": "https://wallstreetcn.com/articles/3764068",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时22分 ~ 16时48分]"
         },
         {
           "title": "巴西总统卢拉：特朗普试图以“和平委员会”取代联合国",
@@ -164,18 +176,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时09分 ~ 13时17分]"
-        },
-        {
-          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
-          "url": "https://wallstreetcn.com/articles/3764068",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时22分 ~ 16时19分]"
         },
         {
           "title": "英国首相：特朗普应就北约盟友“脱离前线”言论道歉",
@@ -256,13 +256,26 @@
           "time_info": "09时06分"
         },
         {
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时53分 ~ 16时48分]"
+        },
+        {
           "title": "深度解析特朗普365天赢学",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE365%E5%A4%A9%E8%B5%A2%E5%AD%A6",
           "source": "bilibili 热搜",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -304,6 +317,19 @@
           "time_info": "09时06分"
         },
         {
+          "title": "为何特朗普想要格陵兰岛",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E8%A6%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            27,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时15分 ~ 16时48分]"
+        },
+        {
           "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
           "url": "https://news.ifeng.com/c/8q9NkvGZCR6",
           "source": "凤凰网",
@@ -332,11 +358,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 16时19分]"
+          "appearance_count": 3,
+          "time_info": "[15时39分 ~ 16时48分]"
         },
         {
           "title": "特朗普称联邦紧急事务管理局已做好充分准备应对冬季风暴",
@@ -349,30 +376,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时06分 ~ 11时10分]"
-        },
-        {
-          "title": "为何特朗普想要格陵兰岛",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E8%A6%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 16时19分]"
-        },
-        {
-          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时53分 ~ 16时19分]"
         },
         {
           "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
@@ -501,7 +504,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "外交部回应美调重兵前往伊朗",
@@ -539,8 +542,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时09分 ~ 16时19分]"
+          "appearance_count": 16,
+          "time_info": "[11时09分 ~ 16时48分]"
         },
         {
           "title": "伊朗官员：伊朗军队已做好应对最坏情况的准备",
@@ -578,6 +581,22 @@
           "time_info": "[12时11分 ~ 15时39分]"
         },
         {
+          "title": "伊朗方面称，两名与“伊斯兰国”有关联的男子因2023年载有朝圣者的巴士的爆炸案被处决。",
+          "url": "https://flash.jin10.com/detail/20260124141207928800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            2,
+            7,
+            12,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时22分 ~ 16时48分]"
+        },
+        {
           "title": "伊朗官员：伊朗军队已做好应对最坏情况的准备",
           "url": "https://wallstreetcn.com/livenews/3043208",
           "source": "华尔街见闻-快讯",
@@ -593,21 +612,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时10分 ~ 14时53分]"
-        },
-        {
-          "title": "伊朗方面称，两名与“伊斯兰国”有关联的男子因2023年载有朝圣者的巴士的爆炸案被处决。",
-          "url": "https://flash.jin10.com/detail/20260124141207928800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            2,
-            7,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时22分 ~ 16时19分]"
         },
         {
           "title": "多名美官员访问以色列 将讨论加沙和伊朗问题",
@@ -626,17 +630,29 @@
           "time_info": "[12时11分 ~ 14时53分]"
         },
         {
+          "title": "土耳其外长说以色列正伺机攻击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3043253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
           "title": "巴基斯坦外交部：副总理伊沙克·达尔今日接到伊朗外交部长阿拉格希的电话。",
           "url": "https://flash.jin10.com/detail/20260124150018774800",
           "source": "金十数据",
           "ranks": [
             1,
             6,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时15分 ~ 16时19分]"
+          "appearance_count": 4,
+          "time_info": "[15时15分 ~ 16时48分]"
         },
         {
           "title": "伊朗对两名ISIS成员处以绞刑",
@@ -644,11 +660,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 16时19分]"
+          "appearance_count": 3,
+          "time_info": "[15时39分 ~ 16时48分]"
         },
         {
           "title": "伊朗电视台现场展示自产无人机 曾在以伊冲突中投入使用",
@@ -725,7 +742,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         }
@@ -743,8 +760,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时06分 ~ 16时19分]"
+          "appearance_count": 17,
+          "time_info": "[09时06分 ~ 16时48分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -755,8 +772,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时06分 ~ 16时19分]"
+          "appearance_count": 17,
+          "time_info": "[09时06分 ~ 16时48分]"
         },
         {
           "title": "明晟公司（MSCI）新兴市场股票指数涨0.4%，创历史新高，连续第五个交易日上涨，创2025年5月份以来最长连涨天数。 阿里巴巴、台积电、MediaTek Inc.等亚洲科技股贡献突出。 2025年迄今，指数累计上涨大约7.0%，同期标普500指数累涨约1%。 拉美股市周五上涨，地区指数涨约1.3%，今年迄今累计上涨将近14%，MSCI新兴市场拉美股票指数创2018年以来收盘新高。巴西基准股指周五领涨，本周涨约8.7%。",
@@ -791,11 +808,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E9%AB%98%E7%AE%A1%E8%B0%88AI%E5%BC%80%E5%8F%91%E7%9A%84%E5%8D%B1%E4%B8%8E%E6%9C%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            26
+            26,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 16时48分]"
         }
       ]
     },
