@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T17:57:16.743842+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2026-01-26T18:21:49.712031+08:00",
+  "total_titles_processed": 1184,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时29分 ~ 17时57分]"
+          "appearance_count": 16,
+          "time_info": "[11时29分 ~ 18时21分]"
         },
         {
           "title": "白宫发布“特朗普和企鹅漫步格陵兰岛”图，遭群嘲",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时14分 ~ 17时57分]"
+          "appearance_count": 17,
+          "time_info": "[09时14分 ~ 18时21分]"
         },
         {
           "title": "一天过去，特朗普从愤怒变成“非常难过”",
@@ -44,6 +44,30 @@
           "time_info": "[09时14分 ~ 13时29分]"
         },
         {
+          "title": "特朗普承认使用“秘密”武器",
+          "url": "https://wallstreetcn.com/articles/3764105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时01分 ~ 18时21分]"
+        },
+        {
+          "title": "特朗普就加中贸易协定发出威胁，中方回应",
+          "url": "https://news.ifeng.com/c/8qEKozGmbDH",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 18时21分]"
+        },
+        {
           "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
           "url": "https://news.ifeng.com/c/8qClugB0Wf0",
           "source": "凤凰网",
@@ -54,30 +78,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时14分 ~ 12时41分]"
-        },
-        {
-          "title": "特朗普承认使用“秘密”武器",
-          "url": "https://wallstreetcn.com/articles/3764105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时01分 ~ 17时57分]"
-        },
-        {
-          "title": "特朗普就加中贸易协定发出威胁，中方回应",
-          "url": "https://news.ifeng.com/c/8qEKozGmbDH",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 17时57分]"
         },
         {
           "title": "特朗普的唐罗主义是什么",
@@ -194,7 +194,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美国重兵合围伊朗！“林肯”号航母打击群抵达，大批战斗机周边集结！伊朗警告：任何攻击都将被视为全面战争",
@@ -208,8 +208,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时28分 ~ 17时57分]"
+          "appearance_count": 13,
+          "time_info": "[13时28分 ~ 18时21分]"
         },
         {
           "title": "美国派出重兵合围伊朗",
@@ -270,11 +270,12 @@
           "url": "https://www.toutiao.com/trending/7599468401853972507/",
           "source": "今日头条",
           "ranks": [
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 17时57分]"
+          "appearance_count": 3,
+          "time_info": "[17时56分 ~ 18时21分]"
         },
         {
           "title": "美国派出重兵“合围伊朗”",
@@ -321,6 +322,17 @@
           "time_info": "11时29分"
         },
         {
+          "title": "外媒报道称伊朗最高领袖哈梅内伊已进入德黑兰一处加固地堡，美国会对伊朗动武吗？当前伊朗局势如何？",
+          "url": "https://www.zhihu.com/question/1999117900200551138",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "美国会在何时对伊朗实施打击",
           "url": "https://www.toutiao.com/trending/7599501879420145171/",
           "source": "今日头条",
@@ -330,12 +342,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
+        },
+        {
+          "title": "美重兵逼近 伊朗手中有何底牌",
+          "url": "https://www.toutiao.com/trending/7599582989961399835/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "杨德龙：国际金价下一目标价1万美元",
@@ -365,8 +388,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时40分 ~ 17时57分]"
+          "appearance_count": 15,
+          "time_info": "[12时40分 ~ 18时21分]"
         },
         {
           "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
@@ -376,11 +399,12 @@
             6,
             13,
             17,
-            16
+            16,
+            11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时29分 ~ 17时57分]"
+          "appearance_count": 16,
+          "time_info": "[11时29分 ~ 18时21分]"
         },
         {
           "title": "国际金价突破5000美元关口",
@@ -413,9 +437,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 18时21分]"
         },
         {
           "title": "分析师：金价或继续受益于美元走弱",
@@ -438,6 +462,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
+        },
+        {
+          "title": "金价破5000美元 短期投资者何去何从",
+          "url": "https://www.toutiao.com/trending/7599554910719315465/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "分析称金价急剧回调可能性正在增加",
@@ -476,8 +511,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时56分 ~ 17时57分]"
+          "appearance_count": 5,
+          "time_info": "[16时56分 ~ 18时21分]"
         },
         {
           "title": "美日干预叠加政府关门预期，黄金站上5100、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
@@ -499,8 +534,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时57分]"
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 18时21分]"
         },
         {
           "title": "USA Rare Earth美股盘前涨超58%，报道称特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。",
@@ -508,11 +543,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时57分]"
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 18时21分]"
         },
         {
           "title": "美股盘前，黄金股普涨，泛美白银涨近6%，科尔黛伦矿业涨超4%，哈莫尼黄金涨近3%。",
@@ -520,11 +556,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时57分]"
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 18时21分]"
         }
       ]
     },
