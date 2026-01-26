@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T13:29:16.543104+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2026-01-26T13:55:32.893050+08:00",
+  "total_titles_processed": 686,
   "failed_sources": [],
   "trends": [
     {
@@ -8,23 +8,23 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "白宫发布“特朗普和企鹅漫步格陵兰岛”图，遭群嘲",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32461825",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 13时55分]"
+        },
+        {
           "title": "一天过去，特朗普从愤怒变成“非常难过”",
           "url": "https://news.ifeng.com/c/8qDlBtHaTST",
           "source": "凤凰网",
           "ranks": [
             4,
             3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 13时29分]"
-        },
-        {
-          "title": "白宫发布“特朗普和企鹅漫步格陵兰岛”图，遭群嘲",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32461825",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时29分 ~ 13时29分]"
+          "appearance_count": 6,
+          "time_info": "[11时29分 ~ 13时55分]"
         },
         {
           "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
@@ -159,8 +159,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 13时29分]"
+          "appearance_count": 5,
+          "time_info": "[12时40分 ~ 13时55分]"
         },
         {
           "title": "国际金价突破5000美元关口",
@@ -168,11 +168,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 13时29分]"
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 13时55分]"
         },
         {
           "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
@@ -182,8 +183,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时29分 ~ 13时29分]"
+          "appearance_count": 6,
+          "time_info": "[11时29分 ~ 13时55分]"
         },
         {
           "title": "金十图示：2026年01月26日（周一）上海金早盘价为1138.96元/克，较国际金价(1133.69元/克)，高5.27元/克",
@@ -201,11 +202,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 13时29分]"
+          "appearance_count": 5,
+          "time_info": "[12时40分 ~ 13时55分]"
         },
         {
           "title": "分析师：金价或继续受益于美元走弱",
@@ -222,7 +224,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗武装力量已进入全面戒备状态",
@@ -231,22 +233,36 @@
           "ranks": [
             17,
             24,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 13时29分]"
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 13时55分]"
+        },
+        {
+          "title": "美国派出重兵合围伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%B4%BE%E5%87%BA%E9%87%8D%E5%85%B5%E5%90%88%E5%9B%B4%E4%BC%8A%E6%9C%97%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 13时55分]"
         },
         {
           "title": "美国重兵合围伊朗！“林肯”号航母打击群抵达，大批战斗机周边集结！伊朗警告：任何攻击都将被视为全面战争",
           "url": "https://wallstreetcn.com/articles/3764129",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 13时29分]"
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 13时55分]"
         },
         {
           "title": "伊朗称若遭军事打击将袭击美航母",
@@ -254,22 +270,12 @@
           "source": "今日头条",
           "ranks": [
             19,
-            16
+            16,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 13时29分]"
-        },
-        {
-          "title": "美国派出重兵合围伊朗",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%B4%BE%E5%87%BA%E9%87%8D%E5%85%B5%E5%90%88%E5%9B%B4%E4%BC%8A%E6%9C%97%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 13时29分]"
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 13时55分]"
         },
         {
           "title": "伊朗对美发出警告：若遭军事打击将袭击美航母",
@@ -281,6 +287,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "美国会在何时对伊朗实施打击",
+          "url": "https://www.toutiao.com/trending/7599501879420145171/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "对于 deepseek 即将发布的 V4 模型，不知道各位有什么看法？",
+          "url": "https://www.zhihu.com/question/1993355026530317494",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         }
       ]
     },
@@ -297,8 +331,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时29分 ~ 13时29分]"
+          "appearance_count": 6,
+          "time_info": "[11时29分 ~ 13时55分]"
         }
       ]
     }
