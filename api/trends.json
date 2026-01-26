@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T19:41:40.985477+08:00",
-  "total_titles_processed": 1346,
+  "generated_at": "2026-01-26T20:32:46.800439+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "白宫发布“特朗普和企鹅漫步格陵兰岛”图，遭群嘲",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时14分 ~ 19时41分]"
+          "appearance_count": 22,
+          "time_info": "[09时14分 ~ 20时32分]"
         },
         {
           "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[11时29分 ~ 19时41分]"
+          "appearance_count": 21,
+          "time_info": "[11时29分 ~ 20时32分]"
         },
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -41,8 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时28分 ~ 19时41分]"
+          "appearance_count": 9,
+          "time_info": "[17时28分 ~ 20时32分]"
         },
         {
           "title": "一天过去，特朗普从愤怒变成“非常难过”",
@@ -121,11 +121,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            9
+            9,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时41分]"
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 20时32分]"
         },
         {
           "title": "特朗普就移民执法人员枪杀美公民发声",
@@ -172,6 +173,17 @@
           "time_info": "09时14分"
         },
         {
+          "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
+          "url": "https://news.ifeng.com/c/8qEZiQr69Vb",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "特朗普要求明尼苏达州移交所有犯罪非法移民",
           "url": "https://wallstreetcn.com/livenews/3043511",
           "source": "华尔街见闻-快讯",
@@ -181,6 +193,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
+          "url": "https://wallstreetcn.com/articles/3764157",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "特朗普称政府正“全面审查”移民执法人员枪杀美公民事件",
@@ -200,7 +223,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -225,6 +248,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "特朗普与奥巴马克林顿呛声",
+          "url": "https://www.toutiao.com/trending/7598711075387195443/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         }
       ]
     },
@@ -244,8 +278,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[13时28分 ~ 19时41分]"
+          "appearance_count": 18,
+          "time_info": "[13时28分 ~ 20时32分]"
         },
         {
           "title": "美国派出重兵合围伊朗",
@@ -289,13 +323,25 @@
           "time_info": "[13时28分 ~ 15时02分]"
         },
         {
+          "title": "外媒报道称伊朗最高领袖哈梅内伊已进入德黑兰一处加固地堡，美国会对伊朗动武吗？当前伊朗局势如何？",
+          "url": "https://www.zhihu.com/question/1999117900200551138",
+          "source": "知乎",
+          "ranks": [
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时21分 ~ 20时32分]"
+        },
+        {
           "title": "包围伊朗！美国动手只是时间问题？丨Hi，今天怎么看？",
           "url": "https://flash.jin10.com/detail/20260126192123952800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -309,18 +355,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
-        },
-        {
-          "title": "外媒报道称伊朗最高领袖哈梅内伊已进入德黑兰一处加固地堡，美国会对伊朗动武吗？当前伊朗局势如何？",
-          "url": "https://www.zhihu.com/question/1999117900200551138",
-          "source": "知乎",
-          "ranks": [
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时21分 ~ 19时41分]"
         },
         {
           "title": "伊朗：将对侵略作出令敌人遗憾的回应",
@@ -430,6 +464,174 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "美日干预叠加政府关门预期，黄金站上5100、白银突破110，日元强势反弹，美股汇齐跌",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时56分 ~ 20时32分]"
+        },
+        {
+          "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时29分 ~ 15时02分]"
+        },
+        {
+          "title": "美日干预叠加政府关门预期，黄金站上5100、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "贝克休斯美股盘前涨超3%，此前公司报告第四季度调整后利润高于预期。",
+          "url": "https://flash.jin10.com/detail/20260126172109775800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 18时21分]"
+        },
+        {
+          "title": "ABRDN实物白银股票ETF美股盘前涨6.7%，Global X白银矿业ETF涨6.2%，iShares白银信托上涨6.6%。",
+          "url": "https://flash.jin10.com/detail/20260126181759623800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 19时16分]"
+        },
+        {
+          "title": "美股银矿股盘前上涨，SILVERCORP METALS涨 5.5%, ENDEAVOUR SILVER涨5.4%，赫拉克矿业涨6.3%, 科尔黛伦矿业涨 4.7%。",
+          "url": "https://flash.jin10.com/detail/20260126181712395800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 19时16分]"
+        },
+        {
+          "title": "USA Rare Earth美股盘前涨超58%，报道称特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。",
+          "url": "https://wallstreetcn.com/livenews/3043857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 18时21分]"
+        },
+        {
+          "title": "美股盘前，黄金股普涨，泛美白银涨近6%，科尔黛伦矿业涨超4%，哈莫尼黄金涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3043852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 18时21分]"
+        },
+        {
+          "title": "冬季风暴导致航班取消，航空公司美股盘前下跌。美国航空下跌1.2%，达美航空下跌1.2%，捷蓝航空下跌0.2%。",
+          "url": "https://flash.jin10.com/detail/20260126183253949800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "美国稀土(USAR.O)美股盘前短线走低，现涨幅收窄至21%。",
+          "url": "https://flash.jin10.com/detail/20260126201420424800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "Allied Gold美股盘前一度涨近9%，紫金黄金国际拟以280亿元收购其100%股权",
+          "url": "https://wallstreetcn.com/livenews/3043979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "英特尔(INTC.O)美股盘前下跌1.8%，此前一交易日暴跌17%。",
+          "url": "https://flash.jin10.com/detail/20260126180007441800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "Niocorp美股盘前涨10.9%，Trilogy Metals涨11.6%。",
+          "url": "https://flash.jin10.com/detail/20260126175458514800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "美股稀土矿商股价盘前上涨，MP Materials涨4.6%，United States Antimony涨10.2%，Critical Metals涨5%。",
+          "url": "https://flash.jin10.com/detail/20260126175411590800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 12,
       "titles": [
@@ -462,8 +664,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[12时40分 ~ 19时41分]"
+          "appearance_count": 20,
+          "time_info": "[12时40分 ~ 20时32分]"
         },
         {
           "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
@@ -588,152 +790,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "美日干预叠加政府关门预期，黄金站上5100、白银突破110，日元强势反弹，美股汇齐跌",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时56分 ~ 19时41分]"
-        },
-        {
-          "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时29分 ~ 15时02分]"
-        },
-        {
-          "title": "美日干预叠加政府关门预期，黄金站上5100、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时46分"
-        },
-        {
-          "title": "贝克休斯美股盘前涨超3%，此前公司报告第四季度调整后利润高于预期。",
-          "url": "https://flash.jin10.com/detail/20260126172109775800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 18时21分]"
-        },
-        {
-          "title": "ABRDN实物白银股票ETF美股盘前涨6.7%，Global X白银矿业ETF涨6.2%，iShares白银信托上涨6.6%。",
-          "url": "https://flash.jin10.com/detail/20260126181759623800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 19时16分]"
-        },
-        {
-          "title": "美股银矿股盘前上涨，SILVERCORP METALS涨 5.5%, ENDEAVOUR SILVER涨5.4%，赫拉克矿业涨6.3%, 科尔黛伦矿业涨 4.7%。",
-          "url": "https://flash.jin10.com/detail/20260126181712395800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 19时16分]"
-        },
-        {
-          "title": "USA Rare Earth美股盘前涨超58%，报道称特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。",
-          "url": "https://wallstreetcn.com/livenews/3043857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 18时21分]"
-        },
-        {
-          "title": "美股盘前，黄金股普涨，泛美白银涨近6%，科尔黛伦矿业涨超4%，哈莫尼黄金涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/3043852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 18时21分]"
-        },
-        {
-          "title": "冬季风暴导致航班取消，航空公司美股盘前下跌。美国航空下跌1.2%，达美航空下跌1.2%，捷蓝航空下跌0.2%。",
-          "url": "https://flash.jin10.com/detail/20260126183253949800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "英特尔(INTC.O)美股盘前下跌1.8%，此前一交易日暴跌17%。",
-          "url": "https://flash.jin10.com/detail/20260126180007441800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
-          "title": "Niocorp美股盘前涨10.9%，Trilogy Metals涨11.6%。",
-          "url": "https://flash.jin10.com/detail/20260126175458514800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
-          "title": "美股稀土矿商股价盘前上涨，MP Materials涨4.6%，United States Antimony涨10.2%，Critical Metals涨5%。",
-          "url": "https://flash.jin10.com/detail/20260126175411590800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -766,7 +822,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美日干预叠加政府关门预期，黄金站上5100、白银飙涨6%，日元强势反弹，美股汇齐跌，避险资金推高美债",
@@ -778,6 +834,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "美国该如何应对黄金对美债的挑战",
+          "url": "https://www.toutiao.com/trending/7599610700348001846/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         }
       ]
     }
