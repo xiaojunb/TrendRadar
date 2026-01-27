@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T15:50:20.861187+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-01-27T16:23:30.037868+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普：提高对韩国关税",
@@ -24,11 +24,12 @@
           "url": "https://news.ifeng.com/c/8qFQXdJS6AX",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时12分 ~ 15时50分]"
+          "appearance_count": 13,
+          "time_info": "[09时12分 ~ 16时23分]"
         },
         {
           "title": "“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！",
@@ -40,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时21分 ~ 15时50分]"
+          "appearance_count": 12,
+          "time_info": "[11时21分 ~ 16时23分]"
         },
         {
           "title": "韩国人还在睡梦中，特朗普突然下手了",
@@ -51,8 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时12分 ~ 15时50分]"
+          "appearance_count": 13,
+          "time_info": "[09时12分 ~ 16时23分]"
         },
         {
           "title": "贵金属暴涨后大幅回调 特朗普称提高对韩国关税 | 环球市场",
@@ -76,8 +77,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时12分 ~ 15时50分]"
+          "appearance_count": 13,
+          "time_info": "[09时12分 ~ 16时23分]"
         },
         {
           "title": "特朗普：提高对韩国多种商品关税税率至25%",
@@ -99,11 +100,24 @@
           "ranks": [
             20,
             11,
-            12
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时25分 ~ 16时23分]"
+        },
+        {
+          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[14时25分 ~ 15时50分]"
+          "time_info": "[14时59分 ~ 16时23分]"
         },
         {
           "title": "特朗普为何对韩国加征关税",
@@ -115,18 +129,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
-        },
-        {
-          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时59分 ~ 15时50分]"
         },
         {
           "title": "美伊局势持续紧张：“哈梅内伊进入地堡”，特朗普表态自相矛盾",
@@ -220,6 +222,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "特朗普施压伊朗",
+          "url": "https://www.douyin.com/hot/2380655",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "无视特朗普关税威胁 韩股收盘首破5000点创新高",
@@ -345,8 +358,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时12分 ~ 15时50分]"
+          "appearance_count": 13,
+          "time_info": "[09时12分 ~ 16时23分]"
         },
         {
           "title": "局势升级 伊朗或封锁霍尔木兹海峡",
@@ -558,11 +571,12 @@
           "url": "https://wallstreetcn.com/articles/3764111",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时12分 ~ 15时50分]"
+          "appearance_count": 13,
+          "time_info": "[09时12分 ~ 16时23分]"
         },
         {
           "title": "美股收盘：三大指数集体上涨 美政府将入股稀土公司",
@@ -622,11 +636,12 @@
           "ranks": [
             9,
             11,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时03分 ~ 15时50分]"
+          "appearance_count": 10,
+          "time_info": "[13时03分 ~ 16时23分]"
         },
         {
           "title": "OpenAI首席信息安全官宣布将离职",
@@ -665,8 +680,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时59分 ~ 15时50分]"
+          "appearance_count": 6,
+          "time_info": "[14时59分 ~ 16时23分]"
         },
         {
           "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
