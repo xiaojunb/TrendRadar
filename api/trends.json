@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T22:24:04.429602+08:00",
-  "total_titles_processed": 1716,
+  "generated_at": "2026-01-27T22:57:14.896667+08:00",
+  "total_titles_processed": 1782,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普：提高对韩国关税",
@@ -74,11 +74,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[09时12分 ~ 22时24分]"
+          "appearance_count": 30,
+          "time_info": "[09时12分 ~ 22时57分]"
         },
         {
           "title": "美媒：特朗普一周内两次妥协",
@@ -89,8 +90,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[17时26分 ~ 22时24分]"
+          "appearance_count": 16,
+          "time_info": "[17时26分 ~ 22时57分]"
         },
         {
           "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
@@ -163,11 +164,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            14
+            14,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 22时24分]"
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 22时57分]"
         },
         {
           "title": "美伊局势持续紧张：“哈梅内伊进入地堡”，特朗普表态自相矛盾",
@@ -357,7 +359,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -368,9 +370,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
+        },
+        {
+          "title": "加拿大总理卡尼：已转告美国总统特朗普“我在达沃斯所说的话是认真的”，加拿大正在应对美国贸易政策的变化。",
+          "url": "https://flash.jin10.com/detail/20260127221629863800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "特朗普施压伊朗：美军派遣舰队规模更庞大",
@@ -445,15 +458,26 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
+        },
+        {
+          "title": "特朗普：若非我出手，以色列已不复存在",
+          "url": "https://flash.jin10.com/detail/20260127221112537800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -464,8 +488,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[09时12分 ~ 22时24分]"
+          "appearance_count": 30,
+          "time_info": "[09时12分 ~ 22时57分]"
         },
         {
           "title": "美股收盘：三大指数集体上涨 美政府将入股稀土公司",
@@ -502,15 +526,26 @@
           "time_info": "17时27分"
         },
         {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3044819",
-          "source": "华尔街见闻-快讯",
+          "title": "捷蓝航空美股跌超9%，此前CEO报告第四季度亏损超出预期。",
+          "url": "https://flash.jin10.com/detail/20260127223641684800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
+          "title": "金十图示：2026年01月27日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260127223622976800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时24分"
+          "time_info": "22时57分"
         },
         {
           "title": "金十数据整理：每日美股市场要闻速递（2026-01-27）",
@@ -519,9 +554,32 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
+        },
+        {
+          "title": "行业ETF美股盘初多数上涨，半导体ETF涨1.23%，全球科技股指数ETF涨1.2%，科技行业ETF涨1.07%，网络股指数ETF涨0.8%，银行业ETF涨0.38%，医疗业ETF跌1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3044831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3044819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时57分]"
         },
         {
           "title": "美国航空第四季度调整后客运营收126.6亿美元，预期127.6亿美元。 第四季度调整后每股收益16美分，预估34美分。 美国航空预计2026年调整后每股收益1.7-2.7美元，市场预估2.01美元。 美国航空预计2026年资本支出约为40亿至45亿美元，市场预估41.7亿美元。 美国航空预计2027年资本支出约为45亿美元。 美国航空美股盘前跌3.5%。",
@@ -629,6 +687,28 @@
           "time_info": "11时21分"
         },
         {
+          "title": "美股医疗计划概念股领跌，联合健康跌近17%，哈门那跌超16%，西维斯健康跌近10%；此前美国提议小幅上调医保保险公司支付费率。",
+          "url": "https://flash.jin10.com/detail/20260127223127849800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
+          "title": "美股开盘，道指跌0.6%，标普500指数涨0.27%，纳指涨0.5%。康宁(GLW.N)涨7.8%，Meta将向康宁支付高达60亿美元的采购费用。通用汽车(GM.N)涨5.4%，四季度核心利润高于预期。",
+          "url": "https://flash.jin10.com/detail/20260127223030810800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
           "title": "通用汽车第四季度净销售额和营收452.9亿美元，预估453.7亿美元。 第四季度调整后每股收益2.51美元，预估2.28美元。 通用汽车预计2026年净利润103亿美元至117亿美元。 通用汽车预计2026年调整后EBIT 130亿美元至150亿美元。 通用汽车预计2026年调整后每股收益11美元至13美元。 通用汽车预计2026年资本支出100亿美元至120亿美元。 通用汽车批准新的60亿美元股票回购授权。 通用汽车美股盘前涨1.4%。",
           "url": "https://wallstreetcn.com/livenews/3044761",
           "source": "华尔街见闻-快讯",
@@ -733,8 +813,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时18分 ~ 22时24分]"
+          "appearance_count": 9,
+          "time_info": "[19时18分 ~ 22时57分]"
+        },
+        {
+          "title": "美航母打击群逼近，伊朗：不回避谈判，但对侵略将果断回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32471237",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时44分 ~ 22时57分]"
         },
         {
           "title": "局势升级 伊朗或封锁霍尔木兹海峡",
@@ -750,17 +842,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时12分 ~ 13时50分]"
-        },
-        {
-          "title": "美航母打击群逼近，伊朗：不回避谈判，但对侵略将果断回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32471237",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时44分 ~ 22时24分]"
         },
         {
           "title": "美国重兵合围伊朗！“林肯”号航母打击群抵达，大批战斗机周边集结！伊朗警告：任何攻击都将被视为全面战争",
@@ -834,6 +915,18 @@
           "time_info": "[09时12分 ~ 13时03分]"
         },
         {
+          "title": "以女子看电视发现自己“死”在伊朗",
+          "url": "https://www.toutiao.com/trending/7599286725097259071/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时23分 ~ 22时57分]"
+        },
+        {
           "title": "美总统会下决心对伊朗动武吗",
           "url": "https://www.toutiao.com/trending/7599905434815696447/",
           "source": "今日头条",
@@ -844,17 +937,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时25分 ~ 15时00分]"
-        },
-        {
-          "title": "以女子看电视发现自己“死”在伊朗",
-          "url": "https://www.toutiao.com/trending/7599286725097259071/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 22时24分]"
         },
         {
           "title": "靛蓝航空：考虑到伊朗局势的发展，对部分航班的时刻表进行了调整。",
@@ -1105,11 +1187,12 @@
           "url": "https://wallstreetcn.com/livenews/3044812",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时57分]"
         },
         {
           "title": "谷歌法律顾问：然而，我们担心，那些往往由竞争对手投诉驱动而非以消费者利益为导向的进一步规则，将损害用户隐私、安全和创新。",
@@ -1180,74 +1263,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
-          "url": "https://wallstreetcn.com/articles/3764241",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[16时56分 ~ 22时24分]"
-        },
-        {
-          "title": "DeepSeek开源OCR 2模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90OCR%202%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[14时59分 ~ 19时44分]"
-        },
-        {
-          "title": "详解DeepSeek新模型OCR2",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时32分 ~ 22时24分]"
-        },
-        {
-          "title": "如何评价 DeepSeek-OCR-2 模型？",
-          "url": "https://www.zhihu.com/question/1999468225642119587",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时41分 ~ 22时24分]"
-        },
-        {
-          "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
-          "url": "https://wallstreetcn.com/livenews/3044481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 15时00分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美元指数短线下挫 非美货币走高",
@@ -1259,6 +1276,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
+          "url": "https://wallstreetcn.com/articles/3764253",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时56分 ~ 22时57分]"
         },
         {
           "title": "彭博美元即期指数触及2022年3月以来最弱水平。",
@@ -1304,6 +1332,74 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
+          "url": "https://wallstreetcn.com/articles/3764241",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[16时56分 ~ 22时57分]"
+        },
+        {
+          "title": "详解DeepSeek新模型OCR2",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时32分 ~ 22时57分]"
+        },
+        {
+          "title": "如何评价 DeepSeek-OCR-2 模型？",
+          "url": "https://www.zhihu.com/question/1999468225642119587",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时41分 ~ 22时57分]"
+        },
+        {
+          "title": "DeepSeek开源OCR 2模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90OCR%202%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[14时59分 ~ 19时44分]"
+        },
+        {
+          "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
+          "url": "https://wallstreetcn.com/livenews/3044481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 15时00分]"
         }
       ]
     },
@@ -1355,7 +1451,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         }
