@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T15:12:36.925095+08:00",
-  "total_titles_processed": 840,
+  "generated_at": "2026-01-29T15:59:13.120548+08:00",
+  "total_titles_processed": 927,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时39分 ~ 15时12分]"
+          "appearance_count": 8,
+          "time_info": "[11时39分 ~ 15时59分]"
         },
         {
           "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
@@ -34,6 +35,21 @@
           "time_info": "[09时18分 ~ 15时12分]"
         },
         {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://www.cls.cn/detail/2273523",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时39分 ~ 15时59分]"
+        },
+        {
           "title": "特朗普再施压伊朗：庞大舰队已部署在途 谈判时间所剩无几",
           "url": "https://www.cls.cn/detail/2273193",
           "source": "财联社热门",
@@ -43,6 +59,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时18分 ~ 11时39分]"
+        },
+        {
+          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
+          "url": "https://www.zhihu.com/question/2000136531822794040",
+          "source": "知乎",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时02分 ~ 15时59分]"
         },
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -65,33 +94,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时18分 ~ 09时19分]"
-        },
-        {
-          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
-          "url": "https://www.cls.cn/detail/2273523",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时39分 ~ 15时12分]"
-        },
-        {
-          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
-          "url": "https://www.zhihu.com/question/2000136531822794040",
-          "source": "知乎",
-          "ranks": [
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时02分 ~ 15时12分]"
         },
         {
           "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
@@ -197,7 +199,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
@@ -216,11 +218,27 @@
           "source": "bilibili 热搜",
           "ranks": [
             21,
-            24
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时18分 ~ 15时59分]"
+        },
+        {
+          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
+          "url": "https://www.cls.cn/detail/2273531",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时18分 ~ 15时12分]"
+          "time_info": "[11时39分 ~ 15时59分]"
         },
         {
           "title": "金价屡创历史新高意味着什么",
@@ -234,20 +252,6 @@
           "time_info": "[09时18分 ~ 09时19分]"
         },
         {
-          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
-          "url": "https://www.cls.cn/detail/2273531",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时39分 ~ 15时12分]"
-        },
-        {
           "title": "金价波动如何影响实体金店",
           "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%AE%9E%E4%BD%93%E9%87%91%E5%BA%97",
           "source": "bilibili 热搜",
@@ -258,6 +262,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时18分 ~ 11时39分]"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）上海金午盘价为1248.22元/克，较国际金价(1238.82元/克)，高9.4元/克",
+          "url": "https://flash.jin10.com/detail/20260129154110171800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
         },
         {
           "title": "金价",
@@ -338,7 +353,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -395,7 +410,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -428,7 +443,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         }
@@ -559,11 +574,12 @@
             2,
             5,
             8,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时39分 ~ 15时12分]"
+          "appearance_count": 8,
+          "time_info": "[11时39分 ~ 15时59分]"
         }
       ]
     }
