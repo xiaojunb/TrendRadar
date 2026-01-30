@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T20:37:46.717474+08:00",
-  "total_titles_processed": 1433,
+  "generated_at": "2026-01-30T21:50:51.653312+08:00",
+  "total_titles_processed": 1561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 63,
       "titles": [
         {
           "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时05分 ~ 20时37分]"
+          "appearance_count": 14,
+          "time_info": "[13时05分 ~ 21时50分]"
         },
         {
           "title": "特朗普称美联储“新掌门”周五揭晓 沃什获提名概率飙升至87%！",
@@ -45,8 +45,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时58分 ~ 20时37分]"
+          "appearance_count": 10,
+          "time_info": "[15时58分 ~ 21时50分]"
         },
         {
           "title": "特朗普：将开放委内瑞拉领空",
@@ -83,6 +83,23 @@
           "time_info": "[09时17分 ~ 17时32分]"
         },
         {
+          "title": "特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32496464",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            15,
+            13,
+            14,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时12分 ~ 21时50分]"
+        },
+        {
           "title": "特朗普威胁对加拿大飞机加征50%关税",
           "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
           "source": "凤凰网",
@@ -93,22 +110,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[09时17分 ~ 18时26分]"
-        },
-        {
-          "title": "特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32496464",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            15,
-            13,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时12分 ~ 20时37分]"
         },
         {
           "title": "特朗普宣布国家紧急状态",
@@ -131,17 +132,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
-        },
-        {
-          "title": "特朗普提名沃什担任美联储主席",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%90%8D%E6%B2%83%E4%BB%80%E6%8B%85%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
         },
         {
           "title": "美防长告诉特朗普：五角大楼“准备好执行”总统涉伊朗的任何决定",
@@ -167,13 +157,24 @@
           "time_info": "[19时01分 ~ 19时49分]"
         },
         {
+          "title": "提名沃什，特朗普：他会是最伟大的美联储主席之一",
+          "url": "https://wallstreetcn.com/articles/3764603",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "特朗普提名美联储新主席",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%90%8D%E7%BE%8E%E8%81%94%E5%82%A8%E6%96%B0%E4%B8%BB%E5%B8%AD%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -214,6 +215,18 @@
           "time_info": "[09时17分 ~ 13时06分]"
         },
         {
+          "title": "特朗普提名沃什担任美联储主席",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%90%8D%E6%B2%83%E4%BB%80%E6%8B%85%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 21时50分]"
+        },
+        {
           "title": "美国白宫官员：美国总统特朗普并未暗示美国会取消对在役加拿大制造飞机的认证。",
           "url": "https://flash.jin10.com/detail/20260130130036264800",
           "source": "金十数据",
@@ -224,6 +237,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时06分 ~ 14时06分]"
+        },
+        {
+          "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32498277",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时48分 ~ 21时50分]"
         },
         {
           "title": "特朗普将公布美联储下任主席提名",
@@ -238,16 +264,15 @@
           "time_info": "[17时31分 ~ 18时26分]"
         },
         {
-          "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32498277",
-          "source": "澎湃新闻",
+          "title": "特朗普提名凯文·沃什担任美联储主席",
+          "url": "https://news.ifeng.com/c/8qLGm417qYM",
+          "source": "凤凰网",
           "ranks": [
-            18,
-            16
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时48分 ~ 20时37分]"
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 21时50分]"
         },
         {
           "title": "特朗普听取多种打击伊朗方案",
@@ -321,17 +346,6 @@
           "time_info": "15时12分"
         },
         {
-          "title": "特朗普提名凯文·沃什担任美联储主席",
-          "url": "https://news.ifeng.com/c/8qLGm417qYM",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
           "title": "特朗普将公布美联储下任主席",
           "url": "https://www.douyin.com/hot/2383719",
           "source": "抖音",
@@ -354,13 +368,24 @@
           "time_info": "09时18分"
         },
         {
+          "title": "美国共和党参议员蒂利斯：与美国总统特朗普每周沟通一次，谈判仍在进行中。",
+          "url": "https://flash.jin10.com/detail/20260130214156691800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "特朗普提名凯文·沃什任美联储主席",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%90%8D%E5%87%AF%E6%96%87%C2%B7%E6%B2%83%E4%BB%80%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
           "source": "百度热搜",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -371,7 +396,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -404,9 +429,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
+        },
+        {
+          "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
+          "url": "https://www.cls.cn/detail/2276051",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "特朗普：提名凯文·沃什出任美联储主席",
+          "url": "https://www.cls.cn/detail/2276010",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "特朗普提名凯文沃什担任美联储主席",
@@ -415,7 +462,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -448,7 +495,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -574,6 +621,17 @@
           "time_info": "09时18分"
         },
         {
+          "title": "美国参议院民主党成员Warren：特朗普的提名意在夺取美联储的控制权。 呼吁特朗普停止对美联储鲍威尔和库克的迫害。 敦促共和党人在司法部调查结束前不要支持美联储主席提名人选。",
+          "url": "https://wallstreetcn.com/livenews/3047399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "美国总统特朗普起诉美国国税局和财政部，索赔100亿美元，理由是税表泄露。",
           "url": "https://flash.jin10.com/detail/20260130080816203800",
           "source": "金十数据",
@@ -602,7 +660,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -660,6 +718,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "特朗普称所有美联储主席候选人都十分出色",
+          "url": "https://flash.jin10.com/detail/20260130212650678800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         }
       ]
     },
@@ -691,11 +760,12 @@
             17,
             14,
             15,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时12分 ~ 20时37分]"
+          "appearance_count": 11,
+          "time_info": "[15时12分 ~ 21时50分]"
         },
         {
           "title": "伊朗被曝将举行实弹军事演习 美政府再次面临部分“停摆” | 环球市场",
@@ -713,26 +783,41 @@
           "time_info": "[09时17分 ~ 16时35分]"
         },
         {
-          "title": "伊朗外交部长阿拉奇：伊朗将维持并扩大国防能力。",
-          "url": "https://flash.jin10.com/detail/20260130201224036800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
           "title": "伊朗将在霍尔木兹海峡实弹军演",
           "url": "https://news.ifeng.com/c/8qLFoaR3TwV",
           "source": "凤凰网",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 21时50分]"
+        },
+        {
+          "title": "伊朗外交部长阿拉奇：伊朗将维持并扩大国防能力。",
+          "url": "https://flash.jin10.com/detail/20260130201224036800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
+        },
+        {
+          "title": "曝伊朗4万吨“航母”出动",
+          "url": "https://www.toutiao.com/trending/7601069328506555931/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            12,
+            14,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时26分 ~ 21时50分]"
         },
         {
           "title": "伊朗外交部长阿拉奇：美国一再要求举行会谈，但谈判必须“公平且公正”。",
@@ -752,9 +837,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
+        },
+        {
+          "title": "美军兵临城下，伊朗如何反击？",
+          "url": "https://news.ifeng.com/c/8qL149kv1KE",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时01分 ~ 21时50分]"
         },
         {
           "title": "伊朗外交部长阿拉奇：美国方面发出相互矛盾的信号，军事打击并非解决之道。",
@@ -766,31 +862,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
-        },
-        {
-          "title": "曝伊朗4万吨“航母”出动",
-          "url": "https://www.toutiao.com/trending/7601069328506555931/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            12,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时26分 ~ 20时37分]"
-        },
-        {
-          "title": "美军兵临城下，伊朗如何反击？",
-          "url": "https://news.ifeng.com/c/8qL149kv1KE",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时01分 ~ 20时37分]"
         },
         {
           "title": "伊朗强烈谴责欧盟将伊朗革命卫队列为“恐怖组织”",
@@ -811,7 +882,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -844,7 +915,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -866,7 +937,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -877,7 +948,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -888,7 +959,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -910,7 +981,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -1009,7 +1080,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -1020,7 +1091,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -1031,7 +1102,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         }
@@ -1039,7 +1110,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "金价剧烈震荡引担忧？WGC：“狂飙涨势”是结构性转变而非投机，今年将继续！",
@@ -1082,6 +1153,18 @@
           "time_info": "[09时17分 ~ 16时35分]"
         },
         {
+          "title": "沃什引爆鹰派预期，商品遭遇黑色星期五，白银跌17%逼近95美元、金价一度跌至4950、单日重挫400美元，美元走强",
+          "url": "https://wallstreetcn.com/articles/3764541",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时48分 ~ 21时50分]"
+        },
+        {
           "title": "金价28分钟内暴跌380美元",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B728%E5%88%86%E9%92%9F%E5%86%85%E6%9A%B4%E8%B7%8C380%E7%BE%8E%E5%85%83%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -1111,17 +1194,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时06分 ~ 18时26分]"
-        },
-        {
-          "title": "沃什引爆鹰派预期，商品遭遇黑色星期五，白银跌17%逼近95美元、金价一度跌至4950、单日重挫400美元，美元走强",
-          "url": "https://wallstreetcn.com/articles/3764541",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时48分 ~ 20时37分]"
         },
         {
           "title": "今日金价",
@@ -1278,6 +1350,17 @@
           "time_info": "19时01分"
         },
         {
+          "title": "未来金价走势如何?",
+          "url": "https://www.zhihu.com/question/655647666",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "贵金属集体回调 分析师称金价可能继续下探，白银投机过热",
           "url": "https://flash.jin10.com/detail/20260130182057635800",
           "source": "金十数据",
@@ -1321,11 +1404,12 @@
           "url": "https://wallstreetcn.com/articles/3764423",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时17分 ~ 20时37分]"
+          "appearance_count": 17,
+          "time_info": "[09时17分 ~ 21时50分]"
         },
         {
           "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
@@ -1411,7 +1495,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美债维持跌势，10年期收益率上涨2个基点至4.25%。",
@@ -1420,7 +1504,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -1436,13 +1520,24 @@
           "time_info": "13时06分"
         },
         {
+          "title": "美国PPI数据高于预期，美元指数DXY短线小幅走高近10点，美债收益率小幅走高。",
+          "url": "https://flash.jin10.com/detail/20260130213222495800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "美债维持跌势；10年期美债收益率上涨2个基点至4.25%。",
           "url": "https://flash.jin10.com/detail/20260130195704391800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         }
@@ -1450,8 +1545,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美国12月PP数据公布后，美元指数短线小幅拉升",
+          "url": "https://wallstreetcn.com/livenews/3047414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
         {
           "title": "美元指数上涨0.25%，报96.44。",
           "url": "https://wallstreetcn.com/livenews/3046827",
