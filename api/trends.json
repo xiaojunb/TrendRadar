@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T22:31:39.486319+08:00",
-  "total_titles_processed": 1635,
+  "generated_at": "2026-01-30T23:04:51.179624+08:00",
+  "total_titles_processed": 1684,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 68,
       "titles": [
         {
           "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时05分 ~ 22时31分]"
+          "appearance_count": 16,
+          "time_info": "[13时05分 ~ 23时04分]"
         },
         {
           "title": "特朗普称美联储“新掌门”周五揭晓 沃什获提名概率飙升至87%！",
@@ -97,8 +97,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时12分 ~ 22时31分]"
+          "appearance_count": 13,
+          "time_info": "[15时12分 ~ 23时04分]"
         },
         {
           "title": "特朗普威胁对加拿大飞机加征50%关税",
@@ -124,6 +124,17 @@
           "time_info": "[09时17分 ~ 09时18分]"
         },
         {
+          "title": "提名沃什，特朗普：他会是最伟大的美联储主席之一！",
+          "url": "https://wallstreetcn.com/articles/3764603",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 23时04分]"
+        },
+        {
           "title": "特朗普称计划同伊朗对话",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%AE%A1%E5%88%92%E5%90%8C%E4%BC%8A%E6%9C%97%E5%AF%B9%E8%AF%9D",
           "source": "bilibili 热搜",
@@ -133,6 +144,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
+        },
+        {
+          "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32498277",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时48分 ~ 23时04分]"
         },
         {
           "title": "美防长告诉特朗普：五角大楼“准备好执行”总统涉伊朗的任何决定",
@@ -146,15 +171,16 @@
           "time_info": "09时18分"
         },
         {
-          "title": "提名沃什，特朗普：他会是最伟大的美联储主席之一！",
-          "url": "https://wallstreetcn.com/articles/3764603",
-          "source": "华尔街见闻",
+          "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
+          "url": "https://www.cls.cn/detail/2276051",
+          "source": "财联社热门",
           "ranks": [
-            4
+            9,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时50分 ~ 23时04分]"
         },
         {
           "title": "特朗普挑了他？",
@@ -202,6 +228,20 @@
           "time_info": "09时18分"
         },
         {
+          "title": "特朗普提名沃什担任美联储主席",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%90%8D%E6%B2%83%E4%BB%80%E6%8B%85%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            15,
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时37分 ~ 23时04分]"
+        },
+        {
           "title": "美政府关门危机解除？特朗普与舒默接近达成协议，拆分DHS预算并重谈移民执法限制",
           "url": "https://wallstreetcn.com/articles/3764456",
           "source": "华尔街见闻",
@@ -227,31 +267,15 @@
           "time_info": "[09时17分 ~ 13时06分]"
         },
         {
-          "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32498277",
-          "source": "澎湃新闻",
+          "title": "特朗普提名凯文·沃什担任美联储主席",
+          "url": "https://news.ifeng.com/c/8qLGm417qYM",
+          "source": "凤凰网",
           "ranks": [
-            18,
-            16,
-            15,
-            13
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时48分 ~ 22时31分]"
-        },
-        {
-          "title": "特朗普提名沃什担任美联储主席",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%90%8D%E6%B2%83%E4%BB%80%E6%8B%85%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时37分 ~ 22时31分]"
+          "appearance_count": 4,
+          "time_info": "[20时37分 ~ 23时04分]"
         },
         {
           "title": "美国白宫官员：美国总统特朗普并未暗示美国会取消对在役加拿大制造飞机的认证。",
@@ -266,29 +290,6 @@
           "time_info": "[13时06分 ~ 14时06分]"
         },
         {
-          "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
-          "url": "https://www.cls.cn/detail/2276051",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 22时31分]"
-        },
-        {
-          "title": "特朗普提名凯文·沃什担任美联储主席",
-          "url": "https://news.ifeng.com/c/8qLGm417qYM",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时37分 ~ 22时31分]"
-        },
-        {
           "title": "特朗普将公布美联储下任主席提名",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%85%AC%E5%B8%83%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%8B%E4%BB%BB%E4%B8%BB%E5%B8%AD%E6%8F%90%E5%90%8D",
           "source": "bilibili 热搜",
@@ -299,6 +300,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时31分 ~ 18时26分]"
+        },
+        {
+          "title": "特朗普：提名凯文·沃什出任美联储主席",
+          "url": "https://www.cls.cn/detail/2276010",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时50分 ~ 23时04分]"
         },
         {
           "title": "美国共和党参议员蒂利斯：与美国总统特朗普每周沟通一次，谈判仍在进行中。",
@@ -337,6 +350,18 @@
           "time_info": "[19时01分 ~ 19时49分]"
         },
         {
+          "title": "特朗普提名凯文·沃什出任美联储主席，特朗普为何会选中他？若他出任将如何影响美国货币政策？",
+          "url": "https://www.zhihu.com/question/2000660435238613290",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 23时04分]"
+        },
+        {
           "title": "美国白宫：美国总统特朗普将于美国东部时间周五上午11点（北京时间周六零点）签署行政命令。",
           "url": "https://flash.jin10.com/detail/20260130123131643800",
           "source": "金十数据",
@@ -349,17 +374,6 @@
           "time_info": "[13时06分 ~ 14时06分]"
         },
         {
-          "title": "特朗普：提名凯文·沃什出任美联储主席",
-          "url": "https://www.cls.cn/detail/2276010",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 22时31分]"
-        },
-        {
           "title": "美国白宫：美国总统特朗普将于美国东部时间周五下午2点（北京时间次日凌晨3点）参加一场政策会议。",
           "url": "https://flash.jin10.com/detail/20260130123023173800",
           "source": "金十数据",
@@ -370,6 +384,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时06分 ~ 14时06分]"
+        },
+        {
+          "title": "共和党参议员Tillis：沃什的提名不会改变我的立场。 在鲍威尔调查结束前，仍计划阻挠提名人选。 还需要看到库克案结案才能放弃反对意见。 我和特朗普每周沟通一次，持续进行对话。",
+          "url": "https://wallstreetcn.com/livenews/3047420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 23时04分]"
         },
         {
           "title": "庞巴迪：关注到美国总统特朗普的帖子。正与加拿大政府保持联系。希望此事能尽快解决，以避免对航空交通和广大乘客造成重大影响。",
@@ -428,6 +454,17 @@
           "time_info": "20时37分"
         },
         {
+          "title": "谁是沃什？其岳父第一个建议特朗普买下格陵兰岛",
+          "url": "https://news.ifeng.com/c/8qLLfsjtQ3f",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "特朗普提名凯文·沃什担任美联储主席",
           "url": "https://wallstreetcn.com/livenews/3047356",
           "source": "华尔街见闻-快讯",
@@ -459,6 +496,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
+        },
+        {
+          "title": "南非股指下跌3.9%，创2025年4月份美国总统特朗普宣布关税政策以来最差盘中表现。 在彭博追踪的92个主要指数中，南非股指1月30日目前表现最差。 贵金属和矿业股领跌。",
+          "url": "https://wallstreetcn.com/livenews/3047438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "特朗普提名沃什担任美联储主席",
@@ -494,17 +542,6 @@
           "time_info": "11时40分"
         },
         {
-          "title": "特朗普提名凯文·沃什出任美联储主席，特朗普为何会选中他？若他出任将如何影响美国货币政策？",
-          "url": "https://www.zhihu.com/question/2000660435238613290",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
-        },
-        {
           "title": "美国总统特朗普：不知道政府是否会关门，正与国会合作。",
           "url": "https://flash.jin10.com/detail/20260130082854842800",
           "source": "金十数据",
@@ -525,17 +562,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
-        },
-        {
-          "title": "共和党参议员Tillis：沃什的提名不会改变我的立场。 在鲍威尔调查结束前，仍计划阻挠提名人选。 还需要看到库克案结案才能放弃反对意见。 我和特朗普每周沟通一次，持续进行对话。",
-          "url": "https://wallstreetcn.com/livenews/3047420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
         },
         {
           "title": "美国总统特朗普：今晚就会知道政府停摆问题的最终结果。",
@@ -772,7 +798,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊朗随时准备“扣动扳机”",
@@ -802,8 +828,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时12分 ~ 22时31分]"
+          "appearance_count": 13,
+          "time_info": "[15时12分 ~ 23时04分]"
         },
         {
           "title": "伊朗被曝将举行实弹军事演习 美政府再次面临部分“停摆” | 环球市场",
@@ -839,8 +865,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时01分 ~ 22时31分]"
+          "appearance_count": 7,
+          "time_info": "[19时01分 ~ 23时04分]"
         },
         {
           "title": "伊朗外交部长阿拉奇：伊朗将维持并扩大国防能力。",
@@ -991,6 +1017,17 @@
           "time_info": "20时37分"
         },
         {
+          "title": "市场消息：希腊警告船东不要在伊朗海岸附近航行。",
+          "url": "https://flash.jin10.com/detail/20260130223044689800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "伊朗外交部长阿拉奇：如有必要，我们将与土耳其加强合作。",
           "url": "https://flash.jin10.com/detail/20260130200631113800",
           "source": "金十数据",
@@ -1063,7 +1100,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -1344,6 +1381,17 @@
           "time_info": "[17时31分 ~ 17时32分]"
         },
         {
+          "title": "新闻分析：国际金价持续上升，原因几何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32492182",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 23时04分]"
+        },
+        {
           "title": "女子10年前买408克金条 金价已翻5倍",
           "url": "https://www.toutiao.com/trending/7600762834013618222/",
           "source": "今日头条",
@@ -1432,17 +1480,6 @@
           "time_info": "16时35分"
         },
         {
-          "title": "新闻分析：国际金价持续上升，原因几何？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32492182",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
-        },
-        {
           "title": "金十图示：2026年01月30日（周五）上海金午盘价为1160.68元/克，较国际金价(1155.76元/克)，高4.92元/克",
           "url": "https://flash.jin10.com/detail/20260130151049706800",
           "source": "金十数据",
@@ -1457,7 +1494,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -1468,8 +1505,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时17分 ~ 22时31分]"
+          "appearance_count": 19,
+          "time_info": "[09时17分 ~ 23时04分]"
         },
         {
           "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
@@ -1489,20 +1526,54 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
         {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-01-30）",
-          "url": "https://flash.jin10.com/detail/20260130220954692800",
+          "title": "沃什引爆鹰派预期，PPI抬头“火上浇油”，美股指齐跌，闪迪涨24%，商品遭遇黑色星期五，沪银重挫17%，沪金大跌6%",
+          "url": "https://wallstreetcn.com/articles/3764541",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "金十图示：2026年01月30日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260130223951466800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时31分"
+          "time_info": "23时04分"
+        },
+        {
+          "title": "半导体ETF跌0.96%，在美股盘初领跌行业ETF，网络股指数ETF、银行业ETF、科技行业ETF、全球科技股指数ETF等至多跌0.72%。",
+          "url": "https://wallstreetcn.com/livenews/3047445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-30）",
+          "url": "https://flash.jin10.com/detail/20260130220954692800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 23时04分]"
         },
         {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
@@ -1529,6 +1600,18 @@
           "time_info": "[19时49分 ~ 20时37分]"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3047426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 23时04分]"
+        },
+        {
           "title": "雪佛龙第四季度调整后每股收益1.52美元，预估1.38美元。 雪佛龙第四季度营收及其他收入468.7亿美元，预估441.6亿美元。 雪佛龙美股盘前跌0.7%。",
           "url": "https://wallstreetcn.com/livenews/3047332",
           "source": "华尔街见闻-快讯",
@@ -1552,15 +1635,15 @@
           "time_info": "17时32分"
         },
         {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3047426",
-          "source": "华尔街见闻-快讯",
+          "title": "美股三大股指低开 金矿股大跌",
+          "url": "https://flash.jin10.com/detail/20260130223022517800",
+          "source": "金十数据",
           "ranks": [
-            8
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时31分"
+          "time_info": "23时04分"
         },
         {
           "title": "美股盘前：闪迪涨约21%，黄金股大跌",
@@ -1583,6 +1666,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "据AXIOS网站：OpenAI总裁布罗克曼与风险投资公司A16Z向支持人工智能的超级政治行动委员会（Pro-AI Super PAC）捐款。",
+          "url": "https://flash.jin10.com/detail/20260130220348095800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 23时04分]"
+        },
+        {
+          "title": "OpenAI计划四季度上市 已聘请新高管",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E8%AE%A1%E5%88%92%E5%9B%9B%E5%AD%A3%E5%BA%A6%E4%B8%8A%E5%B8%82+%E5%B7%B2%E8%81%98%E8%AF%B7%E6%96%B0%E9%AB%98%E7%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "报道：OpenAI总裁布罗克曼与a16z向亲AI超级政治行动委员会注资",
+          "url": "https://wallstreetcn.com/livenews/3047434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "软银集团股价上涨4.2%，因市场寄望OpenAI上市。",
+          "url": "https://flash.jin10.com/detail/20260130080955089800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         }
       ]
     },
@@ -1646,11 +1780,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 22时31分]"
+          "appearance_count": 3,
+          "time_info": "[21时50分 ~ 23时04分]"
         },
         {
           "title": "美元指数上涨0.25%，报96.44。",
@@ -1684,45 +1819,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI计划四季度上市 已聘请新高管",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E8%AE%A1%E5%88%92%E5%9B%9B%E5%AD%A3%E5%BA%A6%E4%B8%8A%E5%B8%82+%E5%B7%B2%E8%81%98%E8%AF%B7%E6%96%B0%E9%AB%98%E7%AE%A1",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 09时18分]"
-        },
-        {
-          "title": "据AXIOS网站：OpenAI总裁布罗克曼与风险投资公司A16Z向支持人工智能的超级政治行动委员会（Pro-AI Super PAC）捐款。",
-          "url": "https://flash.jin10.com/detail/20260130220348095800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
-        },
-        {
-          "title": "软银集团股价上涨4.2%，因市场寄望OpenAI上市。",
-          "url": "https://flash.jin10.com/detail/20260130080955089800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
         }
       ]
     },
