@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T17:32:03.900584+08:00",
-  "total_titles_processed": 1064,
+  "generated_at": "2026-01-30T18:26:43.859997+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时05分 ~ 17时32分]"
+          "appearance_count": 9,
+          "time_info": "[13时05分 ~ 18时26分]"
         },
         {
           "title": "特朗普称美联储“新掌门”周五揭晓 沃什获提名概率飙升至87%！",
@@ -32,6 +32,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时40分 ~ 17时32分]"
+        },
+        {
+          "title": "特朗普：将开放委内瑞拉领空",
+          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时40分 ~ 18时26分]"
         },
         {
           "title": "特朗普：计划30日公布美联储下任主席提名",
@@ -61,22 +72,12 @@
           "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
           "source": "凤凰网",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时17分 ~ 17时32分]"
-        },
-        {
-          "title": "特朗普：将开放委内瑞拉领空",
-          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时40分 ~ 17时32分]"
+          "appearance_count": 12,
+          "time_info": "[09时17分 ~ 18时26分]"
         },
         {
           "title": "特朗普宣布国家紧急状态",
@@ -101,6 +102,20 @@
           "time_info": "11时40分"
         },
         {
+          "title": "特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32496464",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时12分 ~ 18时26分]"
+        },
+        {
           "title": "美防长告诉特朗普：五角大楼“准备好执行”总统涉伊朗的任何决定",
           "url": "https://wallstreetcn.com/livenews/3046840",
           "source": "华尔街见闻-快讯",
@@ -110,6 +125,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "美元大涨、黄金暴跌！特朗普挑了位最“鹰”的鲍威尔接班人？",
+          "url": "https://www.cls.cn/detail/2275439",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时58分 ~ 18时26分]"
         },
         {
           "title": "【特朗普：计划同伊朗对话，“希望”不动用武力】美国总统特朗普29日表示，他计划与伊朗进行对话，并称“希望”不动用武力。他在美国首都华盛顿对记者说：“我们现在有很多非常庞大、威力强大的舰船正驶向伊朗。如果我们最终不必动用它们，那将是极好的。”（新华社）",
@@ -148,32 +176,6 @@
           "time_info": "[09时17分 ~ 13时06分]"
         },
         {
-          "title": "特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32496464",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时12分 ~ 17时32分]"
-        },
-        {
-          "title": "美元大涨、黄金暴跌！特朗普挑了位最“鹰”的鲍威尔接班人？",
-          "url": "https://www.cls.cn/detail/2275439",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时58分 ~ 17时32分]"
-        },
-        {
           "title": "美国白宫官员：美国总统特朗普并未暗示美国会取消对在役加拿大制造飞机的认证。",
           "url": "https://flash.jin10.com/detail/20260130130036264800",
           "source": "金十数据",
@@ -184,6 +186,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时06分 ~ 14时06分]"
+        },
+        {
+          "title": "特朗普将公布美联储下任主席提名",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%85%AC%E5%B8%83%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%8B%E4%BB%BB%E4%B8%BB%E5%B8%AD%E6%8F%90%E5%90%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 18时26分]"
         },
         {
           "title": "特朗普听取多种打击伊朗方案",
@@ -220,17 +234,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时06分 ~ 14时06分]"
-        },
-        {
-          "title": "特朗普将公布美联储下任主席提名",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%85%AC%E5%B8%83%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%8B%E4%BB%BB%E4%B8%BB%E5%B8%AD%E6%8F%90%E5%90%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 17时32分]"
         },
         {
           "title": "庞巴迪：关注到美国总统特朗普的帖子。正与加拿大政府保持联系。希望此事能尽快解决，以避免对航空交通和广大乘客造成重大影响。",
@@ -331,6 +334,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "特朗普起诉美政府部门",
+          "url": "https://www.douyin.com/hot/2383706",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "美国总统特朗普称一个团队（指军队）正前往伊朗。",
@@ -490,7 +504,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "金价剧烈震荡引担忧？WGC：“狂飙涨势”是结构性转变而非投机，今年将继续！",
@@ -540,11 +554,12 @@
             2,
             7,
             21,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时06分 ~ 17时32分]"
+          "appearance_count": 7,
+          "time_info": "[14时06分 ~ 18时26分]"
         },
         {
           "title": "今日金价",
@@ -563,6 +578,20 @@
           "time_info": "[09时17分 ~ 15时12分]"
         },
         {
+          "title": "金价28分钟内暴跌380美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B728%E5%88%86%E9%92%9F%E5%86%85%E6%9A%B4%E8%B7%8C380%E7%BE%8E%E5%85%83%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            23,
+            26,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时58分 ~ 18时26分]"
+        },
+        {
           "title": "黄金价格暴跌原因",
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -578,6 +607,17 @@
           "time_info": "[11时40分 ~ 15时58分]"
         },
         {
+          "title": "聚焦新美联储主席，商品遭遇黑色星期五，白银跌17%逼近95美元、金价一度跌至4950、单日重挫400美元，美元走强",
+          "url": "https://wallstreetcn.com/articles/3764541",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "瑞银：黄金价格短期面临压力，中期修正风险上升",
           "url": "https://flash.jin10.com/detail/20260130132853156800",
           "source": "金十数据",
@@ -587,19 +627,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
-        },
-        {
-          "title": "金价28分钟内暴跌380美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B728%E5%88%86%E9%92%9F%E5%86%85%E6%9A%B4%E8%B7%8C380%E7%BE%8E%E5%85%83%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时58分 ~ 17时32分]"
         },
         {
           "title": "市场聚焦新美联储主席，美元走强美债下跌，商品市场遭遇黑色星期五，银价跌9%、金价跌5%",
@@ -679,6 +706,17 @@
           "time_info": "[09时17分 ~ 09时18分]"
         },
         {
+          "title": "金价有望涨至8500美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9C%89%E6%9C%9B%E6%B6%A8%E8%87%B38500%E7%BE%8E%E5%85%83%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "金价急涨后现调整压力 经济学家称回调属牛市常态",
           "url": "https://flash.jin10.com/detail/20260130160751267800",
           "source": "金十数据",
@@ -703,81 +741,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时17分 ~ 17时32分]"
-        },
-        {
-          "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
-          "url": "https://www.cls.cn/detail/2274922",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时17分 ~ 15时12分]"
-        },
-        {
-          "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2274635",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时17分 ~ 11时40分]"
-        },
-        {
-          "title": "美股金矿股盘前下跌，纽曼矿业(NEM.N)跌7.1%，Sibanye-Stillwater(SBSW.N)跌8%，巴里克黄金(GOLD.N)跌7.3%。",
-          "url": "https://flash.jin10.com/detail/20260130170900682800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        },
-        {
-          "title": "美股盘前：闪迪涨约21%，黄金股大跌",
-          "url": "https://wallstreetcn.com/livenews/3047198",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        },
-        {
-          "title": "闪迪美股盘前涨超20%，最新财报业绩和指引双超预期。",
-          "url": "https://flash.jin10.com/detail/20260130170102251800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "伊朗随时准备“扣动扳机”",
@@ -815,11 +780,12 @@
             20,
             19,
             18,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时12分 ~ 17时32分]"
+          "appearance_count": 6,
+          "time_info": "[15时12分 ~ 18时26分]"
         },
         {
           "title": "伊朗强烈谴责欧盟将伊朗革命卫队列为“恐怖组织”",
@@ -854,6 +820,129 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
+        },
+        {
+          "title": "曝伊朗4万吨“航母”出动",
+          "url": "https://www.toutiao.com/trending/7601069328506555931/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时17分 ~ 18时26分]"
+        },
+        {
+          "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
+          "url": "https://www.cls.cn/detail/2274922",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时17分 ~ 15时12分]"
+        },
+        {
+          "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2274635",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 11时40分]"
+        },
+        {
+          "title": "美股金矿股盘前下跌，纽曼矿业(NEM.N)跌7.1%，Sibanye-Stillwater(SBSW.N)跌8%，巴里克黄金(GOLD.N)跌7.3%。",
+          "url": "https://flash.jin10.com/detail/20260130170900682800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
+          "title": "美股盘前：闪迪涨约21%，黄金股大跌",
+          "url": "https://wallstreetcn.com/livenews/3047198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
+          "title": "闪迪美股盘前涨超20%，最新财报业绩和指引双超预期。",
+          "url": "https://flash.jin10.com/detail/20260130170102251800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数上涨0.25%，报96.44。",
+          "url": "https://wallstreetcn.com/livenews/3046827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "美元指数走高 非美货币普遍下跌",
+          "url": "https://flash.jin10.com/detail/20260130175538032800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "美元指数短线持续走高，日内涨幅达0.6%，现报96.7。",
+          "url": "https://wallstreetcn.com/livenews/3047254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         }
       ]
     },
@@ -934,23 +1023,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数上涨0.25%，报96.44。",
-          "url": "https://wallstreetcn.com/livenews/3046827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
         }
       ]
     }
