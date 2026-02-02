@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-02T20:56:53.910614+08:00",
-  "total_titles_processed": 1393,
+  "generated_at": "2026-02-02T21:58:12.791887+08:00",
+  "total_titles_processed": 1493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
-        {
-          "title": "武契奇预判48小时内伊朗将遭到美国袭击",
-          "url": "https://news.ifeng.com/c/8qPlpK894Ls",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时54分 ~ 17时39分]"
-        },
         {
           "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
           "url": "https://m.thepaper.cn/newsDetail_forward_32498721",
@@ -30,8 +19,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时45分 ~ 20时56分]"
+          "appearance_count": 10,
+          "time_info": "[15时45分 ~ 21时58分]"
+        },
+        {
+          "title": "武契奇预判48小时内伊朗将遭到美国袭击",
+          "url": "https://news.ifeng.com/c/8qPlpK894Ls",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时54分 ~ 17时39分]"
         },
         {
           "title": "已紧扣扳机！美军打击伊朗所需装备已部署齐全",
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时37分 ~ 20时56分]"
+          "appearance_count": 6,
+          "time_info": "[18时37分 ~ 21时58分]"
         },
         {
           "title": "伊朗总统已下令启动核谈判",
@@ -53,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时31分 ~ 20时56分]"
+          "appearance_count": 5,
+          "time_info": "[19时31分 ~ 21时58分]"
         },
         {
           "title": "伊朗局势现转机 贵金属原油集体跳水",
@@ -66,6 +66,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时01分 ~ 12时02分]"
+        },
+        {
+          "title": "伊朗否认收到美“最后通牒”，总统下令启动核谈判",
+          "url": "https://news.ifeng.com/c/8qQImZxB0ZO",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 21时58分]"
         },
         {
           "title": "伊朗为何突然在核问题上松口",
@@ -90,15 +101,17 @@
           "time_info": "16时35分"
         },
         {
-          "title": "伊朗表示无意将任何浓缩核材料转移至其他国家",
-          "url": "https://wallstreetcn.com/livenews/3048368",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗总统已下令启动核谈判",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B7%B2%E4%B8%8B%E4%BB%A4%E5%90%AF%E5%8A%A8%E6%A0%B8%E8%B0%88%E5%88%A4%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
-            2
+            8,
+            2,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时58分 ~ 21时58分]"
         },
         {
           "title": "伊朗最高领袖：近期抗议示威形同政变，已被平定",
@@ -134,27 +147,40 @@
           "time_info": "19时58分"
         },
         {
-          "title": "伊朗武装部队总参谋长：已做好充分准备回击侵略者",
-          "url": "https://wallstreetcn.com/livenews/3048365",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗总统已下令启动核谈判",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B7%B2%E4%B8%8B%E4%BB%A4%E5%90%AF%E5%8A%A8%E6%A0%B8%E8%B0%88%E5%88%A4",
+          "source": "百度热搜",
           "ranks": [
-            5
+            7,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时31分 ~ 21时58分]"
         },
         {
           "title": "伊朗总统已下令启动核谈判",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B7%B2%E4%B8%8B%E4%BB%A4%E5%90%AF%E5%8A%A8%E6%A0%B8%E8%B0%88%E5%88%A4%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "url": "https://www.douyin.com/hot/2387489",
+          "source": "抖音",
           "ranks": [
-            8,
-            2
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时58分 ~ 20时56分]"
+          "appearance_count": 5,
+          "time_info": "[19时31分 ~ 21时58分]"
+        },
+        {
+          "title": "伊朗总统已下令启动核谈判",
+          "url": "https://www.toutiao.com/trending/7602220975286914602/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时31分 ~ 21时58分]"
         },
         {
           "title": "伊朗否认收到美国“最后通牒” 称希望未来几天确定谈判细节",
@@ -179,6 +205,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时31分 ~ 19时58分]"
+        },
+        {
+          "title": "伊朗表示无意将任何浓缩核材料转移至其他国家",
+          "url": "https://wallstreetcn.com/livenews/3048368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 21时58分]"
         },
         {
           "title": "伊朗外长：敌方重型武器可以通过抵抗来击败。",
@@ -217,39 +255,16 @@
           "time_info": "[19时31分 ~ 19时58分]"
         },
         {
-          "title": "伊朗总统已下令启动核谈判",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B7%B2%E4%B8%8B%E4%BB%A4%E5%90%AF%E5%8A%A8%E6%A0%B8%E8%B0%88%E5%88%A4",
-          "source": "百度热搜",
+          "title": "伊朗武装部队总参谋长：已做好充分准备回击侵略者",
+          "url": "https://wallstreetcn.com/livenews/3048365",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            16
+            5,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时31分 ~ 20时56分]"
-        },
-        {
-          "title": "伊朗总统已下令启动核谈判",
-          "url": "https://www.douyin.com/hot/2387489",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时31分 ~ 20时56分]"
-        },
-        {
-          "title": "伊朗总统已下令启动核谈判",
-          "url": "https://www.toutiao.com/trending/7602220975286914602/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时31分 ~ 20时56分]"
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 21时58分]"
         },
         {
           "title": "伊朗总统已下令开启核谈判",
@@ -351,7 +366,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -373,7 +388,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -505,7 +520,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -527,7 +542,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         }
@@ -793,7 +808,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         }
@@ -992,7 +1007,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -1003,7 +1018,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -1014,7 +1029,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -1098,7 +1113,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         }
@@ -1113,11 +1128,12 @@
           "url": "https://wallstreetcn.com/livenews/3048366",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 21时58分]"
         },
         {
           "title": "盛宝银行：美债收益率回落 沃什提名与避险需求提供支撑",
@@ -1164,11 +1180,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时58分 ~ 20时56分]"
+          "appearance_count": 4,
+          "time_info": "[19时58分 ~ 21时58分]"
         },
         {
           "title": "土耳其提高部分黄金、白银基金的最低价格限制。",
