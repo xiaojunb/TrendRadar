@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-03T20:53:37.519638+08:00",
-  "total_titles_processed": 1438,
+  "generated_at": "2026-02-03T22:01:09.653674+08:00",
+  "total_titles_processed": 1558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 23,
       "titles": [
+        {
+          "title": "特朗普希望中国也加入核军控谈判，中方回应",
+          "url": "https://news.ifeng.com/c/8qRbfAGXhdh",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时43分 ~ 22时01分]"
+        },
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
           "url": "https://news.ifeng.com/c/8qQSV7gn6mY",
@@ -19,18 +31,6 @@
           "time_info": "[09时22分 ~ 16时02分]"
         },
         {
-          "title": "特朗普希望中国也加入核军控谈判，中方回应",
-          "url": "https://news.ifeng.com/c/8qRbfAGXhdh",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时43分 ~ 20时53分]"
-        },
-        {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
           "url": "https://wallstreetcn.com/articles/3764775",
           "source": "华尔街见闻",
@@ -40,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时15分 ~ 20时53分]"
+          "appearance_count": 12,
+          "time_info": "[15时15分 ~ 22时01分]"
         },
         {
           "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
@@ -73,6 +73,18 @@
           "time_info": "[16时01分 ~ 20时53分]"
         },
         {
+          "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
+          "url": "https://news.ifeng.com/c/8qRnEtgNGZK",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时29分 ~ 22时01分]"
+        },
+        {
           "title": "特朗普：美印达成贸易协议 印度同意停购俄油+5000亿商品采购",
           "url": "https://www.cls.cn/detail/2278350",
           "source": "财联社热门",
@@ -86,18 +98,6 @@
           "time_info": "[09时22分 ~ 16时02分]"
         },
         {
-          "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
-          "url": "https://news.ifeng.com/c/8qRnEtgNGZK",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时29分 ~ 20时53分]"
-        },
-        {
           "title": "美联邦法官阻止特朗普政府终止海地移民临时保护身份",
           "url": "https://wallstreetcn.com/livenews/3048649",
           "source": "华尔街见闻-快讯",
@@ -107,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
+          "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时58分 ~ 22时01分]"
         },
         {
           "title": "特朗普称美印达成贸易协议，对印关税下调至 18%，这场交易背后各有哪些算计？会带来什么影响？",
@@ -120,17 +131,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时54分 ~ 14时10分]"
-        },
-        {
-          "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
-          "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时58分 ~ 20时53分]"
         },
         {
           "title": "特朗普怒骂格莱美主持人",
@@ -161,7 +161,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -271,7 +271,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         }
@@ -279,7 +279,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美伊或开启核谈判，伊朗释放双重信号",
@@ -307,8 +307,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时15分 ~ 20时53分]"
+          "appearance_count": 12,
+          "time_info": "[15时15分 ~ 22时01分]"
         },
         {
           "title": "伊朗最高领袖顾问：无意将浓缩铀转移至国外",
@@ -382,6 +382,17 @@
           "time_info": "[09时22分 ~ 09时23分]"
         },
         {
+          "title": "卡塔尔外交部：与伊朗保持最高级别沟通",
+          "url": "https://wallstreetcn.com/livenews/3049158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时01分"
+        },
+        {
           "title": "以色列：对美国与伊朗谈判提“三不”强硬要求",
           "url": "https://www.cls.cn/detail/2278436",
           "source": "财联社热门",
@@ -443,7 +454,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -454,7 +465,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -465,7 +476,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         }
@@ -473,7 +484,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -484,8 +495,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时22分 ~ 20时53分]"
+          "appearance_count": 18,
+          "time_info": "[09时22分 ~ 22时01分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
@@ -505,11 +516,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时34分 ~ 20时53分]"
+          "appearance_count": 8,
+          "time_info": "[17时34分 ~ 22时01分]"
         },
         {
           "title": "美股稀土板块盘前走强 据称美国拟启动“金库计划” 复制石油储备模式",
@@ -533,6 +545,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时22分 ~ 11时54分]"
+        },
+        {
+          "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2279540",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时01分]"
         },
         {
           "title": "美股三大指数集体收涨",
@@ -563,7 +586,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -574,7 +597,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -596,7 +619,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -607,68 +630,15 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金价究竟涨到多少才算过高？摩根大通给出预期：8000美元以上",
-          "url": "https://www.cls.cn/detail/2278518",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时12分 ~ 17时34分]"
-        },
-        {
-          "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
-          "url": "https://www.zhihu.com/question/1999853061464614005",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时32分 ~ 20时53分]"
-        },
-        {
-          "title": "李大霄解读金价一夜V型反转",
-          "url": "https://www.toutiao.com/trending/7602460387761491507/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时54分"
-        },
-        {
-          "title": "在金价大涨5.5%的带动下，美国上市黄金矿业股盘前走高，纽蒙特上涨5.8%，巴里克矿业上涨5.3%，黄金ETF-SPDR（GLD）上涨5.9%",
-          "url": "https://flash.jin10.com/detail/20260203171044023800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "汇丰：美债短端高收益债更具吸引力",
@@ -694,6 +664,17 @@
           "time_info": "15时15分"
         },
         {
+          "title": "摩根大通美债客户调查显示净多头占比创去年10月以来最低",
+          "url": "https://wallstreetcn.com/livenews/3049153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时01分"
+        },
+        {
           "title": "美国经济数据走强 推高美债收益率",
           "url": "https://flash.jin10.com/detail/20260203190934641800",
           "source": "金十数据",
@@ -714,6 +695,82 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
+        },
+        {
+          "title": "摩根大通美债客户调查显示净多头占比创去年10月以来最低。",
+          "url": "https://flash.jin10.com/detail/20260203210747492800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金价究竟涨到多少才算过高？摩根大通给出预期：8000美元以上",
+          "url": "https://www.cls.cn/detail/2278518",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时12分 ~ 17时34分]"
+        },
+        {
+          "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
+          "url": "https://www.zhihu.com/question/1999853061464614005",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时32分 ~ 22时01分]"
+        },
+        {
+          "title": "李大霄解读金价一夜V型反转",
+          "url": "https://www.toutiao.com/trending/7602460387761491507/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
+          "title": "在金价大涨5.5%的带动下，美国上市黄金矿业股盘前走高，纽蒙特上涨5.8%，巴里克矿业上涨5.3%，黄金ETF-SPDR（GLD）上涨5.9%",
+          "url": "https://flash.jin10.com/detail/20260203171044023800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "金价遭遇46年来最惨跌幅，期权交易员竟押注金价将涨至2万美元",
+          "url": "https://wallstreetcn.com/livenews/3049141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时01分"
         }
       ]
     },
