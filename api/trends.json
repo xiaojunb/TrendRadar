@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T09:23:07.756411+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-03T11:54:34.213506+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 09时23分]"
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 11时54分]"
         },
         {
           "title": "美联邦法官阻止特朗普政府终止海地移民临时保护身份",
@@ -25,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         },
@@ -34,22 +34,24 @@
           "url": "https://www.cls.cn/detail/2278350",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 09时23分]"
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 11时54分]"
         },
         {
           "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
           "url": "https://www.cls.cn/detail/2278428",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 09时23分]"
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 11时54分]"
         },
         {
           "title": "特朗普怒骂格莱美主持人",
@@ -63,13 +65,24 @@
           "time_info": "[09时22分 ~ 09时23分]"
         },
         {
+          "title": "特朗普称美印达成贸易协议，对印关税下调至 18%，这场交易背后各有哪些算计？会带来什么影响？",
+          "url": "https://www.zhihu.com/question/2001948735127643511",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
           "title": "美国法官阻止特朗普政府终止对35万海地人的法律保护。",
           "url": "https://flash.jin10.com/detail/20260203082904597800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         }
@@ -84,22 +97,24 @@
           "url": "https://wallstreetcn.com/articles/3764730",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 09时23分]"
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 11时54分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
           "url": "https://www.cls.cn/detail/2278378",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 09时23分]"
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 11时54分]"
         },
         {
           "title": "美股稀土板块盘前走强 据称美国拟启动“金库计划” 复制石油储备模式",
@@ -109,19 +124,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 09时23分]"
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 11时54分]"
         },
         {
           "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2278222",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 09时23分]"
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 11时54分]"
         },
         {
           "title": "美股三大指数集体收涨",
@@ -138,18 +154,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美伊或开启核谈判，伊朗释放双重信号",
           "url": "https://news.ifeng.com/c/8qR1zmFfMjv",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 09时23分]"
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 11时54分]"
         },
         {
           "title": "伊朗总统已下令启动核谈判",
@@ -161,6 +178,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时22分 ~ 09时23分]"
+        },
+        {
+          "title": "伊朗总统已下令与美开展核问题专项谈判，有何考量？此次外交行动会打破僵局吗？",
+          "url": "https://www.zhihu.com/question/2001732629960081618",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         }
       ]
     },
@@ -175,9 +203,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "李大霄解读金价一夜V型反转",
+          "url": "https://www.toutiao.com/trending/7602460387761491507/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         }
       ]
     }
