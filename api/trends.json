@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T16:43:20.396187+08:00",
-  "total_titles_processed": 992,
+  "generated_at": "2026-02-03T17:34:18.830177+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
@@ -52,9 +52,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 17时34分]"
+        },
+        {
+          "title": "中方回应特朗普让中国参与军控谈判",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%8F%82%E4%B8%8E%E5%86%9B%E6%8E%A7%E8%B0%88%E5%88%A4",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时01分 ~ 17时34分]"
         },
         {
           "title": "美联邦法官阻止特朗普政府终止海地移民临时保护身份",
@@ -75,8 +87,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时15分 ~ 16时43分]"
+          "appearance_count": 5,
+          "time_info": "[15时15分 ~ 17时34分]"
         },
         {
           "title": "特朗普称美印达成贸易协议，对印关税下调至 18%，这场交易背后各有哪些算计？会带来什么影响？",
@@ -90,17 +102,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时54分 ~ 14时10分]"
-        },
-        {
-          "title": "中方回应特朗普让中国参与军控谈判",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%8F%82%E4%B8%8E%E5%86%9B%E6%8E%A7%E8%B0%88%E5%88%A4",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时01分 ~ 16时43分]"
         },
         {
           "title": "特朗普怒骂格莱美主持人",
@@ -145,6 +146,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
+        },
+        {
+          "title": "金十整理：特朗普连环诉讼索赔超700亿美元 一纸诉状告遍政府机构、媒体、银行、大学",
+          "url": "https://flash.jin10.com/detail/20260203170134456800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "特朗普：向哈佛索赔10亿美元 今后再无瓜葛",
@@ -194,7 +206,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美伊或开启核谈判，伊朗释放双重信号",
@@ -210,15 +222,28 @@
           "time_info": "[09时22分 ~ 16时02分]"
         },
         {
-          "title": "伊朗首都一集市发生火灾 暂无人员伤亡报告",
-          "url": "https://wallstreetcn.com/livenews/3048972",
+          "title": "伊朗最高领袖顾问：无意将浓缩铀转移至国外",
+          "url": "https://wallstreetcn.com/livenews/3048998",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时43分"
+          "time_info": "17时34分"
+        },
+        {
+          "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时15分 ~ 17时34分]"
         },
         {
           "title": "伊朗总统已下令与美开展核问题专项谈判，有何考量？此次外交行动会打破僵局吗？",
@@ -234,16 +259,16 @@
           "time_info": "[11时54分 ~ 14时10分]"
         },
         {
-          "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
-          "source": "澎湃新闻",
+          "title": "伊朗首都一集市发生火灾 暂无人员伤亡报告",
+          "url": "https://wallstreetcn.com/livenews/3048972",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19,
-            16
+            5,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时15分 ~ 16时43分]"
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 17时34分]"
         },
         {
           "title": "伊朗总统已下令启动核谈判",
@@ -263,7 +288,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -296,7 +321,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         }
@@ -304,7 +329,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -315,8 +340,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时22分 ~ 16时43分]"
+          "appearance_count": 11,
+          "time_info": "[09时22分 ~ 17时34分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
@@ -363,12 +388,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时22分 ~ 09时23分]"
+        },
+        {
+          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "美股盘前，美国锑业涨超4%，特朗普拟投资120亿美元储备关键矿产。美股存储板块盘前走高。美光科技涨1.8%，闪迪涨3.2%，西部数据涨2.3%。Palantir盘前涨近12%，2026年全年指引大超预期。",
+          "url": "https://wallstreetcn.com/livenews/3048993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价究竟涨到多少才算过高？摩根大通给出预期：8000美元以上",
@@ -376,11 +423,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时12分 ~ 16时43分]"
+          "appearance_count": 8,
+          "time_info": "[13时12分 ~ 17时34分]"
         },
         {
           "title": "李大霄解读金价一夜V型反转",
@@ -392,6 +440,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
+        },
+        {
+          "title": "在金价大涨5.5%的带动下，美国上市黄金矿业股盘前走高，纽蒙特上涨5.8%，巴里克矿业上涨5.3%，黄金ETF-SPDR（GLD）上涨5.9%",
+          "url": "https://flash.jin10.com/detail/20260203171044023800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         }
       ]
     },
@@ -420,6 +479,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek问世一周年，大模型改变了商业银行吗？营销降本效果显著，更多作用仍需观察",
+          "url": "https://www.cls.cn/detail/2278690",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         }
       ]
     },
