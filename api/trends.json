@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T19:29:02.481069+08:00",
-  "total_titles_processed": 1284,
+  "generated_at": "2026-02-04T19:55:45.613318+08:00",
+  "total_titles_processed": 1329,
   "failed_sources": [],
   "trends": [
     {
@@ -235,7 +235,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -246,8 +246,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时18分 ~ 19时29分]"
+          "appearance_count": 17,
+          "time_info": "[09时18分 ~ 19时55分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -258,8 +258,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时18分 ~ 19时29分]"
+          "appearance_count": 17,
+          "time_info": "[09时18分 ~ 19时55分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -270,8 +270,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时06分 ~ 19时29分]"
+          "appearance_count": 15,
+          "time_info": "[13时06分 ~ 19时55分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
@@ -307,8 +307,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时06分 ~ 19时29分]"
+          "appearance_count": 15,
+          "time_info": "[13时06分 ~ 19时55分]"
         },
         {
           "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
@@ -320,6 +320,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时18分 ~ 14时08分]"
+        },
+        {
+          "title": "礼来第四季度调整后每股收益7.54美元，去年同期为5.32美元。 第四季度营收为192.9亿美元，同比增长43%，市场预期为180.1亿美元。 预计全年营收为800亿至830亿美元，市场预期为777.1亿美元。 预计全球产品价格降幅在10%至15%之间。 礼来美股盘前涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3049858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5000美元关口",
@@ -414,8 +425,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时06分 ~ 19时29分]"
+          "appearance_count": 15,
+          "time_info": "[13时06分 ~ 19时55分]"
         },
         {
           "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
@@ -428,8 +439,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时52分 ~ 19时29分]"
+          "appearance_count": 8,
+          "time_info": "[16时52分 ~ 19时55分]"
         },
         {
           "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
@@ -439,8 +450,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时28分 ~ 19时29分]"
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 19时55分]"
         },
         {
           "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
@@ -451,8 +462,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时36分 ~ 19时29分]"
+          "appearance_count": 6,
+          "time_info": "[17时36分 ~ 19时55分]"
         },
         {
           "title": "美军击落伊朗无人机后，油轮遭伊炮艇威胁",
@@ -467,6 +478,18 @@
           "time_info": "[09时18分 ~ 11时44分]"
         },
         {
+          "title": "伊朗古列斯坦王宫宣布暂停对外开放",
+          "url": "https://wallstreetcn.com/livenews/3049837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 19时55分]"
+        },
+        {
           "title": "美军击落伊朗无人机",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%87%BB%E8%90%BD%E4%BC%8A%E6%9C%97%E6%97%A0%E4%BA%BA%E6%9C%BA",
           "source": "bilibili 热搜",
@@ -477,17 +500,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时44分 ~ 14时08分]"
-        },
-        {
-          "title": "伊朗古列斯坦王宫宣布暂停对外开放",
-          "url": "https://wallstreetcn.com/livenews/3049837",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
         },
         {
           "title": "伊朗称失联无人机曾传回图片",
@@ -537,7 +549,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金价暴力反弹重上5000美元",
@@ -620,6 +632,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
+        },
+        {
+          "title": "金价震荡金店3天蒸发200万",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%9C%87%E8%8D%A1%E9%87%91%E5%BA%973%E5%A4%A9%E8%92%B8%E5%8F%91200%E4%B8%87%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         }
       ]
     },
@@ -730,8 +753,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时18分 ~ 19时29分]"
+          "appearance_count": 17,
+          "time_info": "[09时18分 ~ 19时55分]"
         }
       ]
     },
