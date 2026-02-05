@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T14:14:54.772982+08:00",
-  "total_titles_processed": 693,
+  "generated_at": "2026-02-05T15:32:23.187274+08:00",
+  "total_titles_processed": 806,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 14时14分]"
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 15时32分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 14时14分]"
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 15时32分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -39,8 +39,21 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 15时32分]"
+        },
+        {
+          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
+          "url": "https://www.cls.cn/detail/2281033",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时19分 ~ 14时14分]"
+          "time_info": "[11时45分 ~ 15时32分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -74,18 +87,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
-        },
-        {
-          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
-          "url": "https://www.cls.cn/detail/2281033",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 14时14分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -180,7 +181,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗外长与中东三国外长通话讨论地区局势",
@@ -189,7 +190,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
         },
@@ -198,11 +199,12 @@
           "url": "https://news.ifeng.com/c/8qUUgmewA1z",
           "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 14时14分]"
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 15时32分]"
         },
         {
           "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
@@ -211,11 +213,12 @@
           "ranks": [
             17,
             14,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 14时14分]"
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 15时32分]"
         },
         {
           "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
@@ -227,6 +230,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长阿拉格齐分别与埃及、阿曼、卡塔尔三国外长通电话，就地区和国际局势最新进展交换了意见。",
+          "url": "https://flash.jin10.com/detail/20260205142631785800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "伊朗议员喊话对美以先发制人打击",
@@ -243,7 +257,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -253,8 +267,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 14时14分]"
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 15时32分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -265,8 +279,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 14时14分]"
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 15时32分]"
         },
         {
           "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
@@ -276,8 +290,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 14时14分]"
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 15时32分]"
+        },
+        {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "谷歌母公司Alphabet业绩报告要点总结",
@@ -304,8 +329,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 14时14分]"
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 15时32分]"
         },
         {
           "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
@@ -369,6 +394,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比DeepSeek风暴还惨烈！一文读懂：华尔街“抛AI”妖风祸从何来？",
+          "url": "https://www.cls.cn/detail/2281407",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         }
       ]
     },
