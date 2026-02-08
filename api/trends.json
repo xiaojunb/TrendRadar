@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T18:54:33.250708+08:00",
-  "total_titles_processed": 828,
+  "generated_at": "2026-02-08T19:18:33.300652+08:00",
+  "total_titles_processed": 858,
   "failed_sources": [],
   "trends": [
     {
@@ -48,18 +48,6 @@
           "time_info": "[09时54分 ~ 13时46分]"
         },
         {
-          "title": "内塔尼亚胡将于下周三与特朗普会面，讨论伊朗问题",
-          "url": "https://flash.jin10.com/detail/20260208174127645800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 18时54分]"
-        },
-        {
           "title": "美国总统特朗普：与洪都拉斯总统在安全问题上建立紧密伙伴关系，携手打击贩毒集团和毒贩，将非法移民和帮派成员驱逐出美国。",
           "url": "https://flash.jin10.com/detail/20260208105958137800",
           "source": "金十数据",
@@ -72,6 +60,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时28分 ~ 16时24分]"
+        },
+        {
+          "title": "内塔尼亚胡将于下周三与特朗普会面，讨论伊朗问题",
+          "url": "https://flash.jin10.com/detail/20260208174127645800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 19时18分]"
         },
         {
           "title": "加拿大央行行长：若失去特朗普的CUSMA准入，加拿大经济将面临衰退",
@@ -99,17 +100,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-08）",
-          "url": "https://flash.jin10.com/detail/20260208181448181800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
         },
         {
           "title": "美国总统特朗普：期待洪都拉斯总统阿斯富拉再次访问美国。",
@@ -168,6 +158,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时54分 ~ 15时35分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-08）",
+          "url": "https://flash.jin10.com/detail/20260208181448181800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时18分]"
         },
         {
           "title": "特朗普：需要通过竞争来打击散播虚假新闻的电视网络",
@@ -243,11 +245,12 @@
             4,
             12,
             14,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时24分 ~ 18时54分]"
+          "appearance_count": 7,
+          "time_info": "[16时24分 ~ 19时18分]"
         },
         {
           "title": "伊朗总统：与美国会谈是向前迈出的一步",
@@ -259,11 +262,12 @@
             15,
             20,
             22,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时24分 ~ 18时54分]"
+          "appearance_count": 7,
+          "time_info": "[16时24分 ~ 19时18分]"
         },
         {
           "title": "伊朗外长：伊方绝不接受“零浓缩铀”",
@@ -272,11 +276,12 @@
           "ranks": [
             3,
             5,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时52分 ~ 18时54分]"
+          "appearance_count": 4,
+          "time_info": "[17时52分 ~ 19时18分]"
         },
         {
           "title": "伊朗总统：与美国会谈是向前迈出的一步",
@@ -303,11 +308,12 @@
             10,
             15,
             17,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时57分 ~ 18时54分]"
+          "appearance_count": 6,
+          "time_info": "[16时57分 ~ 19时18分]"
         },
         {
           "title": "伊朗外长：第二轮伊美谈判有望在未来几天内举行",
@@ -323,6 +329,20 @@
           "time_info": "[09时54分 ~ 14时41分]"
         },
         {
+          "title": "伊朗外长：伊方绝不接受“零浓缩铀”",
+          "url": "https://flash.jin10.com/detail/20260208171910596800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            10,
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时52分 ~ 19时18分]"
+        },
+        {
           "title": "伊朗武装部队总参谋长：伊空军处于“最高战备状态”",
           "url": "https://flash.jin10.com/detail/20260208094240359800",
           "source": "金十数据",
@@ -334,19 +354,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时28分 ~ 15时35分]"
-        },
-        {
-          "title": "伊朗外长：伊方绝不接受“零浓缩铀”",
-          "url": "https://flash.jin10.com/detail/20260208171910596800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时52分 ~ 18时54分]"
         },
         {
           "title": "美特使登航母，与击落伊朗无人机飞行员交流",
@@ -444,8 +451,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时46分 ~ 18时54分]"
+          "appearance_count": 14,
+          "time_info": "[13时46分 ~ 19时18分]"
         },
         {
           "title": "为什么最近黄金价格波动这么大",
@@ -489,8 +496,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时34分 ~ 18时54分]"
+          "appearance_count": 11,
+          "time_info": "[15时34分 ~ 19时18分]"
         },
         {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
@@ -502,8 +509,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时54分 ~ 18时54分]"
+          "appearance_count": 16,
+          "time_info": "[09时54分 ~ 19时18分]"
         }
       ]
     },
@@ -523,8 +530,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时23分 ~ 18时54分]"
+          "appearance_count": 9,
+          "time_info": "[16时23分 ~ 19时18分]"
         }
       ]
     },
@@ -541,8 +548,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时25分 ~ 18时54分]"
+          "appearance_count": 5,
+          "time_info": "[17时25分 ~ 19时18分]"
         }
       ]
     },
@@ -556,11 +563,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 18时54分]"
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 19时18分]"
         }
       ]
     }
