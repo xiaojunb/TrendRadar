@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-09T15:54:24.880025+08:00",
-  "total_titles_processed": 795,
+  "generated_at": "2026-02-09T16:41:40.907528+08:00",
+  "total_titles_processed": 879,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "特朗普称“期待高市实现以实力保障和平的政策”，外交部回应",
-          "url": "https://wallstreetcn.com/livenews/3052163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
         {
           "title": "印尼总统发言人：总统普拉博沃受邀于2月19日赴美，出席美国总统特朗普和平委员会会议，希望在此次访问期间与美国总统特朗普签署贸易协议。",
           "url": "https://flash.jin10.com/detail/20260209153806428800",
@@ -25,9 +14,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
+        },
+        {
+          "title": "特朗普称“期待高市实现以实力保障和平的政策”，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3052163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 16时41分]"
         },
         {
           "title": "特朗普大骂美国冬奥运动员",
@@ -50,8 +51,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时51分 ~ 15时54分]"
+          "appearance_count": 4,
+          "time_info": "[13时51分 ~ 16时41分]"
         },
         {
           "title": "如何看待特朗普怒喷第 60 届超级碗中场秀「史上最烂」，因表演中几乎完全没有说英文？",
@@ -60,7 +61,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
@@ -74,6 +75,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
+        },
+        {
+          "title": "特朗普批超级碗中场秀是史上最差之一",
+          "url": "https://www.toutiao.com/trending/7604390910096506934/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         }
       ]
     },
@@ -111,7 +123,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
@@ -125,6 +137,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
+          "url": "https://wallstreetcn.com/articles/3765245",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 12时04分]"
+        },
+        {
+          "title": "美国方面称，道达尔能源将为谷歌位于得州的数据中心提供1吉瓦太阳能发电容量，为期15年。",
+          "url": "https://flash.jin10.com/detail/20260209161349055800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
+          "title": "Kimi K2.5持续霸榜Openrouter，大幅度领先Gemini 3",
+          "url": "https://wallstreetcn.com/livenews/3052107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         }
       ]
     },
@@ -160,35 +212,6 @@
           "source": "金十数据",
           "ranks": [
             23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
-          "url": "https://wallstreetcn.com/articles/3765245",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 12时04分]"
-        },
-        {
-          "title": "Kimi K2.5持续霸榜Openrouter，大幅度领先Gemini 3",
-          "url": "https://wallstreetcn.com/livenews/3052107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 1,
