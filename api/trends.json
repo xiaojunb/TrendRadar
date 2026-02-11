@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T17:45:10.631825+08:00",
-  "total_titles_processed": 961,
+  "generated_at": "2026-02-11T18:42:27.094728+08:00",
+  "total_titles_processed": 1052,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "美军“导弹已上膛”，特朗普再对伊朗发出威胁",
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时31分 ~ 17时45分]"
+          "appearance_count": 12,
+          "time_info": "[09时31分 ~ 18时42分]"
         },
         {
           "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
@@ -51,8 +51,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 17时45分]"
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 18时42分]"
+        },
+        {
+          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
+          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "特朗普为何突然盯上加拿大这座大桥？加官员这么说",
@@ -135,6 +146,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-11）",
+          "url": "https://flash.jin10.com/detail/20260211181613310800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "据美国媒体报道，以色列总理内塔尼亚胡10日晚在白宫与美国总统特朗普的特使威特科夫和女婿库什纳举行会晤，双方讨论了伊朗局势。",
           "url": "https://flash.jin10.com/detail/20260211122756306800",
           "source": "金十数据",
@@ -144,6 +166,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
+        },
+        {
+          "title": "外交部回应特朗普涉中加合作言论",
+          "url": "https://www.toutiao.com/trending/7605448481570897961/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "美众议院以微弱优势否决动议 特朗普关税决议可提全院表决",
@@ -204,7 +237,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "沙特驻伊朗大使：支持地区局势降温",
@@ -227,6 +260,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
+        },
+        {
+          "title": "据伊朗努尔新闻(Nour News)：伊朗最高领袖顾问沙姆哈尼表示，德黑兰的导弹能力是其红线。",
+          "url": "https://flash.jin10.com/detail/20260211183009729800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "伊朗总统说伊朗不寻求核武器",
@@ -276,6 +320,17 @@
           "time_info": "[09时31分 ~ 12时14分]"
         },
         {
+          "title": "中方送伊朗歼-20模型传递何种信号",
+          "url": "https://www.toutiao.com/trending/7605520149600292406/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "伊朗外长：相信可以达成优于伊核协议的新协议",
           "url": "https://flash.jin10.com/detail/20260211140731588800",
           "source": "金十数据",
@@ -285,6 +340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
+        },
+        {
+          "title": "伊朗最高领袖政治顾问：导弹能力不在谈判授权范围内",
+          "url": "https://wallstreetcn.com/livenews/3053672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "伊朗外长：相信可以达成优于伊核协议的新协议",
@@ -304,7 +370,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -318,12 +384,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "伊朗军事实力如何",
+          "url": "https://www.toutiao.com/trending/7605529877277576740/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -335,8 +412,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时31分 ~ 17时45分]"
+          "appearance_count": 12,
+          "time_info": "[09时31分 ~ 18时42分]"
+        },
+        {
+          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765455",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时51分 ~ 18时42分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
@@ -349,19 +439,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时31分 ~ 14时53分]"
-        },
-        {
-          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765455",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时51分 ~ 17时45分]"
         },
         {
           "title": "罗杰斯为何清空美股死守金银铜",
@@ -396,12 +473,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
+          "url": "https://www.zhihu.com/question/2004662806780338439",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "一次性出手8公斤金条！金价高位震荡，千万元级套现频频",
@@ -413,8 +501,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时51分 ~ 17时45分]"
+          "appearance_count": 10,
+          "time_info": "[13时51分 ~ 18时42分]"
+        },
+        {
+          "title": "机构：收益率走低支撑金价反弹 市场静候非农报告出炉",
+          "url": "https://flash.jin10.com/detail/20260211182619884800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "金十图示：2026年02月11日（周三）上海金午盘价为1125.69元/克，较国际金价(1124.61元/克)，高1.08元/克",
