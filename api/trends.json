@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T15:45:21.156205+08:00",
-  "total_titles_processed": 796,
+  "generated_at": "2026-02-13T16:35:28.460719+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时26分 ~ 15时45分]"
-        },
-        {
-          "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2289051",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时26分 ~ 15时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 16时35分]"
         },
         {
           "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
@@ -35,6 +24,17 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 16时35分]"
+        },
+        {
+          "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2289051",
+          "source": "财联社热门",
+          "ranks": [
             2
           ],
           "is_new": false,
@@ -64,8 +64,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 15时45分]"
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 16时35分]"
         },
         {
           "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
@@ -77,8 +77,20 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 16时35分]"
+        },
+        {
+          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
+          "url": "https://wallstreetcn.com/articles/3765636",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时23分 ~ 15时45分]"
+          "time_info": "[14时39分 ~ 16时35分]"
         },
         {
           "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
@@ -93,16 +105,15 @@
           "time_info": "[09时26分 ~ 12时01分]"
         },
         {
-          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
-          "url": "https://wallstreetcn.com/articles/3765636",
-          "source": "华尔街见闻",
+          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
+          "url": "https://www.zhihu.com/question/2005568531748648323",
+          "source": "知乎",
           "ranks": [
-            10,
-            8
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时39分 ~ 15时45分]"
+          "time_info": "[15时45分 ~ 16时35分]"
         },
         {
           "title": "美股跳水 黄金白银大跌",
@@ -126,17 +137,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
-        },
-        {
-          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
-          "url": "https://www.zhihu.com/question/2005568531748648323",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
         },
         {
           "title": "美股",
@@ -167,7 +167,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         }
@@ -175,7 +175,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -185,19 +185,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时26分 ~ 15时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 16时35分]"
         },
         {
           "title": "特朗普答凤凰：中美关系良好，两国元首今年实现互访",
           "url": "https://news.ifeng.com/c/8qhfIw9PImo",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时26分 ~ 15时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 16时35分]"
         },
         {
           "title": "特朗普威胁伊朗：不达成协议，就进入第二阶段",
@@ -205,22 +206,24 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时26分 ~ 15时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 16时35分]"
         },
         {
           "title": "路透社：特朗普访华前暂停对华科技禁令",
           "url": "https://news.ifeng.com/c/8qhwigwSERf",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 15时45分]"
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 16时35分]"
         },
         {
           "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
@@ -232,6 +235,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
+          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "特朗普称期待4月访华",
+          "url": "https://www.douyin.com/hot/2398935",
+          "source": "抖音",
+          "ranks": [
+            10,
+            9,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 16时35分]"
         },
         {
           "title": "特朗普称必须与伊朗达成协议 Anthropic完成300亿美元融资 | 环球市场",
@@ -247,29 +275,17 @@
           "time_info": "[09时26分 ~ 15时45分]"
         },
         {
-          "title": "特朗普称期待4月访华",
-          "url": "https://www.douyin.com/hot/2398935",
-          "source": "抖音",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 15时45分]"
-        },
-        {
           "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
           "url": "https://www.cls.cn/detail/2289315",
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 15时45分]"
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 16时35分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -281,8 +297,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 14时39分]"
+          "appearance_count": 4,
+          "time_info": "[12时01分 ~ 16时35分]"
         },
         {
           "title": "特朗普称不喜欢瑞士领导人说话口气",
@@ -335,6 +351,34 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "DeepSeek低调升级新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 16时35分]"
+        },
+        {
+          "title": "UP主实测DeepSeek新模型",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            22,
+            20,
+            26,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 16时35分]"
+        },
+        {
           "title": "DeepSeek变冷淡了",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%98%E5%86%B7%E6%B7%A1%E4%BA%86",
           "source": "百度热搜",
@@ -349,31 +393,40 @@
           "time_info": "[09时26分 ~ 14时39分]"
         },
         {
-          "title": "DeepSeek低调升级新模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
+          "title": "DeepSeek回应被指变冷淡",
+          "url": "https://www.toutiao.com/trending/7606192815403437609/",
+          "source": "今日头条",
           "ranks": [
-            13,
-            18,
-            17
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时26分 ~ 15时45分]"
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 16时35分]"
         },
         {
-          "title": "UP主实测DeepSeek新模型",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
+          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
+          "url": "https://www.zhihu.com/question/2005557043939993512",
+          "source": "知乎",
           "ranks": [
-            14,
-            22,
-            20,
-            26
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时26分 ~ 15时45分]"
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 16时35分]"
+        },
+        {
+          "title": "DeepSeek回应被指冷淡",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E5%86%B7%E6%B7%A1",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 16时35分]"
         },
         {
           "title": "Deepseek被指变冷淡了",
@@ -387,46 +440,13 @@
           "time_info": "09时26分"
         },
         {
-          "title": "DeepSeek回应被指变冷淡",
-          "url": "https://www.toutiao.com/trending/7606192815403437609/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
-          "url": "https://www.zhihu.com/question/2005557043939993512",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
           "title": "OpenAI指责DeepSeek“抄袭”背后",
           "url": "https://www.toutiao.com/trending/7606207773960834579/",
           "source": "今日头条",
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "DeepSeek回应被指冷淡",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E5%86%B7%E6%B7%A1",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         }
@@ -603,8 +623,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时26分 ~ 15时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 16时35分]"
         }
       ]
     }
