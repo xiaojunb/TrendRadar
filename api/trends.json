@@ -1,11 +1,166 @@
 {
-  "generated_at": "2026-02-13T13:23:34.216580+08:00",
-  "total_titles_processed": 596,
+  "generated_at": "2026-02-13T14:39:44.250740+08:00",
+  "total_titles_processed": 687,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32591772",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时26分 ~ 14时39分]"
+        },
+        {
+          "title": "特朗普答凤凰：中美关系良好，两国元首今年实现互访",
+          "url": "https://news.ifeng.com/c/8qhfIw9PImo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时26分 ~ 14时39分]"
+        },
+        {
+          "title": "特朗普威胁伊朗：不达成协议，就进入第二阶段",
+          "url": "https://news.ifeng.com/c/8qhhXKN0MhC",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时26分 ~ 14时39分]"
+        },
+        {
+          "title": "路透社：特朗普访华前暂停对华科技禁令",
+          "url": "https://news.ifeng.com/c/8qhwigwSERf",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 14时39分]"
+        },
+        {
+          "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
+          "url": "https://news.ifeng.com/c/8qgZNx2x3dB",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "特朗普称必须与伊朗达成协议 Anthropic完成300亿美元融资 | 环球市场",
+          "url": "https://www.cls.cn/detail/2289062",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时26分 ~ 14时39分]"
+        },
+        {
+          "title": "特朗普称期待4月访华",
+          "url": "https://www.douyin.com/hot/2398935",
+          "source": "抖音",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 14时39分]"
+        },
+        {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 14时39分]"
+        },
+        {
+          "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
+          "url": "https://www.cls.cn/detail/2289315",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 14时39分]"
+        },
+        {
+          "title": "特朗普称不喜欢瑞士领导人说话口气",
+          "url": "https://www.toutiao.com/trending/7605495553917386798/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "伦铝期货短线下挫，日内由涨转跌，现报3092美元/吨。消息面上，特朗普准备取消对金属和铝制品征收的关税。",
+          "url": "https://flash.jin10.com/detail/20260213131109290800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "英媒：特朗普拟缩减部分钢铁和铝制品关税 以缓解“可负担性危机”",
+          "url": "https://flash.jin10.com/detail/20260213130819738800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "据英国金融时报：特朗普准备取消对金属和铝制品征收的关税。",
+          "url": "https://flash.jin10.com/detail/20260213130325770800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "【早报】深夜跳水！美股、黄金、白银、原油集体大跌；央行今日出手，万亿逆回购来了",
@@ -15,8 +170,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 13时23分]"
+          "appearance_count": 4,
+          "time_info": "[09时26分 ~ 14时39分]"
         },
         {
           "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
@@ -26,8 +181,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 13时23分]"
+          "appearance_count": 4,
+          "time_info": "[09时26分 ~ 14时39分]"
         },
         {
           "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
@@ -37,8 +192,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 13时23分]"
+          "appearance_count": 4,
+          "time_info": "[09时26分 ~ 14时39分]"
         },
         {
           "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
@@ -50,8 +205,20 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时26分 ~ 14时39分]"
+        },
+        {
+          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
+          "url": "https://wallstreetcn.com/articles/3765624",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时26分 ~ 13时23分]"
+          "time_info": "[12时01分 ~ 14时39分]"
         },
         {
           "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
@@ -66,15 +233,16 @@
           "time_info": "[09时26分 ~ 12时01分]"
         },
         {
-          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
-          "url": "https://wallstreetcn.com/articles/3765624",
+          "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
+          "url": "https://wallstreetcn.com/articles/3765638",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时01分 ~ 13时23分]"
+          "time_info": "[13时23分 ~ 14时39分]"
         },
         {
           "title": "美股跳水 黄金白银大跌",
@@ -89,15 +257,15 @@
           "time_info": "[12时01分 ~ 13时23分]"
         },
         {
-          "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
-          "url": "https://wallstreetcn.com/articles/3765638",
+          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
+          "url": "https://wallstreetcn.com/articles/3765636",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时23分"
+          "time_info": "14时39分"
         },
         {
           "title": "美股黄金大跌原因",
@@ -135,128 +303,32 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 10,
+      "keyword_group": "金价",
+      "match_count": 6,
       "titles": [
         {
-          "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32591772",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 13时23分]"
-        },
-        {
-          "title": "特朗普答凤凰：中美关系良好，两国元首今年实现互访",
-          "url": "https://news.ifeng.com/c/8qhfIw9PImo",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 13时23分]"
-        },
-        {
-          "title": "特朗普威胁伊朗：不达成协议，就进入第二阶段",
-          "url": "https://news.ifeng.com/c/8qhhXKN0MhC",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 13时23分]"
-        },
-        {
-          "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
-          "url": "https://news.ifeng.com/c/8qgZNx2x3dB",
-          "source": "凤凰网",
+          "title": "澳新银行：预计黄金价格第二季度可能升至每盎司5800美元",
+          "url": "https://wallstreetcn.com/livenews/3054937",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "路透社：特朗普访华前暂停对华科技禁令",
-          "url": "https://news.ifeng.com/c/8qhwigwSERf",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时23分"
+          "time_info": "14时39分"
         },
         {
-          "title": "特朗普称必须与伊朗达成协议 Anthropic完成300亿美元融资 | 环球市场",
-          "url": "https://www.cls.cn/detail/2289062",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 13时23分]"
-        },
-        {
-          "title": "特朗普称期待4月访华",
-          "url": "https://www.douyin.com/hot/2398935",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 13时23分]"
-        },
-        {
-          "title": "中方回应特朗普或将4月访华",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 13时23分]"
-        },
-        {
-          "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
-          "url": "https://www.cls.cn/detail/2289315",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "特朗普称不喜欢瑞士领导人说话口气",
-          "url": "https://www.toutiao.com/trending/7605495553917386798/",
+          "title": "金价震荡走高引发回收潮",
+          "url": "https://www.toutiao.com/trending/7605130839959322643/",
           "source": "今日头条",
           "ranks": [
-            17
+            29,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 14时39分]"
+        },
         {
           "title": "专家：美元贬值成为金价反弹新动力",
           "url": "https://www.toutiao.com/trending/7605816656295628334/",
@@ -275,7 +347,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -297,18 +369,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "金价震荡走高引发回收潮",
-          "url": "https://www.toutiao.com/trending/7605130839959322643/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         }
@@ -325,11 +386,12 @@
           "ranks": [
             1,
             10,
-            8
+            8,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 13时23分]"
+          "appearance_count": 4,
+          "time_info": "[09时26分 ~ 14时39分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -341,8 +403,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 13时23分]"
+          "appearance_count": 4,
+          "time_info": "[09时26分 ~ 14时39分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -354,8 +416,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 13时23分]"
+          "appearance_count": 4,
+          "time_info": "[09时26分 ~ 14时39分]"
         },
         {
           "title": "Deepseek被指变冷淡了",
@@ -387,6 +449,18 @@
           "time_info": "[09时26分 ~ 13时23分]"
         },
         {
+          "title": "美政府被曝向伊朗境内秘密输送“星链”终端协助骚乱人员",
+          "url": "https://wallstreetcn.com/livenews/3054902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 14时39分]"
+        },
+        {
           "title": "伊朗多款反舰导弹与卫星系统亮相",
           "url": "https://www.toutiao.com/trending/7604835780381425700/",
           "source": "今日头条",
@@ -407,17 +481,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
-        },
-        {
-          "title": "美政府被曝向伊朗境内秘密输送“星链”终端协助骚乱人员",
-          "url": "https://wallstreetcn.com/livenews/3054902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
         }
       ]
     },
@@ -467,8 +530,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 13时23分]"
+          "appearance_count": 4,
+          "time_info": "[09时26分 ~ 14时39分]"
         }
       ]
     }
