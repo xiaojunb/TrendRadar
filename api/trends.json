@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T14:41:57.148285+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2026-02-15T15:34:04.226476+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "王毅：特朗普非常尊重中方，但还有人想打压中国",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 14时41分]"
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 15时34分]"
         },
         {
           "title": "王毅：特朗普尊重中方 有人想打压中国",
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 14时41分]"
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 15时34分]"
         },
         {
           "title": "民主党人跳出来指责：绥靖！特朗普上赶着为中国效力",
@@ -40,8 +40,32 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 15时34分]"
+        },
+        {
+          "title": "曝特朗普发涉种族主义视频被批后发怒",
+          "url": "https://www.toutiao.com/trending/7606051537617649691/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时01分 ~ 14时41分]"
+          "time_info": "[14时41分 ~ 15时34分]"
+        },
+        {
+          "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
+          "url": "https://flash.jin10.com/detail/20260215135912358800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时41分 ~ 15时34分]"
         },
         {
           "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
@@ -57,25 +81,14 @@
         },
         {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
-          "url": "https://flash.jin10.com/detail/20260215135912358800",
-          "source": "金十数据",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%B6%E6%90%9E%E6%88%90%E7%8C%BF%E7%8C%B4+%E5%A5%A5%E5%B7%B4%E9%A9%AC%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
           "ranks": [
-            7
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "曝特朗普发涉种族主义视频被批后发怒",
-          "url": "https://www.toutiao.com/trending/7606051537617649691/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 15时34分]"
         },
         {
           "title": "外媒：特朗普与内塔尼亚胡同意加大对伊朗的施压",
@@ -105,8 +118,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 14时41分]"
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 15时34分]"
         },
         {
           "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
@@ -118,8 +131,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 14时41分]"
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 15时34分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
@@ -131,8 +144,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 14时41分]"
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 15时34分]"
         },
         {
           "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
@@ -156,22 +169,24 @@
           "url": "https://flash.jin10.com/detail/20260215141325136800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时41分 ~ 15时34分]"
         },
         {
           "title": "据BBC：如果美国愿意讨论解除制裁的问题，伊朗已准备好考虑做出妥协，以与美国达成核协议。",
           "url": "https://flash.jin10.com/detail/20260215140753081800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时41分 ~ 15时34分]"
         },
         {
           "title": "评论员：伊朗着手应战先保核设施",
@@ -180,7 +195,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -285,8 +300,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 14时41分]"
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 15时34分]"
         }
       ]
     }
