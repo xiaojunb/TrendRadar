@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T13:21:42.157388+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2026-02-17T14:16:22.859614+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普：将间接参与美伊谈判",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时22分 ~ 13时21分]"
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 14时16分]"
         },
         {
           "title": "特朗普：古巴应该达成协议，没必要在古巴采取类似委内瑞拉的行动。",
@@ -25,11 +25,12 @@
           "ranks": [
             5,
             16,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 13时21分]"
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 14时16分]"
         },
         {
           "title": "特朗普称他将间接参与美国和伊朗谈判",
@@ -38,11 +39,12 @@
           "ranks": [
             6,
             17,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 13时21分]"
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 14时16分]"
         },
         {
           "title": "特朗普施压乌克兰“快速”同俄罗斯达成协议",
@@ -50,11 +52,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 13时21分]"
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 14时16分]"
         },
         {
           "title": "美伊第二轮开谈前，内塔尼亚胡提条件、特朗普放狠话",
@@ -68,13 +71,24 @@
           "time_info": "[09时22分 ~ 09时23分]"
         },
         {
+          "title": "“你真不喜欢特朗普”，捷克官员惹怒希拉里：说他好才该反思",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32620953",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
           "title": "市场消息：越南最高领导人将于本周三启程前往美国，出席特朗普 “和平委员会” 的首次会议。",
           "url": "https://flash.jin10.com/detail/20260217122724799800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         }
@@ -92,8 +106,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时22分 ~ 13时21分]"
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 14时16分]"
         },
         {
           "title": "伊朗外长与美谈判前夕强调不屈服",
@@ -101,11 +115,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            8
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 14时16分]"
+        },
+        {
+          "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
+          "url": "https://wallstreetcn.com/articles/3765802",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时58分 ~ 13时21分]"
+          "time_info": "[13时21分 ~ 14时16分]"
         },
         {
           "title": "媒体人：伊朗弹道导弹反击已在准备中",
@@ -118,17 +145,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时58分 ~ 13时21分]"
-        },
-        {
-          "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
-          "url": "https://wallstreetcn.com/articles/3765802",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
         }
       ]
     },
@@ -184,8 +200,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时22分 ~ 13时21分]"
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 14时16分]"
         },
         {
           "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
@@ -193,11 +209,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 13时21分]"
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 14时16分]"
         },
         {
           "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
@@ -224,8 +241,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时22分 ~ 13时21分]"
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 14时16分]"
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
@@ -236,8 +253,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时22分 ~ 13时21分]"
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 14时16分]"
         }
       ]
     },
