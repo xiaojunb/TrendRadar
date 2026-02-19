@@ -1,765 +1,243 @@
 {
-  "generated_at": "2026-02-18T23:11:49.216298+08:00",
-  "total_titles_processed": 1347,
+  "generated_at": "2026-02-19T09:23:46.116914+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
-          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时37分 ~ 23时11分]"
-        },
-        {
-          "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
-          "url": "https://news.ifeng.com/c/8qpSyTc8q0c",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时25分 ~ 15时46分]"
-        },
-        {
-          "title": "特朗普宣布大消息，日本要当冤大头了",
-          "url": "https://news.ifeng.com/c/8qq0daMEvoo",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时25分 ~ 16时37分]"
-        },
-        {
-          "title": "哈梅内伊回应特朗普威胁",
-          "url": "https://news.ifeng.com/c/8qpTdmSckn9",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "特朗普：日本在美投建的天然气电厂将成为全美最大",
-          "url": "https://wallstreetcn.com/livenews/3056374",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "泽连斯基称特朗普要求乌方单方让步“不公平”",
-          "url": "https://flash.jin10.com/detail/20260218180824939800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
-          "title": "特朗普女儿伊万卡中文拜年",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时39分 ~ 18时38分]"
-        },
-        {
-          "title": "特朗普女儿伊万卡中文拜年：新年快乐",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            17,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时59分 ~ 16时37分]"
-        },
-        {
-          "title": "泽连斯基抱怨：特朗普总是要求乌克兰让步，这不公平",
-          "url": "https://news.ifeng.com/c/8qqOE4vhF5L",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时39分 ~ 19时34分]"
-        },
-        {
-          "title": "美空军确认“空军一号”新涂装将采用特朗普偏爱的配色：红、白、金、深蓝",
-          "url": "https://flash.jin10.com/detail/20260218152713560800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时46分 ~ 16时37分]"
-        },
-        {
-          "title": "泽连斯基称特朗普要求乌方单方让步“不公平”",
-          "url": "https://wallstreetcn.com/livenews/3056288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时38分 ~ 20时43分]"
-        },
-        {
-          "title": "墨西哥总统：墨西哥已拒绝特朗普加入“和平委员会”的邀请",
-          "url": "https://wallstreetcn.com/livenews/3056209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 15时46分]"
-        },
-        {
-          "title": "泽连斯基：特朗普只对乌克兰施压不公平",
-          "url": "https://news.ifeng.com/c/8qqlQxdDOZa",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "市场消息：梵蒂冈方面拒绝加入特朗普的“和平委员会”。",
-          "url": "https://flash.jin10.com/detail/20260218165845600800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
-          "title": "美国食品药品管理局（FDA）主管Makary宣称：特朗普政府是“非常支持疫苗的”。",
-          "url": "https://wallstreetcn.com/livenews/3056166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "市场消息：德国计划大幅扩展其外国情报机构的权力，担心特朗普可能会停止情报共享。",
-          "url": "https://flash.jin10.com/detail/20260218185830971800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-18）",
-          "url": "https://flash.jin10.com/detail/20260218185306479800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "墨西哥总统：墨西哥已拒绝特朗普加入“和平委员会”的邀请",
-          "url": "https://flash.jin10.com/detail/20260218115602378800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "美国总统特朗普的内阁与顾问开会，讨论中期选举策略。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3056161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 8,
       "titles": [
         {
-          "title": "美军 18 架战机飞向中东，伊朗举行军演，谈判前夕互亮「底牌」，双方有哪些核心分歧？最终结果可能如何？",
-          "url": "https://www.zhihu.com/question/2007003476190786977",
-          "source": "知乎",
+          "title": "消息人士称美军已做好“最早本周末打击伊朗”准备",
+          "url": "https://wallstreetcn.com/livenews/3056541",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            6,
-            14,
-            16,
-            19
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时59分 ~ 20时43分]"
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
-          "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
-          "url": "https://wallstreetcn.com/articles/3765814",
-          "source": "华尔街见闻",
+          "title": "美军舰和战机在伊朗附近集结",
+          "url": "https://www.douyin.com/hot/2405179",
+          "source": "抖音",
           "ranks": [
-            9,
-            10
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时59分 ~ 23时11分]"
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
-          "title": "万斯：美方向伊朗划定“红线”",
-          "url": "https://news.ifeng.com/c/8qpzcl8sWDw",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时25分 ~ 15时46分]"
-        },
-        {
-          "title": "伊朗外长披露与美方谈判结果",
-          "url": "https://news.ifeng.com/c/8qpUHBlBe7s",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时25分 ~ 15时46分]"
-        },
-        {
-          "title": "哈梅内伊：美国无法摧毁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32626225",
+          "title": "伊朗与俄罗斯将举行海上联合军演",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32629571",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            15,
-            11,
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时25分 ~ 18时38分]"
-        },
-        {
-          "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
-          "url": "https://wallstreetcn.com/articles/3765802",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "土耳其总统埃尔多安：针对伊朗的新战争对任何人都没有好处。",
-          "url": "https://flash.jin10.com/detail/20260218181307784800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
-          "title": "伊朗总统：决心迅速准确落实伊俄全面战略合作计划",
-          "url": "https://flash.jin10.com/detail/20260218192602169800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "伊朗外长要求美国停止动武威胁",
-          "url": "https://wallstreetcn.com/livenews/3056206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13,
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 15时46分]"
-        },
-        {
-          "title": "伊朗说永不寻求核武并随时接受核查",
-          "url": "https://wallstreetcn.com/livenews/3056251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 17时39分]"
+          "time_info": "09时23分"
         },
         {
           "title": "伊朗将迅速落实伊俄全面战略合作计划",
           "url": "https://www.toutiao.com/trending/7607948856885624895/",
           "source": "今日头条",
           "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 23时11分]"
-        },
-        {
-          "title": "伊朗将与俄罗斯举行海上联合军演",
-          "url": "https://wallstreetcn.com/livenews/3056261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 18时38分]"
-        },
-        {
-          "title": "伊朗外长要求美国停止动武威胁",
-          "url": "https://flash.jin10.com/detail/20260218111412582800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "卫星图像显示，伊朗修复并巩固军事设施",
-          "url": "https://flash.jin10.com/detail/20260218223915606800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "伊朗演习发言人：伊朗-俄罗斯海军联合演习将在阿曼海域举行。",
-          "url": "https://flash.jin10.com/detail/20260218165346187800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
-          "title": "伊朗总统：决心迅速准确落实伊俄全面战略合作计划",
-          "url": "https://wallstreetcn.com/livenews/3056302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "伊朗演习发言人：伊朗-俄罗斯海军联合演习将重点关注海上安全和反恐行动。",
-          "url": "https://flash.jin10.com/detail/20260218165331031800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
-          "title": "俄罗斯海军直升机航母停靠伊朗水域，参加德黑兰和莫斯科联合军演。",
-          "url": "https://flash.jin10.com/detail/20260218164129941800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
-          "title": "伊朗和俄罗斯签署了一份合作文件和四份谅解备忘录。",
-          "url": "https://flash.jin10.com/detail/20260218164100496800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
-          "url": "https://wallstreetcn.com/articles/3765810",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时25分 ~ 23时11分]"
-        },
-        {
-          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291237",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时25分 ~ 23时11分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
-          "url": "https://www.cls.cn/detail/2291354",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时59分 ~ 23时11分]"
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
-          "title": "美股盘前科技股普涨，黄金收复4900，白银日内涨超3%，欧洲斯托克600触及新纪录高位",
-          "url": "https://wallstreetcn.com/articles/3765834",
-          "source": "华尔街见闻",
+          "title": "曝美军准备“最早本周末打伊朗”",
+          "url": "https://www.douyin.com/hot/2405473",
+          "source": "抖音",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时39分 ~ 18时38分]"
-        },
-        {
-          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
-          "url": "https://wallstreetcn.com/articles/3765829",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时39分 ~ 23时11分]"
-        },
-        {
-          "title": "美股盘前，科技股普涨，英伟达涨1.6%，美光科技涨约1%，英特尔涨约1%。 黄金股普涨，哈莫尼黄金涨约1%，科尔黛伦矿业涨约2%。",
-          "url": "https://wallstreetcn.com/livenews/3056266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 18时38分]"
-        },
-        {
-          "title": "Analog Devices第一财季营收31.6亿美元，预估31.2亿美元。 第一财季每股收益1.69美元，预估1.61美元。 Analog Devices美股盘前涨近4%。",
-          "url": "https://wallstreetcn.com/livenews/3056309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时43分"
+          "time_info": "09时23分"
         },
         {
-          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF、区域银行业ETF涨超1%，公用事业ETF跌近1%。",
-          "url": "https://wallstreetcn.com/livenews/3056367",
+          "title": "美国众议院可能下周就美国总统在伊朗问题上的“战争权力”进行投票。（Punchbowl）",
+          "url": "https://wallstreetcn.com/livenews/3056528",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "美股盘前，部分明星科技股走强，英伟达(NVDA.O)、美光科技(MU.O)、Meta Platforms(META.O)涨超1%。",
-          "url": "https://flash.jin10.com/detail/20260218170058406800",
-          "source": "金十数据",
-          "ranks": [
-            12
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时39分"
+          "time_info": "09时23分"
         },
         {
-          "title": "美股盘初：黄金股、热门中概股普涨，英伟达涨约2%",
-          "url": "https://wallstreetcn.com/livenews/3056361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "美股三大指数均小幅收涨",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%9D%87%E5%B0%8F%E5%B9%85%E6%94%B6%E6%B6%A8",
+          "title": "美媒：美军做好周末攻击伊朗准备",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%EF%BC%9A%E7%BE%8E%E5%86%9B%E5%81%9A%E5%A5%BD%E5%91%A8%E6%9C%AB%E6%94%BB%E5%87%BB%E4%BC%8A%E6%9C%97%E5%87%86%E5%A4%87",
           "source": "百度热搜",
           "ranks": [
-            15
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时25分"
+          "time_info": "09时23分"
         },
         {
-          "title": "金十图示：2026年02月18日（周三）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260218223642456800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "电子设计自动化（EDA）软件公司铿腾电子（CDNS）美股盘后涨4.65%，报296.63美元，业绩报告发布后一度涨超7%至303.32美元，该公司所给业绩指引并没有分析师担忧的那么严重。",
-          "url": "https://wallstreetcn.com/livenews/3056169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "美股高开，道指涨0.16%、标普500指数涨0.28%、纳指涨0.23%。英伟达(NVDA.O)涨1.8%，Meta与该公司签署数十亿美元多年期协议。纳斯达克中国金龙指数涨0.26%。",
-          "url": "https://flash.jin10.com/detail/20260218223031911800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3056347",
+          "title": "美国务院称对18名伊朗人实施签证限制措施",
+          "url": "https://wallstreetcn.com/livenews/3056522",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时11分"
+          "time_info": "09时23分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "keyword_group": "特朗普",
+      "match_count": 7,
       "titles": [
         {
-          "title": "据The Information：Anthropic预计到2029年将向亚马逊、谷歌和微软支付至少800亿美元，以在云服务器上运行Claude AI。",
-          "url": "https://flash.jin10.com/detail/20260218085113078800",
+          "title": "加州就终止能源中心资金起诉特朗普",
+          "url": "https://flash.jin10.com/detail/20260219084435962800",
           "source": "金十数据",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时25分"
+          "time_info": "09时23分"
         },
         {
-          "title": "谷歌母公司Alphabet首席执行官Pichai：投入人工智能合情合理，因为这是一个非凡的机遇。",
-          "url": "https://wallstreetcn.com/livenews/3056294",
-          "source": "华尔街见闻-快讯",
+          "title": "美媒：美军最早本周末打击伊朗，特朗普尚未决定",
+          "url": "https://news.ifeng.com/c/8qraTXTgXgI",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            23
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时34分 ~ 20时43分]"
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
-          "title": "Alphabet CEO皮查伊：很高兴今天早上与印度总理莫迪会面。我们讨论了谷歌如何帮助他在印度各级推广人工智能，以改善健康、扩大各语言的信息获取、支持初创企业、农业等等。",
-          "url": "https://flash.jin10.com/detail/20260218164551574800",
+          "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
+          "url": "https://wallstreetcn.com/livenews/3056538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "特朗普将于美国东部时间周四下午4点（北京时间次日凌晨5点）就经济问题发表讲话。",
+          "url": "https://wallstreetcn.com/livenews/3056537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
+          "url": "https://flash.jin10.com/detail/20260219080811370800",
           "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时39分"
+          "time_info": "09时23分"
         },
         {
-          "title": "谷歌母公司Alphabet：谷歌年度开发者大会（I/O developer conference）将于5月19-20日举行。",
-          "url": "https://wallstreetcn.com/livenews/3056192",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "谷歌计划在美国和印度之间建设新的光纤线路",
-          "url": "https://flash.jin10.com/detail/20260218194454103800",
+          "title": "特朗普将于美国东部时间周四下午4点（北京时间次日凌晨5点）就经济问题发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260219080556837800",
           "source": "金十数据",
           "ranks": [
-            26
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "打金师傅：没见过这么疯狂的金价",
-          "url": "https://www.toutiao.com/trending/7608029981725278262/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
+          "time_info": "09时23分"
         },
         {
-          "title": "金价银价直线跳水",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E7%9B%B4%E7%BA%BF%E8%B7%B3%E6%B0%B4&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "特朗普援引国防生产法，保障磷与除草剂的国内供应",
+          "url": "https://wallstreetcn.com/livenews/3056519",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时25分"
+          "time_info": "09时23分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "keyword_group": "美股",
+      "match_count": 5,
       "titles": [
         {
-          "title": "OpenAI与印度多所大学合作，培养具备AI技能的人才。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3056259",
-          "source": "华尔街见闻-快讯",
+          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
+          "url": "https://wallstreetcn.com/articles/3765829",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291237",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291551",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
+          "url": "https://www.cls.cn/detail/2291354",
+          "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "两年期美债收益率涨约2.5个基点",
-          "url": "https://wallstreetcn.com/livenews/3056163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
+          "time_info": "09时23分"
         }
       ]
     }
