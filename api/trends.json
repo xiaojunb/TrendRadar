@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T20:45:27.174285+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2026-02-24T22:07:22.497853+08:00",
+  "total_titles_processed": 1384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 40,
       "titles": [
         {
           "title": "【早报】仅1纳米、功耗最低！北大实现芯片领域重要突破；美最高法院裁定特朗普政府关税政策违法",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时44分 ~ 20时45分]"
+          "appearance_count": 5,
+          "time_info": "[17时44分 ~ 22时07分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时38分 ~ 20时45分]"
+          "appearance_count": 6,
+          "time_info": "[16时38分 ~ 22时07分]"
         },
         {
           "title": "特朗普接连出招，伤害性不大，侮辱性极强",
@@ -109,6 +109,21 @@
           "time_info": "[09时21分 ~ 12时05分]"
         },
         {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时44分 ~ 22时07分]"
+        },
+        {
           "title": "特朗普10%全球关税生效",
           "url": "https://flash.jin10.com/detail/20260224130914633800",
           "source": "金十数据",
@@ -118,6 +133,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
+        },
+        {
+          "title": "美国总统特朗普：民主党人引发的政府停摆正在摧毁蓝州。",
+          "url": "https://flash.jin10.com/detail/20260224213353046800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
+          "title": "中美就特朗普访华事宜保持着沟通",
+          "url": "https://www.douyin.com/hot/2410424",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时38分 ~ 22时07分]"
         },
         {
           "title": "市场消息：特朗普10%的全球关税生效。",
@@ -142,17 +179,6 @@
           "time_info": "09时21分"
         },
         {
-          "title": "中美就特朗普访华事宜保持着沟通",
-          "url": "https://www.douyin.com/hot/2410424",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时38分 ~ 20时45分]"
-        },
-        {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32645217",
           "source": "澎湃新闻",
@@ -164,20 +190,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时21分 ~ 13时44分]"
-        },
-        {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时44分 ~ 20时45分]"
         },
         {
           "title": "中美就特朗普访华事宜保持沟通",
@@ -316,6 +328,17 @@
           "time_info": "15时46分"
         },
         {
+          "title": "白宫称特朗普对伊朗问题的首选手段永远是外交",
+          "url": "https://wallstreetcn.com/livenews/3058164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
           "title": "美最高法院裁定美政府大规模关税违法，特朗普发出最新威胁",
           "url": "https://wallstreetcn.com/livenews/3057733",
           "source": "华尔街见闻-快讯",
@@ -336,6 +359,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
+        },
+        {
+          "title": "消息人士：特朗普政府欲借助美国防部AI项目为贸易集团内关键矿产定价",
+          "url": "https://flash.jin10.com/detail/20260224212233619800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
+          "title": "白宫关于伊朗问题表态称，特朗普的首要选择始终是通过外交途径解决问题，但在必要时也会准备动用致命武力。",
+          "url": "https://flash.jin10.com/detail/20260224212120700800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "特朗普第二任期首场国情咨文谈什么",
@@ -360,15 +405,37 @@
           "time_info": "14时57分"
         },
         {
+          "title": "美国总统特朗普政府将利用美国国防部创建的人工智能模型，为全球贸易集团中的关键矿物设定参考价格。特朗普政府将首次制定锗、镓、锑和钨的参考价格。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3058153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
           "title": "市场明早将紧盯特朗普国情咨文演讲",
           "url": "https://www.toutiao.com/trending/7610388640887213606/",
           "source": "今日头条",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：美国总统特朗普今晚将发表几项政策声明。 美国正敦促墨西哥采取更多行动。 美国国务院正向在墨西哥的美国公民提供支持。",
+          "url": "https://wallstreetcn.com/livenews/3058150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "加拿大安大略省长：特朗普四面楚歌",
@@ -391,12 +458,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
+        },
+        {
+          "title": "白宫就墨西哥问题表态称，贩毒集团深知不能动美国人一根毫毛，否则将在美国总统特朗普任内付出惨重代价。",
+          "url": "https://flash.jin10.com/detail/20260224211306930800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "春节假期，美国和伊朗闹到哪一步了？到底打还是不打？｜907编辑部",
@@ -408,8 +486,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时21分 ~ 20时45分]"
+          "appearance_count": 13,
+          "time_info": "[09时21分 ~ 22时07分]"
         },
         {
           "title": "WW3预热,美国对伊朗动手",
@@ -426,8 +504,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时21分 ~ 20时45分]"
+          "appearance_count": 13,
+          "time_info": "[09时21分 ~ 22时07分]"
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
@@ -441,8 +519,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时21分 ~ 20时45分]"
+          "appearance_count": 13,
+          "time_info": "[09时21分 ~ 22时07分]"
         },
         {
           "title": "内塔尼亚胡警告伊朗",
@@ -488,11 +566,12 @@
           "ranks": [
             9,
             1,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时40分 ~ 20时45分]"
+          "appearance_count": 4,
+          "time_info": "[18时40分 ~ 22时07分]"
         },
         {
           "title": "中方回应“美考虑军事打击伊朗”",
@@ -503,8 +582,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时40分 ~ 20时45分]"
+          "appearance_count": 4,
+          "time_info": "[18时40分 ~ 22时07分]"
         },
         {
           "title": "伊朗一军用直升机坠毁4人死亡",
@@ -557,7 +636,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -612,7 +691,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -623,7 +702,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -637,6 +716,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "在伊朗中国人：华联会已准备撤离方案",
+          "url": "https://www.toutiao.com/trending/7609535429876056107/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "以媒：以色列医疗系统为与伊朗“长期战争”做准备",
@@ -664,7 +754,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -675,8 +765,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时05分 ~ 20时45分]"
+          "appearance_count": 12,
+          "time_info": "[12时05分 ~ 22时07分]"
         },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -689,8 +779,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时21分 ~ 20时45分]"
+          "appearance_count": 13,
+          "time_info": "[09时21分 ~ 22时07分]"
         },
         {
           "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
@@ -754,15 +844,37 @@
           "time_info": "[09时21分 ~ 12时05分]"
         },
         {
+          "title": "美股盘前芯片板块拉升，AMD拿下大单暴涨15%，金银回落，基本金属拉升，离岸人民币升破6.88",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
           "title": "META美股盘前走低，现跌0.2%。",
           "url": "https://wallstreetcn.com/livenews/3058129",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3058173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "AMD美股盘前涨超15%，META与AMD签署巨额协议，将购买后者AI设备。",
@@ -771,7 +883,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -782,9 +894,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
+        },
+        {
+          "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2293967",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "诺和诺德(NVO.N)美股盘前跌约3%，此前其UBT251减肥药物试验显示减重效果达19.7%。",
@@ -807,6 +930,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
+        },
+        {
+          "title": "AT&T美股盘前下跌8.8%。",
+          "url": "https://wallstreetcn.com/livenews/3058151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
+          "title": "财捷美股盘前涨超6%，公司和ANTHROPIC宣布建立多年合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3058148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         }
       ]
     },
@@ -834,7 +979,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -861,6 +1006,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌(GOOG.O)：将采用限制用水量的技术设施。",
+          "url": "https://flash.jin10.com/detail/20260224211336544800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         }
       ]
     },
