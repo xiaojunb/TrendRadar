@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T14:38:54.766665+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2026-02-25T15:49:16.601729+08:00",
+  "total_titles_processed": 808,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 14时38分]"
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 15时49分]"
         },
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 14时38分]"
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 15时49分]"
         },
         {
           "title": "特朗普：100%错误",
@@ -40,8 +40,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 14时38分]"
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 15时49分]"
+        },
+        {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 15时49分]"
         },
         {
           "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
@@ -53,6 +64,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时22分 ~ 14时38分]"
+        },
+        {
+          "title": "特朗普发表国情咨文演讲，一议员举横幅被带离(图)",
+          "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时48分 ~ 15时49分]"
         },
         {
           "title": "特朗普：伊朗正研制很快打到美国的导弹",
@@ -100,17 +122,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
-        },
-        {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
         },
         {
           "title": "市场消息：特朗普离开白宫，准备发表国情咨文。",
@@ -184,11 +195,35 @@
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
           "source": "百度热搜",
           "ranks": [
-            21
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时22分 ~ 15时49分]"
+        },
+        {
+          "title": "多数美国人称特朗普愈发反复无常",
+          "url": "https://www.toutiao.com/trending/7609682757731647524/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 15时49分]"
+        },
+        {
+          "title": "美议员称宁愿瞎也不想听特朗普演说",
+          "url": "https://www.toutiao.com/trending/7610278765754794003/",
+          "source": "今日头条",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时22分 ~ 14时38分]"
+          "time_info": "[15时48分 ~ 15时49分]"
         },
         {
           "title": "市场消息：美国总统特朗普将表示，作为总统，我会尽可能地促进和平，但只要是我们必须采取行动的时候，我绝不会退缩，会毫不犹豫地应对对美国构成的威胁。",
@@ -211,17 +246,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
-        },
-        {
-          "title": "多数美国人称特朗普愈发反复无常",
-          "url": "https://www.toutiao.com/trending/7609682757731647524/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
         },
         {
           "title": "市场消息：美国总统特朗普将表示，要求立即全面恢复美国边境安全和国土安全部的所有资金。",
@@ -307,7 +331,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -557,7 +581,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "媒体：伊朗即将购入中国超音速反舰导弹",
@@ -568,8 +592,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时58分 ~ 14时38分]"
+          "appearance_count": 5,
+          "time_info": "[11时58分 ~ 15时49分]"
         },
         {
           "title": "伊朗大规模军演 试射多种导弹",
@@ -579,8 +603,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 14时38分]"
+          "appearance_count": 4,
+          "time_info": "[13时22分 ~ 15时49分]"
         },
         {
           "title": "美大军压境伊朗为何不屈服",
@@ -591,8 +615,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 14时38分]"
+          "appearance_count": 4,
+          "time_info": "[13时22分 ~ 15时49分]"
+        },
+        {
+          "title": "伊朗发布航行通告称，将在靠近阿塞拜疆边境的地面至10000英尺高度范围内进行遥控飞行器活动。",
+          "url": "https://flash.jin10.com/detail/20260225152602709800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
+          "title": "WW3预热,美国对伊朗动手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350882&amp;topic_name=WW3%E9%A2%84%E7%83%AD%2C%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 15时49分]"
         },
         {
           "title": "中方回应“美考虑军事打击伊朗”",
@@ -642,25 +690,62 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时53分 ~ 14时38分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
         {
-          "title": "WW3预热,美国对伊朗动手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350882&amp;topic_name=WW3%E9%A2%84%E7%83%AD%2C%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%89%8B",
-          "source": "贴吧",
+          "title": "金价暴涨下的众生相",
+          "url": "https://www.toutiao.com/trending/7610085865549905966/",
+          "source": "今日头条",
           "ranks": [
-            17,
-            22,
-            24
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 14时38分]"
+          "appearance_count": 2,
+          "time_info": "[15时48分 ~ 15时49分]"
+        },
+        {
+          "title": "摩根大通：将长期黄金价格预测上调至每盎司4500美元。",
+          "url": "https://flash.jin10.com/detail/20260225150843874800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
+          "title": "摩根大通：预计2026年底黄金价格将达到每盎司6300美元。",
+          "url": "https://flash.jin10.com/detail/20260225150719104800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
+          "title": "金十图示：2026年02月25日（周三）上海金午盘价为1147.47元/克，较国际金价(1146.29元/克)，高1.18元/克",
+          "url": "https://flash.jin10.com/detail/20260225150243003800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
@@ -670,8 +755,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 14时38分]"
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 15时49分]"
         },
         {
           "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
@@ -683,6 +768,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时53分 ~ 11时58分]"
+        },
+        {
+          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
+          "url": "https://www.cls.cn/detail/2294269",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时48分 ~ 15时49分]"
         }
       ]
     },
