@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T09:26:01.349011+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-03-23T12:05:28.181088+08:00",
+  "total_titles_processed": 499,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 33,
       "titles": [
         {
           "title": "高盛解读“伊朗战争会持续多久”：市场只交易了“通胀”，还未交易“衰退”",
@@ -15,30 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
-        },
-        {
-          "title": "美以伊战争丨伊朗为何打击3800公里外美基地？",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 12时05分]"
         },
         {
           "title": "【早报】伊朗提出停战六项条件；宇树科技IPO获受理",
           "url": "https://www.cls.cn/detail/2320760",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 12时05分]"
         },
         {
           "title": "伊朗外长：没有贸易自由，就没有航行自由",
@@ -46,6 +36,17 @@
           "source": "凤凰网",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 12时05分]"
+        },
+        {
+          "title": "美以伊战争丨伊朗为何打击3800公里外美基地？",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -69,9 +70,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "伊朗西部一居民区遭袭 造成人员伤亡",
+          "url": "https://wallstreetcn.com/livenews/3074824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         },
         {
           "title": "伊朗南部的国家广播电视机构设施遭袭",
@@ -80,9 +92,113 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 24 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2019175393739891014",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 12时05分]"
+        },
+        {
+          "title": "伊朗宣布：从防御转为进攻！制造出了先进新武器，“造价低廉，破坏力更强，可快速量产”",
+          "url": "https://wallstreetcn.com/articles/3768094",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 12时05分]"
+        },
+        {
+          "title": "伊朗武装部队称已从防御转为进攻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32811016",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 12时05分]"
+        },
+        {
+          "title": "伊朗官员提出停战六项条件",
+          "url": "https://www.douyin.com/hot/2439961",
+          "source": "抖音",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 12时05分]"
+        },
+        {
+          "title": "伊朗彻底豁出去了",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%BD%BB%E5%BA%95%E8%B1%81%E5%87%BA%E5%8E%BB%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 12时05分]"
+        },
+        {
+          "title": "伊朗9省逮捕35名“内鬼”",
+          "url": "https://www.toutiao.com/trending/7619315479916199946/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 12时05分]"
+        },
+        {
+          "title": "伊朗发动“真实承诺4”第75轮行动",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E2%80%9C%E7%9C%9F%E5%AE%9E%E6%89%BF%E8%AF%BA4%E2%80%9D%E7%AC%AC75%E8%BD%AE%E8%A1%8C%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 12时05分]"
+        },
+        {
+          "title": "CIA前局长：美国入侵伊朗无正当理由",
+          "url": "https://www.toutiao.com/trending/7619128319224872986/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 12时05分]"
+        },
+        {
+          "title": "伊朗称允许非“敌方”船只通过霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32810487",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 12时05分]"
         },
         {
           "title": "多方消息显示 美政府正为潜在的对伊朗谈判展开讨论",
@@ -96,42 +212,9 @@
           "time_info": "[09时25分 ~ 09时26分]"
         },
         {
-          "title": "美以袭击伊朗进入第 24 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2019175393739891014",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
-        },
-        {
-          "title": "伊朗宣布：从防御转为进攻！制造出了先进新武器，“造价低廉，破坏力更强，可快速量产”",
-          "url": "https://wallstreetcn.com/articles/3768094",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
-        },
-        {
           "title": "伊朗战争已三周，美国“稳油价”的牌“几乎打完”，原油“期现价差”越拉越大",
           "url": "https://wallstreetcn.com/articles/3768077",
           "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
-        },
-        {
-          "title": "伊朗武装部队称已从防御转为进攻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32811016",
-          "source": "澎湃新闻",
           "ranks": [
             8
           ],
@@ -162,39 +245,6 @@
           "time_info": "[09时25分 ~ 09时26分]"
         },
         {
-          "title": "伊朗官员提出停战六项条件",
-          "url": "https://www.douyin.com/hot/2439961",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
-        },
-        {
-          "title": "伊朗彻底豁出去了",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%BD%BB%E5%BA%95%E8%B1%81%E5%87%BA%E5%8E%BB%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
-        },
-        {
-          "title": "伊朗9省逮捕35名“内鬼”",
-          "url": "https://www.toutiao.com/trending/7619315479916199946/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
-        },
-        {
           "title": "伊朗阐述霍尔木兹海峡通行原则",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%90%E8%BF%B0%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E9%80%9A%E8%A1%8C%E5%8E%9F%E5%88%99",
           "source": "百度热搜",
@@ -217,44 +267,11 @@
           "time_info": "[09时25分 ~ 09时26分]"
         },
         {
-          "title": "伊朗发动“真实承诺4”第75轮行动",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E2%80%9C%E7%9C%9F%E5%AE%9E%E6%89%BF%E8%AF%BA4%E2%80%9D%E7%AC%AC75%E8%BD%AE%E8%A1%8C%E5%8A%A8",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
-        },
-        {
-          "title": "CIA前局长：美国入侵伊朗无正当理由",
-          "url": "https://www.toutiao.com/trending/7619128319224872986/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
-        },
-        {
           "title": "俄方：暗杀伊朗领导人产生极严重后果",
           "url": "https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E6%9A%97%E6%9D%80%E4%BC%8A%E6%9C%97%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BA%A7%E7%94%9F%E6%9E%81%E4%B8%A5%E9%87%8D%E5%90%8E%E6%9E%9C",
           "source": "百度热搜",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
-        },
-        {
-          "title": "伊朗称允许非“敌方”船只通过霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32810487",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -292,23 +309,101 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时25分 ~ 09时26分]"
+        },
+        {
+          "title": "伊朗彻底豁出去了",
+          "url": "https://news.ifeng.com/c/8ril4N53c1U",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "伊朗阐述霍尔木兹海峡通行原则",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E9%98%90%E8%BF%B0%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E9%80%9A%E8%A1%8C%E5%8E%9F%E5%88%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "以军称打击位于德黑兰的伊朗政权设施",
+          "url": "https://www.toutiao.com/trending/7620271815352389126/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "伊朗南部国家广播电视机构设施遭袭",
+          "url": "https://www.toutiao.com/trending/7619679631087648831/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "以军打击伊朗首都基础设施",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E9%A6%96%E9%83%BD%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "伊朗首都德黑兰再次发生巨大爆炸",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%A6%96%E9%83%BD%E5%BE%B7%E9%BB%91%E5%85%B0%E5%86%8D%E6%AC%A1%E5%8F%91%E7%94%9F%E5%B7%A8%E5%A4%A7%E7%88%86%E7%82%B8",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "本周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
           "url": "https://wallstreetcn.com/articles/3768072",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 12时05分]"
+        },
+        {
+          "title": "美媒：特朗普团队已开始谋划与伊朗“和谈”事宜",
+          "url": "https://wallstreetcn.com/articles/3768099",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 12时05分]"
         },
         {
           "title": "周末要闻汇总：特朗普考虑逐步降级对伊朗的军事行动；宇树IPO申请获受理",
@@ -333,15 +428,27 @@
           "time_info": "[09时25分 ~ 09时26分]"
         },
         {
-          "title": "美媒：特朗普团队已开始谋划与伊朗“和谈”事宜",
-          "url": "https://wallstreetcn.com/articles/3768099",
+          "title": "特朗普最后通牒还剩24小时，贝森特称“先升级再缓和”，亚洲股市重挫、黄金再跌3%",
+          "url": "https://wallstreetcn.com/articles/3768110",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "特朗普团队被曝密谋与伊朗「和谈」，伊朗媒体称伊官员提出停战六项条件，双方做好谈判准备了吗？",
+          "url": "https://www.zhihu.com/question/2019150605713716559",
+          "source": "知乎",
+          "ranks": [
+            16,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 12时05分]"
         },
         {
           "title": "伊朗议长回应特朗普开放霍尔木兹海峡“最后通牒”",
@@ -377,17 +484,6 @@
           "time_info": "[09时25分 ~ 09时26分]"
         },
         {
-          "title": "特朗普团队被曝密谋与伊朗「和谈」，伊朗媒体称伊官员提出停战六项条件，双方做好谈判准备了吗？",
-          "url": "https://www.zhihu.com/question/2019150605713716559",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
-        },
-        {
           "title": "特朗普借电视短剧嘲讽英国首相",
           "url": "https://www.toutiao.com/trending/7619442004216283146/",
           "source": "今日头条",
@@ -410,15 +506,115 @@
           "time_info": "[09时25分 ~ 09时26分]"
         },
         {
+          "title": "美议员要求特朗普政府官员国会作证",
+          "url": "https://news.ifeng.com/c/8riyKTIjsUK",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "美国总统特朗普：以实力促和平，说得还算委婉了！！！",
+          "url": "https://flash.jin10.com/detail/20260323115125942800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "特朗普借电视短剧嘲讽英国首相",
+          "url": "https://www.cls.cn/detail/2320775",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
           "title": "特朗普2000亿购债计划再发力！“两房” 大规模抄底MBS",
           "url": "https://flash.jin10.com/detail/20260323084352735800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国内金价跌破1000元",
+          "url": "https://www.toutiao.com/trending/7620270700237950500/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "国内金价跌破1000元",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B41000%E5%85%83%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "加息真要来了？三年未见之变局：美债“宣战”美联储利率天花板",
+          "url": "https://www.cls.cn/detail/2320841",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "美债规模正一路狂飙",
+          "url": "https://www.toutiao.com/trending/7620270937715248694/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         }
       ]
     },
@@ -431,11 +627,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 12时05分]"
         }
       ]
     }
