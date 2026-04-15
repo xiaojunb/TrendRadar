@@ -1,12 +1,57 @@
 {
-  "generated_at": "2026-04-15T09:48:19.440936+08:00",
-  "total_titles_processed": 316,
+  "generated_at": "2026-04-15T12:41:14.409305+08:00",
+  "total_titles_processed": 485,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "美军上调对伊朗战事伤员人数",
+          "url": "https://news.ifeng.com/c/8sKYhtuAqqg",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时41分]"
+        },
+        {
+          "title": "报道：伊朗考虑暂停霍尔木兹航运，为新一轮谈判争取空间",
+          "url": "https://wallstreetcn.com/articles/3769943",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时41分]"
+        },
+        {
+          "title": "西方媒体：美伊本周开启新一轮谈判，伊朗火速辟谣：报道“毫无根据”！",
+          "url": "https://wallstreetcn.com/articles/3769921",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时41分]"
+        },
+        {
+          "title": "伊朗战争丨美军称已完全切断伊朗海上进出口贸易",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
+        },
         {
           "title": "万斯：球到了“伊朗一方”，伊朗总统：愿意继续谈判",
           "url": "https://wallstreetcn.com/articles/3769898",
@@ -19,37 +64,26 @@
           "time_info": "[09时47分 ~ 09时48分]"
         },
         {
-          "title": "美军上调对伊朗战事伤员人数",
-          "url": "https://news.ifeng.com/c/8sKYhtuAqqg",
+          "title": "美海军已拦截8艘进出伊朗港口的油轮",
+          "url": "https://news.ifeng.com/c/8sL5ORiA0uU",
           "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
+          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
-          "title": "报道：伊朗考虑暂停霍尔木兹航运，为新一轮谈判争取空间",
-          "url": "https://wallstreetcn.com/articles/3769943",
-          "source": "华尔街见闻",
+          "title": "如果美国海军的封锁切断伊朗的石油出口，伊朗将不得不在两周内大幅削减石油产量。卫星数据显示，该国用于储存无法装上油轮出口的原油的储油罐，目前已装满51%以上。",
+          "url": "https://flash.jin10.com/detail/20260415122704936800",
+          "source": "金十数据",
           "ranks": [
-            4
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
-        },
-        {
-          "title": "西方媒体：美伊本周开启新一轮谈判，伊朗火速辟谣：报道“毫无根据”！",
-          "url": "https://wallstreetcn.com/articles/3769921",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "伊朗总统赞扬中国等6国反战立场",
@@ -59,8 +93,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时41分]"
         },
         {
           "title": "凤凰直击伊朗战后重建，民众：不满谈判，就该狠狠干美以",
@@ -70,63 +104,116 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时41分]"
         },
         {
           "title": "美以袭击伊朗进入第 47 天，当前局势如何？哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2027522378729613036",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
-        },
-        {
-          "title": "美封锁伊朗海上交通影响几何",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%B0%81%E9%94%81%E4%BC%8A%E6%9C%97%E6%B5%B7%E4%B8%8A%E4%BA%A4%E9%80%9A%E5%BD%B1%E5%93%8D%E5%87%A0%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时41分]"
         },
         {
           "title": "伊朗要求五个中东国家赔偿战争损失，这一诉求背后隐藏着哪些深层战略意图？",
           "url": "https://www.zhihu.com/question/2027291572392261446",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时41分]"
+        },
+        {
+          "title": "美封锁伊朗海上交通影响几何",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%B0%81%E9%94%81%E4%BC%8A%E6%9C%97%E6%B5%B7%E4%B8%8A%E4%BA%A4%E9%80%9A%E5%BD%B1%E5%93%8D%E5%87%A0%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时41分]"
         },
         {
           "title": "美军上调对伊朗战事伤员人数",
           "url": "https://www.toutiao.com/trending/7628352285790076947/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时41分]"
         },
         {
           "title": "伊朗总统赞扬中国等6国反战立场",
           "url": "https://www.toutiao.com/trending/7627825088570359850/",
           "source": "今日头条",
           "ranks": [
-            15
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时41分]"
+        },
+        {
+          "title": "普京提议帮伊朗管理浓缩铀",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%8F%90%E8%AE%AE%E5%B8%AE%E4%BC%8A%E6%9C%97%E7%AE%A1%E7%90%86%E6%B5%93%E7%BC%A9%E9%93%80%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            19,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时41分]"
+        },
+        {
+          "title": "2400多万伊朗人志愿为国献身",
+          "url": "https://www.toutiao.com/trending/7628395570599591977/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时41分]"
+        },
+        {
+          "title": "2400多万伊朗人志愿为国献身",
+          "url": "https://www.baidu.com/s?wd=2400%E5%A4%9A%E4%B8%87%E4%BC%8A%E6%9C%97%E4%BA%BA%E5%BF%97%E6%84%BF%E4%B8%BA%E5%9B%BD%E7%8C%AE%E8%BA%AB",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时41分]"
+        },
+        {
+          "title": "监测机构称伊朗出发的两艘船通过霍尔木兹，美军称上万人员执行伊港口“封锁令”，首日六船折返",
+          "url": "https://wallstreetcn.com/articles/3769955",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
+          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
           "title": "外媒称伊朗正考虑暂停霍尔木兹海峡航运以免破坏谈判进程，此举是出于哪些考量？能换来谈判突破吗？",
@@ -140,27 +227,15 @@
           "time_info": "[09时47分 ~ 09时48分]"
         },
         {
-          "title": "2400多万伊朗人志愿为国献身",
-          "url": "https://www.toutiao.com/trending/7628395570599591977/",
-          "source": "今日头条",
+          "title": "上万美军人员正在执行封锁进出伊朗港口船只的任务",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32970431",
+          "source": "澎湃新闻",
           "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
-        },
-        {
-          "title": "普京提议帮伊朗管理浓缩铀",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%8F%90%E8%AE%AE%E5%B8%AE%E4%BC%8A%E6%9C%97%E7%AE%A1%E7%90%86%E6%B5%93%E7%BC%A9%E9%93%80%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
             19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
+          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
           "title": "伊朗看透了",
@@ -169,17 +244,6 @@
           "ranks": [
             22,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
-        },
-        {
-          "title": "2400多万伊朗人志愿为国献身",
-          "url": "https://www.baidu.com/s?wd=2400%E5%A4%9A%E4%B8%87%E4%BC%8A%E6%9C%97%E4%BA%BA%E5%BF%97%E6%84%BF%E4%B8%BA%E5%9B%BD%E7%8C%AE%E8%BA%AB",
-          "source": "百度热搜",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -204,9 +268,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "汇丰私人银行下调新兴亚洲股票评级，并削减对印度的敞口，同时由于伊朗战争风险和油价冲击，增加对黄金、现金和对冲基金的配置。",
+          "url": "https://wallstreetcn.com/livenews/3088173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "美国前财长耶伦：伊朗战争将引发供应冲击，进而加剧通胀压力。",
@@ -215,7 +290,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -226,7 +301,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -237,7 +312,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         }
@@ -245,7 +320,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 14,
       "titles": [
         {
           "title": "【早报】特朗普：与伊朗会谈可能未来两天内举行；国际油价重挫",
@@ -255,8 +330,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时41分]"
+        },
+        {
+          "title": "特朗普最新表态：美国对伊战争已结束 未来两天或重返谈判桌",
+          "url": "https://www.cls.cn/detail/2344264",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时41分]"
+        },
+        {
+          "title": "特朗普：美国对伊朗的战争已经结束",
+          "url": "https://www.cls.cn/detail/2344245",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时41分]"
         },
         {
           "title": "伊朗战争丨特朗普称美国对伊朗的战争已结束",
@@ -270,65 +367,123 @@
           "time_info": "[09时47分 ~ 09时48分]"
         },
         {
-          "title": "特朗普最新表态：美国对伊战争已结束 未来两天或重返谈判桌",
-          "url": "https://www.cls.cn/detail/2344264",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
-        },
-        {
-          "title": "特朗普：美国对伊朗的战争已经结束",
-          "url": "https://www.cls.cn/detail/2344245",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
-        },
-        {
           "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
           "url": "https://wallstreetcn.com/articles/3769962",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时41分]"
         },
         {
           "title": "特朗普称美国对伊朗的战争已经结束",
           "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时41分]"
         },
         {
           "title": "4月15日投资避雷针：特朗普称美国对伊朗的战争已经结束",
           "url": "https://www.cls.cn/detail/2344265",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时41分]"
+        },
+        {
+          "title": "英媒：特朗普次子将以个人身份陪同访华",
+          "url": "https://news.ifeng.com/c/8sL7wyoFoMW",
+          "source": "凤凰网",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
+          "time_info": "[12时40分 ~ 12时41分]"
+        },
+        {
+          "title": "据ABC新闻记者表示，特朗普对匈牙利总理欧尔班的失利并不在意，并对即将上任的总理毛焦尔·彼得表示赞赏。",
+          "url": "https://flash.jin10.com/detail/20260415115928695800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "美国总统特朗普：北约没有支持我们，他们未来也不会支持我们。",
+          "url": "https://flash.jin10.com/detail/20260415113924591800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "ABC记者在X发帖称：特朗普表示，他并未考虑延长停火协议。他认为没有这个必要。",
+          "url": "https://wallstreetcn.com/livenews/3088168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "特朗普再次批评北约",
+          "url": "https://wallstreetcn.com/livenews/3088166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗拥有核弹绝对不可接受。",
+          "url": "https://flash.jin10.com/detail/20260415113614134800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "特朗普：谁能告诉教宗Leo，伊朗拥有核弹是绝对不能接受的。",
+          "url": "https://wallstreetcn.com/livenews/3088163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股收盘：纳指连涨十日 光通信、燃料电池、半导体牛股齐创新高",
@@ -338,8 +493,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时41分]"
+        },
+        {
+          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
+          "url": "https://wallstreetcn.com/articles/3769987",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
+          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
           "title": "美股收盘：中概股集体大涨",
@@ -363,11 +529,12 @@
           "url": "https://wallstreetcn.com/articles/3769935",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时41分]"
         }
       ]
     }
