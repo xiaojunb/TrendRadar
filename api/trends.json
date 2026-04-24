@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-24T19:54:20.415827+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2026-04-24T21:05:27.294053+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 57,
       "titles": [
+        {
+          "title": "以防长：只要美国同意，将刺杀伊朗新任最高领袖",
+          "url": "https://news.ifeng.com/c/8sZJGqwNRey",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时55分 ~ 21时05分]"
+        },
         {
           "title": "伊朗最高领袖、总统、议长、外长同日发声",
           "url": "https://news.ifeng.com/c/8sZhfL8xk4c",
@@ -19,19 +32,6 @@
           "time_info": "[09时55分 ~ 15时02分]"
         },
         {
-          "title": "以防长：只要美国同意，将刺杀伊朗新任最高领袖",
-          "url": "https://news.ifeng.com/c/8sZJGqwNRey",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时55分 ~ 19时54分]"
-        },
-        {
           "title": "凤凰女记者：伊朗仍然团结，没有美媒所说的争吵、辞职",
           "url": "https://news.ifeng.com/c/8saTFP0s9pC",
           "source": "凤凰网",
@@ -41,6 +41,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时15分 ~ 18时50分]"
+        },
+        {
+          "title": "伊朗遭“数字斩首”：对方导弹落地前，境内大量美国牌路由器死机，网络瘫痪使雷达失联，指挥链路中断，部队瞬间“失明”",
+          "url": "https://wallstreetcn.com/articles/3770741",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时55分 ~ 21时05分]"
         },
         {
           "title": "伊朗战争丨以色列连环轰炸杀害女记者，细节曝光",
@@ -67,19 +80,6 @@
           "time_info": "[09时55分 ~ 17时15分]"
         },
         {
-          "title": "伊朗遭“数字斩首”：对方导弹落地前，境内大量美国牌路由器死机，网络瘫痪使雷达失联，指挥链路中断，部队瞬间“失明”",
-          "url": "https://wallstreetcn.com/articles/3770741",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时55分 ~ 19时54分]"
-        },
-        {
           "title": "伊朗战争丨伊大使：是战是和，都奉陪",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -89,6 +89,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
+        },
+        {
+          "title": "伊朗战争丨美伊代表团将抵达巴基斯坦",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
         },
         {
           "title": "伊朗驻俄大使说美国没有认真对待伊美谈判",
@@ -113,6 +124,17 @@
           "time_info": "17时15分"
         },
         {
+          "title": "消息人士称，伊朗本周早些时候在霍尔木兹海峡投放了更多水雷。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3094099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
           "title": "伊朗战争导致化肥价格飙升，雅苒公司利润上涨",
           "url": "https://flash.jin10.com/detail/20260424164451475800",
           "source": "金十数据",
@@ -122,6 +144,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
+        },
+        {
+          "title": "一艘载有伊朗石油、受到美国制裁的超级油轮周五似乎暂停通行霍尔木兹海峡，而该水道的整体航运几乎陷入停滞。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3094097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
         },
         {
           "title": "美以袭击伊朗进入第 56 天，当前局势如何？还有哪些信息值得关注？",
@@ -144,8 +177,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时49分 ~ 19时54分]"
+          "appearance_count": 4,
+          "time_info": "[18时49分 ~ 21时05分]"
+        },
+        {
+          "title": "曝伊朗外长今晚将率团抵达伊斯兰堡",
+          "url": "https://www.toutiao.com/trending/7632286427601964594/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 21时05分]"
         },
         {
           "title": "伊朗巨幅海报宣告霍尔木兹海峡控制权",
@@ -205,6 +249,18 @@
           "time_info": "[09时55分 ~ 09时56分]"
         },
         {
+          "title": "伊朗将恢复德黑兰至北京的客运航班",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B0%86%E6%81%A2%E5%A4%8D%E5%BE%B7%E9%BB%91%E5%85%B0%E8%87%B3%E5%8C%97%E4%BA%AC%E7%9A%84%E5%AE%A2%E8%BF%90%E8%88%AA%E7%8F%AD",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 21时05分]"
+        },
+        {
           "title": "伊朗拒谈判,美国延长停火",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353554&amp;topic_name=%E4%BC%8A%E6%9C%97%E6%8B%92%E8%B0%88%E5%88%A4%2C%E7%BE%8E%E5%9B%BD%E5%BB%B6%E9%95%BF%E5%81%9C%E7%81%AB",
           "source": "贴吧",
@@ -222,20 +278,42 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
         {
-          "title": "曝伊朗外长今晚将率团抵达伊斯兰堡",
-          "url": "https://www.toutiao.com/trending/7632286427601964594/",
-          "source": "今日头条",
+          "title": "伊朗外长将前往伊斯兰堡、马斯喀特和莫斯科",
+          "url": "https://flash.jin10.com/detail/20260424204349939800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
+          "title": "伊朗外长将前往伊斯兰堡、马斯喀特和莫斯科",
+          "url": "https://wallstreetcn.com/livenews/3094094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
+          "title": "伊朗外长今晚或将率团抵达伊斯兰堡",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E4%BB%8A%E6%99%9A%E6%88%96%E5%B0%86%E7%8E%87%E5%9B%A2%E6%8A%B5%E8%BE%BE%E4%BC%8A%E6%96%AF%E5%85%B0%E5%A0%A1",
+          "source": "百度热搜",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时54分"
+          "time_info": "21时05分"
         },
         {
           "title": "伊朗副总统称将严厉回击对伊朗能源设施的袭击",
@@ -258,6 +336,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
+        },
+        {
+          "title": "瑞士驻伊朗使馆逐步恢复工作",
+          "url": "https://wallstreetcn.com/livenews/3094092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
+          "title": "伊朗外长今将到访巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3094091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
+          "title": "美防长承认海峡航运大幅受限 警告伊朗布雷将违反停火协议",
+          "url": "https://flash.jin10.com/detail/20260424204112574800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
         },
         {
           "title": "伊朗强调各级官员之间保持“牢不可破”的团结",
@@ -288,9 +399,75 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
+        },
+        {
+          "title": "美大炮巨舰与伊朗蜂群突击谁主沉浮",
+          "url": "https://www.toutiao.com/trending/7631879341827768361/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
+          "title": "美伊从热战变为互掐经济命门！问题来了：伊朗经济撑得住吗？",
+          "url": "https://www.cls.cn/detail/2354657",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外长阿拉格齐的“地区之行”包括伊斯兰堡。",
+          "url": "https://flash.jin10.com/detail/20260424203945558800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
+          "title": "美防长称伊朗仍有机会达成协议 但“不可能获得核弹”",
+          "url": "https://wallstreetcn.com/livenews/3094085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外长阿拉格奇将在一次“地区访问行程”中访问阿曼首都马斯喀特和俄罗斯首都莫斯科。",
+          "url": "https://flash.jin10.com/detail/20260424203856811800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
+          "title": "美军制定与伊朗重新开战新方案，将重点打击霍尔木兹海峡周边的伊朗军事防御能力，双方重新开战可能性有多大？",
+          "url": "https://www.zhihu.com/question/2031049898246628283",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
         },
         {
           "title": "伊朗外交部长预计将于周五晚抵达伊斯兰堡。（彭博）",
@@ -299,9 +476,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
+        },
+        {
+          "title": "美防长称对伊朗封锁“正扩大并全球化”",
+          "url": "https://wallstreetcn.com/livenews/3094082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
+          "title": "中国驻伊朗大使馆：再次提醒中国公民暂勿前往伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33037522",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
         },
         {
           "title": "新西兰联储调查显示，伊朗战争和选举可能导致信贷需求下降。",
@@ -354,20 +553,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
         {
-          "title": "伊朗将恢复德黑兰至北京的客运航班",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B0%86%E6%81%A2%E5%A4%8D%E5%BE%B7%E9%BB%91%E5%85%B0%E8%87%B3%E5%8C%97%E4%BA%AC%E7%9A%84%E5%AE%A2%E8%BF%90%E8%88%AA%E7%8F%AD",
-          "source": "百度热搜",
+          "title": "美国国防部长赫格塞思：第二艘美国航空母舰将加入（对伊朗的）封锁行动。 （告诉欧洲和亚洲）“搭便车的时代已经结束了”。 霍尔木兹海峡更多是欧洲和亚洲的责任，而不是美国的。",
+          "url": "https://wallstreetcn.com/livenews/3094073",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时54分"
+          "time_info": "21时05分"
+        },
+        {
+          "title": "美防长称伊朗仍有机会达成协议 但“不可能获得核弹”",
+          "url": "https://flash.jin10.com/detail/20260424203102352800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
         },
         {
           "title": "欧盟领导人非正式会议聚焦伊朗战事等议题",
@@ -439,7 +649,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、以否认空袭",
@@ -450,8 +660,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时55分 ~ 19时54分]"
+          "appearance_count": 9,
+          "time_info": "[09时55分 ~ 21时05分]"
         },
         {
           "title": "特朗普的嘴，开了挂了",
@@ -462,8 +672,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时55分 ~ 19时54分]"
+          "appearance_count": 9,
+          "time_info": "[09时55分 ~ 21时05分]"
+        },
+        {
+          "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
+          "url": "https://wallstreetcn.com/articles/3770760",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 21时05分]"
         },
         {
           "title": "【早报】伊朗：谈判重心已转为彻底停战；特朗普称“不想仓促行事”",
@@ -486,18 +708,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时55分 ~ 15时02分]"
-        },
-        {
-          "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
-          "url": "https://wallstreetcn.com/articles/3770760",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时15分 ~ 19时54分]"
         },
         {
           "title": "伊朗战争丨中国被指给伊朗送物资，特朗普回应",
@@ -523,6 +733,35 @@
           "time_info": "[09时55分 ~ 19时54分]"
         },
         {
+          "title": "特朗普再称「不着急」「没压力」， 想同伊朗达成「永久协议」，这场时间消耗战，谁在主导叙事？谁先扛不住？",
+          "url": "https://www.zhihu.com/question/2030931346604778681",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时50分 ~ 21时05分]"
+        },
+        {
+          "title": "伊称谈判重心已转为彻底停战，特朗普称已“彻底封锁”霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33040657",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时50分 ~ 21时05分]"
+        },
+        {
           "title": "特朗普：已下令美海军击沉任何在霍尔木兹海峡布雷的船只",
           "url": "https://www.cls.cn/detail/2354007",
           "source": "财联社热门",
@@ -534,17 +773,15 @@
           "time_info": "[09时55分 ~ 09时56分]"
         },
         {
-          "title": "特朗普再称「不着急」「没压力」， 想同伊朗达成「永久协议」，这场时间消耗战，谁在主导叙事？谁先扛不住？",
-          "url": "https://www.zhihu.com/question/2030931346604778681",
-          "source": "知乎",
+          "title": "“中国给伊朗送物资，你生气吗？”特朗普：不，我们也给别国送",
+          "url": "https://news.ifeng.com/c/8saNhgKa31P",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            7,
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时50分 ~ 19时54分]"
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 21时05分]"
         },
         {
           "title": "伊朗战争丨伊朗军政高层集体驳斥特朗普“内讧论",
@@ -580,18 +817,29 @@
           "time_info": "18时50分"
         },
         {
-          "title": "伊称谈判重心已转为彻底停战，特朗普称已“彻底封锁”霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33040657",
-          "source": "澎湃新闻",
+          "title": "港媒：特朗普盟友下周将率团访华",
+          "url": "https://news.ifeng.com/c/8saEzB0SNhp",
+          "source": "凤凰网",
           "ranks": [
-            13,
             12,
-            10,
-            8
+            11
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时50分 ~ 19时54分]"
+          "time_info": "[15时02分 ~ 21时05分]"
+        },
+        {
+          "title": "特朗普称美国“已完全控制了霍尔木兹海峡”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33037531",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时50分 ~ 21时05分]"
         },
         {
           "title": "特朗普对市场的掌控，过去四十年没有一位总统做到过",
@@ -616,39 +864,30 @@
           "time_info": "12时50分"
         },
         {
-          "title": "“中国给伊朗送物资，你生气吗？”特朗普：不，我们也给别国送",
-          "url": "https://news.ifeng.com/c/8saNhgKa31P",
-          "source": "凤凰网",
+          "title": "特朗普再强调对伊朗“已大赢特赢”：有时间、没压力、不着急",
+          "url": "https://www.cls.cn/detail/2354699",
+          "source": "财联社热门",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
-          "title": "港媒：特朗普盟友下周将率团访华",
-          "url": "https://news.ifeng.com/c/8saEzB0SNhp",
-          "source": "凤凰网",
-          "ranks": [
-            12,
-            11
+            10,
+            7,
+            9,
+            6
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时02分 ~ 19时54分]"
+          "time_info": "[17时15分 ~ 21时05分]"
         },
         {
-          "title": "特朗普称美国“已完全控制了霍尔木兹海峡”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33037531",
-          "source": "澎湃新闻",
+          "title": "核专家都感到惊奇，特朗普所说的“核尘埃”是什么？",
+          "url": "https://news.ifeng.com/c/8saWP92grSp",
+          "source": "凤凰网",
           "ranks": [
-            19,
-            20
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时50分 ~ 19时54分]"
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 21时05分]"
         },
         {
           "title": "“疯王”特朗普、“疯狂的战争”与“癫狂的市场”",
@@ -674,19 +913,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时55分 ~ 15时02分]"
-        },
-        {
-          "title": "特朗普再强调对伊朗“已大赢特赢”：有时间、没压力、不着急",
-          "url": "https://www.cls.cn/detail/2354699",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时15分 ~ 19时54分]"
         },
         {
           "title": "特朗普下达击沉令 伊朗亮7条反击方案",
@@ -756,17 +982,6 @@
           "time_info": "[18时49分 ~ 18时50分]"
         },
         {
-          "title": "核专家都感到惊奇，特朗普所说的“核尘埃”是什么？",
-          "url": "https://news.ifeng.com/c/8saWP92grSp",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
           "title": "美国总统特朗普：参议院少数党领袖舒默应该辞职，没人会想念他！",
           "url": "https://flash.jin10.com/detail/20260424121918795800",
           "source": "金十数据",
@@ -789,6 +1004,17 @@
           "time_info": "12时50分"
         },
         {
+          "title": "世界变赌场，他是坐庄人？特朗普家族如何靠内幕消息精准收割？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260424204013545800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
           "title": "路透/益普索调查：58%的选民表示，他们更不可能支持那些支持特朗普伊朗战争策略的国会候选人。77%的美国选民认为，特朗普至少应对汽油价格飙升承担部分责任。55%的共和党人、82%的独立选民以及95%的民主党人将汽油价格上涨归咎于特朗普。",
           "url": "https://flash.jin10.com/detail/20260424181559681800",
           "source": "金十数据",
@@ -809,12 +1035,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
+        },
+        {
+          "title": "欧洲理事会主席发出警告 若追随特朗普 欧盟将迷失方向",
+          "url": "https://wallstreetcn.com/livenews/3094074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "DeepSeek V4 预览版本上线并同步开源，哪些亮点值得关注？",
@@ -824,8 +1061,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时50分 ~ 19时54分]"
+          "appearance_count": 7,
+          "time_info": "[12时50分 ~ 21时05分]"
         },
         {
           "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
@@ -836,19 +1073,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时50分 ~ 19时54分]"
-        },
-        {
-          "title": "DeepSeek V4 发布",
-          "url": "https://www.douyin.com/hot/2477208",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时02分 ~ 19时54分]"
+          "appearance_count": 7,
+          "time_info": "[12时50分 ~ 21时05分]"
         },
         {
           "title": "DeepSeek-V4发布！迈入百万上下文时代 华为昇腾超节点全面支持",
@@ -856,11 +1082,52 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时15分 ~ 19时54分]"
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 21时05分]"
+        },
+        {
+          "title": "DeepSeek V4 发布",
+          "url": "https://www.douyin.com/hot/2477208",
+          "source": "抖音",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时02分 ~ 21时05分]"
+        },
+        {
+          "title": "DeepSeek-V4虽迟但到！百万上下文成标配 华为昇腾和英伟达均被写进其技术报告",
+          "url": "https://www.cls.cn/detail/2354737",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 21时05分]"
+        },
+        {
+          "title": "万字回顾DeepSeek演进之路",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E5%9B%9E%E9%A1%BEDeepSeek%E6%BC%94%E8%BF%9B%E4%B9%8B%E8%B7%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            7,
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时02分 ~ 21时05分]"
         },
         {
           "title": "DeepSeek-V4预览版上线 对计算和显存的需求降低 百万字上下文成标配",
@@ -875,30 +1142,17 @@
           "time_info": "[15时02分 ~ 19时54分]"
         },
         {
-          "title": "万字回顾DeepSeek演进之路",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E5%9B%9E%E9%A1%BEDeepSeek%E6%BC%94%E8%BF%9B%E4%B9%8B%E8%B7%AF",
-          "source": "bilibili 热搜",
+          "title": "DeepSeek-V4 已公布，如何评价 DeepSeek-V4 的价格？",
+          "url": "https://www.zhihu.com/question/2030963912749924411",
+          "source": "知乎",
           "ranks": [
-            4,
-            5,
             7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时02分 ~ 19时54分]"
-        },
-        {
-          "title": "DeepSeek-V4虽迟但到！百万上下文成标配 华为昇腾和英伟达均被写进其技术报告",
-          "url": "https://www.cls.cn/detail/2354737",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时15分 ~ 19时54分]"
+          "time_info": "[18时49分 ~ 21时05分]"
         },
         {
           "title": "深度解读DeepSeek-V4",
@@ -906,11 +1160,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            1
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时49分 ~ 19时54分]"
+          "appearance_count": 4,
+          "time_info": "[18时49分 ~ 21时05分]"
         },
         {
           "title": "华为：DeepSeek V4正式发布，昇腾超节点系列产品全面支持",
@@ -922,18 +1177,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
-        },
-        {
-          "title": "DeepSeek-V4 已公布，如何评价 DeepSeek-V4 的价格？",
-          "url": "https://www.zhihu.com/question/2030963912749924411",
-          "source": "知乎",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时49分 ~ 19时54分]"
         },
         {
           "title": "寒武纪已完成DeepSeek-V4适配",
@@ -984,6 +1227,19 @@
           "time_info": "[12时50分 ~ 17时15分]"
         },
         {
+          "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
+          "url": "https://www.cls.cn/detail/2354937",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时49分 ~ 21时05分]"
+        },
+        {
           "title": "DeepSeek融资为何谁都不想错过",
           "url": "https://www.toutiao.com/trending/7632134652576140850/",
           "source": "今日头条",
@@ -994,6 +1250,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时50分 ~ 15时02分]"
+        },
+        {
+          "title": "DeepSeek V4强在哪里",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%BC%BA%E5%9C%A8%E5%93%AA%E9%87%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时49分 ~ 21时05分]"
         },
         {
           "title": "DeepSeek v4 百万上下文",
@@ -1009,40 +1278,17 @@
           "time_info": "[12时50分 ~ 17时15分]"
         },
         {
-          "title": "DeepSeek V4强在哪里",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%BC%BA%E5%9C%A8%E5%93%AA%E9%87%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时49分 ~ 19时54分]"
-        },
-        {
-          "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
-          "url": "https://www.cls.cn/detail/2354937",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时49分 ~ 19时54分]"
-        },
-        {
           "title": "DeepSeekV4预览版本上线",
           "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E9%A2%84%E8%A7%88%E7%89%88%E6%9C%AC%E4%B8%8A%E7%BA%BF",
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 19时54分]"
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 21时05分]"
         },
         {
           "title": "DeepSeek-V4预览版本正式上线",
@@ -1055,6 +1301,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时50分 ~ 15时02分]"
+        },
+        {
+          "title": "DeepSeek V4揭开AI内卷终局",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8F%AD%E5%BC%80AI%E5%86%85%E5%8D%B7%E7%BB%88%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
+          "title": "DeepSeekV4 价格屠夫",
+          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%20%E4%BB%B7%E6%A0%BC%E5%B1%A0%E5%A4%AB&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
         },
         {
           "title": "DeepSeek-V4 已公布, 如何评价 DeepSeek-V4 的价格？",
@@ -1090,6 +1358,17 @@
           "time_info": "18时50分"
         },
         {
+          "title": "DeepSeekV4和GPT5.5谁更强",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E5%92%8CGPT5.5%E8%B0%81%E6%9B%B4%E5%BC%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
           "title": "DeepSeekV4发布",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeekV4%E5%8F%91%E5%B8%83%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -1110,6 +1389,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
+        },
+        {
+          "title": "实测DeepSeek V4",
+          "url": "https://www.douyin.com/hot/2477701",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
         },
         {
           "title": "全新系列模型DeepSeek-V4预览版本正式上线并同步开源",
@@ -1140,7 +1430,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         }
@@ -1148,7 +1438,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
@@ -1161,8 +1451,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时55分 ~ 19时54分]"
+          "appearance_count": 9,
+          "time_info": "[09时55分 ~ 21时05分]"
         },
         {
           "title": "美股收盘：中东局势不确定性升温叠加财报分化 三大指数震荡收跌",
@@ -1177,16 +1467,28 @@
           "time_info": "[09时55分 ~ 12时50分]"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3094098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
           "title": "英特尔美股盘前大涨超30%",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E7%89%B9%E5%B0%94%E7%BE%8E%E8%82%A1%E7%9B%98%E5%89%8D%E5%A4%A7%E6%B6%A8%E8%B6%8530%25",
           "source": "百度热搜",
           "ranks": [
             10,
-            23
+            23,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时49分 ~ 19时54分]"
+          "appearance_count": 4,
+          "time_info": "[18时49分 ~ 21时05分]"
         },
         {
           "title": "中东局势再搅市场 油价站上103美元 美股三大期指走低 | 今夜看点",
@@ -1231,6 +1533,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
+        },
+        {
+          "title": "亚马逊美股盘前涨近2%，Meta Platforms已与亚马逊AWS签署一项数十亿美元规模的协议，这家社交媒体巨头将租用亚马逊数十万枚芯片，用于其人工智能研发。",
+          "url": "https://wallstreetcn.com/livenews/3094072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
+          "title": "礼来美股盘前一度跌近4%，公司新型减肥药在追赶诺和诺德的竞争中开局缓慢",
+          "url": "https://wallstreetcn.com/livenews/3094070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
         }
       ]
     },
@@ -1248,8 +1572,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时15分 ~ 19时54分]"
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 21时05分]"
         },
         {
           "title": "金价何时迎来阶段性反弹",
@@ -1337,7 +1661,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         }
