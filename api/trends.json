@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T20:11:24.719140+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2026-04-28T23:02:39.735234+08:00",
+  "total_titles_processed": 1143,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 36,
       "titles": [
         {
           "title": "伊朗代表：美国“如同海盗和恐怖分子”",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时08分 ~ 20时11分]"
+          "appearance_count": 9,
+          "time_info": "[10时08分 ~ 23时02分]"
         },
         {
           "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
@@ -27,24 +27,12 @@
           "ranks": [
             5,
             3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时08分 ~ 20时11分]"
-        },
-        {
-          "title": "伊朗宣布暂停66类钢铁产品出口，此前70%钢铁产能被以色列摧毁",
-          "url": "https://wallstreetcn.com/articles/3770985",
-          "source": "华尔街见闻",
-          "ranks": [
             4,
-            5,
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时08分 ~ 16时11分]"
+          "appearance_count": 9,
+          "time_info": "[10时08分 ~ 23时02分]"
         },
         {
           "title": "普京：全世界都钦佩伊朗人民抵抗美国",
@@ -58,8 +46,21 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时08分 ~ 20时11分]"
+          "appearance_count": 9,
+          "time_info": "[10时08分 ~ 23时02分]"
+        },
+        {
+          "title": "伊朗宣布暂停66类钢铁产品出口，此前70%钢铁产能被以色列摧毁",
+          "url": "https://wallstreetcn.com/articles/3770985",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时08分 ~ 16时11分]"
         },
         {
           "title": "美以袭击伊朗进入第 60 天，当前局势如何？还有哪些信息值得关注？",
@@ -79,11 +80,12 @@
           "ranks": [
             13,
             17,
-            25
+            25,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时43分 ~ 20时11分]"
+          "appearance_count": 8,
+          "time_info": "[13时43分 ~ 23时02分]"
         },
         {
           "title": "伊朗战争丨伊朗拟推控制霍尔木兹海峡11条方案",
@@ -95,6 +97,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时43分 ~ 13时44分]"
+        },
+        {
+          "title": "伊朗料将迅速递交修订版和平建议。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3095902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "德国总理：美国就伊朗战事缺乏战略性退出方案 | 环球市场",
@@ -132,6 +145,17 @@
           "time_info": "[18时29分 ~ 20时11分]"
         },
         {
+          "title": "伊朗战争丨伊朗黑客对美方发出一次“小小的警告”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时11分 ~ 23时02分]"
+        },
+        {
           "title": "伊朗储油能力即将达到极限 减产或永久性损害油田产能",
           "url": "https://www.cls.cn/detail/2357977",
           "source": "财联社热门",
@@ -141,6 +165,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时29分 ~ 18时30分]"
+        },
+        {
+          "title": "伊朗警方发现“星链”设备等间谍装备",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AD%A6%E6%96%B9%E5%8F%91%E7%8E%B0%E2%80%9C%E6%98%9F%E9%93%BE%E2%80%9D%E8%AE%BE%E5%A4%87%E7%AD%89%E9%97%B4%E8%B0%8D%E8%A3%85%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时11分 ~ 23时02分]"
         },
         {
           "title": "美以袭击致伊朗医疗教育设施严重受损",
@@ -176,26 +211,26 @@
           "time_info": "10时08分"
         },
         {
-          "title": "伊朗战争丨伊朗黑客对美方发出一次“小小的警告”",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时11分"
-        },
-        {
           "title": "断联42天的8岁伊朗男孩回绍兴上学",
           "url": "https://s.weibo.com/weibo?q=%23%E6%96%AD%E8%81%9442%E5%A4%A9%E7%9A%848%E5%B2%81%E4%BC%8A%E6%9C%97%E7%94%B7%E5%AD%A9%E5%9B%9E%E7%BB%8D%E5%85%B4%E4%B8%8A%E5%AD%A6%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
+        },
+        {
+          "title": "伊朗：已实现对霍尔木兹海峡的绝对控制",
+          "url": "https://news.ifeng.com/c/8shSxbFKnxI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "无视伊朗战争冲击，西班牙维持2026年经济增长预测",
@@ -204,9 +239,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
+        },
+        {
+          "title": "美国务卿鲁比奥：伊朗将霍尔木兹海峡当作\"经济核武器\"",
+          "url": "https://www.cls.cn/detail/2358468",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "伊朗边见普京边提方案 美闭门研判",
@@ -218,17 +264,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
-        },
-        {
-          "title": "伊朗警方发现“星链”设备等间谍装备",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AD%A6%E6%96%B9%E5%8F%91%E7%8E%B0%E2%80%9C%E6%98%9F%E9%93%BE%E2%80%9D%E8%AE%BE%E5%A4%87%E7%AD%89%E9%97%B4%E8%B0%8D%E8%A3%85%E5%A4%87",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时11分"
         },
         {
           "title": "美驱逐舰拦截一艘驶往伊朗港口油轮",
@@ -308,13 +343,24 @@
           "time_info": "13时44分"
         },
         {
+          "title": "HFI研究所：根据油轮跟踪数据，20艘超大型油轮加上相当于5000万桶的陆上储油能力，按照每日170万桶的出口量计算，这几乎足以让伊朗支撑53天。",
+          "url": "https://flash.jin10.com/detail/20260428223915701800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "伊朗“蚊子舰队”如何控制海峡",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E2%80%9C%E8%9A%8A%E5%AD%90%E8%88%B0%E9%98%9F%E2%80%9D%E5%A6%82%E4%BD%95%E6%8E%A7%E5%88%B6%E6%B5%B7%E5%B3%A1",
           "source": "百度热搜",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
         },
@@ -328,6 +374,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社援引HFI研究报道称，伊朗可以继续进行石油生产和储存，最长可达2个月。",
+          "url": "https://flash.jin10.com/detail/20260428223709989800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "伊朗战争扭曲了黄金逻辑，但买入理由正在堆积",
@@ -366,7 +423,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "美伊分歧难弥合！美官员：特朗普“不喜欢”伊朗新提案 核问题须优先解决",
@@ -406,6 +463,17 @@
           "time_info": "[13时43分 ~ 20时11分]"
         },
         {
+          "title": "英国查尔斯国王会见了特朗普内阁成员，包括美国副总统万斯、美国国务卿鲁比奥和美国财长贝森特。",
+          "url": "https://flash.jin10.com/detail/20260428225630277800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "特朗普政府解散美国国家科学委员会 全体成员被撤职",
           "url": "https://wallstreetcn.com/livenews/3095354",
           "source": "华尔街见闻-快讯",
@@ -426,6 +494,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "美国总统特朗普走出白宫迎接英国国王查尔斯。",
+          "url": "https://flash.jin10.com/detail/20260428225258398800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "美国能源部长Wright：特朗普专注于与伊朗达成恰当的协议。",
@@ -473,6 +552,30 @@
           "time_info": "[10时08分 ~ 13时44分]"
         },
         {
+          "title": "白宫晚宴提前结束，没上桌的2600份龙虾去哪了？特朗普希望重办",
+          "url": "https://news.ifeng.com/c/8sh8ue4fj2Y",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时11分 ~ 23时02分]"
+        },
+        {
+          "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时11分 ~ 23时02分]"
+        },
+        {
           "title": "特朗普政府解散美国国家科学委员会",
           "url": "https://www.toutiao.com/trending/7632880889321488425/",
           "source": "今日头条",
@@ -506,15 +609,15 @@
           "time_info": "10时08分"
         },
         {
-          "title": "白宫晚宴提前结束，没上桌的2600份龙虾去哪了？特朗普希望重办",
-          "url": "https://news.ifeng.com/c/8sh8ue4fj2Y",
-          "source": "凤凰网",
+          "title": "特朗普渲染伊朗困境，分析师却称伊朗仍能扛住美方封锁",
+          "url": "https://flash.jin10.com/detail/20260428225034033800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时11分"
+          "time_info": "23时02分"
         },
         {
           "title": "特朗普被曝不满意伊朗提案：因为接受就“赢麻”不了",
@@ -528,15 +631,15 @@
           "time_info": "10时08分"
         },
         {
-          "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
+          "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069415",
           "source": "澎湃新闻",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时11分"
+          "time_info": "23时02分"
         },
         {
           "title": "美官员：特朗普不满伊朗新提案 核问题须优先解决",
@@ -592,6 +695,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
+        },
+        {
+          "title": "特朗普戏称将与英国国王商量搬进白金汉宫",
+          "url": "https://flash.jin10.com/detail/20260428223056135800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         }
       ]
     },
@@ -599,6 +713,19 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 7,
       "titles": [
+        {
+          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
+          "url": "https://www.zhihu.com/question/2031729357580919027",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时10分 ~ 23时02分]"
+        },
         {
           "title": "DeepSeek-V4-Pro优惠官宣延期，活动持续至今年5月31日",
           "url": "https://wallstreetcn.com/livenews/3095470",
@@ -609,18 +736,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
-        },
-        {
-          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
-          "url": "https://www.zhihu.com/question/2031729357580919027",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时10分 ~ 20时11分]"
         },
         {
           "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云的算力资源？",
@@ -651,7 +766,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
         },
@@ -673,7 +788,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
         }
@@ -724,7 +839,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
         },
@@ -757,7 +872,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
         }
@@ -765,8 +880,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘前跌超1%，半导体集体回调，WTI涨破百元大关，金银下挫",
           "url": "https://wallstreetcn.com/articles/3771095",
@@ -774,9 +900,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
+        },
+        {
+          "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2358592",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
@@ -787,8 +924,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 20时11分]"
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 23时02分]"
         },
         {
           "title": "报道称OpenAI未达销售目标 相关股票下跌",
