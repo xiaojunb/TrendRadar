@@ -1,70 +1,358 @@
 {
-  "generated_at": "2026-05-27T22:22:13.483675+08:00",
-  "total_titles_processed": 1106,
+  "generated_at": "2026-05-28T01:39:50.968472+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 36,
+      "keyword_group": "特朗普",
+      "match_count": 30,
       "titles": [
         {
-          "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
-          "url": "https://wallstreetcn.com/articles/3773148",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：若《亚伯拉罕协议》无法落实，我不确定是否还要与伊朗达成协议。如果海湾国家不签署《亚伯拉罕协议》，我认为我们就不该和伊朗达成协议。",
+          "url": "https://flash.jin10.com/detail/20260528011427030800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：如果（沙特等）多个国家不加入《亚伯拉罕协议》，不确定是否应当达成伊朗协议。 如果伊朗协议不伟大，我们就不会努力。 （关于伊朗问题的时间框架）事情进展很快。 我们可能必须迅速结束此事。 我们正在更迭伊朗政权。",
+          "url": "https://wallstreetcn.com/livenews/3110207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：我认为我们在谈判方面进展良好。",
+          "url": "https://flash.jin10.com/detail/20260528011406765800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 14时58分]"
+          "appearance_count": 1,
+          "time_info": "01时39分"
         },
+        {
+          "title": "美国总统特朗普：汽油税暂免可能是我们会讨论的事。",
+          "url": "https://wallstreetcn.com/livenews/3110206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：我们现在对伊朗的情况有了了解。",
+          "url": "https://flash.jin10.com/detail/20260528011353178800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "特朗普威胁称，阿曼要么老实点，“否则我们就会炸他们”。目前，标普500指数跌超0.2%，纳斯达克100指数跌超0.5%，费城半导体指数跌超2.5%，银行指数跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3110205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
+          "url": "https://news.ifeng.com/c/8tTPXgoAD0P",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：我所做的一切不是为了达成一个糟糕的协议，协议必须是完美的。",
+          "url": "https://flash.jin10.com/detail/20260528011334452800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "特朗普：没有任何国家能够控制霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260528011305962800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：协议必须完美。",
+          "url": "https://flash.jin10.com/detail/20260528011153851800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "特朗普威胁阿曼：老实点，否则会轰炸",
+          "url": "https://wallstreetcn.com/livenews/3110202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：与伊朗达成框架协议后，霍尔木兹海峡将立即开放。",
+          "url": "https://flash.jin10.com/detail/20260528011138275800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：我们可能会讨论取消燃油税减免。",
+          "url": "https://flash.jin10.com/detail/20260528011118035800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "美国财政部长贝森特宣称：我们抵御能源价格波动影响的能力更强了。 美国最近四个季度GDP增长2.7%。 兜售私人行业的就业形势。 “特朗普账户”签约已经达到将近600万。",
+          "url": "https://wallstreetcn.com/livenews/3110200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：我们可以很快结束与伊朗的战争，可能还必须这样做。不过我认为我们不需要这样做。",
+          "url": "https://flash.jin10.com/detail/20260528010825402800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗）我认为我们做得很好。",
+          "url": "https://flash.jin10.com/detail/20260528010808953800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗）他们表现好时，我们会让他们拿回资金。",
+          "url": "https://flash.jin10.com/detail/20260528010757308800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗开始向我们提供我们想要的东西，如果事情不顺利，美国国防部长赫格塞思将完成这项工作。",
+          "url": "https://flash.jin10.com/detail/20260528010450368800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：对俄罗斯获取伊朗的高浓缩铀库存感到不安。",
+          "url": "https://flash.jin10.com/detail/20260528010318730800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "美国国务卿卢比奥：总统特朗普倾向于与伊朗谈判。 相信一直都朝着达成协议取得进展。 我们将紧盯未来数小时、未来数日。",
+          "url": "https://wallstreetcn.com/livenews/3110189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：美国将继续控制伊朗的资产。",
+          "url": "https://flash.jin10.com/detail/20260528010308850800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：没有在讨论放松对伊朗的制裁。",
+          "url": "https://flash.jin10.com/detail/20260528010230452800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "特朗普：伊朗即使放弃高浓缩铀也无法获得解除制裁",
+          "url": "https://wallstreetcn.com/livenews/3110180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "特朗普：对目前同伊朗谈判进程“不满意”",
+          "url": "https://wallstreetcn.com/livenews/3110185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：汽油价格将像以前一样下降。",
+          "url": "https://flash.jin10.com/detail/20260528010117035800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：我们会在合适的时机从海峡释放船只。海峡的控制权将不再被任何人掌握。",
+          "url": "https://flash.jin10.com/detail/20260528010036159800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普参加内阁会议。",
+          "url": "https://wallstreetcn.com/livenews/3110183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "伊朗媒体Fars News：美国总统特朗普可能会单方面宣称磋商成功，但伊朗谈判团队的成员说仍然存在悬而未决的问题。",
+          "url": "https://wallstreetcn.com/livenews/3110182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "白宫：美伊谈判“进展顺利”，特朗普已划出“红线”",
+          "url": "https://wallstreetcn.com/livenews/3110181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "白宫：美国与伊朗的谈判推进得不错，总统特朗普已经清晰地划定“红线”。",
+          "url": "https://wallstreetcn.com/livenews/3110176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 11,
+      "titles": [
         {
           "title": "王毅谈当前伊朗局势僵局",
           "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            11,
-            5,
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时40分 ~ 22时22分]"
-        },
-        {
-          "title": "伊朗是否已请求将高浓缩铀转运至中国？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33236124",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 14时58分]"
-        },
-        {
-          "title": "伊朗外交部：美国公然违反停火协议",
-          "url": "https://www.cls.cn/detail/2382022",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
-        },
-        {
-          "title": "伊朗愿将高浓缩铀移交至中国？中方回应",
-          "url": "https://news.ifeng.com/c/8tRUm9hPRif",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 1,
+          "time_info": "01时39分"
         },
         {
           "title": "伊朗官员称美国将在所有战线停火60天",
@@ -74,8 +362,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
+          "appearance_count": 1,
+          "time_info": "01时39分"
         },
         {
           "title": "伊媒：文件披露，美军事力量将撤出伊朗周边",
@@ -85,19 +373,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
-        },
-        {
-          "title": "伊朗任命谈判团队发言人，专家：展现外交灵活性",
-          "url": "https://v.ifeng.com/c/8tPxP7tkeJv",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 1,
+          "time_info": "01时39分"
         },
         {
           "title": "伊朗情报部：敌方正通过“软战争”向伊朗施压",
@@ -107,379 +384,124 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
-        },
-        {
-          "title": "伊朗男足参加美墨世界杯：比赛日跨境入美，踢完就撤回墨西哥",
-          "url": "https://news.ifeng.com/c/8tRe4GWXi93",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
-        },
-        {
-          "title": "报道：伊朗将在与美达成协议30天后重开霍尔木兹，美伊就伊冻结资产达成谅解",
-          "url": "https://wallstreetcn.com/articles/3773097",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
-        },
-        {
-          "title": "伊朗说尚未就霍尔木兹海峡问题与美国达成一致",
-          "url": "https://flash.jin10.com/detail/20260527182321444800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时54分"
+          "time_info": "01时39分"
         },
         {
           "title": "伊朗：美方承诺在所有战线停火60天，战争重新爆发的可能性\"低\"",
           "url": "https://wallstreetcn.com/articles/3773227",
           "source": "华尔街见闻",
           "ranks": [
-            8,
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时54分 ~ 22时22分]"
+          "appearance_count": 1,
+          "time_info": "01时39分"
         },
         {
-          "title": "边打边谈！美军对伊朗实施“自卫打击”，鲁比奥：与伊朗达成的协议“还需几天”",
-          "url": "https://wallstreetcn.com/articles/3773115",
-          "source": "华尔街见闻",
+          "title": "伊朗伊斯兰革命卫队：过去24小时23艘船只获准通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3110201",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            9
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 10时40分]"
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "伊美“停火框架”草案披露：美国解除“海上封锁”并部分撤军，伊朗于一个月内逐步通航",
+          "url": "https://wallstreetcn.com/articles/3773253",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
         },
         {
           "title": "一份协议如何让双方“宣布胜利”？美国提出新要求，伊朗有两个目标",
           "url": "https://wallstreetcn.com/articles/3773194",
           "source": "华尔街见闻",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
-        },
-        {
-          "title": "美国对伊朗实施打击，打击目标包括导弹发射阵地以及正试图布设水雷的伊朗船只，美国为何在停火期发动打击？",
-          "url": "https://www.zhihu.com/question/2042527297291431958",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
-        },
-        {
-          "title": "伊朗首都一机场办公楼发生火灾",
-          "url": "https://wallstreetcn.com/livenews/3110132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "伊朗总统：已准备好达成框架协议",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E8%BE%BE%E6%88%90%E6%A1%86%E6%9E%B6%E5%8D%8F%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队海军称将对“侵略者”实施严厉报复",
-          "url": "https://wallstreetcn.com/livenews/3109884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时58分"
-        },
-        {
-          "title": "伊朗总统：已准备好达成“有尊严的”框架协议",
-          "url": "https://flash.jin10.com/detail/20260527002129253800",
-          "source": "金十数据",
-          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时23分"
+          "time_info": "01时39分"
         },
         {
-          "title": "伊朗总统：德黑兰寻求以“有尊严的框架”结束战争。",
-          "url": "https://flash.jin10.com/detail/20260526235141891800",
+          "title": "据伊朗媒体：伊朗总统与巴基斯坦总理就地区发展动态及正在进行的外交进程交换意见并进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260528010359826800",
           "source": "金十数据",
           "ranks": [
-            15
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时23分"
+          "time_info": "01时39分"
         },
         {
-          "title": "伊朗说尚未就霍尔木兹海峡问题与美国达成一致",
-          "url": "https://wallstreetcn.com/livenews/3110025",
+          "title": "巴基斯坦总理办公室：总理今天接到伊朗总统的电话。",
+          "url": "https://wallstreetcn.com/livenews/3110190",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时54分"
+          "time_info": "01时39分"
         },
         {
-          "title": "伊朗总统：与卡塔尔埃米尔通了电话。",
-          "url": "https://flash.jin10.com/detail/20260526235106798800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "英国能源价格上限将上调13%，因伊朗冲突导致成本上升。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3109872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时58分"
-        },
-        {
-          "title": "伊朗总统：已准备好达成“有尊严的”框架协议",
-          "url": "https://wallstreetcn.com/livenews/3109576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "伊朗称美将在所有战线停火60天",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E5%B0%86%E5%9C%A8%E6%89%80%E6%9C%89%E6%88%98%E7%BA%BF%E5%81%9C%E7%81%AB60%E5%A4%A9",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "欧洲央行称投资者低估伊朗冲突等风险 金融市场恐出现突然大幅回调",
-          "url": "https://wallstreetcn.com/livenews/3110017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "伊朗公布击落美MQ-9死神无人机画面",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E5%87%BB%E8%90%BD%E7%BE%8EMQ-9%E6%AD%BB%E7%A5%9E%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%94%BB%E9%9D%A2",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "美国政府被马斯克掐咽喉：五角大楼与SpaceX就伊朗战争期间“星链”涨价问题爆发激烈争执",
-          "url": "https://wallstreetcn.com/livenews/3109568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "伊朗情报部说敌方正通过软战争施压",
-          "url": "https://wallstreetcn.com/livenews/3110002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队海军称将对“侵略者”实施严厉报复",
-          "url": "https://flash.jin10.com/detail/20260527143716655800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时58分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：伊朗首都德黑兰附近的霍梅尼机场行政大楼发生火灾。",
-          "url": "https://flash.jin10.com/detail/20260527215457181800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "伊朗总统：与卡塔尔埃米尔通电话。 德黑兰寻求按照“有尊严的框架（协议）”来结束战争。",
-          "url": "https://wallstreetcn.com/livenews/3109566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "高盛：伊朗局势紧张之际，美元货币对正步调一致地共振走势",
-          "url": "https://wallstreetcn.com/livenews/3109565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "伊朗情报部门警告将严厉打击危害国家安全活动",
-          "url": "https://wallstreetcn.com/livenews/3110103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "受伊朗战事影响，印度大米出口下滑",
-          "url": "https://flash.jin10.com/detail/20260527174943148800",
-          "source": "金十数据",
+          "title": "美军事力量将撤出伊朗周边",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E4%BA%8B%E5%8A%9B%E9%87%8F%E5%B0%86%E6%92%A4%E5%87%BA%E4%BC%8A%E6%9C%97%E5%91%A8%E8%BE%B9%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时54分"
+          "time_info": "01时39分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
-          "url": "https://www.cls.cn/detail/2382303",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时40分 ~ 14时58分]"
-        },
-        {
-          "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
-          "url": "https://www.cls.cn/detail/2382288",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时40分 ~ 14时58分]"
-        },
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
           "url": "https://wallstreetcn.com/articles/3773196",
           "source": "华尔街见闻",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
-        },
-        {
-          "title": "金十图示：2026年05月26日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260527003233683800",
-          "source": "金十数据",
-          "ranks": [
-            5
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "美伊谈判前景提振市场 美股三大期指集体上涨 美光盘前大涨超8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2382097",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 10时40分]"
+          "time_info": "01时39分"
         },
         {
           "title": "美股期指集体走高 美光盘前再度大涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2383334",
           "source": "财联社热门",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "美股股指短线走低，标普500指数转跌；美元指数DXY短线小幅走高。",
+          "url": "https://flash.jin10.com/detail/20260528011006984800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
         },
         {
           "title": "美股“火爆行情”很快结束？资深分析师：以史为鉴，油价见顶就会跌",
@@ -489,244 +511,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
-        },
-        {
-          "title": "金十图示：2026年05月26日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260527003022520800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "拼多多美股盘前跌近4%，公司第一季度营收和调整后每ADS收益均不及预期。",
-          "url": "https://wallstreetcn.com/livenews/3110038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "美股盘前美光继续大涨，日韩股市再创新高，SK海力士市值破万亿美元",
-          "url": "https://wallstreetcn.com/articles/3773196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，全球航空业ETF涨超3%，可选消费ETF涨超1%，能源业ETF跌近2%。",
-          "url": "https://wallstreetcn.com/livenews/3110117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "美股盘初：美光科技涨约5%，拼多多跌约9%，特斯拉涨约2%",
-          "url": "https://wallstreetcn.com/livenews/3110113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "策略师驳斥美股泡沫论：“FEMO”将助力标普500指数“破万”",
-          "url": "https://flash.jin10.com/detail/20260527215802456800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "Astrotech美股盘前涨超220%。",
-          "url": "https://wallstreetcn.com/livenews/3110107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3110100",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
-          "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时57分 ~ 22时22分]"
-        },
-        {
-          "title": "特朗普提了一个非分要求",
-          "url": "https://news.ifeng.com/c/8tSb04uTeLk",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时40分 ~ 18时54分]"
-        },
-        {
-          "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            11,
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时22分 ~ 18时54分]"
-        },
-        {
-          "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
-          "url": "https://news.ifeng.com/c/8tTPXgoAD0P",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
-        },
-        {
-          "title": "美国总统特朗普：刚刚在沃尔特·里德军事医疗中心完成了体检，所有检查结果都非常完美。",
-          "url": "https://flash.jin10.com/detail/20260527004216949800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
-          "url": "https://wallstreetcn.com/articles/3773076",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-27）",
-          "url": "https://flash.jin10.com/detail/20260527181651222800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "美国总统特朗普：俄罗斯在最新袭击中向乌克兰发射了两枚榛树中程弹道导弹。",
-          "url": "https://flash.jin10.com/detail/20260527215807698800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "美国总统特朗普：目前通过“乌克兰优先需求清单”（PURL）计划的导弹交付速度已然落后。",
-          "url": "https://flash.jin10.com/detail/20260527215755251800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "美国总统特朗普：乌克兰几乎完全依赖美国拦截俄罗斯弹道导弹。",
-          "url": "https://flash.jin10.com/detail/20260527215731352800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "多家投行下调金价预判",
-          "url": "https://www.douyin.com/hot/2513019",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
-        },
-        {
-          "title": "金十图示：2026年05月27日（周三）上海金早盘价为985.21元/克，较国际金价(981.58元/克)，高3.63元/克",
-          "url": "https://flash.jin10.com/detail/20260527101857720800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "01时39分"
         }
       ]
     },
@@ -735,15 +521,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美伊边打边谈，美股开盘半导体股普涨，美光大涨12%，美债收益率回落，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3773116",
-          "source": "华尔街见闻",
+          "title": "大摩：对冲基金青睐的美债策略正在收缩，反映出获利机会稀缺",
+          "url": "https://wallstreetcn.com/livenews/3110178",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.00%，暂报2778.94点，整体处于低位窄幅震荡状态。 MarketVectorTM数字资产100中盘指数跌1.96%，报3006.62点。 MarketVector数字资产100指数跌1.58%，报14826.82点。 目前，Solana涨0.33%，狗狗币涨0.84%，XRP暂时持平。 比特币跌1.12%，暂报75004.38美元，北京时间20:00出现一波显著的下跌行情、北京时间22:29刷新日低至74647.20美元；以太坊跌0.38%，暂报2062.24美元。",
+          "url": "https://wallstreetcn.com/livenews/3110198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
         }
       ]
     }
