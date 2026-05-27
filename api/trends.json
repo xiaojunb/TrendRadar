@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-27T01:23:08.723315+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-05-27T10:40:37.180923+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
+          "url": "https://wallstreetcn.com/articles/3773148",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 10时40分]"
+        },
         {
           "title": "伊朗外交部：美国公然违反停火协议",
           "url": "https://www.cls.cn/detail/2382022",
@@ -24,17 +35,6 @@
           "source": "凤凰网",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
-        },
-        {
-          "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
-          "url": "https://wallstreetcn.com/articles/3773148",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -74,26 +74,28 @@
           "time_info": "[01时22分 ~ 01时23分]"
         },
         {
-          "title": "边打边谈！美军对伊朗实施“自卫打击”，鲁比奥：与伊朗达成的协议“还需几天”",
-          "url": "https://wallstreetcn.com/articles/3773115",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
-        },
-        {
           "title": "伊朗是否已请求将高浓缩铀转运至中国？外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_33236124",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 10时40分]"
+        },
+        {
+          "title": "边打边谈！美军对伊朗实施“自卫打击”，鲁比奥：与伊朗达成的协议“还需几天”",
+          "url": "https://wallstreetcn.com/articles/3773115",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 10时40分]"
         },
         {
           "title": "美国对伊朗实施打击，打击目标包括导弹发射阵地以及正试图布设水雷的伊朗船只，美国为何在停火期发动打击？",
@@ -107,13 +109,24 @@
           "time_info": "[01时22分 ~ 01时23分]"
         },
         {
+          "title": "伊朗总统：已准备好达成框架协议",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E8%BE%BE%E6%88%90%E6%A1%86%E6%9E%B6%E5%8D%8F%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
           "title": "伊朗总统：已准备好达成“有尊严的”框架协议",
           "url": "https://flash.jin10.com/detail/20260527002129253800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -124,7 +137,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -135,7 +148,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -146,9 +159,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "王毅谈当前伊朗局势僵局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "伊朗公布击落美MQ-9死神无人机画面",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E5%87%BB%E8%90%BD%E7%BE%8EMQ-9%E6%AD%BB%E7%A5%9E%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%94%BB%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
         },
         {
           "title": "美国政府被马斯克掐咽喉：五角大楼与SpaceX就伊朗战争期间“星链”涨价问题爆发激烈争执",
@@ -157,7 +192,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -168,7 +203,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -179,7 +214,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         }
@@ -187,8 +222,30 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
+          "url": "https://www.cls.cn/detail/2382303",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
+          "url": "https://www.cls.cn/detail/2382288",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
         {
           "title": "金十图示：2026年05月26日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260527003233683800",
@@ -196,7 +253,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -208,8 +265,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 10时40分]"
         },
         {
           "title": "金十图示：2026年05月26日（周二）热门中概股行情一览（美股盘中）",
@@ -218,7 +275,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         }
@@ -226,8 +283,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "特朗普提了一个非分要求",
+          "url": "https://news.ifeng.com/c/8tSb04uTeLk",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
         {
           "title": "美国总统特朗普：刚刚在沃尔特·里德军事医疗中心完成了体检，所有检查结果都非常完美。",
           "url": "https://flash.jin10.com/detail/20260527004216949800",
@@ -235,9 +303,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 10时40分]"
         },
         {
           "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
@@ -249,23 +329,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 01时23分]"
-        },
-        {
-          "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "多家投行下调金价预判",
@@ -277,6 +346,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 01时23分]"
+        },
+        {
+          "title": "金十图示：2026年05月27日（周三）上海金早盘价为985.21元/克，较国际金价(981.58元/克)，高3.63元/克",
+          "url": "https://flash.jin10.com/detail/20260527101857720800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
         }
       ]
     },
