@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T19:29:46.722285+08:00",
-  "total_titles_processed": 745,
+  "generated_at": "2026-05-31T20:57:53.449376+08:00",
+  "total_titles_processed": 833,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗议会议长：在确认伊朗人民权利得到保障前 不会批准任何协议",
@@ -19,26 +19,15 @@
           "time_info": "17时45分"
         },
         {
-          "title": "据伊朗迈赫尔通讯社：在格什姆岛和阿巴斯港听到的声响，是因销毁战争遗留爆炸物所致。",
-          "url": "https://flash.jin10.com/detail/20260531190212564800",
+          "title": "据伊朗伊斯兰共和国通讯社：埃及方面要求以色列完全撤出黎巴嫩。",
+          "url": "https://flash.jin10.com/detail/20260531203535600800",
           "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：伊朗格什姆岛传出爆炸声。目前尚不清楚爆炸声响的性质和来源。",
-          "url": "https://flash.jin10.com/detail/20260531185930815800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
+          "time_info": "20时57分"
         },
         {
           "title": "大片火球从天而降！伊朗袭击科威特美军基地",
@@ -58,11 +47,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 19时29分]"
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 20时57分]"
         },
         {
           "title": "伊朗称过去24小时内有28艘船只经协调通过霍尔木兹海峡",
@@ -70,11 +60,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 20时57分]"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：在格什姆岛和阿巴斯港听到的声响，是因销毁战争遗留爆炸物所致。",
+          "url": "https://flash.jin10.com/detail/20260531190212564800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 20时57分]"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗格什姆岛传出爆炸声。目前尚不清楚爆炸声响的性质和来源。",
+          "url": "https://flash.jin10.com/detail/20260531185930815800",
+          "source": "金十数据",
+          "ranks": [
+            4,
             18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时45分 ~ 19时29分]"
+          "time_info": "[19时29分 ~ 20时57分]"
         },
         {
           "title": "美国没收伊朗 10 亿美元加密货币资产，切断伊朗航空公司获取降落点、加油和售票的渠道，对局势有何影响？",
@@ -102,6 +117,42 @@
           "time_info": "[10时42分 ~ 17时45分]"
         },
         {
+          "title": "伊朗展示一款新型攻击艇",
+          "url": "https://wallstreetcn.com/livenews/3111922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 20时57分]"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗南帕尔斯气田的三个海上平台已恢复生产。",
+          "url": "https://flash.jin10.com/detail/20260531182835723800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 20时57分]"
+        },
+        {
+          "title": "伊朗批准20种农产品及加工产品出口",
+          "url": "https://wallstreetcn.com/livenews/3111919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 20时57分]"
+        },
+        {
           "title": "伊朗称对霍尔木兹海峡航运实施全面管理",
           "url": "https://wallstreetcn.com/livenews/3111848",
           "source": "华尔街见闻-快讯",
@@ -126,26 +177,15 @@
           "time_info": "[10时42分 ~ 14时53分]"
         },
         {
-          "title": "伊朗展示一款新型攻击艇",
-          "url": "https://wallstreetcn.com/livenews/3111922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗南帕尔斯气田的三个海上平台已恢复生产。",
-          "url": "https://flash.jin10.com/detail/20260531182835723800",
+          "title": "据伊朗塔斯尼姆通讯社：伊朗与美国之间关于潜在谅解备忘录草案的交流仍在继续。双方轮流提出修改意见，目前尚未最终确认任何协议。",
+          "url": "https://flash.jin10.com/detail/20260531200724744800",
           "source": "金十数据",
           "ranks": [
-            13
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时29分"
+          "time_info": "20时57分"
         },
         {
           "title": "伊朗展示一款新型攻击艇",
@@ -154,18 +194,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "伊朗批准20种农产品及加工产品出口",
-          "url": "https://wallstreetcn.com/livenews/3111919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -187,7 +216,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -198,7 +227,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -220,7 +249,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -261,7 +290,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
@@ -273,8 +302,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时53分 ~ 19时29分]"
+          "appearance_count": 4,
+          "time_info": "[14时53分 ~ 20时57分]"
         },
         {
           "title": "美官员透露：特朗普提出更强硬条款 试图施压伊朗加快谈判进程",
@@ -401,6 +430,17 @@
           "time_info": "14时53分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-31）",
+          "url": "https://flash.jin10.com/detail/20260531191112757800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "特朗普年度体检报告公布",
           "url": "https://www.douyin.com/hot/2518087",
           "source": "抖音",
@@ -498,8 +538,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 19时29分]"
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 20时57分]"
         }
       ]
     }
