@@ -1,33 +1,251 @@
 {
-  "generated_at": "2026-06-04T15:18:58.824420+08:00",
-  "total_titles_processed": 736,
+  "generated_at": "2026-06-04T18:47:02.612799+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "伊朗",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "伊朗突然变了，美国突然客气了",
+          "url": "https://news.ifeng.com/c/8tfoNxuqYgl",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 15时18分]"
+        },
+        {
+          "title": "伊朗媒体Fars News援引德黑兰谈判团队媒体组成员的消息称，伊朗对美国最新草案的回应尚未发送至华盛顿。",
+          "url": "https://flash.jin10.com/detail/20260604012651245800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗圣城军指挥官卡尼表示，黎巴嫩方面的最低要求是以色列恢复到战争前的边界。",
+          "url": "https://flash.jin10.com/detail/20260604182137336800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33296755",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "伊朗媒体Fars News援引德黑兰谈判团队成员的话称，如果最终达成一致，美伊之间的谅解备忘录将通过四个阶段的机制进行。",
+          "url": "https://flash.jin10.com/detail/20260604011926525800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "伊媒：伊朗方面概述与美国达成协议的四阶段计划",
+          "url": "https://wallstreetcn.com/livenews/3113951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "伊朗媒体FarsNews援引德黑兰谈判团队成员的话称，我们不会签署忽视黎巴嫩的协议。",
+          "url": "https://flash.jin10.com/detail/20260604011615616800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "在伊朗被击落的美军飞行员，被曝此前也在科威特遭误击",
+          "url": "https://news.ifeng.com/c/8tenpfE2zdL",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "伊朗媒体Fars News援引德黑兰谈判团队成员的话称，伊斯兰堡谈判第一阶段未能取得成功的原因在于伊朗拒绝进行核谈判。",
+          "url": "https://flash.jin10.com/detail/20260604011550212800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "伊朗媒体Fars News援引德黑兰谈判团队成员的话称，谈判仍在进行中，尚未作出最终决定。",
+          "url": "https://flash.jin10.com/detail/20260604010953636800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "美三部门就美对伊朗军事行动展开审查",
+          "url": "https://wallstreetcn.com/livenews/3114364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "伊媒：伊朗方面概述与美国达成协议的四阶段计划",
+          "url": "https://flash.jin10.com/detail/20260604010608456800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗方面概述了与美国达成的四阶段协议计划。",
+          "url": "https://flash.jin10.com/detail/20260604010132407800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "伊朗外长：任何敌对行为都将遭到立刻和果断回应",
+          "url": "https://wallstreetcn.com/livenews/3113932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "美军称对伊朗的海上封锁已使125艘商船改变航向",
+          "url": "https://wallstreetcn.com/livenews/3113955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗议会议长卡利巴夫表示，针对伊朗的无代价威胁时代已经结束。任何侵略行为都将遭到令人遗憾的回应。",
+          "url": "https://flash.jin10.com/detail/20260604003943872800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "马汉航空：中国往返伊朗航线全面恢复运营",
+          "url": "https://wallstreetcn.com/livenews/3114237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "科威特称伊朗袭击致63人受伤",
+          "url": "https://www.baidu.com/s?wd=%E7%A7%91%E5%A8%81%E7%89%B9%E7%A7%B0%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E8%87%B463%E4%BA%BA%E5%8F%97%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
           "url": "https://wallstreetcn.com/articles/3773781",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 15时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 18时47分]"
         },
         {
           "title": "美众议院通过决议，限制特朗普对伊动武权力",
           "url": "https://news.ifeng.com/c/8tffKr5raZ8",
           "source": "凤凰网",
           "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 18时47分]"
+        },
+        {
+          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
+          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
+          "source": "凤凰网",
+          "ranks": [
+            4,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 15时18分]"
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 18时47分]"
         },
         {
           "title": "特朗普为何骂内塔尼亚胡“疯了”？",
@@ -63,17 +281,6 @@
           "time_info": "10时52分"
         },
         {
-          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
-          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
           "title": "特朗普团队内斗再被翻出，美财长这回承认了",
           "url": "https://news.ifeng.com/c/8tg1e0si3el",
           "source": "凤凰网",
@@ -107,6 +314,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时52分 ~ 15时18分]"
+        },
+        {
+          "title": "AI“狂吞”存储芯片！美国九大行业联合上书 敦促特朗普政府扩产",
+          "url": "https://www.cls.cn/detail/2390381",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 18时47分]"
         },
         {
           "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
@@ -188,190 +406,8 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "伊朗突然变了，美国突然客气了",
-          "url": "https://news.ifeng.com/c/8tfoNxuqYgl",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 15时18分]"
-        },
-        {
-          "title": "伊朗媒体Fars News援引德黑兰谈判团队媒体组成员的消息称，伊朗对美国最新草案的回应尚未发送至华盛顿。",
-          "url": "https://flash.jin10.com/detail/20260604012651245800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33296755",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "伊朗媒体Fars News援引德黑兰谈判团队成员的话称，如果最终达成一致，美伊之间的谅解备忘录将通过四个阶段的机制进行。",
-          "url": "https://flash.jin10.com/detail/20260604011926525800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "伊媒：伊朗方面概述与美国达成协议的四阶段计划",
-          "url": "https://wallstreetcn.com/livenews/3113951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "伊朗媒体FarsNews援引德黑兰谈判团队成员的话称，我们不会签署忽视黎巴嫩的协议。",
-          "url": "https://flash.jin10.com/detail/20260604011615616800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "在伊朗被击落的美军飞行员，被曝此前也在科威特遭误击",
-          "url": "https://news.ifeng.com/c/8tenpfE2zdL",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "伊朗媒体Fars News援引德黑兰谈判团队成员的话称，伊斯兰堡谈判第一阶段未能取得成功的原因在于伊朗拒绝进行核谈判。",
-          "url": "https://flash.jin10.com/detail/20260604011550212800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "伊朗媒体Fars News援引德黑兰谈判团队成员的话称，谈判仍在进行中，尚未作出最终决定。",
-          "url": "https://flash.jin10.com/detail/20260604010953636800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "伊媒：伊朗方面概述与美国达成协议的四阶段计划",
-          "url": "https://flash.jin10.com/detail/20260604010608456800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：伊朗方面概述了与美国达成的四阶段协议计划。",
-          "url": "https://flash.jin10.com/detail/20260604010132407800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "伊朗外长：任何敌对行为都将遭到立刻和果断回应",
-          "url": "https://wallstreetcn.com/livenews/3113932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "美军称对伊朗的海上封锁已使125艘商船改变航向",
-          "url": "https://wallstreetcn.com/livenews/3113955",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：伊朗议会议长卡利巴夫表示，针对伊朗的无代价威胁时代已经结束。任何侵略行为都将遭到令人遗憾的回应。",
-          "url": "https://flash.jin10.com/detail/20260604003943872800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "马汉航空：中国往返伊朗航线全面恢复运营",
-          "url": "https://wallstreetcn.com/livenews/3114237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "科威特称伊朗袭击致63人受伤",
-          "url": "https://www.baidu.com/s?wd=%E7%A7%91%E5%A8%81%E7%89%B9%E7%A7%B0%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E8%87%B463%E4%BA%BA%E5%8F%97%E4%BC%A4",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
@@ -381,8 +417,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 15时18分]"
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 18时47分]"
         },
         {
           "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
@@ -432,6 +468,30 @@
           "time_info": "01时57分"
         },
         {
+          "title": "小红书出手，发布“抓紧港美股开通”诱导贴、倒卖外资研报等乱象被集中整治",
+          "url": "https://www.cls.cn/detail/2390543",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 18时47分]"
+        },
+        {
+          "title": "美股芯片巨头暴跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 18时47分]"
+        },
+        {
           "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
           "url": "https://www.cls.cn/detail/2389957",
           "source": "财联社热门",
@@ -444,6 +504,17 @@
           "time_info": "[01时57分 ~ 10时52分]"
         },
         {
+          "title": "如何看待美股窄牛",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A1%E7%AA%84%E7%89%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 18时47分]"
+        },
+        {
           "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
           "url": "https://www.cls.cn/detail/2389478",
           "source": "财联社热门",
@@ -453,17 +524,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
-        },
-        {
-          "title": "小红书出手，发布“抓紧港美股开通”诱导贴、倒卖外资研报等乱象被集中整治",
-          "url": "https://www.cls.cn/detail/2390543",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
         },
         {
           "title": "金十图示：2026年06月03日（周三）美股热门股票行情一览（美股盘中）",
@@ -486,17 +546,90 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
+          "url": "https://wallstreetcn.com/articles/3773814",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 18时47分]"
         },
         {
-          "title": "美股芯片巨头暴跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "谷歌计划释放3200万只蚊子",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E9%87%8A%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90",
+          "source": "百度热搜",
           "ranks": [
-            30
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 18时47分]"
+        },
+        {
+          "title": "IBM与谷歌云宣布战略合作，通过结合人类专业知识与人工智能驱动的交付模式推动AI规模化落地。",
+          "url": "https://wallstreetcn.com/livenews/3114361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时18分"
+          "time_info": "18时47分"
+        },
+        {
+          "title": "IBM(IBM.N)：该业务实践在谷歌云服务中代表数十亿美元的市场机会。",
+          "url": "https://flash.jin10.com/detail/20260604180402627800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "IBM(IBM.N)：此次合作将扩展IBM Consulting Advantage人工智能驱动交付平台，为Gemini 企业版引入面向特定行业的智能代理。",
+          "url": "https://flash.jin10.com/detail/20260604180339647800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "IBM(IBM.N)与谷歌云宣布战略合作，通过结合人类专业知识与人工智能驱动的交付模式推动AI规模化落地。",
+          "url": "https://flash.jin10.com/detail/20260604180127001800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "谷歌：推出新品“DreamBeans”",
+          "url": "https://wallstreetcn.com/livenews/3113924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         }
       ]
     },
@@ -568,34 +701,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
-          "url": "https://wallstreetcn.com/articles/3773814",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "谷歌：推出新品“DreamBeans”",
-          "url": "https://wallstreetcn.com/livenews/3113924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -609,6 +714,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧洲央行称黄金替代美债成全球官方储备第一大资产，黄金占比升至 27%，美债占比降至 22%，如何解读？",
+          "url": "https://www.zhihu.com/question/2045468542531851848",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 18时47分]"
         }
       ]
     },
