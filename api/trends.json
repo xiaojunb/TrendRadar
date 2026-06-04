@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T10:52:53.253036+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-06-04T15:18:58.824420+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
@@ -15,8 +15,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 15时18分]"
+        },
+        {
+          "title": "美众议院通过决议，限制特朗普对伊动武权力",
+          "url": "https://news.ifeng.com/c/8tffKr5raZ8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时57分 ~ 10时52分]"
+          "time_info": "[10时52分 ~ 15时18分]"
         },
         {
           "title": "特朗普为何骂内塔尼亚胡“疯了”？",
@@ -28,17 +39,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
-        },
-        {
-          "title": "美众议院通过决议，限制特朗普对伊动武权力",
-          "url": "https://news.ifeng.com/c/8tffKr5raZ8",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
         },
         {
           "title": "特朗普任命房屋监管主管兼任情报总监",
@@ -58,9 +58,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        },
+        {
+          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
+          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "特朗普团队内斗再被翻出，美财长这回承认了",
@@ -69,9 +80,33 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        },
+        {
+          "title": "美伊局势追踪：特朗普称协议或在周末达成，美国会众议院要求结束动武！",
+          "url": "https://www.cls.cn/detail/2390202",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 15时18分]"
+        },
+        {
+          "title": "特朗普称美伊协议可能在本周末达成 SpaceX官方拟定IPO发行价为135美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2390155",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 15时18分]"
         },
         {
           "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
@@ -91,18 +126,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "美伊局势追踪：特朗普称协议或在周末达成，美国会众议院要求结束动武！",
-          "url": "https://www.cls.cn/detail/2390202",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -113,18 +137,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "特朗普称美伊协议可能在本周末达成 SpaceX官方拟定IPO发行价为135美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2390155",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -146,7 +159,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -176,7 +189,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊朗突然变了，美国突然客气了",
@@ -185,9 +198,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 15时18分]"
         },
         {
           "title": "伊朗媒体Fars News援引德黑兰谈判团队媒体组成员的消息称，伊朗对美国最新草案的回应尚未发送至华盛顿。",
@@ -243,6 +256,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "在伊朗被击落的美军飞行员，被曝此前也在科威特遭误击",
+          "url": "https://news.ifeng.com/c/8tenpfE2zdL",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "伊朗媒体Fars News援引德黑兰谈判团队成员的话称，伊斯兰堡谈判第一阶段未能取得成功的原因在于伊朗拒绝进行核谈判。",
@@ -322,6 +346,17 @@
           "time_info": "01时57分"
         },
         {
+          "title": "马汉航空：中国往返伊朗航线全面恢复运营",
+          "url": "https://wallstreetcn.com/livenews/3114237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "科威特称伊朗袭击致63人受伤",
           "url": "https://www.baidu.com/s?wd=%E7%A7%91%E5%A8%81%E7%89%B9%E7%A7%B0%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E8%87%B463%E4%BA%BA%E5%8F%97%E4%BC%A4",
           "source": "百度热搜",
@@ -336,7 +371,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
@@ -345,9 +380,34 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 15时18分]"
+        },
+        {
+          "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
+          "url": "https://www.cls.cn/detail/2390139",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 15时18分]"
+        },
+        {
+          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
+          "url": "https://wallstreetcn.com/articles/3773769",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 15时18分]"
         },
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -361,17 +421,6 @@
           "time_info": "01时57分"
         },
         {
-          "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
-          "url": "https://www.cls.cn/detail/2390139",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
           "title": "特朗普言论提振有限，美股指涨跌互现，Marvell开盘涨近10%，油价涨幅收窄",
           "url": "https://wallstreetcn.com/articles/3773742",
           "source": "华尔街见闻",
@@ -381,18 +430,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
-        },
-        {
-          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
-          "url": "https://wallstreetcn.com/articles/3773769",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 10时52分]"
         },
         {
           "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
@@ -418,6 +455,17 @@
           "time_info": "01时57分"
         },
         {
+          "title": "小红书出手，发布“抓紧港美股开通”诱导贴、倒卖外资研报等乱象被集中整治",
+          "url": "https://www.cls.cn/detail/2390543",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "金十图示：2026年06月03日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260604005221712800",
           "source": "金十数据",
@@ -438,6 +486,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "美股芯片巨头暴跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         }
       ]
     },
@@ -510,8 +569,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
+          "url": "https://wallstreetcn.com/articles/3773814",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
         {
           "title": "谷歌：推出新品“DreamBeans”",
           "url": "https://wallstreetcn.com/livenews/3113924",
@@ -536,7 +606,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         }
