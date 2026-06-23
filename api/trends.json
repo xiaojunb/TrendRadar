@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T18:32:03.186408+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2026-06-23T21:22:52.044829+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "伊朗公布首批解冻资金用途",
@@ -39,11 +39,12 @@
             17,
             15,
             22,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时36分 ~ 18时32分]"
+          "appearance_count": 8,
+          "time_info": "[02时36分 ~ 21时22分]"
         },
         {
           "title": "伊朗议长：霍尔木兹海峡将按伊方制定的机制进行管理",
@@ -230,7 +231,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -257,6 +258,17 @@
           "time_info": "02时36分"
         },
         {
+          "title": "为期60天，美国暂时解除对伊朗石油制裁，这是过去数十年来第一次！",
+          "url": "https://wallstreetcn.com/articles/3775244",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "伊朗总统致敬伊朗国家队",
           "url": "https://flash.jin10.com/detail/20260623021030986800",
           "source": "金十数据",
@@ -277,6 +289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬与巴基斯坦陆军参谋长穆尼尔讨论防务合作。",
+          "url": "https://wallstreetcn.com/livenews/3123462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "伊朗使馆：伊朗总统将访问巴基斯坦",
@@ -318,7 +341,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -340,9 +363,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "美财政部放宽对伊朗能源相关交易限制",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33431377",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "美国副总统万斯：如果没有进展，伊朗的资金不会被解冻。",
@@ -384,7 +418,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -395,7 +429,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -439,7 +473,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -483,7 +517,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         }
@@ -491,7 +525,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
@@ -516,6 +550,19 @@
           "time_info": "02时36分"
         },
         {
+          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2052711074215081192",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时41分 ~ 21时22分]"
+        },
+        {
           "title": "特朗普政府加码量子战略！设定2028年科研级量子计算机突破目标",
           "url": "https://www.cls.cn/detail/2406197",
           "source": "财联社热门",
@@ -528,16 +575,15 @@
           "time_info": "[10时31分 ~ 14时42分]"
         },
         {
-          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2052711074215081192",
-          "source": "知乎",
+          "title": "美部长拍特朗普马屁，当场被打脸",
+          "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
+          "source": "凤凰网",
           "ranks": [
-            16,
-            15
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时41分 ~ 18时32分]"
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 21时22分]"
         },
         {
           "title": "哥伦比亚右翼大选中险胜，特朗普背书成助力",
@@ -549,17 +595,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时41分 ~ 14时42分]"
-        },
-        {
-          "title": "美部长拍特朗普马屁，当场被打脸",
-          "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "特朗普点名英意德差劲",
@@ -678,7 +713,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -692,12 +727,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "【特朗普称允许霍尔木兹海峡保持开放】美国总统特朗普23日在社交媒体发文说，基于伊朗作出的让步，他已同意允许霍尔木兹海峡保持开放，不再实施海上封锁。“不过，所有船只仍将原地待命，以备必要时重新实施封锁。尽管目前看来，这种可能性极低。”（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3123433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "特朗普：昨天有1900万桶石油从霍尔木兹海峡流出",
+          "url": "https://wallstreetcn.com/livenews/3123432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
@@ -732,6 +789,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-06-23）",
+          "url": "https://flash.jin10.com/detail/20260623211452556800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
@@ -779,6 +847,28 @@
           "time_info": "14时42分"
         },
         {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3123463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "美股期货跌幅扩大，纳斯达克100指数期货跌超3%，标普500指数期货跌1.5%，道指期货跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3123456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "欧美股指期货跌幅扩大，标普500指数期货下跌0.9%，纳斯达克期货指数下跌1.6%；欧洲斯托克50指数期货下跌0.9%，德国DAX指数期货下跌1.0%，英国富时指数期货下跌1.0%。",
           "url": "https://wallstreetcn.com/livenews/3123210",
           "source": "华尔街见闻-快讯",
@@ -788,6 +878,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        },
+        {
+          "title": "SpaceX美股盘前涨幅扩大至2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3123440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         }
       ]
     },
@@ -861,11 +962,12 @@
           "url": "https://www.zhihu.com/question/2044875348719005741",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时41分 ~ 18时32分]"
+          "appearance_count": 5,
+          "time_info": "[14时41分 ~ 21时22分]"
         },
         {
           "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
@@ -885,7 +987,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         }
@@ -929,22 +1031,24 @@
           "url": "https://wallstreetcn.com/articles/3775156",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时31分 ~ 18时32分]"
+          "appearance_count": 7,
+          "time_info": "[10时31分 ~ 21时22分]"
         },
         {
           "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
           "url": "https://wallstreetcn.com/articles/3775250",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 21时22分]"
         }
       ]
     },
