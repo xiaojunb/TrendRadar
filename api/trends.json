@@ -1,11 +1,179 @@
 {
-  "generated_at": "2026-06-25T14:42:36.240870+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2026-06-25T18:12:56.445522+08:00",
+  "total_titles_processed": 712,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "伊朗",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
+          "url": "https://www.zhihu.com/question/2053109056487822677",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 18时12分]"
+        },
+        {
+          "title": "布伦特原油抹去伊朗战争期间的涨幅，霍尔木兹海峡开放使得供应增加。",
+          "url": "https://wallstreetcn.com/livenews/3124365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "伊朗石油部长：伊朗愿在金砖国家能源合作中发挥积极作用。",
+          "url": "https://flash.jin10.com/detail/20260625175721071800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "美总统称或无法查明谁袭击了伊朗小学",
+          "url": "https://www.toutiao.com/trending/7655095667781877786/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "伊朗石油部长：正如伊朗一再指出的那样，要实现为世界提供大量能源的西亚地区的稳定与安全，唯一途径就是让外国势力撤出该地区，拆除美国军事基地，并将安全事务移交给该地区各国。",
+          "url": "https://flash.jin10.com/detail/20260625175624324800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "世界杯生死战前伊朗队被迫滞留机场",
+          "url": "https://www.toutiao.com/trending/7655006558115512326/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "伊朗石油部官方网站Shana：伊朗石油部长帕克内贾德在金砖国家能源会议间隙与印度同行就能源合作及恰巴哈尔港事宜进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260625175447099800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：在未经伊朗协调的情况下宣布新的霍尔木兹海峡航线，是不可接受且危险的。 只有通过伊朗指定的航线，才有可能安全通过霍尔木兹海峡。 通过霍尔木兹海峡过境的船只，必须在16频道与革命卫队海军进行协调。 革命卫队海军警告，违反过境指令的船只将面临行动。",
+          "url": "https://wallstreetcn.com/livenews/3124338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
+          "url": "https://www.cls.cn/detail/2408936",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "美媒：就涉伊朗问题，特朗普与共和党籍议员比尔·卡西迪当面发生激烈争吵",
+          "url": "https://wallstreetcn.com/livenews/3124377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
+          "url": "https://news.ifeng.com/c/8uFCJ6kPTr8",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 18时12分]"
+        },
+        {
+          "title": "美参议院以50∶48通过决议，特朗普愤怒回应",
+          "url": "https://news.ifeng.com/c/8uEoIOrELpr",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 14时42分]"
+        },
+        {
+          "title": "特朗普炮轰石油公司“宰客”：汽油价格降得太慢太少，要求司法部调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33445001",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
+          "url": "https://www.zhihu.com/question/2053130730595791572",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价4000美元关口告破，这是空头陷阱还是下跌加速？",
@@ -14,9 +182,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        },
+        {
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 18时12分]"
         },
         {
           "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
@@ -30,16 +211,15 @@
           "time_info": "[10时34分 ~ 14时42分]"
         },
         {
-          "title": "现货黄金价格跌破4000美元大关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
-          "source": "澎湃新闻",
+          "title": "金价跌回3字头、半年回撤30%，牛市终结还是深度调整？",
+          "url": "https://flash.jin10.com/detail/20260625174955903800",
+          "source": "金十数据",
           "ranks": [
-            18,
-            19
+            25
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 14时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "金价回落刺激刚需消费回暖",
@@ -56,7 +236,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
@@ -79,6 +259,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时34分 ~ 14时42分]"
+        },
+        {
+          "title": "IBM美股盘前涨超6%，公司推出全球首款亚1纳米芯片技术。",
+          "url": "https://wallstreetcn.com/livenews/3124593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
@@ -105,96 +296,6 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
-          "url": "https://www.zhihu.com/question/2053109056487822677",
-          "source": "知乎",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 14时42分]"
-        },
-        {
-          "title": "布伦特原油抹去伊朗战争期间的涨幅，霍尔木兹海峡开放使得供应增加。",
-          "url": "https://wallstreetcn.com/livenews/3124365",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "美总统称或无法查明谁袭击了伊朗小学",
-          "url": "https://www.toutiao.com/trending/7655095667781877786/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队：在未经伊朗协调的情况下宣布新的霍尔木兹海峡航线，是不可接受且危险的。 只有通过伊朗指定的航线，才有可能安全通过霍尔木兹海峡。 通过霍尔木兹海峡过境的船只，必须在16频道与革命卫队海军进行协调。 革命卫队海军警告，违反过境指令的船只将面临行动。",
-          "url": "https://wallstreetcn.com/livenews/3124338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美媒：就涉伊朗问题，特朗普与共和党籍议员比尔·卡西迪当面发生激烈争吵",
-          "url": "https://wallstreetcn.com/livenews/3124377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "美参议院以50∶48通过决议，特朗普愤怒回应",
-          "url": "https://news.ifeng.com/c/8uEoIOrELpr",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 14时42分]"
-        },
-        {
-          "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
-          "url": "https://news.ifeng.com/c/8uFCJ6kPTr8",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -205,9 +306,26 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "商汤科技正研发新图像模型：代号U1 Pro，内部称将对标OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3124540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         }
       ]
     }
