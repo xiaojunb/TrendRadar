@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T22:07:56.256054+08:00",
-  "total_titles_processed": 926,
+  "generated_at": "2026-07-04T23:44:59.577175+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "现场：伊朗为哈梅内伊举行公众告别悼念仪式",
@@ -32,58 +32,50 @@
         },
         {
           "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
-          "url": "https://flash.jin10.com/detail/20260704214033656800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
-        },
-        {
-          "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
           "url": "https://wallstreetcn.com/livenews/3128947",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时07分 ~ 23时44分]"
         },
         {
           "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
           "url": "https://wallstreetcn.com/livenews/3128945",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
-        },
-        {
-          "title": "据沙特媒体哈达斯与阿拉伯卫星电视台报道，美国与伊朗的谈判将于7月11日在巴基斯坦进行。",
-          "url": "https://flash.jin10.com/detail/20260704212154579800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时07分 ~ 23时44分]"
         },
         {
           "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
           "url": "https://wallstreetcn.com/livenews/3128943",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时07分 ~ 23时44分]"
+        },
+        {
+          "title": "伊朗外长会晤黎真主党及哈马斯代表",
+          "url": "https://wallstreetcn.com/livenews/3128948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时07分"
+          "time_info": "23时44分"
         },
         {
           "title": "伊朗总统在哈梅内伊告别仪式抹泪",
@@ -98,15 +90,15 @@
           "time_info": "[10时06分 ~ 13时58分]"
         },
         {
-          "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
-          "url": "https://flash.jin10.com/detail/20260704211410750800",
+          "title": "伊朗传统两派对立格局被打破，保守派内部进一步分裂，新最高领袖的绝对权力正在被稀释",
+          "url": "https://flash.jin10.com/detail/20260704221625100800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时07分"
+          "time_info": "23时44分"
         },
         {
           "title": "上千万伊朗人参与哈梅内伊告别仪式",
@@ -114,11 +106,48 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            9
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时02分 ~ 23时44分]"
+        },
+        {
+          "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
+          "url": "https://flash.jin10.com/detail/20260704214033656800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时02分 ~ 22时07分]"
+          "time_info": "[22时07分 ~ 23时44分]"
+        },
+        {
+          "title": "据沙特媒体哈达斯与阿拉伯卫星电视台报道，美国与伊朗的谈判将于7月11日在巴基斯坦进行。",
+          "url": "https://flash.jin10.com/detail/20260704212154579800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时07分 ~ 23时44分]"
+        },
+        {
+          "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
+          "url": "https://flash.jin10.com/detail/20260704211410750800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时07分 ~ 23时44分]"
         },
         {
           "title": "伊朗民众泪别哈梅内伊",
@@ -127,11 +156,12 @@
           "ranks": [
             13,
             17,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时50分 ~ 22时07分]"
+          "appearance_count": 4,
+          "time_info": "[18时50分 ~ 23时44分]"
         },
         {
           "title": "伊朗民众泪别哈梅内伊",
@@ -171,6 +201,18 @@
           "time_info": "[16时34分 ~ 18时50分]"
         },
         {
+          "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
+          "url": "https://flash.jin10.com/detail/20260704200114603800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时07分 ~ 23时44分]"
+        },
+        {
           "title": "伊朗警告英法勿干涉霍尔木兹海峡（事务）。（迈赫尔通讯社）",
           "url": "https://wallstreetcn.com/livenews/3128908",
           "source": "华尔街见闻-快讯",
@@ -206,15 +248,15 @@
           "time_info": "[16时33分 ~ 16时34分]"
         },
         {
-          "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
-          "url": "https://flash.jin10.com/detail/20260704200114603800",
+          "title": "伊朗外交部长阿拉格齐在伊朗首都德黑兰分别会晤黎巴嫩真主党及哈马斯代表。",
+          "url": "https://flash.jin10.com/detail/20260704220954516800",
           "source": "金十数据",
           "ranks": [
-            11
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时07分"
+          "time_info": "23时44分"
         },
         {
           "title": "伊朗官员警告他国勿在霍尔木兹海峡采取军事行动",
@@ -296,8 +338,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 22时07分]"
+          "appearance_count": 3,
+          "time_info": "[20时02分 ~ 23时44分]"
         },
         {
           "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺奖",
@@ -306,9 +348,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时07分 ~ 23时44分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-04）",
@@ -330,11 +372,34 @@
           "ranks": [
             10,
             14,
-            19
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时50分 ~ 23时44分]"
+        },
+        {
+          "title": "美国250周年庆典变特朗普私人派对？",
+          "url": "https://news.ifeng.com/c/8uUV6js1fGQ",
+          "source": "凤凰网",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时50分 ~ 22时07分]"
+          "time_info": "[20时02分 ~ 23时44分]"
+        },
+        {
+          "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
+          "url": "https://v.ifeng.com/c/8uTnyXsavVt",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时02分 ~ 23时44分]"
         },
         {
           "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
@@ -359,17 +424,6 @@
           "time_info": "[10时06分 ~ 10时07分]"
         },
         {
-          "title": "美国250周年庆典变特朗普私人派对？",
-          "url": "https://news.ifeng.com/c/8uUV6js1fGQ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 22时07分]"
-        },
-        {
           "title": "伊朗议长反击特朗普“缺粮”言论：美国数千万人靠食品券生活",
           "url": "https://flash.jin10.com/detail/20260704124044168800",
           "source": "金十数据",
@@ -380,17 +434,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时58分 ~ 16时34分]"
-        },
-        {
-          "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
-          "url": "https://v.ifeng.com/c/8uTnyXsavVt",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 22时07分]"
         },
         {
           "title": "美国250周年遇上特朗普",
@@ -474,8 +517,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时58分 ~ 22时07分]"
+          "appearance_count": 7,
+          "time_info": "[13时58分 ~ 23时44分]"
         },
         {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
@@ -504,11 +547,12 @@
           "url": "https://wallstreetcn.com/articles/3776200",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时07分 ~ 23时44分]"
         }
       ]
     },
