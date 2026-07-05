@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T22:26:58.374550+08:00",
-  "total_titles_processed": 891,
+  "generated_at": "2026-07-05T23:45:06.818888+08:00",
+  "total_titles_processed": 971,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "普京与特朗普通话85分钟，细节公布",
@@ -43,8 +43,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时23分 ~ 22时26分]"
+          "appearance_count": 7,
+          "time_info": "[14时23分 ~ 23时45分]"
         },
         {
           "title": "特朗普又把自己加上了“总统山”",
@@ -52,11 +52,24 @@
           "source": "凤凰网",
           "ranks": [
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时16分 ~ 22时26分]"
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 23时45分]"
+        },
+        {
+          "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
+          "url": "https://news.ifeng.com/c/8uVsCwKcWdW",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 23时45分]"
         },
         {
           "title": "特朗普：伊朗举国哀悼哈梅内伊，让我感到惊讶",
@@ -68,6 +81,21 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时23分 ~ 19时16分]"
+        },
+        {
+          "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33518572",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            14,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时23分 ~ 23时45分]"
         },
         {
           "title": "特朗普：我们很善良，给伊朗一周时间办丧事",
@@ -92,6 +120,17 @@
           "time_info": "10时15分"
         },
         {
+          "title": "以色列总理内塔尼亚胡：我们并不是处于永久战争状态。我和美国总统特朗普一起促成了四项和平协议。寻求我们保护的，不仅仅是黎巴嫩的基督徒，还有德鲁兹人、穆斯林、逊尼派穆斯林，以及相当多的什叶派穆斯林。",
+          "url": "https://flash.jin10.com/detail/20260705232818933800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "美国总统特朗普：预计将于晚间（北京时间次日上午）11点在美国250周年纪念活动上发表讲话。",
           "url": "https://flash.jin10.com/detail/20260705091335007800",
           "source": "金十数据",
@@ -101,18 +140,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
-        },
-        {
-          "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
-          "url": "https://news.ifeng.com/c/8uVsCwKcWdW",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时16分 ~ 22时26分]"
         },
         {
           "title": "美国总统特朗普：无论如何都会发表演讲。",
@@ -137,18 +164,18 @@
           "time_info": "10时15分"
         },
         {
-          "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33518572",
-          "source": "澎湃新闻",
+          "title": "俄总统助理：普京提请特朗普注意，欧洲和基辅押注于俄乌冲突延续甚至升级",
+          "url": "https://wallstreetcn.com/livenews/3128968",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17,
+            11,
             16,
-            14,
-            11
+            21,
+            27
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[14时23分 ~ 22时26分]"
+          "time_info": "[17时26分 ~ 23时45分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-05）",
@@ -190,20 +217,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时15分 ~ 19时16分]"
-        },
-        {
-          "title": "俄总统助理：普京提请特朗普注意，欧洲和基辅押注于俄乌冲突延续甚至升级",
-          "url": "https://wallstreetcn.com/livenews/3128968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            16,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时26分 ~ 22时26分]"
         },
         {
           "title": "普京与特朗普通话 重申倾向于政治解决乌克兰问题",
@@ -253,6 +266,17 @@
           "time_info": "14时23分"
         },
         {
+          "title": "以色列总理内塔尼亚胡：我和特朗普在愿景上意见一致，虽然可能会出现分歧，但我们坦率而公开地讨论它们，并且通常能达成解决方案。",
+          "url": "https://flash.jin10.com/detail/20260705232235800800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "特朗普在美国独立250周年庆典演讲 强调“美国例外论”",
           "url": "https://flash.jin10.com/detail/20260705124923131800",
           "source": "金十数据",
@@ -262,6 +286,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：（谈到与特朗普的关系）我不认为我们之间有裂痕。与其他盟友不同，我们与美国并肩作战，在99%的情况下，我和美国总统的看法是一致的。",
+          "url": "https://flash.jin10.com/detail/20260705231132842800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "特朗普皮一下赶紧躲回安全区",
@@ -377,8 +412,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
+          "url": "https://news.ifeng.com/c/8uWHzcgIJ5I",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时44分 ~ 23时45分]"
+        },
         {
           "title": "伊朗驻华大使：中国等友好国家将享有“特殊待遇”",
           "url": "https://news.ifeng.com/c/8uUi1MnrVik",
@@ -410,8 +456,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时47分 ~ 22时26分]"
+          "appearance_count": 3,
+          "time_info": "[20时47分 ~ 23时45分]"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗国际海事局表示，卡塔尔鲁韦斯港和伊朗港口之间的海上贸易恢复。",
@@ -490,6 +536,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时15分 ~ 17时26分]"
+        },
+        {
+          "title": "伊朗已故最高领袖哈梅内伊三子现身",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%B7%B2%E6%95%85%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E4%B8%89%E5%AD%90%E7%8E%B0%E8%BA%AB%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时26分 ~ 23时45分]"
         },
         {
           "title": "梅德韦杰夫：伊朗手握有两大底牌，不亚于核武器",
@@ -585,15 +643,15 @@
           "time_info": "19时16分"
         },
         {
-          "title": "伊朗已故最高领袖哈梅内伊三子现身",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%B7%B2%E6%95%85%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E4%B8%89%E5%AD%90%E7%8E%B0%E8%BA%AB%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
+          "title": "据沙特媒体哈达斯：伊朗议会议长卡利巴夫表示，伊朗认为尽管存在困难，但与美国达成共识是可能的。",
+          "url": "https://flash.jin10.com/detail/20260705223200385800",
+          "source": "金十数据",
           "ranks": [
-            17
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时26分"
+          "time_info": "23时45分"
         },
         {
           "title": "也门副总理在德黑兰会见伊朗外长",
@@ -624,6 +682,20 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
+          "url": "https://wallstreetcn.com/articles/3776204",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时23分 ~ 23时45分]"
+        },
+        {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
           "url": "https://wallstreetcn.com/articles/3776200",
           "source": "华尔街见闻",
@@ -637,18 +709,15 @@
           "time_info": "[10时14分 ~ 19时16分]"
         },
         {
-          "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
-          "url": "https://wallstreetcn.com/articles/3776204",
+          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            3,
-            2,
-            1
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时23分 ~ 22时26分]"
+          "appearance_count": 3,
+          "time_info": "[22时26分 ~ 23时45分]"
         },
         {
           "title": "环球下周看点：美联储会议纪要来袭 美股二季报大幕开启",
@@ -660,17 +729,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时14分 ~ 10时15分]"
-        },
-        {
-          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
-          "url": "https://wallstreetcn.com/articles/3776130",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
         },
         {
           "title": "如何看待网传字节员工靠炒美股赚三千万财富自由后离职，称投资比升职更易财务自由，后回应了三个千万祝福？",
@@ -738,8 +796,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时26分 ~ 22时26分]"
+          "appearance_count": 6,
+          "time_info": "[17时26分 ~ 23时45分]"
         }
       ]
     }
