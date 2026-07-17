@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T19:04:44.780597+08:00",
-  "total_titles_processed": 956,
+  "generated_at": "2026-07-17T20:41:06.751683+08:00",
+  "total_titles_processed": 1080,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊朗：造成大量美军人员死亡",
@@ -53,17 +53,6 @@
           "time_info": "15时14分"
         },
         {
-          "title": "伊朗革命卫队打击卡塔尔美军基地",
-          "url": "https://wallstreetcn.com/livenews/3135672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时04分"
-        },
-        {
           "title": "伊朗革命卫队称打击叙利亚美军指挥中心",
           "url": "https://wallstreetcn.com/livenews/3135475",
           "source": "华尔街见闻-快讯",
@@ -75,16 +64,40 @@
           "time_info": "12时58分"
         },
         {
+          "title": "报道：美军袭击伊朗南部发电站和机场",
+          "url": "https://wallstreetcn.com/livenews/3135700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "伊朗称摧毁多架美军战斗机",
           "url": "https://www.toutiao.com/trending/7663410168377380371/",
           "source": "今日头条",
           "ranks": [
             26,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 19时04分]"
+          "appearance_count": 5,
+          "time_info": "[17时26分 ~ 20时41分]"
+        },
+        {
+          "title": "伊朗革命卫队打击卡塔尔美军基地",
+          "url": "https://wallstreetcn.com/livenews/3135672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时04分 ~ 20时41分]"
         },
         {
           "title": "美国政府新规收紧国际学生等入境居留期限 美军连续第五晚打击伊朗 | 环球市场",
@@ -99,13 +112,35 @@
           "time_info": "[12时58分 ~ 15时14分]"
         },
         {
+          "title": "伊朗称摧毁多架美军战斗机",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%91%A7%E6%AF%81%E5%A4%9A%E6%9E%B6%E7%BE%8E%E5%86%9B%E6%88%98%E6%96%97%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 20时41分]"
+        },
+        {
+          "title": "伊朗革命卫队：我们的有效精准打击将持续至局势恢复平静。",
+          "url": "https://flash.jin10.com/detail/20260717201021981800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "消息人士：两架无人机袭击了位于伊拉克苏莱曼尼亚西部的伊朗库尔德反对派营地。",
           "url": "https://flash.jin10.com/detail/20260717183830051800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
         },
@@ -132,6 +167,28 @@
           "time_info": "17时27分"
         },
         {
+          "title": "美军袭击摧毁了伊朗一座海上交通控制塔。（伊通社）",
+          "url": "https://wallstreetcn.com/livenews/3135691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "伊朗劳工部长：伊朗是世界和平的象征，伊朗不寻求战争，但将以全部力量对侵略者作出果断回应。",
+          "url": "https://flash.jin10.com/detail/20260717200316154800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "伊朗IRIB新闻网公布伊朗遭袭桥梁的照片。",
           "url": "https://flash.jin10.com/detail/20260717124237582800",
           "source": "金十数据",
@@ -143,6 +200,28 @@
           "time_info": "12时58分"
         },
         {
+          "title": "伊朗劳工部长：阿联酋政府若真正寻求持久安全，就应将其领土从美以敌国的支配中解放出来。",
+          "url": "https://flash.jin10.com/detail/20260717200304805800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "伊朗劳工部长：我们谴责阿联酋与美以侵略势力合作。",
+          "url": "https://flash.jin10.com/detail/20260717200249014800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "伊朗革命卫队表示，只要美军的袭击持续，就不会有任何石油或天然气通过霍尔木兹海峡出口。",
           "url": "https://wallstreetcn.com/livenews/3135465",
           "source": "华尔街见闻-快讯",
@@ -152,6 +231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
+        },
+        {
+          "title": "伊朗劳工部长：（提及阿联酋）不要将你们的领土置于伊朗敌人手中。",
+          "url": "https://flash.jin10.com/detail/20260717200236223800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "据伊朗媒体报道，美军周五早间袭击了阿巴斯港铁路枢纽。",
@@ -171,7 +261,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
         },
@@ -215,7 +305,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
         },
@@ -259,7 +349,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
         },
@@ -270,7 +360,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
         },
@@ -281,7 +371,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
         },
@@ -300,7 +390,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "白宫：特朗普将出席世界杯决赛",
@@ -311,8 +401,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时56分 ~ 19时04分]"
+          "appearance_count": 8,
+          "time_info": "[09时56分 ~ 20时41分]"
         },
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -322,8 +412,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 19时04分]"
+          "appearance_count": 5,
+          "time_info": "[17时26分 ~ 20时41分]"
         },
         {
           "title": "美国首例！特朗普恼火：可怕的决定，要输给中国了",
@@ -412,7 +502,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
         },
@@ -448,6 +538,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "美国总统特朗普：昨晚我的演讲获得了很好的评价，观众人数众多。请通过《拯救美国法案》！",
+          "url": "https://flash.jin10.com/detail/20260717195445964800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         }
       ]
     },
@@ -464,8 +565,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时56分 ~ 19时04分]"
+          "appearance_count": 8,
+          "time_info": "[09时56分 ~ 20时41分]"
         },
         {
           "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
@@ -509,7 +610,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
         },
@@ -558,11 +659,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时58分 ~ 19时04分]"
+          "appearance_count": 7,
+          "time_info": "[12时58分 ~ 20时41分]"
         },
         {
           "title": "何为AI泡沫？分析师：OpenAI就是“业界雷曼兄弟”，一倒全市场将崩盘！",
@@ -582,7 +684,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
         }
@@ -590,7 +692,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
@@ -613,6 +715,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        },
+        {
+          "title": "【世界黄金协会：中国市场黄金ETF上半年实现显著流入】7月17日，世界黄金协会数据显示，6月金价走弱，抹去前期涨幅，上半年最终以下跌收官。尽管6月有流出，中国市场黄金ETF上半年仍实现显著流入，推动资产管理总规模（AUM）小幅升至2430亿元人民币，总持仓增加29吨至277吨。6月，中国市场黄金ETF流出150亿元人民币，为有记录以来最疲弱的单月表现。",
+          "url": "https://wallstreetcn.com/livenews/3135688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         }
       ]
     },
@@ -661,11 +774,12 @@
           "url": "https://wallstreetcn.com/livenews/3135669",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时04分 ~ 20时41分]"
         }
       ]
     }
