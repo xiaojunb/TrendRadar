@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T15:53:41.315226+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2026-07-22T18:17:37.578608+08:00",
+  "total_titles_processed": 832,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "胡塞武装封锁红海？特朗普回应",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时53分 ~ 15时53分]"
+        },
+        {
+          "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
+          "url": "https://news.ifeng.com/c/8uy1V150ZKO",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "特朗普：可能很快打击伊朗“镐山”核设施",
@@ -39,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时12分 ~ 15时53分]"
+          "appearance_count": 4,
+          "time_info": "[13时12分 ~ 18时17分]"
         },
         {
           "title": "特朗普点名伊朗镐山地下核设施：将很快发动猛烈打击",
@@ -95,9 +106,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
+        },
+        {
+          "title": "据Politico民调：美国总统特朗普的MAGA支持者对他的伊朗战争感到失望 。",
+          "url": "https://flash.jin10.com/detail/20260722175828950800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "美官员称特朗普批准美国与沙特民用核项目协议",
@@ -117,7 +139,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -166,6 +188,17 @@
           "time_info": "09时53分"
         },
         {
+          "title": "TACO时刻临近？模型预计特朗普将在7月底“认怂”",
+          "url": "https://flash.jin10.com/detail/20260722174950113800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "伊朗武装部队回应特朗普袭击核设施言论",
           "url": "https://wallstreetcn.com/livenews/3137835",
           "source": "华尔街见闻-快讯",
@@ -183,9 +216,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：我们愿与伊朗达成协议，确保其不会获得核武器。伊朗是支持恐怖主义的国家，我们不信任它。如果伊朗不合作，美国总统特朗普有很多选择。",
+          "url": "https://flash.jin10.com/detail/20260722174552841800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "特朗普批准与沙特达成的具有里程碑意义的核协议。（华尔街日报）",
@@ -213,7 +257,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗还有两大杀手锏",
@@ -225,6 +269,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "世界银行首席经济学家吉尔：美国、印度等国在伊朗战争的影响下基本受到保护，但高债务水平的发展中国家面临更大风险。",
+          "url": "https://flash.jin10.com/detail/20260722180052126800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "伊朗说打就打",
@@ -255,7 +310,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -282,13 +337,24 @@
           "time_info": "13时13分"
         },
         {
+          "title": "美国国务卿鲁比奥：我们正监测红海航行安全面临的任何威胁。胡塞武装的威胁并不新鲜。该组织威胁实施海上封锁是一个问题，而伊朗才是制造这些问题的根源。伊朗在该地区资助恐怖组织。伊朗向也门发送了载有设备和武器的飞机。",
+          "url": "https://flash.jin10.com/detail/20260722175440363800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "伊朗周三凌晨袭击了驻约旦和巴林的美军。（塔斯尼姆通讯社）",
           "url": "https://wallstreetcn.com/livenews/3138059",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -310,9 +376,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
+        },
+        {
+          "title": "“每天都被伊朗打”经济遭不住，科威特计划发行美元债券",
+          "url": "https://flash.jin10.com/detail/20260722175007210800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "约旦军方称伊朗向该国发射了6枚导弹",
+          "url": "https://wallstreetcn.com/livenews/3138112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "A股石油石化板块高开，科力股份涨超8%，通源石油、中曼石油、潜能恒信、中国海油、泰山石油等个股跟涨。消息面上，伊朗伊斯兰革命卫队发表声明称，“惩罚侵略者的行动仍在继续”。此前，美国已连续第11晚对伊朗发动袭击。",
@@ -337,6 +425,28 @@
           "time_info": "09时53分"
         },
         {
+          "title": "市场消息：伊朗外交部副部长将出席在菲律宾举行的东盟外长会议。",
+          "url": "https://flash.jin10.com/detail/20260722174434222800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：愿意与伊朗达成外交解决方案。",
+          "url": "https://flash.jin10.com/detail/20260722174320653800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "美国：完成对伊朗的第11晚打击。 霍尔木兹海峡仍对商船开放通行。",
           "url": "https://wallstreetcn.com/livenews/3137826",
           "source": "华尔街见闻-快讯",
@@ -351,7 +461,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
@@ -361,8 +471,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 15时53分]"
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 18时17分]"
         },
         {
           "title": "【早报】美股存储芯片强势反攻，多股大涨超10%；油价、黄金同步走强；A股又一批增持回购潮来了",
@@ -409,8 +519,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时12分 ~ 15时53分]"
+          "appearance_count": 4,
+          "time_info": "[13时12分 ~ 18时17分]"
+        },
+        {
+          "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
@@ -427,7 +548,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
@@ -438,8 +559,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时12分 ~ 15时53分]"
+          "appearance_count": 4,
+          "time_info": "[13时12分 ~ 18时17分]"
         },
         {
           "title": "OpenAI负责人抨击Kimi开源",
@@ -458,11 +579,51 @@
           "url": "https://www.cls.cn/detail/2433554",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 18时17分]"
+        },
+        {
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时53分"
+          "time_info": "18时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
+          "url": "https://wallstreetcn.com/articles/3777510",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "吧友做梗图催更DeepSeekV4",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356411&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%81%9A%E6%A2%97%E5%9B%BE%E5%82%AC%E6%9B%B4DeepSeekV4",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         }
       ]
     },
@@ -491,23 +652,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时12分 ~ 13时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
-          "url": "https://wallstreetcn.com/articles/3777510",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
         }
       ]
     },
