@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-23T18:15:12.150375+08:00",
-  "total_titles_processed": 817,
+  "generated_at": "2026-07-23T20:10:08.066824+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "特朗普：我们与伊朗只是小规模冲突",
+          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时29分 ~ 20时10分]"
+        },
         {
           "title": "污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”",
           "url": "https://news.ifeng.com/c/8uyHXh9awI8",
@@ -20,16 +32,27 @@
           "time_info": "[10时01分 ~ 18时15分]"
         },
         {
-          "title": "特朗普：我们与伊朗只是小规模冲突",
-          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
-          "source": "凤凰网",
+          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
+          "url": "https://wallstreetcn.com/articles/3777708",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            3
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时29分 ~ 18时15分]"
+          "appearance_count": 6,
+          "time_info": "[13时29分 ~ 20时10分]"
+        },
+        {
+          "title": "美国总统特朗普：美国并不反对民用（非浓缩）核设施。",
+          "url": "https://flash.jin10.com/detail/20260723195408068800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
           "title": "金十整理——惨遭现实“打脸”，四个方面回看特朗普对伊朗战争的判断",
@@ -38,9 +61,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
+        },
+        {
+          "title": "美国总统特朗普：美国能源部与沙特阿拉伯之间的核协议将获得批准，但完全取决于沙特阿拉伯加入亚伯拉罕协议。",
+          "url": "https://flash.jin10.com/detail/20260723195405095800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
           "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
@@ -54,6 +88,18 @@
           "time_info": "10时01分"
         },
         {
+          "title": "伊朗袭击已致近 100 名美军受伤，特朗普扬言强硬报复，美伊会爆发全面战争吗？中东局势将走向何方？",
+          "url": "https://www.zhihu.com/question/2062856603762742765",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时57分 ~ 20时10分]"
+        },
+        {
           "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
           "url": "https://www.cls.cn/detail/2434427",
           "source": "财联社热门",
@@ -64,29 +110,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时01分 ~ 13时29分]"
-        },
-        {
-          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
-          "url": "https://wallstreetcn.com/articles/3777708",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时29分 ~ 18时15分]"
-        },
-        {
-          "title": "伊朗袭击已致近 100 名美军受伤，特朗普扬言强硬报复，美伊会爆发全面战争吗？中东局势将走向何方？",
-          "url": "https://www.zhihu.com/question/2062856603762742765",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时57分 ~ 18时15分]"
         },
         {
           "title": "美国男生模仿特朗普讲话表情夸张",
@@ -138,7 +161,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "美国国务卿鲁比奥：希望胡塞武装能够停止攻击，他们被伊朗愚弄了。",
@@ -161,6 +184,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
+        },
+        {
+          "title": "伊拉克与科威特边境口岸遭伊朗打击",
+          "url": "https://wallstreetcn.com/livenews/3138855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
           "title": "国际原油价格大幅上涨 伊朗放话或切断海湾能源流动 | 环球市场",
@@ -206,6 +240,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
+        },
+        {
+          "title": "伊朗军方：将继续打击美军目标直至美方罢手",
+          "url": "https://wallstreetcn.com/livenews/3138823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "伊通社：伊朗总统与伊拉克总理举行双边会晤。 伊朗和伊拉克承诺深化战略关系。 伊朗和伊拉克讨论新的合作领域。",
+          "url": "https://wallstreetcn.com/livenews/3138822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
           "title": "美再威胁袭击伊朗基础设施 伊方回应",
@@ -255,7 +311,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
@@ -266,8 +322,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 18时15分]"
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 20时10分]"
         },
         {
           "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
@@ -279,8 +335,21 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 20时10分]"
+        },
+        {
+          "title": "AI烧钱大战升级！谷歌、特斯拉现金流双双转负 华尔街看好长期回报",
+          "url": "https://www.cls.cn/detail/2434820",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时01分 ~ 18时15分]"
+          "time_info": "[15时57分 ~ 20时10分]"
         },
         {
           "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
@@ -305,16 +374,26 @@
           "time_info": "[10时01分 ~ 18时15分]"
         },
         {
-          "title": "AI烧钱大战升级！谷歌、特斯拉现金流双双转负 华尔街看好长期回报",
-          "url": "https://www.cls.cn/detail/2434820",
-          "source": "财联社热门",
+          "title": "谷歌披露持有SpaceX股份940亿美元",
+          "url": "https://flash.jin10.com/detail/20260723195331103800",
+          "source": "金十数据",
           "ranks": [
-            8,
             4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时57分 ~ 18时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "谷歌：在SpaceX首次公开募股后持有其940亿美元股份",
+          "url": "https://wallstreetcn.com/livenews/3138853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
           "title": "谷歌二季度营收同比增 24% 、云业务大涨 82%，盘后股价却暴跌，如何解读该业绩？市场在担忧什么？",
@@ -339,6 +418,17 @@
           "time_info": "15时57分"
         },
         {
+          "title": "谷歌(GOOG.O)在10-Q报告中披露了对SpaceX(SPCX.O)的持股情况，在SpaceX上市后其持有价值940亿美元的股份，其中800亿美元SpaceX持股受短期锁定期限制。",
+          "url": "https://flash.jin10.com/detail/20260723194312680800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
           "title": "谷歌自由现金流数十年来首次转负",
           "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E8%87%AA%E7%94%B1%E7%8E%B0%E9%87%91%E6%B5%81%E6%95%B0%E5%8D%81%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E8%BD%AC%E8%B4%9F",
           "source": "百度热搜",
@@ -353,7 +443,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "吧友做梗图催更DeepSeekV4",
@@ -367,6 +457,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时01分 ~ 15时57分]"
+        },
+        {
+          "title": "DeepSeek华为合作",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8D%8E%E4%B8%BA%E5%90%88%E4%BD%9C%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时09分 ~ 20时10分]"
+        },
+        {
+          "title": "如何看待梁文锋称不要求员工长期加班？为啥刘强东、梁文锋等大厂创始人都在反过度加班但这仍是大厂的常态？",
+          "url": "https://www.zhihu.com/question/2063652081714423010",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时09分 ~ 20时10分]"
         },
         {
           "title": "梁文锋四小时投资人会议实录引热议",
@@ -449,8 +561,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 18时15分]"
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 20时10分]"
         },
         {
           "title": "OpenAI现安全事故中国大模型救场",
@@ -522,7 +634,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -533,8 +645,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 18时15分]"
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 20时10分]"
         },
         {
           "title": "美股收盘：三大指数集体收低 美伊互放狠话重燃加息预期",
@@ -548,6 +660,17 @@
           "time_info": "[10时01分 ~ 13时29分]"
         },
         {
+          "title": "IMAX第二季度营收1.028亿美元，预估9,390万美元。 第二季度调整后EBITDA 4,800万美元，预估3,930万美元。 第二季度调整后每股收益0.43美元，预估0.28美元。 IMAX美股盘前涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/3138849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
           "title": "国际黄金、石油、铜、美股、美元再现同步上涨，日元兑美元跌破 163，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2063182962879993810",
           "source": "知乎",
@@ -557,6 +680,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "黑石集团第二季度总收入38.0亿美元，预期33.9亿美元。 第二季度可分配每股收益1.52美元，预期1.33美元。 黑石集团二季度管理资产1.35万亿美元，预期1.33万亿美元。 黑石集团美股盘前跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3138842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "美国航空第二季度调整后每股收益15美分，预期2.7美分。 美国航空预计第三季度营收增长16%至19%。 美国航空预计第三季度调整后每股亏损10美分至70美分，预期每股收益31美分。 美国航空预计全年调整后每股亏损65美分至每股收益65美分，预期每股收益61美分。 美国航空美股盘前跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3138834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "洛克希德马丁第二季度净销售额200.6亿美元，预期193.3亿美元 第二季度每股收益7.94美元，去年同期1.46美元。 洛克希德马丁预计全年净销售额797.5亿至817.5亿美元，市场预期791.3亿美元。 洛克希德马丁预计全年营业利润85亿至87亿美元。 洛克希德马丁预计全年每股收益29.95至30.65美元，此前预期29.35至30.25美元。 洛克希德马丁美股盘前涨7.5%。",
+          "url": "https://wallstreetcn.com/livenews/3138819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         }
       ]
     },
