@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-25T21:21:48.758429+08:00",
-  "total_titles_processed": 931,
+  "generated_at": "2026-07-25T22:45:38.237165+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
-        {
-          "title": "伊朗外长：无需更多调解者，美应改变态度",
-          "url": "https://news.ifeng.com/c/8v2WgNsUn9F",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时55分 ~ 21时21分]"
-        },
         {
           "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
           "url": "https://news.ifeng.com/c/8v0y8EzOzBv",
@@ -25,6 +14,17 @@
           "ranks": [
             4,
             3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时55分 ~ 22时45分]"
+        },
+        {
+          "title": "伊朗外长：无需更多调解者，美应改变态度",
+          "url": "https://news.ifeng.com/c/8v2WgNsUn9F",
+          "source": "凤凰网",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时17分 ~ 21时21分]"
+          "appearance_count": 5,
+          "time_info": "[17时17分 ~ 22时45分]"
         },
         {
           "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
@@ -56,6 +56,17 @@
           "time_info": "[09时55分 ~ 19时58分]"
         },
         {
+          "title": "Muriel Siebert首席投资官Mark Malek：在通胀和油价高企、投资者担心企业利润率扩张可能放缓的时候，现在真不是推行关税政策的时候。 我们现在必须非常非常谨慎。 尽管霍尔木兹海峡因伊朗战争而关闭，但股市此前已经出现过反弹，相当于用掉了它唯一的“免死金牌”。",
+          "url": "https://wallstreetcn.com/livenews/3139779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "伊朗外长说不惧威胁不屈服于美国",
           "url": "https://wallstreetcn.com/livenews/3139714",
           "source": "华尔街见闻-快讯",
@@ -69,6 +80,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时59分 ~ 19时58分]"
+        },
+        {
+          "title": "美国对伊朗实施“冷热交替”策略，当前首要目标可能是......",
+          "url": "https://flash.jin10.com/detail/20260725223644816800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "伊朗公布美军近期袭击伤亡数据",
@@ -158,6 +180,18 @@
           "time_info": "[18时51分 ~ 21时21分]"
         },
         {
+          "title": "分析｜美国本轮已连续袭击伊朗13晚，以色列为何“隐身”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650717",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 22时45分]"
+        },
+        {
           "title": "伊朗军方称将对美军实施对等报复",
           "url": "https://wallstreetcn.com/livenews/3139696",
           "source": "华尔街见闻-快讯",
@@ -168,6 +202,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时59分 ~ 15时14分]"
+        },
+        {
+          "title": "伊朗官员：镐山设施“目前是空的”",
+          "url": "https://flash.jin10.com/detail/20260725214500074800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "据伊朗Press TV：也门方面袭击炼油厂后，沙特各地出现大规模排队加油的现象。",
@@ -192,15 +237,15 @@
           "time_info": "15时14分"
         },
         {
-          "title": "分析｜美国本轮已连续袭击伊朗13晚，以色列为何“隐身”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650717",
-          "source": "澎湃新闻",
+          "title": "伊朗官员：镐山设施“目前是空的”，袭击一个空置的仓库只有利于制造虚假信息",
+          "url": "https://wallstreetcn.com/livenews/3139764",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时21分"
+          "time_info": "22时45分"
         },
         {
           "title": "美国军方向一艘商船开火，声称后者违反“对伊朗的封锁”。 美军周五在阿曼湾造成Lavine号油轮丧失行动能力。（美联社）",
@@ -250,8 +295,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
+          "url": "https://wallstreetcn.com/livenews/3139778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
         {
           "title": "特朗普称准备第四次竞选总统",
           "url": "https://wallstreetcn.com/livenews/3139731",
@@ -304,6 +360,18 @@
           "time_info": "[09时55分 ~ 12时59分]"
         },
         {
+          "title": "专家：特朗普一刀切关税得罪全部盟友",
+          "url": "https://www.toutiao.com/trending/7666410407686311467/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 22时45分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗现在正在与我们对话。 我认为现在还不是伊朗达成协议的时候，伊朗尚未准备好。 将出席明年的白宫记者协会晚宴。",
           "url": "https://wallstreetcn.com/livenews/3139702",
           "source": "华尔街见闻-快讯",
@@ -328,6 +396,28 @@
           "time_info": "[12时59分 ~ 15时14分]"
         },
         {
+          "title": "两位巴西消息人士：巴西拒绝向两名试图质询巴西选举制度的特朗普政府特使签发签证。",
+          "url": "https://flash.jin10.com/detail/20260725222304302800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "特朗普称准备第四次竞选总统",
+          "url": "https://news.ifeng.com/c/8v378W8XMdI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "特朗普调侃白宫记者：等我卸任了，你们都得破产",
           "url": "https://flash.jin10.com/detail/20260725122832263800",
           "source": "金十数据",
@@ -339,15 +429,15 @@
           "time_info": "12时59分"
         },
         {
-          "title": "专家：特朗普一刀切关税得罪全部盟友",
-          "url": "https://www.toutiao.com/trending/7666410407686311467/",
-          "source": "今日头条",
+          "title": "特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马",
+          "url": "https://wallstreetcn.com/articles/3777927",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时21分"
+          "time_info": "22时45分"
         },
         {
           "title": "报道：特朗普的电力“智囊”在力推电网重大改革后即将离任",
@@ -359,6 +449,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "特朗普再打关税战 这次有何不同",
+          "url": "https://www.toutiao.com/trending/7666438148708109865/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "特朗普为何又打关税牌又邀中方访美",
@@ -505,8 +606,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时55分 ~ 21时21分]"
+          "appearance_count": 8,
+          "time_info": "[09时55分 ~ 22时45分]"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -517,8 +618,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时55分 ~ 21时21分]"
+          "appearance_count": 8,
+          "time_info": "[09时55分 ~ 22时45分]"
         },
         {
           "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
@@ -533,8 +634,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时55分 ~ 21时21分]"
+          "appearance_count": 8,
+          "time_info": "[09时55分 ~ 22时45分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，新兴市场ETF收跌将近2%",
