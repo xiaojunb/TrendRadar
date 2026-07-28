@@ -1,33 +1,58 @@
 {
-  "generated_at": "2026-07-28T09:48:59.063788+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-28T12:57:52.302407+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
           "url": "https://wallstreetcn.com/articles/3778058",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 12时57分]"
         },
         {
           "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
           "url": "https://www.cls.cn/detail/2438385",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 12时57分]"
+        },
+        {
+          "title": "一文读懂：美股“芯片风暴”究竟是如何发生的？",
+          "url": "https://www.cls.cn/detail/2438605",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "12时57分"
+        },
+        {
+          "title": "7月28日投资避雷针：美股费城半导体指数创5月20日以来收盘新低 英伟达跌约5%",
+          "url": "https://www.cls.cn/detail/2438430",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 12时57分]"
         },
         {
           "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
@@ -46,17 +71,6 @@
           "source": "财联社热门",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "7月28日投资避雷针：美股费城半导体指数创5月20日以来收盘新低 英伟达跌约5%",
-          "url": "https://www.cls.cn/detail/2438430",
-          "source": "财联社热门",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -98,8 +112,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 12时57分]"
         },
         {
           "title": "特朗普向伊朗发出最后通牒",
@@ -109,8 +123,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 12时57分]"
         },
         {
           "title": "600名以色列前高官联名致信特朗普，发出警告",
@@ -120,8 +134,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 12时57分]"
         },
         {
           "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
@@ -131,8 +145,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 12时57分]"
         },
         {
           "title": "特朗普称，将于美国东部时间周二上午9:30会见乌克兰总统泽连斯基。 特朗普与内塔尼亚胡的会晤将于周二上午11点举行。",
@@ -174,22 +188,22 @@
           "time_info": "09时48分"
         },
         {
-          "title": "乌克兰袭船还回嘴：伊朗没资格“装”受害者",
-          "url": "https://news.ifeng.com/c/8v6sTHp3nlX",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
           "title": "泽连斯基：与伊朗已处于战争中",
           "url": "https://news.ifeng.com/c/8v7aKFz8e8a",
           "source": "凤凰网",
           "ranks": [
             12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 12时57分]"
+        },
+        {
+          "title": "乌克兰袭船还回嘴：伊朗没资格“装”受害者",
+          "url": "https://news.ifeng.com/c/8v6sTHp3nlX",
+          "source": "凤凰网",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -217,11 +231,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356554&amp;topic_name=%E7%9C%9F%E9%80%97%2CDeepSeek%E8%AF%B4%E8%A6%81%E5%8E%BB%E5%90%83%E9%A5%AD",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 12时57分]"
         }
       ]
     },
@@ -234,11 +249,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
           "source": "贴吧",
           "ranks": [
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 12时57分]"
         }
       ]
     },
