@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T12:57:52.302407+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-07-28T15:35:56.557487+08:00",
+  "total_titles_processed": 648,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 12时57分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 15时35分]"
         },
         {
           "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
@@ -28,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 12时57分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 15时35分]"
         },
         {
           "title": "一文读懂：美股“芯片风暴”究竟是如何发生的？",
@@ -38,9 +39,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 15时35分]"
         },
         {
           "title": "7月28日投资避雷针：美股费城半导体指数创5月20日以来收盘新低 英伟达跌约5%",
@@ -48,11 +49,23 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 12时57分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 15时35分]"
+        },
+        {
+          "title": "美股半导体崩盘,闪迪跌破新低",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
@@ -97,73 +110,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "内塔尼亚胡访美，会与特朗普聊啥？",
-          "url": "https://news.ifeng.com/c/8v6sJsiidDd",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 12时57分]"
         },
         {
-          "title": "特朗普向伊朗发出最后通牒",
-          "url": "https://news.ifeng.com/c/8v7SfF44Gcs",
-          "source": "凤凰网",
+          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2065354296774989670",
+          "source": "知乎",
           "ranks": [
-            5
+            20
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 12时57分]"
-        },
-        {
-          "title": "600名以色列前高官联名致信特朗普，发出警告",
-          "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 12时57分]"
-        },
-        {
-          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 12时57分]"
-        },
-        {
-          "title": "特朗普称，将于美国东部时间周二上午9:30会见乌克兰总统泽连斯基。 特朗普与内塔尼亚胡的会晤将于周二上午11点举行。",
-          "url": "https://wallstreetcn.com/livenews/3140607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "15时35分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "泽连斯基：与伊朗已处于战争中",
@@ -199,6 +162,17 @@
           "time_info": "[09时48分 ~ 12时57分]"
         },
         {
+          "title": "用伊朗逻辑打伊朗商船！乌克兰出手，中东战火恐延烧至里海",
+          "url": "https://news.ifeng.com/c/8v7v4J57Txn",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
           "title": "乌克兰袭船还回嘴：伊朗没资格“装”受害者",
           "url": "https://news.ifeng.com/c/8v6sTHp3nlX",
           "source": "凤凰网",
@@ -210,11 +184,146 @@
           "time_info": "09时48分"
         },
         {
+          "title": "泽连斯基：乌克兰与伊朗已处于战争中",
+          "url": "https://news.ifeng.com/c/8v7xlBI6J9Z",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
+          "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33668433",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
+          "title": "博主：泽连斯基早就对伊朗怀恨在心",
+          "url": "https://www.toutiao.com/trending/7667443070362717742/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
           "title": "美称若谈判破裂将强力打击伊朗",
           "url": "https://www.toutiao.com/trending/7667350797637652011/",
           "source": "今日头条",
           "ranks": [
             27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "内塔尼亚胡访美，会与特朗普聊啥？",
+          "url": "https://news.ifeng.com/c/8v6sJsiidDd",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 15时35分]"
+        },
+        {
+          "title": "特朗普向伊朗发出最后通牒",
+          "url": "https://news.ifeng.com/c/8v7SfF44Gcs",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 15时35分]"
+        },
+        {
+          "title": "600名以色列前高官联名致信特朗普，发出警告",
+          "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 15时35分]"
+        },
+        {
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 15时35分]"
+        },
+        {
+          "title": "特朗普称，将于美国东部时间周二上午9:30会见乌克兰总统泽连斯基。 特朗普与内塔尼亚胡的会晤将于周二上午11点举行。",
+          "url": "https://wallstreetcn.com/livenews/3140607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "特朗普政府要求美最高法院限制邮寄选票",
+          "url": "https://wallstreetcn.com/livenews/3140789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年07月28日（周二）上海金午盘价为882.55元/克，较国际金价(880.92元/克)，高1.63元/克",
+          "url": "https://flash.jin10.com/detail/20260728150739432800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
+          "title": "金价被情绪来回拉扯背后",
+          "url": "https://www.toutiao.com/trending/7667247710302375434/",
+          "source": "今日头条",
+          "ranks": [
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -232,11 +341,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 12时57分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 15时35分]"
         }
       ]
     },
@@ -250,28 +360,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 12时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价被情绪来回拉扯背后",
-          "url": "https://www.toutiao.com/trending/7667247710302375434/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 15时35分]"
         }
       ]
     }
