@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T20:43:47.132810+08:00",
-  "total_titles_processed": 1247,
+  "generated_at": "2026-08-07T23:16:17.776150+08:00",
+  "total_titles_processed": 1398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
@@ -28,11 +28,12 @@
             9,
             8,
             6,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时35分 ~ 20时43分]"
+          "appearance_count": 9,
+          "time_info": "[12时35分 ~ 23时16分]"
         },
         {
           "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
@@ -99,7 +100,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -135,6 +136,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
+        },
+        {
+          "title": "伊朗敦促海湾国家说服特朗普停止军事行动",
+          "url": "https://wallstreetcn.com/livenews/3146814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "特朗普大发雷霆，美防长甩锅，暴露大问题",
@@ -267,9 +279,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
+        },
+        {
+          "title": "乌兹别克斯坦方面称，乌兹别克斯坦总统与美国总统特朗普通电话。",
+          "url": "https://flash.jin10.com/detail/20260807222418037800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "特朗普：美联储利率决定不完全由沃什说了算",
@@ -303,6 +326,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
+        },
+        {
+          "title": "法院裁决显示，美国上诉法院阻止了特朗普4亿美元的白宫宴会厅项目，但暂停执行相关裁决，为期14天，以便政府向最高法院提出上诉。",
+          "url": "https://flash.jin10.com/detail/20260807221921850800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
+          "title": "特朗普再出手打击赴美生子产业意味啥",
+          "url": "https://www.toutiao.com/trending/7671229132105059876/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
+          "title": "白宫顾问哈塞特：我确定特朗普没有向沃什提供利率建议",
+          "url": "https://wallstreetcn.com/livenews/3146787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         }
       ]
     },
@@ -351,6 +407,17 @@
           "time_info": "[10时13分 ~ 19时39分]"
         },
         {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时49分 ~ 23时16分]"
+        },
+        {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
           "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
           "source": "澎湃新闻",
@@ -360,17 +427,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
-        },
-        {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时49分 ~ 20时43分]"
         },
         {
           "title": "王兴兴回应DeepSeek参与宇树科技IPO战略配售",
@@ -395,6 +451,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时50分 ~ 18时44分]"
+        },
+        {
+          "title": "梁文锋 只想用座机",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B+%E5%8F%AA%E6%83%B3%E7%94%A8%E5%BA%A7%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 23时16分]"
         },
         {
           "title": "DeepSeek豪掷1.4亿护航宇树IPO",
@@ -428,34 +496,38 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
-        },
-        {
-          "title": "梁文锋 只想用座机",
-          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B+%E5%8F%AA%E6%83%B3%E7%94%A8%E5%BA%A7%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
           "url": "https://wallstreetcn.com/articles/3778821",
           "source": "华尔街见闻",
           "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时13分 ~ 23时16分]"
+        },
+        {
+          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
+          "url": "https://www.cls.cn/detail/2448354",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时13分 ~ 20时43分]"
+          "appearance_count": 6,
+          "time_info": "[16时49分 ~ 23时16分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -470,18 +542,37 @@
           "time_info": "[10时13分 ~ 15时50分]"
         },
         {
-          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
-          "url": "https://www.cls.cn/detail/2448354",
+          "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2448784",
           "source": "财联社热门",
           "ranks": [
-            10,
-            4,
-            2,
-            1
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
+          "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
+          "url": "https://wallstreetcn.com/articles/3778924",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
+          "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
+          "url": "https://www.cls.cn/detail/2448478",
+          "source": "财联社热门",
+          "ranks": [
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时49分 ~ 20时43分]"
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 23时16分]"
         },
         {
           "title": "美股光通信股AAOI盘前涨超15%，公司管理层在业绩电话会上释放积极信号，表示AI基础设施需求强劲，客户需求较其当前供应能力高出约20%至40%。",
@@ -506,17 +597,6 @@
           "time_info": "16时49分"
         },
         {
-          "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
-          "url": "https://www.cls.cn/detail/2448478",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
           "title": "KOSPI下跌引发美股淘金热，韩国散户加速转投华尔街",
           "url": "https://flash.jin10.com/detail/20260807163047609800",
           "source": "金十数据",
@@ -526,6 +606,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
+        },
+        {
+          "title": "美股存储板块集体大跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E9%9B%86%E4%BD%93%E5%A4%A7%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "美股三大指数集体收跌",
@@ -542,7 +633,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "以情报高官疑因伊朗行动失败被解职",
@@ -553,8 +644,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时49分 ~ 20时43分]"
+          "appearance_count": 6,
+          "time_info": "[16时49分 ~ 23时16分]"
+        },
+        {
+          "title": "伊朗最高领袖给总统下了“最后警告”？",
+          "url": "https://news.ifeng.com/c/8vOzr19CfFi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "伊朗公布霍尔木兹海峡管理草案 国际油价大幅走高",
@@ -574,11 +676,34 @@
           "source": "今日头条",
           "ranks": [
             26,
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 20时43分]"
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 23时16分]"
+        },
+        {
+          "title": "美国7月非农不及预期，伊朗-阿曼临时协议有望重开海峡？ | Plus日报",
+          "url": "https://flash.jin10.com/detail/20260807223126163800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
+          "title": "伊朗就霍尔木兹海峡协议措辞展开辩论",
+          "url": "https://wallstreetcn.com/livenews/3146793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "伊朗最高领袖军事顾问雷扎伊表示，沙特必须明白，与土耳其和巴基斯坦达成纸面协议并不会带来安全，就像多年来对美国的单方面依赖并未带来安全一样。改革你的政策，以便不必向他人乞求安全。",
@@ -587,7 +712,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -601,12 +726,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
+        },
+        {
+          "title": "ADNOC：（自从美国+以色列对伊朗发动战争以来）公司15艘船只遭到打击。 在霍尔木兹海峡遭到的打击中，一人死亡、20人受伤。 仍然受到地区局势的“沉重”影响。",
+          "url": "https://wallstreetcn.com/livenews/3146786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "新闻蒸馏器｜谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
@@ -629,6 +765,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "核心团队跑路,Gemini陷大危机",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "谷歌将人工智能管理重心迁至加州 全力迎战Anthropic与OpenAI",
@@ -654,7 +801,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -673,8 +820,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "瑞银：黄金上涨行情具备支撑，金价明年有望向5000美元迈进",
+          "url": "https://wallstreetcn.com/livenews/3146816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
         {
           "title": "瑞银：预计金价将在2027年上半年升向每盎司5,000美元。 金价近期走势可能仍将较为波动。",
           "url": "https://wallstreetcn.com/livenews/3146510",
