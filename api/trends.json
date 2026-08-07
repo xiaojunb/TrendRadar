@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T16:49:21.377853+08:00",
-  "total_titles_processed": 821,
+  "generated_at": "2026-08-07T17:53:40.643130+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 21,
       "titles": [
         {
           "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时13分 ~ 16时49分]"
+          "appearance_count": 6,
+          "time_info": "[10时13分 ~ 17时53分]"
         },
         {
           "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时13分 ~ 15时50分]"
+        },
+        {
+          "title": "特朗普（谈AI）：它可能比石油还要重要。 谁赢了AI，谁就赢得一切。就这么重要。",
+          "url": "https://wallstreetcn.com/livenews/3146612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "特朗普再称对伊朗战争将很快结束",
@@ -97,8 +108,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 16时49分]"
+          "appearance_count": 3,
+          "time_info": "[15时50分 ~ 17时53分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -110,8 +121,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时35分 ~ 16时49分]"
+          "appearance_count": 5,
+          "time_info": "[12时35分 ~ 17时53分]"
+        },
+        {
+          "title": "特朗普（被问及加息时）：在投票之前，加息并非完全由沃什决定。 我认为他很棒，我不会批评他。",
+          "url": "https://wallstreetcn.com/livenews/3146606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
+          "title": "特朗普言论意味着对台政策重大转变？美著名“中国通”解读",
+          "url": "https://news.ifeng.com/c/8uzN3iPy76f",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时50分 ~ 17时53分]"
         },
         {
           "title": "美国将严厉打击“生育旅游” 特朗普承认某些弹药供应紧张 | 环球市场",
@@ -126,17 +159,6 @@
           "time_info": "[12时35分 ~ 15时50分]"
         },
         {
-          "title": "特朗普言论意味着对台政策重大转变？美著名“中国通”解读",
-          "url": "https://news.ifeng.com/c/8uzN3iPy76f",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 16时49分]"
-        },
-        {
           "title": "特朗普帖子抢先看合法吗",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B8%96%E5%AD%90%E6%8A%A2%E5%85%88%E7%9C%8B%E5%90%88%E6%B3%95%E5%90%97",
           "source": "bilibili 热搜",
@@ -148,6 +170,17 @@
           "time_info": "[12时35分 ~ 12时36分]"
         },
         {
+          "title": "美国总统特朗普：我可能是最后一位共和党总统。",
+          "url": "https://flash.jin10.com/detail/20260807172203688800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "特朗普称继续支持国防部长赫格塞思",
           "url": "https://wallstreetcn.com/livenews/3146357",
           "source": "华尔街见闻-快讯",
@@ -157,6 +190,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "美国总统特朗普：（关于与瑞士的贸易逆差）一笔就能抹去逆差。",
+          "url": "https://flash.jin10.com/detail/20260807172137980800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
+          "title": "美国总统特朗普：（关于人工智能）这可能比石油还要重要。谁赢得人工智能，谁就赢得一切。就是如此重要。",
+          "url": "https://flash.jin10.com/detail/20260807172007161800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
+          "title": "特朗普下令调查美军弹药库存信息泄露",
+          "url": "https://wallstreetcn.com/livenews/3146595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
+          "title": "特朗普：美联储利率决定不完全由沃什说了算",
+          "url": "https://flash.jin10.com/detail/20260807171515653800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "特朗普对多晶硅加征关税",
@@ -180,11 +257,12 @@
           "url": "https://www.zhihu.com/question/2068637080209421054",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时13分 ~ 16时49分]"
+          "appearance_count": 6,
+          "time_info": "[10时13分 ~ 17时53分]"
         },
         {
           "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
@@ -194,8 +272,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时13分 ~ 16时49分]"
+          "appearance_count": 6,
+          "time_info": "[10时13分 ~ 17时53分]"
+        },
+        {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            18,
+            23,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时13分 ~ 17时53分]"
         },
         {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
@@ -209,20 +302,6 @@
           "time_info": "10时13分"
         },
         {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            18,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时13分 ~ 16时49分]"
-        },
-        {
           "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
           "url": "https://wallstreetcn.com/articles/3778849",
           "source": "华尔街见闻",
@@ -231,8 +310,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 16时49分]"
+          "appearance_count": 3,
+          "time_info": "[15时50分 ~ 17时53分]"
         },
         {
           "title": "DeepSeek豪掷1.4亿护航宇树IPO",
@@ -244,6 +323,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时35分 ~ 12时36分]"
+        },
+        {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 17时53分]"
         },
         {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
@@ -266,23 +356,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
-        },
-        {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时49分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -292,8 +371,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时13分 ~ 16时49分]"
+          "appearance_count": 6,
+          "time_info": "[10时13分 ~ 17时53分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -308,24 +387,36 @@
           "time_info": "[10时13分 ~ 15时50分]"
         },
         {
+          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
+          "url": "https://www.cls.cn/detail/2448354",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 17时53分]"
+        },
+        {
+          "title": "美股光通信股AAOI盘前涨超15%，公司管理层在业绩电话会上释放积极信号，表示AI基础设施需求强劲，客户需求较其当前供应能力高出约20%至40%。",
+          "url": "https://wallstreetcn.com/livenews/3146603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "美股盘前，存储概念股小幅走高，闪迪、西部数据涨超2%，光通信概念股走高，Coherent涨近5%，Lumentum涨超3%。",
           "url": "https://wallstreetcn.com/livenews/3146560",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时49分"
-        },
-        {
-          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
-          "url": "https://www.cls.cn/detail/2448354",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -336,7 +427,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -355,7 +446,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "新闻蒸馏器｜谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
@@ -378,12 +469,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "谷歌将人工智能管理重心迁至加州 全力迎战Anthropic与OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3146580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "以情报高官疑因伊朗行动失败被解职",
@@ -392,9 +494,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 17时53分]"
         },
         {
           "title": "伊朗公布霍尔木兹海峡管理草案 国际油价大幅走高",
@@ -407,6 +509,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时13分 ~ 12时36分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：有报道称，土耳其、沙特和巴基斯坦三国今日即将签署的三方防务协定被正式命名为“麦加协议”。",
+          "url": "https://flash.jin10.com/detail/20260807170712330800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         }
       ]
     },
