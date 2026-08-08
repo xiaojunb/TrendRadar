@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T21:28:28.081051+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-08-08T22:06:18.275353+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "伊朗战事打不下去了？美军参联会主席力主“翻篇”",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时07分 ~ 21时28分]"
+          "appearance_count": 11,
+          "time_info": "[16时07分 ~ 22时06分]"
         },
         {
           "title": "是否将辞职？伊朗总统最新发声",
@@ -42,8 +42,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时02分 ~ 21时28分]"
+          "appearance_count": 8,
+          "time_info": "[18时02分 ~ 22时06分]"
         },
         {
           "title": "伊媒发布伊朗最高领袖视频",
@@ -53,8 +53,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时27分 ~ 21时28分]"
+          "appearance_count": 6,
+          "time_info": "[19时27分 ~ 22时06分]"
+        },
+        {
+          "title": "如何评价沙特、巴基斯坦、土耳其三国签的防务协定，也门胡塞和伊朗的联动封锁能否持续，对油价有何影响？",
+          "url": "https://www.zhihu.com/question/2069252730074485781",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时08分 ~ 22时06分]"
         },
         {
           "title": "曝美军高层寻找摆脱伊朗战事的途径",
@@ -72,31 +85,6 @@
           "time_info": "[16时07分 ~ 20时31分]"
         },
         {
-          "title": "如何评价沙特、巴基斯坦、土耳其三国签的防务协定，也门胡塞和伊朗的联动封锁能否持续，对油价有何影响？",
-          "url": "https://www.zhihu.com/question/2069252730074485781",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时08分 ~ 21时28分]"
-        },
-        {
-          "title": "伊朗媒体发布伊朗最高领袖视频",
-          "url": "https://wallstreetcn.com/livenews/3146994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时59分 ~ 21时28分]"
-        },
-        {
           "title": "伊媒发布伊朗最高领袖视频",
           "url": "https://www.toutiao.com/trending/7671613890689502783/",
           "source": "今日头条",
@@ -105,8 +93,36 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时52分 ~ 21时28分]"
+          "appearance_count": 5,
+          "time_info": "[19时52分 ~ 22时06分]"
+        },
+        {
+          "title": "伊朗媒体发布伊朗最高领袖视频",
+          "url": "https://wallstreetcn.com/livenews/3146994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时59分 ~ 22时06分]"
+        },
+        {
+          "title": "伊朗革命卫队：重开海峡需美国接受伊朗条件",
+          "url": "https://wallstreetcn.com/livenews/3146991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时59分 ~ 22时06分]"
         },
         {
           "title": "阿联酋外交部：将霍尔木兹海峡作为施压或勒索的工具是伊朗革命卫队的海盗行为。",
@@ -123,17 +139,16 @@
           "time_info": "[18时59分 ~ 20时31分]"
         },
         {
-          "title": "伊朗革命卫队：重开海峡需美国接受伊朗条件",
-          "url": "https://wallstreetcn.com/livenews/3146991",
-          "source": "华尔街见闻-快讯",
+          "title": "深度探访伊朗遇袭女子学校",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E6%8E%A2%E8%AE%BF%E4%BC%8A%E6%9C%97%E9%81%87%E8%A2%AD%E5%A5%B3%E5%AD%90%E5%AD%A6%E6%A0%A1",
+          "source": "bilibili 热搜",
           "ranks": [
-            4,
-            18,
-            22
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时59分 ~ 21时28分]"
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时06分]"
         },
         {
           "title": "阿联酋外交部：我们强烈谴责伊朗对阿布扎比国家石油公司（ADNOC）油轮进行袭击。",
@@ -148,6 +163,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时59分 ~ 20时31分]"
+        },
+        {
+          "title": "伊总统：伊朗要学中国做好自己的事",
+          "url": "https://www.toutiao.com/trending/7670977056377618495/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时06分]"
         },
         {
           "title": "伊朗：同阿曼的谈判与霍尔木兹海峡能否重开无关",
@@ -176,6 +202,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[17时09分 ~ 20时31分]"
+        },
+        {
+          "title": "伊拉克石油部长：伊拉克正与伊朗谈判以允许伊拉克石油出口，但相关安排尚未生效。 新建巴士拉-菲什哈布尔输油管道预计耗资不超过150亿美元。 该管道将包括从哈迪塞到巴尼亚斯的支线，以及泵站和储存设施。",
+          "url": "https://wallstreetcn.com/livenews/3146989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时59分 ~ 22时06分]"
         },
         {
           "title": "伊朗最高领袖给总统下了“最后警告”？",
@@ -214,39 +254,17 @@
           "time_info": "[15时28分 ~ 18时02分]"
         },
         {
-          "title": "伊总统：伊朗要学中国做好自己的事",
-          "url": "https://www.toutiao.com/trending/7670977056377618495/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "深度探访伊朗遇袭女子学校",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E6%8E%A2%E8%AE%BF%E4%BC%8A%E6%9C%97%E9%81%87%E8%A2%AD%E5%A5%B3%E5%AD%90%E5%AD%A6%E6%A0%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "伊拉克石油部长：伊拉克正与伊朗谈判以允许伊拉克石油出口，但相关安排尚未生效。 新建巴士拉-菲什哈布尔输油管道预计耗资不超过150亿美元。 该管道将包括从哈迪塞到巴尼亚斯的支线，以及泵站和储存设施。",
-          "url": "https://wallstreetcn.com/livenews/3146989",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗媒体发布伊朗最高领袖视频",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%E5%8F%91%E5%B8%83%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E8%A7%86%E9%A2%91",
+          "source": "百度热搜",
           "ranks": [
             6,
-            20,
-            24
+            17,
+            14
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[18时59分 ~ 21时28分]"
+          "time_info": "[19时52分 ~ 22时06分]"
         },
         {
           "title": "据伊拉克国家通讯社：伊拉克石油部长表示，巴格达正与伊朗进行谈判，以允许伊拉克石油出口，但相关安排尚未生效。",
@@ -295,11 +313,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 21时28分]"
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 22时06分]"
         },
         {
           "title": "伊朗外长阿拉格齐：霍尔木兹海峡原有航道分隔方案已失效，需重新划定航线。",
@@ -312,19 +331,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时53分 ~ 20时31分]"
-        },
-        {
-          "title": "伊朗媒体发布伊朗最高领袖视频",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%E5%8F%91%E5%B8%83%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E8%A7%86%E9%A2%91",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时52分 ~ 21时28分]"
         },
         {
           "title": "伊朗革命卫队发言人：霍尔木兹海峡的重新开放取决于美国完全接受伊朗的条件；与伊朗和阿曼之间的谈判无关。",
@@ -348,8 +354,33 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 22时06分]"
+        },
+        {
+          "title": "伊朗外长：伊朗与阿曼就霍尔木兹海峡管理达成协议已非常接近",
+          "url": "https://wallstreetcn.com/livenews/3146996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 22时06分]"
+        },
+        {
+          "title": "据沙特媒体哈达斯：伊朗总统表示，停止或继续战争的决定掌握在伊朗军事领导人手中。",
+          "url": "https://flash.jin10.com/detail/20260808204142320800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时31分 ~ 21时28分]"
+          "time_info": "[21时28分 ~ 22时06分]"
         },
         {
           "title": "伊朗接近与阿曼达成管理海峡协议",
@@ -364,29 +395,6 @@
           "time_info": "[20时31分 ~ 21时28分]"
         },
         {
-          "title": "伊朗外长：伊朗与阿曼就霍尔木兹海峡管理达成协议已非常接近",
-          "url": "https://wallstreetcn.com/livenews/3146996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 21时28分]"
-        },
-        {
-          "title": "据沙特媒体哈达斯：伊朗总统表示，停止或继续战争的决定掌握在伊朗军事领导人手中。",
-          "url": "https://flash.jin10.com/detail/20260808204142320800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
           "title": "以媒称伊朗最高领袖被紧急送医",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%AA%92%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E8%A2%AB%E7%B4%A7%E6%80%A5%E9%80%81%E5%8C%BB%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -396,6 +404,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
+        },
+        {
+          "title": "伊朗：与阿曼“接近”达成协议，但并不意味重开海峡",
+          "url": "https://wallstreetcn.com/livenews/3146999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "伊朗官员称已与阿曼就霍尔木兹海峡通行问题明确总体框架",
@@ -412,7 +431,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "中期选举临近，特朗普连续21场败诉",
@@ -439,8 +458,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时07分 ~ 21时28分]"
+          "appearance_count": 15,
+          "time_info": "[12时07分 ~ 22时06分]"
+        },
+        {
+          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
+          "url": "https://v.ifeng.com/c/8vONreNLVHw",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时02分 ~ 22时06分]"
         },
         {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
@@ -471,18 +502,6 @@
           "time_info": "[10时56分 ~ 17时09分]"
         },
         {
-          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
-          "url": "https://v.ifeng.com/c/8vONreNLVHw",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时02分 ~ 21时28分]"
-        },
-        {
           "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
           "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
           "source": "凤凰网",
@@ -490,8 +509,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时02分 ~ 21时28分]"
+          "appearance_count": 8,
+          "time_info": "[18时02分 ~ 22时06分]"
         },
         {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
@@ -505,15 +524,27 @@
           "time_info": "[09时01分 ~ 10时56分]"
         },
         {
+          "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
+          "url": "https://wallstreetcn.com/livenews/3147021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾",
           "url": "https://flash.jin10.com/detail/20260808205550359800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时06分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-08）",
@@ -542,6 +573,18 @@
           "time_info": "[09时01分 ~ 13时14分]"
         },
         {
+          "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
+          "url": "https://wallstreetcn.com/articles/3778975",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时06分]"
+        },
+        {
           "title": "特朗普谈降息：希望利率下调，但这不完全取决于沃什一人",
           "url": "https://wallstreetcn.com/articles/3778955",
           "source": "华尔街见闻",
@@ -551,6 +594,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时56分 ~ 12时07分]"
+        },
+        {
+          "title": "舒默怒斥特朗普：你在哪个星球",
+          "url": "https://www.toutiao.com/trending/7671480510048452651/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时06分]"
         },
         {
           "title": "加密货币平台Crypto.com与特朗普传媒科技集团将整合合作伙伴关系调整为营销协议。 特朗普媒体与科技集团称，将调整协议方向，面向Truth Social用户群体推广Crypto.com的预测市场业务。 Yorkville American的业务及其现有和未来ETF产品的计划保持不变。 特朗普媒体与科技集团已终止与Crypto.com的业务合并协议，于2026年8月7日生效。 Crypto.com、特朗普媒体、Yorkville America已共同同意不再推进此前宣布的合作关系。",
@@ -575,28 +630,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时14分 ~ 14时04分]"
-        },
-        {
-          "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
-          "url": "https://wallstreetcn.com/articles/3778975",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "舒默怒斥特朗普：你在哪个星球",
-          "url": "https://www.toutiao.com/trending/7671480510048452651/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
         },
         {
           "title": "据CNN：美国总统特朗普将于下周一为达琳·格雷厄姆（已故参议员林赛·格雷厄姆的妹妹）举行电话集会。",
@@ -637,8 +670,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时01分 ~ 21时28分]"
+          "appearance_count": 17,
+          "time_info": "[09时01分 ~ 22时06分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -651,8 +684,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时01分 ~ 21时28分]"
+          "appearance_count": 17,
+          "time_info": "[09时01分 ~ 22时06分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -664,8 +697,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时01分 ~ 21时28分]"
+          "appearance_count": 17,
+          "time_info": "[09时01分 ~ 22时06分]"
         },
         {
           "title": "李大霄谈美股三大指数高开",
@@ -859,17 +892,18 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 21时28分]"
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 22时06分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
@@ -884,6 +918,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时01分 ~ 14时04分]"
+        },
+        {
+          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
+          "url": "https://wallstreetcn.com/articles/3778988",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         }
       ]
     },
@@ -914,11 +959,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 21时28分]"
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 22时06分]"
         }
       ]
     }
