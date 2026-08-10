@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T14:50:08.922082+08:00",
-  "total_titles_processed": 757,
+  "generated_at": "2026-08-10T16:22:52.592040+08:00",
+  "total_titles_processed": 893,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊朗高层变动，最高领袖发出新任命",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时06分 ~ 14时50分]"
+          "appearance_count": 8,
+          "time_info": "[09时06分 ~ 16时22分]"
         },
         {
           "title": "美军基地遭袭，伊朗公布最新卫星对比图",
           "url": "https://news.ifeng.com/c/8vT6dxUIQom",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时06分 ~ 14时50分]"
+          "appearance_count": 8,
+          "time_info": "[09时06分 ~ 16时22分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -36,11 +37,12 @@
           "ranks": [
             25,
             16,
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时06分 ~ 14时50分]"
+          "appearance_count": 8,
+          "time_info": "[09时06分 ~ 16时22分]"
         },
         {
           "title": "伊朗密集更换高层，释放何种信号？",
@@ -50,8 +52,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时49分 ~ 14时50分]"
+          "appearance_count": 3,
+          "time_info": "[14时49分 ~ 16时22分]"
         },
         {
           "title": "伊朗的5个条件，美国是否会照单全收？",
@@ -61,8 +63,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时49分 ~ 14时50分]"
+          "appearance_count": 3,
+          "time_info": "[14时49分 ~ 16时22分]"
         },
         {
           "title": "伊朗议会批准霍尔木兹海峡安全纲要",
@@ -74,6 +76,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "伊朗：伊朗议长加利巴夫和伊朗外长阿拉格奇将在适当时机访问巴基斯坦。",
+          "url": "https://wallstreetcn.com/livenews/3147367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
@@ -133,6 +146,39 @@
           "time_info": "13时04分"
         },
         {
+          "title": "伊朗外交部发言人：伊朗正随时提升自身能力以应对任何事件。",
+          "url": "https://flash.jin10.com/detail/20260810160946434800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "伊朗：与阿曼有关霍尔木兹海峡的协议包含海上服务费。",
+          "url": "https://wallstreetcn.com/livenews/3147358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "伊朗外交部发言人：重新开放海峡需美国结束封锁并予以赔偿。",
+          "url": "https://wallstreetcn.com/livenews/3147356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "战略专家警告：伊朗袭击暴露美军漏洞，美军海外资产面临毁灭风险！",
           "url": "https://flash.jin10.com/detail/20260810081200980800",
           "source": "金十数据",
@@ -142,12 +188,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "伊朗外交部发言人：德黑兰与伊斯兰堡之间的双边关系，特别是在近几个月来，变得越来越重要，这些互访是两国邻邦关系不断发展过程中自然而然的一部分。",
+          "url": "https://flash.jin10.com/detail/20260810160422548800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "伊朗外交部发言人：已收到巴基斯坦对伊朗外长阿拉格齐和伊朗议会议长卡利巴夫的邀请，访问将在适当的时候进行。",
+          "url": "https://flash.jin10.com/detail/20260810160412431800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "伊朗外交部发言人：就此，近日，伊朗工业、科学和内政部长已赴巴基斯坦，就各项专业议题进行了磋商。",
+          "url": "https://flash.jin10.com/detail/20260810160322491800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "伊朗外交部发言人：作为关系密切且不断发展的两个邻国，伊朗与巴基斯坦之间的互访和会晤是完全自然的事情。",
+          "url": "https://flash.jin10.com/detail/20260810160301255800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "与特朗普关联的美石油公司拟在格陵兰岛钻探，岛政府强烈警告",
@@ -158,8 +248,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时06分 ~ 14时50分]"
+          "appearance_count": 8,
+          "time_info": "[09时06分 ~ 16时22分]"
         },
         {
           "title": "特朗普这是此地无银三百两吗？",
@@ -168,11 +258,25 @@
           "ranks": [
             10,
             5,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时06分 ~ 14时50分]"
+          "appearance_count": 8,
+          "time_info": "[09时06分 ~ 16时22分]"
+        },
+        {
+          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
+          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时06分 ~ 16时22分]"
         },
         {
           "title": "特朗普公布新任总统助理人选",
@@ -188,19 +292,6 @@
           "time_info": "[09时06分 ~ 13时04分]"
         },
         {
-          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
-          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时06分 ~ 14时50分]"
-        },
-        {
           "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
           "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
           "source": "凤凰网",
@@ -208,8 +299,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时03分 ~ 14时50分]"
+          "appearance_count": 5,
+          "time_info": "[13时03分 ~ 16时22分]"
         },
         {
           "title": "美国高级国防官员科尔比：北约在美国总统特朗普领导下显著增强，实力远超以往。",
@@ -221,6 +312,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
+        },
+        {
+          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "特朗普宣布威尔·沙夫将出任总统助理兼白宫法律顾问",
@@ -243,6 +345,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "前美国官员：特朗普使美国安全恶化",
+          "url": "https://www.toutiao.com/trending/7671249968112173098/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "特朗普加沙和平计划遭遇重大阻击：内塔尼亚胡拒绝下一阶段安排",
@@ -306,11 +419,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时23分 ~ 14时50分]"
+          "appearance_count": 7,
+          "time_info": "[11时23分 ~ 16时22分]"
         },
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -365,27 +479,20 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "keyword_group": "美债",
+      "match_count": 2,
       "titles": [
         {
-          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
-          "url": "https://wallstreetcn.com/articles/3779038",
-          "source": "华尔街见闻",
+          "title": "巴克莱：日本投资者7月份减持美债 买入欧洲发达市场债券",
+          "url": "https://wallstreetcn.com/livenews/3147365",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时03分 ~ 14时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
         {
           "title": "美债收益率逼近失控？贝森特连续出招，华尔街解读出“救债市”信号",
           "url": "https://flash.jin10.com/detail/20260810102945512800",
@@ -396,6 +503,25 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
+          "url": "https://wallstreetcn.com/articles/3779038",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时03分 ~ 16时22分]"
         }
       ]
     }
