@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T12:48:19.763945+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-08-11T13:49:50.917365+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 12时48分]"
-        },
-        {
-          "title": "伊朗：若乌不赔偿 伊朗就自己动手了",
-          "url": "https://www.toutiao.com/trending/7671598956682723379/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时16分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时06分 ~ 13时49分]"
         },
         {
           "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
@@ -35,6 +24,17 @@
           "source": "凤凰网",
           "ranks": [
             2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时16分 ~ 13时49分]"
+        },
+        {
+          "title": "伊朗：若乌不赔偿 伊朗就自己动手了",
+          "url": "https://www.toutiao.com/trending/7671598956682723379/",
+          "source": "今日头条",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -51,6 +51,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时06分 ~ 11时16分]"
+        },
+        {
+          "title": "伊朗警告乌克兰不赔偿就动手",
+          "url": "https://www.toutiao.com/trending/7671598956682723379/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
         },
         {
           "title": "伊朗最高领袖签署命令：6人任高级军事指挥官",
@@ -75,17 +86,6 @@
           "time_info": "09时06分"
         },
         {
-          "title": "伊朗总统之子反思伊朗国际形象",
-          "url": "https://www.toutiao.com/trending/7671499615899877402/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
           "title": "伊朗更强硬的强硬派来了",
           "url": "https://news.ifeng.com/c/8vUncUovk9A",
           "source": "凤凰网",
@@ -94,8 +94,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时06分 ~ 13时49分]"
+        },
+        {
+          "title": "伊朗总统之子反思伊朗国际形象",
+          "url": "https://www.toutiao.com/trending/7671499615899877402/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 13时49分]"
         },
         {
           "title": "伊朗总统称最高领袖健康状况很好",
@@ -122,6 +134,17 @@
           "time_info": "[11时16分 ~ 12时48分]"
         },
         {
+          "title": "伊朗更强硬的强硬派来了",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9B%B4%E5%BC%BA%E7%A1%AC%E7%9A%84%E5%BC%BA%E7%A1%AC%E6%B4%BE%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 13时49分]"
+        },
+        {
           "title": "伊朗称美以是造成中东地区动荡根源",
           "url": "https://www.toutiao.com/trending/7671798549898657855/",
           "source": "今日头条",
@@ -131,17 +154,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
-        },
-        {
-          "title": "伊朗更强硬的强硬派来了",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9B%B4%E5%BC%BA%E7%A1%AC%E7%9A%84%E5%BC%BA%E7%A1%AC%E6%B4%BE%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
         },
         {
           "title": "伊朗：美国对制裁“病态依赖”",
@@ -169,7 +181,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
@@ -179,8 +191,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时06分 ~ 13时49分]"
         },
         {
           "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
@@ -192,8 +204,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时06分 ~ 13时49分]"
         },
         {
           "title": "特朗普：美军已100%控制霍尔木兹海峡",
@@ -203,8 +215,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时06分 ~ 13时49分]"
         },
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -212,11 +224,24 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时16分 ~ 13时49分]"
+        },
+        {
+          "title": "和平希望又受挫！特朗普称美军已“100%控制”霍尔木兹，并向伊朗索赔",
+          "url": "https://www.cls.cn/detail/2450709",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时16分 ~ 12时48分]"
+          "time_info": "[12时48分 ~ 13时49分]"
         },
         {
           "title": "特朗普发帖称，美国最高法院大法官阿利托已宣布他将再留任一个任期。",
@@ -253,15 +278,15 @@
           "time_info": "09时06分"
         },
         {
-          "title": "和平希望又受挫！特朗普称美军已“100%控制”霍尔木兹，并向伊朗索赔",
-          "url": "https://www.cls.cn/detail/2450709",
-          "source": "财联社热门",
+          "title": "美媒：特朗普上月秘密乘运输机回国",
+          "url": "https://www.toutiao.com/trending/7672053116451389486/",
+          "source": "今日头条",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时48分"
+          "time_info": "13时49分"
         },
         {
           "title": "特朗普称美军已“100%控制”霍尔木兹海峡",
@@ -288,8 +313,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时06分 ~ 13时49分]"
         },
         {
           "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
@@ -299,8 +324,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时06分 ~ 13时49分]"
         },
         {
           "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
@@ -312,8 +337,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时06分 ~ 13时49分]"
         },
         {
           "title": "摩根大通推演CPI剧本，明日数据恐引发美股剧震！",
