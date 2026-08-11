@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T18:25:21.361900+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2026-08-11T19:13:12.062169+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 18时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时06分 ~ 19时13分]"
         },
         {
           "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时16分 ~ 18时25分]"
+          "appearance_count": 10,
+          "time_info": "[11时16分 ~ 19时13分]"
         },
         {
           "title": "伊朗更强硬的强硬派来了",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 18时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时06分 ~ 19时13分]"
         },
         {
           "title": "伊朗：若乌不赔偿 伊朗就自己动手了",
@@ -111,6 +111,17 @@
           "time_info": "16时07分"
         },
         {
+          "title": "卡塔尔：阿曼与伊朗的谈判已进入“高级阶段”",
+          "url": "https://flash.jin10.com/detail/20260811183346473800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
           "title": "伊朗总统之子反思伊朗国际形象",
           "url": "https://www.toutiao.com/trending/7671499615899877402/",
           "source": "今日头条",
@@ -171,6 +182,17 @@
           "time_info": "[11时16分 ~ 12时48分]"
         },
         {
+          "title": "布伦特原油和美国原油回吐部分涨幅，卡塔尔政府发言人表示阿曼与伊朗的谈判已进入高级阶段。",
+          "url": "https://flash.jin10.com/detail/20260811183204331800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
           "title": "伊朗石油部长表示，到9月底将有9500万立方米的天然气恢复进入生产循环。（伊朗官方通讯社Shana）",
           "url": "https://wallstreetcn.com/livenews/3147937",
           "source": "华尔街见闻-快讯",
@@ -191,6 +213,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
+        },
+        {
+          "title": "卡塔尔外交发言人：阿曼与伊朗之间的谈判目前已进入“高级阶段”。",
+          "url": "https://flash.jin10.com/detail/20260811182333920800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
+          "title": "卡塔尔称阿曼与伊朗的会谈已进入深入阶段。（半岛电视台）",
+          "url": "https://wallstreetcn.com/livenews/3148024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "伊朗称美以是造成中东地区动荡根源",
@@ -262,7 +306,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
@@ -272,8 +316,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 18时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时06分 ~ 19时13分]"
         },
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -288,8 +332,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时16分 ~ 18时25分]"
+          "appearance_count": 10,
+          "time_info": "[11时16分 ~ 19时13分]"
         },
         {
           "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
@@ -299,8 +343,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时53分 ~ 18时25分]"
+          "appearance_count": 7,
+          "time_info": "[14时53分 ~ 19时13分]"
         },
         {
           "title": "特朗普：美军已100%控制霍尔木兹海峡",
@@ -310,8 +354,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 18时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时06分 ~ 19时13分]"
         },
         {
           "title": "和平希望又受挫！特朗普称美军已“100%控制”霍尔木兹，并向伊朗索赔",
@@ -339,6 +383,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时06分 ~ 13时49分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-11）",
+          "url": "https://flash.jin10.com/detail/20260811184126216800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "曝特朗普上月秘密乘运输机回国",
@@ -434,8 +489,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 18时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时06分 ~ 19时13分]"
         },
         {
           "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
@@ -487,8 +542,19 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "DeepSeek招土木工程师，科技大厂争锋延伸至传统资源领域",
+          "url": "https://wallstreetcn.com/livenews/3148048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
         {
           "title": "深度求索开设“DeepSeek Harness团队”公众号",
           "url": "https://flash.jin10.com/detail/20260811154106380800",
@@ -535,7 +601,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -554,8 +620,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金价冲上4400美元 黄金股为何跳水",
+          "url": "https://www.toutiao.com/trending/7672685366725316123/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 19时13分]"
+        },
         {
           "title": "金价会涨到多高",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%BC%9A%E6%B6%A8%E5%88%B0%E5%A4%9A%E9%AB%98%23&t=31&band_rank=17&Refer=top",
