@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T17:38:44.290248+08:00",
-  "total_titles_processed": 957,
+  "generated_at": "2026-08-12T18:54:32.861128+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "内塔尼亚胡“反悔”拒绝特朗普加沙方案，美以分歧激化有何后果？",
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时35分 ~ 17时38分]"
+          "appearance_count": 7,
+          "time_info": "[11时35分 ~ 18时54分]"
         },
         {
           "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
@@ -136,11 +137,24 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            9
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时10分 ~ 18时54分]"
+        },
+        {
+          "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时10分 ~ 17时38分]"
+          "time_info": "[17时38分 ~ 18时54分]"
         },
         {
           "title": "美国总统特朗普：在航班变更期间，我遵循了特勤局的指示。",
@@ -165,15 +179,37 @@
           "time_info": "09时13分"
         },
         {
-          "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
-          "source": "澎湃新闻",
+          "title": "特朗普政府将至少花费9亿美元用于白宫翻修。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3148574",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时38分"
+          "time_info": "18时54分"
+        },
+        {
+          "title": "特朗普会在中期选举前抛出政策礼包吗",
+          "url": "https://www.toutiao.com/trending/7673061079413243958/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "前美外交官：特朗普在“挺以色列”形象与对内塔尼亚胡不满间挣扎",
+          "url": "https://flash.jin10.com/detail/20260812180539210800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         }
       ]
     },
@@ -190,8 +226,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时12分 ~ 17时38分]"
+          "appearance_count": 9,
+          "time_info": "[09时12分 ~ 18时54分]"
         },
         {
           "title": "伊朗，密集“换帅”",
@@ -281,7 +317,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
         },
@@ -323,11 +359,12 @@
           "ranks": [
             12,
             11,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时25分 ~ 17时38分]"
+          "appearance_count": 6,
+          "time_info": "[13时25分 ~ 18时54分]"
         },
         {
           "title": "梁文锋跻身全球最富有50人之列",
@@ -368,7 +405,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股收盘：美伊僵局施压三大指数续跌 存储&光通信概念整体反弹",
@@ -414,6 +451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
+        },
+        {
+          "title": "美股期指短线拉升，纳斯达克100指数期货上涨0.7%。 美国国债上涨，美国10年期国债收益率下行3个基点至4.66%。",
+          "url": "https://wallstreetcn.com/livenews/3148557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         }
       ]
     },
@@ -453,6 +501,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【但斌美股持仓“大换血”】具体操作上，东方港湾海外基金清仓了苹果、三倍做多纳斯达克100ETF、特斯拉、CIRCLE INTERNET GROUP INC等6只标的。同时，其新买入英特尔、闪迪、超威半导体、迈威尔科技、Arm Holdings plc ADR、博通、Lumentum等7只标的，上述标的均为AI硬件相关公司。从整体的持仓情况来看，东方港湾美股第一大重仓股仍为谷歌-C，持仓占其组合的比重约为23%，相比一季度有所减仓。同时，东方港湾还清仓了谷歌-A及二倍做多谷歌ETF。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3148567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Pimco认为美联储公信力无虞 当前美债收益率具有吸引力",
+          "url": "https://wallstreetcn.com/livenews/3148572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         }
       ]
     }
