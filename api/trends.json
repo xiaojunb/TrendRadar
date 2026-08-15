@@ -1,22 +1,45 @@
 {
-  "generated_at": "2026-08-15T19:43:18.866576+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2026-08-15T21:07:18.357787+08:00",
+  "total_titles_processed": 870,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
-          "title": "据伊朗媒体Fars News：伊朗军事官员称，三名伊朗空军人员在三月份针对美国基地的行动后失踪，目前被拘留在卡塔尔。",
-          "url": "https://flash.jin10.com/detail/20260815193635563800",
-          "source": "金十数据",
+          "title": "伊朗外长称无意延长停火协议",
+          "url": "https://news.ifeng.com/c/8vc12jNNZER",
+          "source": "凤凰网",
           "ranks": [
+            6,
             2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时48分 ~ 21时07分]"
+        },
+        {
+          "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://news.ifeng.com/c/8vcIckuO3Db",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时43分"
+          "time_info": "21时07分"
+        },
+        {
+          "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://flash.jin10.com/detail/20260815205257469800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "以媒：伊朗导弹库存恢复速度令以色列方面感到震惊",
@@ -28,6 +51,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗军事官员称，三名伊朗空军人员在三月份针对美国基地的行动后失踪，目前被拘留在卡塔尔。",
+          "url": "https://flash.jin10.com/detail/20260815193635563800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 21时07分]"
         },
         {
           "title": "伊朗外长说无意延长停火协议",
@@ -42,17 +77,6 @@
           "time_info": "[17时49分 ~ 19时43分]"
         },
         {
-          "title": "伊朗外长称无意延长停火协议",
-          "url": "https://news.ifeng.com/c/8vc12jNNZER",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时48分 ~ 19时43分]"
-        },
-        {
           "title": "据伊朗Press TV：以色列对黎巴嫩南部的空袭造成七人死亡，三人受伤。",
           "url": "https://flash.jin10.com/detail/20260815170114115800",
           "source": "金十数据",
@@ -63,6 +87,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时49分 ~ 19时43分]"
+        },
+        {
+          "title": "据伊朗媒体Fars News：班达尔阿巴斯国际机场自今日起恢复航班运营。根据公布的航班计划，未来几天该机场将恢复飞往德黑兰、马什哈德和伊斯法罕的航班。",
+          "url": "https://flash.jin10.com/detail/20260815190318360800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 21时07分]"
         },
         {
           "title": "伊朗称霍尔木兹海峡归属无可争议",
@@ -77,6 +113,90 @@
           "time_info": "[17时49分 ~ 19时43分]"
         },
         {
+          "title": "伊朗称已与阿曼就霍尔木兹海峡航运路线图达成一致 谈判仍在进行中",
+          "url": "https://wallstreetcn.com/livenews/3149978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 21时07分]"
+        },
+        {
+          "title": "伊朗与塔吉克斯坦签署长期石油合作协议",
+          "url": "https://flash.jin10.com/detail/20260815184435817800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 21时07分]"
+        },
+        {
+          "title": "阿联酋外交部：阿联酋方面强调，必须确保伊朗全面承诺停止一切敌对行动，并完全无条件地重新开放霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260815183932581800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 21时07分]"
+        },
+        {
+          "title": "阿联酋外交部：伊朗的攻击行为对地区及人民的稳定以及全球能源安全构成直接威胁。",
+          "url": "https://flash.jin10.com/detail/20260815183919951800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 21时07分]"
+        },
+        {
+          "title": "阿联酋外交部：对伊朗针对阿布扎比国家石油公司（ADNOC）船只在霍尔木兹海峡过境时的攻击表示谴责。",
+          "url": "https://flash.jin10.com/detail/20260815183851953800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 21时07分]"
+        },
+        {
+          "title": "伊朗与塔吉克斯坦达成长期石油合作协议",
+          "url": "https://wallstreetcn.com/livenews/3149974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 21时07分]"
+        },
+        {
+          "title": "阿联酋外交部：伊朗革命卫队将商业航行作为施压或经济勒索工具，其在霍尔木兹海峡的相关行为是海盗行为。",
+          "url": "https://flash.jin10.com/detail/20260815183820076800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 21时07分]"
+        },
+        {
           "title": "伊朗外交部官员：美国炒作霍尔木兹海峡是被动回应",
           "url": "https://flash.jin10.com/detail/20260815164332870800",
           "source": "金十数据",
@@ -89,103 +209,28 @@
           "time_info": "[17时49分 ~ 19时43分]"
         },
         {
-          "title": "据伊朗媒体Fars News：班达尔阿巴斯国际机场自今日起恢复航班运营。根据公布的航班计划，未来几天该机场将恢复飞往德黑兰、马什哈德和伊斯法罕的航班。",
-          "url": "https://flash.jin10.com/detail/20260815190318360800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "伊朗称已与阿曼就霍尔木兹海峡航运路线图达成一致 谈判仍在进行中",
-          "url": "https://wallstreetcn.com/livenews/3149978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "伊朗与塔吉克斯坦签署长期石油合作协议",
-          "url": "https://flash.jin10.com/detail/20260815184435817800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "阿联酋外交部：阿联酋方面强调，必须确保伊朗全面承诺停止一切敌对行动，并完全无条件地重新开放霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260815183932581800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "阿联酋外交部：伊朗的攻击行为对地区及人民的稳定以及全球能源安全构成直接威胁。",
-          "url": "https://flash.jin10.com/detail/20260815183919951800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "阿联酋外交部：对伊朗针对阿布扎比国家石油公司（ADNOC）船只在霍尔木兹海峡过境时的攻击表示谴责。",
-          "url": "https://flash.jin10.com/detail/20260815183851953800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "伊朗与塔吉克斯坦达成长期石油合作协议",
-          "url": "https://wallstreetcn.com/livenews/3149974",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "阿联酋外交部：伊朗革命卫队将商业航行作为施压或经济勒索工具，其在霍尔木兹海峡的相关行为是海盗行为。",
-          "url": "https://flash.jin10.com/detail/20260815183820076800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
           "title": "伊朗情报部称发现法国“白蚁计划”，企图渗透和干涉伊朗内政",
           "url": "https://flash.jin10.com/detail/20260815181033021800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 21时07分]"
+        },
+        {
+          "title": "据媒体报道，伊朗和塔吉克斯坦正在就向塔吉克斯坦炼油厂供应伊朗过剩石油产品和原油一事进行磋商。",
+          "url": "https://wallstreetcn.com/livenews/3149970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 21时07分]"
         },
         {
           "title": "伊朗外长说无意延长停火协议",
@@ -197,17 +242,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
-        },
-        {
-          "title": "据媒体报道，伊朗和塔吉克斯坦正在就向塔吉克斯坦炼油厂供应伊朗过剩石油产品和原油一事进行磋商。",
-          "url": "https://wallstreetcn.com/livenews/3149970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
         },
         {
           "title": "伊朗革命卫队：伊朗让“世界上武装最强大的军队”屈服",
@@ -280,8 +314,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时45分 ~ 19时43分]"
+          "appearance_count": 8,
+          "time_info": "[08时45分 ~ 21时07分]"
         },
         {
           "title": "特朗普称将宣布霍尔木兹为“美国领土”",
@@ -303,8 +337,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时11分 ~ 19时43分]"
+          "appearance_count": 6,
+          "time_info": "[11时11分 ~ 21时07分]"
+        },
+        {
+          "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
+          "url": "https://wallstreetcn.com/articles/3779487",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时48分 ~ 21时07分]"
         },
         {
           "title": "美国总统特朗普周六日程一览",
@@ -317,18 +364,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时46分 ~ 11时12分]"
-        },
-        {
-          "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
-          "url": "https://wallstreetcn.com/articles/3779487",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时48分 ~ 19时43分]"
         },
         {
           "title": "事关特朗普与马斯克，美媒最新爆料",
@@ -377,6 +412,30 @@
           "time_info": "[08时46分 ~ 11时12分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-15）",
+          "url": "https://flash.jin10.com/detail/20260815175959913800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 21时07分]"
+        },
+        {
+          "title": "特朗普：击败伊朗后，将宣布霍尔木兹海峡为美国领土",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33787320",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 21时07分]"
+        },
+        {
           "title": "特朗普如何将马斯克重新拉回身边",
           "url": "https://www.toutiao.com/trending/7674001293995675190/",
           "source": "今日头条",
@@ -408,28 +467,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-15）",
-          "url": "https://flash.jin10.com/detail/20260815175959913800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "特朗普：击败伊朗后，将宣布霍尔木兹海峡为美国领土",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33787320",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
         },
         {
           "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
@@ -481,8 +518,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时45分 ~ 19时43分]"
+          "appearance_count": 8,
+          "time_info": "[08时45分 ~ 21时07分]"
         },
         {
           "title": "DeepSeek-V4 Pro 跑分飙升",
@@ -524,17 +561,18 @@
           "url": "https://www.zhihu.com/question/2071773348753945432",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时48分 ~ 19时43分]"
+          "appearance_count": 4,
+          "time_info": "[17时48分 ~ 21时07分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "据华尔街日报：消息人士称，英伟达(NVDA.O)与OpenAI已修订在俄亥俄州10千兆瓦数据中心项目的交易提议结构。英伟达将保证5吉瓦的项目，将担保金额从2500亿美元降低至不足1200亿美元。",
@@ -558,6 +596,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时45分 ~ 08时46分]"
+        },
+        {
+          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
+          "url": "https://www.cls.cn/detail/2455147",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "据悉英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
@@ -623,8 +672,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时45分 ~ 19时43分]"
+          "appearance_count": 8,
+          "time_info": "[08时45分 ~ 21时07分]"
         },
         {
           "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
@@ -662,8 +711,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 17时49分]"
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 21时07分]"
         }
       ]
     },
@@ -678,11 +727,12 @@
           "ranks": [
             7,
             3,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时45分 ~ 19时43分]"
+          "appearance_count": 8,
+          "time_info": "[08时45分 ~ 21时07分]"
         }
       ]
     }
