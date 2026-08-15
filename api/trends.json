@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T11:12:02.908946+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-08-15T17:49:12.294508+08:00",
+  "total_titles_processed": 672,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普称将宣布霍尔木兹为“美国领土”",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时45分 ~ 08时46分]"
+        },
+        {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
+          "url": "https://www.cls.cn/detail/2455050",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时45分 ~ 17时49分]"
         },
         {
           "title": "美国总统特朗普周六日程一览",
@@ -31,16 +43,16 @@
           "time_info": "[08时46分 ~ 11时12分]"
         },
         {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
-          "url": "https://www.cls.cn/detail/2455050",
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
+          "url": "https://www.cls.cn/detail/2455058",
           "source": "财联社热门",
           "ranks": [
-            12,
-            9
+            11,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[08时45分 ~ 11时12分]"
+          "time_info": "[11时11分 ~ 17时49分]"
         },
         {
           "title": "事关特朗普与马斯克，美媒最新爆料",
@@ -63,6 +75,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时11分 ~ 11时12分]"
+        },
+        {
+          "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
+          "url": "https://wallstreetcn.com/articles/3779487",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 17时49分]"
         },
         {
           "title": "特朗普证实部署中东的“林肯”号航母将被替换",
@@ -89,17 +112,6 @@
           "time_info": "[08时46分 ~ 11时12分]"
         },
         {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
-          "url": "https://www.cls.cn/detail/2455058",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时11分 ~ 11时12分]"
-        },
-        {
           "title": "特朗普如何将马斯克重新拉回身边",
           "url": "https://www.toutiao.com/trending/7674001293995675190/",
           "source": "今日头条",
@@ -117,7 +129,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
         },
@@ -128,7 +140,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
         },
@@ -153,12 +165,161 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
+        },
+        {
+          "title": "伊朗回应特朗普：霍尔木兹海峡开放与关闭由伊朗掌控",
+          "url": "https://wallstreetcn.com/livenews/3149935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "伊朗外长说无意延长停火协议",
+          "url": "https://wallstreetcn.com/livenews/3149962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
+          "title": "以媒：伊朗导弹库存恢复速度令以色列方面感到震惊",
+          "url": "https://flash.jin10.com/detail/20260815100007836800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
+          "title": "伊朗外长称无意延长停火协议",
+          "url": "https://news.ifeng.com/c/8vc12jNNZER",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 17时49分]"
+        },
+        {
+          "title": "据伊朗Press TV：以色列对黎巴嫩南部的空袭造成七人死亡，三人受伤。",
+          "url": "https://flash.jin10.com/detail/20260815170114115800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
+          "title": "伊朗称霍尔木兹海峡归属无可争议",
+          "url": "https://wallstreetcn.com/livenews/3149959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
+          "title": "伊朗外交部官员：美国炒作霍尔木兹海峡是被动回应",
+          "url": "https://flash.jin10.com/detail/20260815164332870800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
+          "title": "伊朗外长说无意延长停火协议",
+          "url": "https://flash.jin10.com/detail/20260815163716667800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
+          "title": "伊朗革命卫队：伊朗让“世界上武装最强大的军队”屈服",
+          "url": "https://flash.jin10.com/detail/20260815155839561800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
+          "title": "伊朗石油部长会见塔吉克斯坦交通部长及能源与水资源部长",
+          "url": "https://flash.jin10.com/detail/20260815152541134800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗外长阿拉格齐表示，尚未决定是否恢复与美国谈判。卡塔尔和巴基斯坦作为协调方正在与伊朗交换信息，但这并不意味着美伊已进入谈判。",
+          "url": "https://flash.jin10.com/detail/20260815050929790800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
+          "title": "伊朗通讯部长：在战争期间超过500个电信站点遭到袭击，一些设施在修复并恢复服务后再次被击中。",
+          "url": "https://flash.jin10.com/detail/20260815150901030800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
+          "title": "伊外长：伊朗目前没有决定是否与美国重新开始谈判",
+          "url": "https://wallstreetcn.com/livenews/3149942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek-V4 Pro 跑分飙升",
@@ -188,11 +349,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时45分 ~ 11时12分]"
+          "appearance_count": 6,
+          "time_info": "[08时45分 ~ 17时49分]"
         },
         {
           "title": "DeepSeek Harness实测",
@@ -200,11 +362,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时45分 ~ 11时12分]"
+          "appearance_count": 6,
+          "time_info": "[08时45分 ~ 17时49分]"
+        },
+        {
+          "title": "如何看待 DeepSeek-V4 Pro 正式版疑似过拟合 DeepSeek Harness 的极简模式？",
+          "url": "https://www.zhihu.com/question/2071773348753945432",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 17时49分]"
         }
       ]
     },
@@ -242,7 +416,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
         }
@@ -299,8 +473,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时45分 ~ 11时12分]"
+          "appearance_count": 6,
+          "time_info": "[08时45分 ~ 17时49分]"
         },
         {
           "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
@@ -327,30 +501,19 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 2,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "以媒：伊朗导弹库存恢复速度令以色列方面感到震惊",
-          "url": "https://flash.jin10.com/detail/20260815100007836800",
-          "source": "金十数据",
+          "title": "阿贝尔掌舵半年伯克希尔大举增持谷歌、A类股晋升前五重仓，Q2加码航空和房产股",
+          "url": "https://wallstreetcn.com/articles/3779490",
+          "source": "华尔街见闻",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时12分"
-        },
-        {
-          "title": "据伊朗学生通讯社：伊朗外长阿拉格齐表示，尚未决定是否恢复与美国谈判。卡塔尔和巴基斯坦作为协调方正在与伊朗交换信息，但这并不意味着美伊已进入谈判。",
-          "url": "https://flash.jin10.com/detail/20260815050929790800",
-          "source": "金十数据",
-          "ranks": [
-            22
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时46分"
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 17时49分]"
         }
       ]
     },
@@ -364,11 +527,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时45分 ~ 11时12分]"
+          "appearance_count": 6,
+          "time_info": "[08时45分 ~ 17时49分]"
         }
       ]
     }
