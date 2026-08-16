@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T19:13:39.139730+08:00",
-  "total_titles_processed": 953,
+  "generated_at": "2026-08-16T19:43:27.497615+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时58分 ~ 19时13分]"
+          "appearance_count": 14,
+          "time_info": "[12时58分 ~ 19时43分]"
         },
         {
           "title": "伊朗防空专家：战争爆发至今，我们从没引进国外的武器或系统",
@@ -58,8 +58,19 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时59分 ~ 19时13分]"
+          "appearance_count": 10,
+          "time_info": "[12时59分 ~ 19时43分]"
+        },
+        {
+          "title": "伊朗高层换血，革命卫队更强势了？",
+          "url": "https://news.ifeng.com/c/8vdiSOXc8hN",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时50分 ~ 19时43分]"
         },
         {
           "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -72,19 +83,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时48分 ~ 19时13分]"
-        },
-        {
-          "title": "伊朗高层换血，革命卫队更强势了？",
-          "url": "https://news.ifeng.com/c/8vdiSOXc8hN",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时50分 ~ 19时13分]"
+          "appearance_count": 14,
+          "time_info": "[08时48分 ~ 19时43分]"
         },
         {
           "title": "伊朗外长称无意延长停火协议",
@@ -109,8 +109,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时08分 ~ 19时13分]"
+          "appearance_count": 7,
+          "time_info": "[15时08分 ~ 19时43分]"
+        },
+        {
+          "title": "伊朗陆军总司令：俘获或击毙美军可获3万美元悬赏",
+          "url": "https://flash.jin10.com/detail/20260816190924554800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "伊朗称3名飞行员遭卡塔尔扣押 卡塔尔否认",
@@ -152,6 +163,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时51分 ~ 15时53分]"
+        },
+        {
+          "title": "伊朗革命卫队：科威特在关于四名被拘留的伊朗人命运方面向德黑兰隐瞒了信息。",
+          "url": "https://flash.jin10.com/detail/20260816174041507800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时50分 ~ 19时43分]"
         },
         {
           "title": "伊朗战事延宕 美航母部署时长恐将再刷纪录",
@@ -197,19 +222,6 @@
           "time_info": "[15时08分 ~ 16时55分]"
         },
         {
-          "title": "伊朗革命卫队：科威特在关于四名被拘留的伊朗人命运方面向德黑兰隐瞒了信息。",
-          "url": "https://flash.jin10.com/detail/20260816174041507800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时50分 ~ 19时13分]"
-        },
-        {
           "title": "伊朗商会会长：伊朗经济已走出战争冲击",
           "url": "https://flash.jin10.com/detail/20260816161606856800",
           "source": "金十数据",
@@ -221,6 +233,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时55分 ~ 18时47分]"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗梅赫兰市市长称，几分钟前在梅赫兰听到的爆炸声是由于在伊拉克境内销毁战争遗留弹药的操作所致。",
+          "url": "https://flash.jin10.com/detail/20260816165308429800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            21,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时50分 ~ 19时43分]"
         },
         {
           "title": "伊朗武装部队总参谋部：在彻底击败敌人之前，我们绝不会退缩",
@@ -247,19 +273,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时53分 ~ 17时50分]"
-        },
-        {
-          "title": "据伊朗媒体Fars News：伊朗梅赫兰市市长称，几分钟前在梅赫兰听到的爆炸声是由于在伊拉克境内销毁战争遗留弹药的操作所致。",
-          "url": "https://flash.jin10.com/detail/20260816165308429800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时50分 ~ 19时13分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗军方失踪人员负责人表示，卡塔尔必须允许伊朗空军的调查团进入该国。",
@@ -333,8 +346,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时58分 ~ 19时13分]"
+          "appearance_count": 14,
+          "time_info": "[12时58分 ~ 19时43分]"
         },
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
@@ -346,11 +359,12 @@
             6,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时06分 ~ 19时13分]"
+          "appearance_count": 16,
+          "time_info": "[12时06分 ~ 19时43分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
@@ -361,8 +375,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时48分 ~ 19时13分]"
+          "appearance_count": 18,
+          "time_info": "[08时48分 ~ 19时43分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
@@ -376,18 +390,6 @@
           "time_info": "[14时25分 ~ 19时13分]"
         },
         {
-          "title": "美伊谈判内幕遭美媒曝光 特朗普政府曾绕过伊朗谈判代表接触革命卫队",
-          "url": "https://flash.jin10.com/detail/20260816182514064800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 19时13分]"
-        },
-        {
           "title": "特朗普誓言美航母重回锅气时代",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AA%93%E8%A8%80%E7%BE%8E%E8%88%AA%E6%AF%8D%E9%87%8D%E5%9B%9E%E9%94%85%E6%B0%94%E6%97%B6%E4%BB%A3",
           "source": "bilibili 热搜",
@@ -398,6 +400,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时48分 ~ 12时07分]"
+        },
+        {
+          "title": "美伊谈判内幕遭美媒曝光 特朗普政府曾绕过伊朗谈判代表接触革命卫队",
+          "url": "https://flash.jin10.com/detail/20260816182514064800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时47分 ~ 19时43分]"
         },
         {
           "title": "民调：大多数美国选民认为，在特朗普领导下生活状况变得更糟",
@@ -430,6 +445,32 @@
           "time_info": "[13时52分 ~ 16时55分]"
         },
         {
+          "title": "特朗普再促参议院通过全年采用夏令时法案",
+          "url": "https://wallstreetcn.com/livenews/3150053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时47分 ~ 19时43分]"
+        },
+        {
+          "title": "据沙特媒体哈达斯（Alhadath）：消息人士称，特朗普特使库什纳将与哈马斯代表会面，届时将有埃及、土耳其和卡塔尔的调解人出席，库什纳与哈马斯的会晤旨在防止加沙协议的崩溃。",
+          "url": "https://flash.jin10.com/detail/20260816172332854800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时50分 ~ 19时43分]"
+        },
+        {
           "title": "美国总统特朗普：参议院必须尽快投票通过《不再改变时钟法案》。白天多些阳光总是好的（还能打击犯罪！），但更重要的，别再每年两次荒唐地来回拨时钟和手表了，又混乱又麻烦。赶紧把它搞定！",
           "url": "https://flash.jin10.com/detail/20260816102212922800",
           "source": "金十数据",
@@ -445,41 +486,17 @@
           "time_info": "[11时26分 ~ 14时25分]"
         },
         {
-          "title": "特朗普再促参议院通过全年采用夏令时法案",
-          "url": "https://wallstreetcn.com/livenews/3150053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 19时13分]"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-16）",
           "url": "https://flash.jin10.com/detail/20260816180839464800",
           "source": "金十数据",
           "ranks": [
             4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 19时13分]"
-        },
-        {
-          "title": "据沙特媒体哈达斯（Alhadath）：消息人士称，特朗普特使库什纳将与哈马斯代表会面，届时将有埃及、土耳其和卡塔尔的调解人出席，库什纳与哈马斯的会晤旨在防止加沙协议的崩溃。",
-          "url": "https://flash.jin10.com/detail/20260816172332854800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            15,
-            18
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时50分 ~ 19时13分]"
+          "time_info": "[18时47分 ~ 19时43分]"
         },
         {
           "title": "特朗普称林肯号部署时间不够长",
@@ -580,8 +597,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时48分 ~ 19时13分]"
+          "appearance_count": 18,
+          "time_info": "[08时48分 ~ 19时43分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -595,8 +612,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时26分 ~ 19时13分]"
+          "appearance_count": 17,
+          "time_info": "[11时26分 ~ 19时43分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -609,8 +626,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时51分 ~ 19时13分]"
+          "appearance_count": 12,
+          "time_info": "[13时51分 ~ 19时43分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -663,8 +680,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时07分 ~ 19时13分]"
+          "appearance_count": 11,
+          "time_info": "[12时07分 ~ 19时43分]"
         },
         {
           "title": "DeepSeek-V4-Pro-0813 已发布，体验下来怎么样？",
@@ -723,8 +740,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时59分 ~ 19时13分]"
+          "appearance_count": 10,
+          "time_info": "[12时59分 ~ 19时43分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -736,8 +753,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时08分 ~ 19时13分]"
+          "appearance_count": 9,
+          "time_info": "[15时08分 ~ 19时43分]"
+        },
+        {
+          "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
+          "url": "https://wallstreetcn.com/articles/3779522",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时55分 ~ 19时43分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -753,17 +781,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时59分 ~ 15时53分]"
-        },
-        {
-          "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
-          "url": "https://wallstreetcn.com/articles/3779522",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时55分 ~ 19时13分]"
         }
       ]
     },
@@ -780,8 +797,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时48分 ~ 19时13分]"
+          "appearance_count": 18,
+          "time_info": "[08时48分 ~ 19时43分]"
         },
         {
           "title": "高瓴旗下HHLR披露最新美股持仓 二季度增持英伟达",
